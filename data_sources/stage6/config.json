@@ -1,0 +1,12 @@
+{
+  "stage": 6,
+  "input_snapshot": "3380cf3ee94809d4dae3fe92",
+  "input_database_sha256": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+  "training_seasons": [2023, 2024],
+  "test_seasons": [2025],
+  "context_alphas": [25, 100, 400, 1600],
+  "player_weights": [0, 0.25, 0.5],
+  "kernel_alphas": [1, 10, 100],
+  "seed": 626,
+  "bootstrap_repetitions": 1000
+}

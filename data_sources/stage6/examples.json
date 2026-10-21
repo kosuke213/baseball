@@ -1,0 +1,147 @@
+[
+  {
+    "features": {
+      "outs": 0,
+      "bases": 0,
+      "batter_hand": "L",
+      "pitcher_hand": "R",
+      "inning": 1,
+      "batting_score_diff": 0,
+      "half": 0
+    },
+    "training_context_n": 3132,
+    "pa_probabilities": {
+      "single": 0.13455299132515539,
+      "double": 0.04199128083270839,
+      "triple": 0.004816142053544612,
+      "home_run": 0.03315211008003932,
+      "sacrifice_bunt": 0.0,
+      "sacrifice_fly": 0.0,
+      "hit_by_pitch": 0.010792190129243697,
+      "walk": 0.08293663123852812,
+      "strikeout": 0.2348250664391646,
+      "interference": 0.0004312789909929868,
+      "reached_on_error": 0.00570978606822784,
+      "fielders_choice": 0.001892060317133011,
+      "other_out": 0.4488997781152062,
+      "other_pa": 6.844100558011849e-07
+    },
+    "expected_step_runs": 0.033606660085068345
+  },
+  {
+    "features": {
+      "outs": 0,
+      "bases": 0,
+      "batter_hand": "R",
+      "pitcher_hand": "R",
+      "inning": 1,
+      "batting_score_diff": 0,
+      "half": 0
+    },
+    "training_context_n": 3118,
+    "pa_probabilities": {
+      "single": 0.1467051369767764,
+      "double": 0.04399045928136797,
+      "triple": 0.004661579812080899,
+      "home_run": 0.029217914343479544,
+      "sacrifice_bunt": 0.0,
+      "sacrifice_fly": 0.0,
+      "hit_by_pitch": 0.010990037025179037,
+      "walk": 0.07214409002138565,
+      "strikeout": 0.22708024516241737,
+      "interference": 0.0007509053549930279,
+      "reached_on_error": 0.007967911667706775,
+      "fielders_choice": 0.0018971776136858067,
+      "other_out": 0.45459385832981947,
+      "other_pa": 6.844111080559771e-07
+    },
+    "expected_step_runs": 0.029672634476130094
+  },
+  {
+    "features": {
+      "outs": 1,
+      "bases": 1,
+      "batter_hand": "L",
+      "pitcher_hand": "R",
+      "inning": 5,
+      "batting_score_diff": 0,
+      "half": 0
+    },
+    "training_context_n": 193,
+    "pa_probabilities": {
+      "single": 0.14748558623275226,
+      "double": 0.03815533639458576,
+      "triple": 0.0022005618405251995,
+      "home_run": 0.028815620626931545,
+      "sacrifice_bunt": 0.0012989677889384706,
+      "sacrifice_fly": 0.003771035988219608,
+      "hit_by_pitch": 0.013068557787912875,
+      "walk": 0.08420459858615177,
+      "strikeout": 0.21551195670800138,
+      "interference": 0.0003111315505279665,
+      "reached_on_error": 0.0032531731376007275,
+      "fielders_choice": 0.002044589388526645,
+      "other_out": 0.45987820257265477,
+      "other_pa": 6.813966710910367e-07
+    },
+    "expected_step_runs": 0.08271506054886736
+  },
+  {
+    "features": {
+      "outs": 2,
+      "bases": 7,
+      "batter_hand": "B",
+      "pitcher_hand": "L",
+      "inning": 9,
+      "batting_score_diff": -3,
+      "half": 0
+    },
+    "training_context_n": 5,
+    "pa_probabilities": {
+      "single": 0.1354125013076062,
+      "double": 0.041248071325001606,
+      "triple": 0.0030087832186244745,
+      "home_run": 0.04531480171882935,
+      "sacrifice_bunt": 0.0,
+      "sacrifice_fly": 0.0,
+      "hit_by_pitch": 0.0091278167340015,
+      "walk": 0.0772453045649444,
+      "strikeout": 0.2162002399403586,
+      "interference": 0.00035050628138009684,
+      "reached_on_error": 0.006263374839738663,
+      "fielders_choice": 0.003662437618632454,
+      "other_out": 0.4621654694882525,
+      "other_pa": 6.929626302058443e-07
+    },
+    "expected_step_runs": 0.6591016883412009
+  },
+  {
+    "features": {
+      "outs": 0,
+      "bases": 2,
+      "batter_hand": "R",
+      "pitcher_hand": "L",
+      "inning": 10,
+      "batting_score_diff": 0,
+      "half": 0
+    },
+    "training_context_n": 79,
+    "pa_probabilities": {
+      "single": 0.14570125248705196,
+      "double": 0.06611076133286609,
+      "triple": 0.0023343733142579806,
+      "home_run": 0.019317078068658507,
+      "sacrifice_bunt": 0.011110407444684356,
+      "sacrifice_fly": 0.004262089194981594,
+      "hit_by_pitch": 0.01640602947570358,
+      "walk": 0.07615710598000958,
+      "strikeout": 0.22673332443628208,
+      "interference": 0.00031774721182591586,
+      "reached_on_error": 0.003801448765144095,
+      "fielders_choice": 0.007137901914994584,
+      "other_out": 0.4206097986578362,
+      "other_pa": 6.817157035229008e-07
+    },
+    "expected_step_runs": 0.16882439232558114
+  }
+]

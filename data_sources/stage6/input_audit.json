@@ -1,0 +1,247 @@
+{
+  "input_database_sha256": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+  "raw_artifacts": [
+    {
+      "bytes": 7498178,
+      "content_type": "application/zip",
+      "etag": "\"7269c2-658a04015d479\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2023plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2023",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "b00170cde17f3d396d09f940bc98f9fad973d494686479bc78fccf96bbc51e6e",
+      "retrieved_at": "2026-10-21T11:49:19.150975+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+      "upstream_version": "2023 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2023plays.zip"
+    },
+    {
+      "bytes": 7446849,
+      "content_type": "application/zip",
+      "etag": "\"71a141-658a04019dbc5\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2024plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2024",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "d517018296cec373befb1733e952e14a77959691700989319a35ef851355d396",
+      "retrieved_at": "2026-10-21T11:29:49.774265+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+      "upstream_version": "2024 official parsed plays; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2024plays.zip"
+    },
+    {
+      "bytes": 7496795,
+      "content_type": "application/zip",
+      "etag": "\"72645b-658a0402ae323\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2025plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2025",
+      "last_modified": "Sun, 09 Aug 2026 17:05:54 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "3692ecb325bc771d7a5e455004286424dbd83acd5fab1367d5a1afa03d90b426",
+      "retrieved_at": "2026-10-21T11:49:28.485418+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "ea7f4be3464825b332ed6f8c19e15310858458ea9eddf3e91a954e5b47f69d73",
+      "upstream_version": "2025 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2025plays.zip"
+    }
+  ],
+  "raw_nonselected_rows": 10567,
+  "non_play_rows": 1884,
+  "outcome_counts": {
+    "double": 23744,
+    "fielders_choice": 2093,
+    "hit_by_pitch": 6060,
+    "home_run": 16971,
+    "interference": 284,
+    "other_out": 242005,
+    "reached_on_error": 3186,
+    "sacrifice_bunt": 1441,
+    "sacrifice_fly": 3798,
+    "single": 78048,
+    "strikeout": 123685,
+    "triple": 2037,
+    "walk": 46127
+  },
+  "input_tables": {
+    "analysis_plays": "CREATE VIEW analysis_plays AS\n SELECT p.*,b.person_id AS batter_person_id,t.person_id AS pitcher_person_id,\n b.status AS batter_match_status,t.status AS pitcher_match_status\n FROM plays p JOIN game_checks q ON q.game_id=p.game_id AND q.status='pass'\n LEFT JOIN player_matches b ON b.retrosheet_id=p.batter_retro_id\n LEFT JOIN player_matches t ON t.retrosheet_id=p.pitcher_retro_id\n WHERE p.pbp_type='full'",
+    "artifacts": "CREATE TABLE artifacts (\n artifact_id TEXT PRIMARY KEY, sha256 TEXT NOT NULL, byte_count INTEGER NOT NULL CHECK(byte_count>0),\n metadata_json TEXT NOT NULL\n)",
+    "excluded_game_groups": "CREATE TABLE excluded_game_groups (\n artifact_id TEXT NOT NULL REFERENCES artifacts, source_game_id TEXT NOT NULL,\n game_type TEXT NOT NULL, reason TEXT NOT NULL, row_count INTEGER NOT NULL,\n PRIMARY KEY(artifact_id,source_game_id)\n)",
+    "game_checks": "CREATE TABLE game_checks (\n game_id TEXT PRIMARY KEY REFERENCES games, status TEXT NOT NULL CHECK(status IN ('pass','review_required','missing_plays')),\n play_rows INTEGER NOT NULL, counters_json TEXT NOT NULL, failures_json TEXT NOT NULL\n)",
+    "game_results": "CREATE VIEW game_results AS\n SELECT game_id,season,start_date,game_number,visiting_team_id,home_team_id,\n visiting_runs,home_runs,outs,park_id,attendance,duration_minutes FROM games",
+    "game_team_stats": "CREATE TABLE game_team_stats (\n game_id TEXT NOT NULL REFERENCES games, side INTEGER NOT NULL CHECK(side IN (0,1)),\n team_id TEXT NOT NULL REFERENCES teams,\n at_bats INTEGER, hits INTEGER, doubles INTEGER, triples INTEGER, home_runs INTEGER,\n walks INTEGER, strikeouts INTEGER, PRIMARY KEY(game_id,side)\n)",
+    "games": "CREATE TABLE games (\n game_id TEXT PRIMARY KEY, source_game_id TEXT NOT NULL UNIQUE, season INTEGER NOT NULL,\n start_date TEXT NOT NULL, game_number TEXT NOT NULL,\n visiting_team_id TEXT NOT NULL REFERENCES teams, home_team_id TEXT NOT NULL REFERENCES teams,\n park_id TEXT NOT NULL REFERENCES parks,\n visiting_runs INTEGER NOT NULL CHECK(visiting_runs>=0), home_runs INTEGER NOT NULL CHECK(home_runs>=0),\n outs INTEGER NOT NULL CHECK(outs>=0), attendance INTEGER CHECK(attendance>=0),\n duration_minutes INTEGER CHECK(duration_minutes>=0), visiting_line_score TEXT, home_line_score TEXT,\n completion_info_raw TEXT, acquisition_code TEXT, additional_info_raw TEXT,\n artifact_id TEXT NOT NULL REFERENCES artifacts, source_row INTEGER NOT NULL, raw_json TEXT NOT NULL,\n FOREIGN KEY(visiting_team_id,season) REFERENCES team_seasons,\n FOREIGN KEY(home_team_id,season) REFERENCES team_seasons\n)",
+    "identifiers": "CREATE TABLE identifiers (\n namespace TEXT NOT NULL, identifier TEXT NOT NULL, person_id TEXT NOT NULL REFERENCES people,\n artifact_id TEXT NOT NULL REFERENCES artifacts, source_row INTEGER NOT NULL,\n PRIMARY KEY(namespace,identifier,person_id)\n)",
+    "metadata": "CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT NOT NULL)",
+    "parks": "CREATE TABLE parks (\n park_id TEXT PRIMARY KEY, namespace TEXT NOT NULL CHECK(namespace='retrosheet'), source_code TEXT NOT NULL UNIQUE,\n name_as_published TEXT, city TEXT, region TEXT, opened_raw TEXT, closed_raw TEXT,\n metadata_status TEXT NOT NULL CHECK(metadata_status IN ('documented','unresolved')),\n artifact_id TEXT REFERENCES artifacts, source_row INTEGER, raw_json TEXT\n)",
+    "people": "CREATE TABLE people (\n person_id TEXT PRIMARY KEY, chadwick_uuid TEXT NOT NULL UNIQUE,\n name_first TEXT, name_last TEXT, birth_year INTEGER,\n artifact_id TEXT NOT NULL REFERENCES artifacts, source_row INTEGER NOT NULL, raw_json TEXT NOT NULL\n)",
+    "player_matches": "CREATE TABLE player_matches (\n retrosheet_id TEXT PRIMARY KEY, status TEXT NOT NULL CHECK(status IN ('matched','unmatched','ambiguous')),\n person_id TEXT REFERENCES people, candidate_count INTEGER NOT NULL CHECK(candidate_count>=0),\n CHECK((status='matched' AND candidate_count=1 AND person_id IS NOT NULL)\n OR (status='unmatched' AND candidate_count=0 AND person_id IS NULL)\n OR (status='ambiguous' AND candidate_count>1 AND person_id IS NULL))\n)",
+    "plays": "CREATE TABLE plays (\n game_id TEXT NOT NULL REFERENCES games, play_number INTEGER NOT NULL CHECK(play_number>0),\n inning INTEGER NOT NULL CHECK(inning>0), half INTEGER NOT NULL CHECK(half IN (0,1)),\n batting_side INTEGER NOT NULL CHECK(batting_side IN (0,1)), event_date TEXT NOT NULL,\n batting_team_id TEXT NOT NULL REFERENCES teams, pitching_team_id TEXT NOT NULL REFERENCES teams,\n park_id TEXT NOT NULL REFERENCES parks,\n batter_retro_id TEXT NOT NULL, pitcher_retro_id TEXT NOT NULL,\n event_raw TEXT NOT NULL, pbp_type TEXT NOT NULL,\n visiting_score_pre INTEGER NOT NULL CHECK(visiting_score_pre>=0), home_score_pre INTEGER NOT NULL CHECK(home_score_pre>=0),\n outs_pre INTEGER NOT NULL CHECK(outs_pre BETWEEN 0 AND 3), outs_post INTEGER NOT NULL CHECK(outs_post BETWEEN outs_pre AND 3),\n runs INTEGER NOT NULL CHECK(runs>=0),\n runner1_pre TEXT, runner2_pre TEXT, runner3_pre TEXT, runner1_post TEXT, runner2_post TEXT, runner3_post TEXT,\n balls INTEGER, strikes INTEGER, count_raw TEXT, pitches_raw TEXT, pitch_count INTEGER,\n plate_appearance INTEGER NOT NULL, at_bat INTEGER NOT NULL, single INTEGER NOT NULL,\n double INTEGER NOT NULL, triple INTEGER NOT NULL, home_run INTEGER NOT NULL,\n walk INTEGER NOT NULL, strikeout INTEGER NOT NULL, intentional_walk INTEGER NOT NULL,\n batter_hand TEXT, pitcher_hand TEXT,\n artifact_id TEXT NOT NULL REFERENCES artifacts, source_row INTEGER NOT NULL,\n PRIMARY KEY(game_id,play_number),\n CHECK(outs_pre<3 OR (event_raw='NP' AND outs_post=3 AND plate_appearance=0 AND runs=0))\n)",
+    "research_confirmed_speeds": "CREATE VIEW research_confirmed_speeds AS\n SELECT * FROM research_measurements\n WHERE normalized_unit='m/s' AND metric IN ('velocity','exit_velocity','bat_speed')",
+    "research_datasets": "CREATE TABLE research_datasets (\n dataset_id TEXT PRIMARY KEY, artifact_id TEXT NOT NULL REFERENCES artifacts,\n title TEXT NOT NULL, doi TEXT NOT NULL, scope TEXT NOT NULL, country TEXT,\n reported_participants INTEGER, observed_identifiable_participants INTEGER NOT NULL,\n limitations TEXT NOT NULL\n)",
+    "research_measurements": "CREATE TABLE research_measurements (\n measurement_id INTEGER PRIMARY KEY,\n dataset_id TEXT NOT NULL REFERENCES research_datasets,\n participant_id TEXT REFERENCES research_participants,\n metric TEXT NOT NULL, condition TEXT NOT NULL,\n statistic TEXT NOT NULL CHECK(statistic IN\n ('individual','categorical','participant_summary','cohort_summary','correlation','pitch_cycle_summary')),\n value REAL, sd REAL CHECK(sd>=0), reported_n INTEGER CHECK(reported_n>0), n_unit TEXT,\n source_unit TEXT, normalized_value REAL, normalized_sd REAL, normalized_unit TEXT,\n artifact_id TEXT NOT NULL REFERENCES artifacts, source_location TEXT NOT NULL,\n raw_text TEXT NOT NULL,\n CHECK(source_unit IS NOT NULL OR normalized_value IS NULL),\n CHECK((normalized_value IS NULL AND normalized_unit IS NULL) OR\n       (normalized_value IS NOT NULL AND normalized_unit IS NOT NULL)),\n UNIQUE(dataset_id,participant_id,metric,condition,statistic,source_location)\n)",
+    "research_participants": "CREATE TABLE research_participants (\n participant_id TEXT PRIMARY KEY, dataset_id TEXT NOT NULL REFERENCES research_datasets,\n source_id TEXT NOT NULL, UNIQUE(dataset_id,source_id)\n)",
+    "secondary_claims": "CREATE TABLE secondary_claims (\n claim_id TEXT PRIMARY KEY, subject_label TEXT NOT NULL, claim_type TEXT NOT NULL,\n verification_status TEXT NOT NULL, person_id TEXT REFERENCES people,\n artifact_id TEXT NOT NULL REFERENCES artifacts, source_row INTEGER NOT NULL, raw_json TEXT NOT NULL\n)",
+    "source_schemas": "CREATE TABLE source_schemas (\n artifact_id TEXT PRIMARY KEY REFERENCES artifacts, member TEXT NOT NULL,\n columns_json TEXT NOT NULL, scanned_rows INTEGER NOT NULL CHECK(scanned_rows>=0)\n)",
+    "stage5_game_coverage": "CREATE TABLE stage5_game_coverage (\n game_id TEXT PRIMARY KEY REFERENCES games,\n coverage TEXT NOT NULL CHECK(coverage IN ('validated_plays','game_log_only')),\n validation_note TEXT NOT NULL\n)",
+    "stage5_source_review": "CREATE TABLE stage5_source_review (\n source TEXT PRIMARY KEY, status TEXT NOT NULL, evidence_url TEXT NOT NULL,\n evidence_sha256 TEXT, finding TEXT NOT NULL\n)",
+    "stations": "CREATE TABLE stations (\n station_id TEXT PRIMARY KEY, namespace TEXT NOT NULL, source_code TEXT NOT NULL,\n display_name TEXT NOT NULL, timezone TEXT NOT NULL\n)",
+    "team_seasons": "CREATE TABLE team_seasons (\n team_id TEXT NOT NULL REFERENCES teams, season INTEGER NOT NULL,\n league_code TEXT NOT NULL, artifact_id TEXT NOT NULL REFERENCES artifacts, source_row INTEGER NOT NULL,\n PRIMARY KEY(team_id,season)\n)",
+    "teams": "CREATE TABLE teams (\n team_id TEXT PRIMARY KEY, namespace TEXT NOT NULL CHECK(namespace='retrosheet'),\n source_code TEXT NOT NULL UNIQUE, display_name TEXT\n)",
+    "weather_observations": "CREATE TABLE weather_observations (\n station_id TEXT NOT NULL REFERENCES stations, timestamp_utc TEXT NOT NULL, timestamp_local TEXT NOT NULL,\n metric TEXT NOT NULL, unit TEXT NOT NULL, value REAL, raw_text TEXT NOT NULL,\n parse_status TEXT NOT NULL CHECK(parse_status IN ('numeric','categorical','empty','symbol_or_flagged')),\n cell_attributes_json TEXT NOT NULL, artifact_id TEXT NOT NULL REFERENCES artifacts, source_row INTEGER NOT NULL,\n PRIMARY KEY(station_id,timestamp_utc,metric)\n)"
+  },
+  "missingness": {
+    "rows": 570548,
+    "balls_null": 0,
+    "strikes_null": 0,
+    "pitch_count_null": 1613,
+    "pitches_empty": 1613,
+    "batter_hand_missing": 0,
+    "pitcher_hand_missing": 0
+  },
+  "identities": {
+    "matched": 2067
+  },
+  "integrity_check": "ok",
+  "hands": [
+    {
+      "batter_hand": "B",
+      "pitcher_hand": "L",
+      "n": 16456
+    },
+    {
+      "batter_hand": "B",
+      "pitcher_hand": "R",
+      "n": 42001
+    },
+    {
+      "batter_hand": "L",
+      "pitcher_hand": "L",
+      "n": 42250
+    },
+    {
+      "batter_hand": "L",
+      "pitcher_hand": "R",
+      "n": 149565
+    },
+    {
+      "batter_hand": "R",
+      "pitcher_hand": "L",
+      "n": 88825
+    },
+    {
+      "batter_hand": "R",
+      "pitcher_hand": "R",
+      "n": 210382
+    }
+  ],
+  "source_game_checks": {
+    "pass": 7289
+  },
+  "outside_scope_games": 11983,
+  "event_kinds": {
+    "balk": 586,
+    "caught_stealing": 2002,
+    "completed_pa": 549479,
+    "defensive_indifference": 789,
+    "foul_error": 86,
+    "other_advance": 194,
+    "passed_ball": 619,
+    "pickoff": 978,
+    "pickoff_caught_stealing": 495,
+    "stolen_base": 9248,
+    "wild_pitch": 4188
+  },
+  "special_counts": {
+    "intentional_walks": 1539,
+    "strikeout_reached_safely": 180
+  },
+  "actor_changed_windows": 27,
+  "runner_only_end_windows": 1315,
+  "windows_with_intermediate_runner_events": 17410,
+  "extra_inning_windows": 7025,
+  "extra_half_starts_runner_on_second": 1760,
+  "censored_walkoff": 622,
+  "censored_called_or_shortened_game": 4,
+  "support_exception_count": 0,
+  "support_exceptions": [],
+  "derived_counts": {
+    "plays": 568664,
+    "windows": 550794,
+    "exclusions": 1884
+  },
+  "by_year": [
+    {
+      "season": 2023,
+      "windows": 184506,
+      "completed_pa": 184104,
+      "real_play_rows": 190416
+    },
+    {
+      "season": 2024,
+      "windows": 182903,
+      "completed_pa": 182449,
+      "real_play_rows": 188937
+    },
+    {
+      "season": 2025,
+      "windows": 183385,
+      "completed_pa": 182926,
+      "real_play_rows": 189311
+    }
+  ]
+}

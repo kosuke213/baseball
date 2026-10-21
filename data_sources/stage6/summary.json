@@ -1,0 +1,41 @@
+{
+  "snapshot_id": "d0a6e1166170560f19b250d3",
+  "input": {
+    "config_sha256": "1aa4445c335ecc103ab523e0610af08cd4580101b999da3bee05bf762a95fbfd",
+    "source_database_sha256": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+    "source_snapshot": "3380cf3ee94809d4dae3fe92",
+    "code_sha256": "9b6c26d144f124b861e9b2abdc2c9accad81b2baac37d900a768368c1e67ff03",
+    "documentation": {
+      "README.md": "66605fb88ad884e6b7a60ec6eebf4caef494e49048a602a215f07a899e5e3605",
+      "ATTRIBUTIONS.md": "7bdb59303224d31cf1412c4290df8cd03b9b5933bccd1d559ff18581eab2bff8"
+    },
+    "runtime": {
+      "python": "3.12.14",
+      "sqlite": "3.53.1",
+      "numpy": "2.5.4"
+    }
+  },
+  "observations": {
+    "plays": 568664,
+    "windows": 550794,
+    "exclusions": 1884
+  },
+  "outcome_classes": 14,
+  "observed_outcome_classes": 13,
+  "component_groups": {
+    "hands": 6,
+    "context": 4773,
+    "batter": 792,
+    "pitcher": 1107,
+    "league": 1
+  },
+  "component_probability_cells": 100185,
+  "conditional_transition_groups": 656,
+  "conditional_transition_cells": 7604,
+  "prior_only_transition_cells": 6155,
+  "complete_halves": 129052,
+  "censored_halves": 626,
+  "training_completed_pa": 366553,
+  "test_completed_pa": 182926,
+  "status": "statistical_baseline_not_full_game_rules"
+}

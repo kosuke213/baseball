@@ -1,0 +1,417 @@
+{
+  "split": {
+    "inner_train": [
+      2023
+    ],
+    "validation": [
+      2024
+    ],
+    "refit": [
+      2023,
+      2024
+    ],
+    "test": [
+      2025
+    ],
+    "rule": "2025 labels are never passed to fit or hyperparameter selection"
+  },
+  "selected_pa_settings": {
+    "training": "2023",
+    "validation": "2024",
+    "context_alpha": 25,
+    "player_weight": 0.5,
+    "n": 182449,
+    "log_loss": 1.5741431687363052,
+    "brier": 0.7206377410182075
+  },
+  "selected_transition_settings": {
+    "training": "2023",
+    "validation": "2024",
+    "kernel_alpha": 100,
+    "n": 182694,
+    "log_loss": 1.157815946394857,
+    "brier": 0.5510229772701642
+  },
+  "training_windows": 367398,
+  "training_completed_pa": 366553,
+  "test_windows": 183380,
+  "test_completed_pa": 182926,
+  "test_transition_windows": 183160,
+  "metrics": [
+    {
+      "task": "completed_PA_14_classes",
+      "model": "uniform",
+      "split": "test_2025",
+      "group": "all",
+      "n": 182926,
+      "log_loss": 2.5247863102635217,
+      "brier": 0.9197464965015779,
+      "macro_class_ece": 0.0816647094423744,
+      "top_label_ece": 0.06250914369224504
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "uniform",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180568,
+      "log_loss": 2.5238873894073817,
+      "brier": 0.9196770745647069
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "uniform",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2358,
+      "log_loss": 2.5936227568926356,
+      "brier": 0.9250626034977181
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "league",
+      "split": "test_2025",
+      "group": "all",
+      "n": 182926,
+      "log_loss": 1.5901691929510022,
+      "brier": 0.7233143107122991,
+      "macro_class_ece": 0.0014141807615560577,
+      "top_label_ece": 0.001801058480257578
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "league",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180568,
+      "log_loss": 1.5860277192905292,
+      "brier": 0.7225181955763326
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "league",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2358,
+      "log_loss": 1.9073098273548579,
+      "brier": 0.7842782283845577
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "hands",
+      "split": "test_2025",
+      "group": "all",
+      "n": 182926,
+      "log_loss": 1.5884962956345554,
+      "brier": 0.7230524019868176,
+      "macro_class_ece": 0.0014117738237110437,
+      "top_label_ece": 0.0017572342022769136
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "hands",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180568,
+      "log_loss": 1.5844123687388556,
+      "brier": 0.7222641530841598
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "hands",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2358,
+      "log_loss": 1.9012301852455449,
+      "brier": 0.783413948999169
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "context",
+      "split": "test_2025",
+      "group": "all",
+      "n": 182926,
+      "log_loss": 1.5824569793958507,
+      "brier": 0.7229959416337455,
+      "macro_class_ece": 0.002718506437506716,
+      "top_label_ece": 0.005908230956163783
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "context",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180568,
+      "log_loss": 1.579825954992426,
+      "brier": 0.7224032277620307
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "context",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2358,
+      "log_loss": 1.7839323036017822,
+      "brier": 0.7683840495166075
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "all",
+      "n": 182926,
+      "log_loss": 1.5688152508924231,
+      "brier": 0.720076705788002,
+      "macro_class_ece": 0.0019410837716435472,
+      "top_label_ece": 0.006582501030487087
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180568,
+      "log_loss": 1.5659670148179365,
+      "brier": 0.7194165974437632
+    },
+    {
+      "task": "completed_PA_14_classes",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2358,
+      "log_loss": 1.7869239410951174,
+      "brier": 0.7706256640163761
+    },
+    {
+      "task": "observed_window_15_classes",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "all",
+      "n": 183380,
+      "log_loss": 1.5779913005334605,
+      "brier": 0.7214129166645266
+    },
+    {
+      "task": "window_next_joint",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "all",
+      "n": 183160,
+      "log_loss": 1.1607692234183833,
+      "brier": 0.553055413184468
+    },
+    {
+      "task": "window_next_joint",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180904,
+      "log_loss": 1.1555109127149878,
+      "brier": 0.5513654973592385
+    },
+    {
+      "task": "window_next_joint",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2256,
+      "log_loss": 1.582422343758387,
+      "brier": 0.6885662874962248
+    },
+    {
+      "task": "window_next_joint",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "all",
+      "n": 183160,
+      "log_loss": 1.1583352929783313,
+      "brier": 0.552746539177335
+    },
+    {
+      "task": "window_next_joint",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180904,
+      "log_loss": 1.1529450944338426,
+      "brier": 0.5510643230769591
+    },
+    {
+      "task": "window_next_joint",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2256,
+      "log_loss": 1.5905642280369316,
+      "brier": 0.6876399883893879
+    },
+    {
+      "task": "window_next_state",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "all",
+      "n": 183160,
+      "log_loss": 1.153747973110307,
+      "brier": 0.5513809234037844
+    },
+    {
+      "task": "window_next_state",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180904,
+      "log_loss": 1.148570984152391,
+      "brier": 0.5497002176147554
+    },
+    {
+      "task": "window_next_state",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2256,
+      "log_loss": 1.5688800699378207,
+      "brier": 0.6861532638552501
+    },
+    {
+      "task": "window_next_state",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "all",
+      "n": 183160,
+      "log_loss": 1.1513208095275993,
+      "brier": 0.5510712930114648
+    },
+    {
+      "task": "window_next_state",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180904,
+      "log_loss": 1.1459990157347513,
+      "brier": 0.5493977432191698
+    },
+    {
+      "task": "window_next_state",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2256,
+      "log_loss": 1.5780645082427236,
+      "brier": 0.6852698088028333
+    },
+    {
+      "task": "window_next_runs",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "all",
+      "n": 183160,
+      "log_loss": 0.2939793656868042,
+      "brier": 0.14461140505024692
+    },
+    {
+      "task": "window_next_runs",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180904,
+      "log_loss": 0.29189285931185355,
+      "brier": 0.14340401492834093
+    },
+    {
+      "task": "window_next_runs",
+      "model": "selected",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2256,
+      "log_loss": 0.46129202049801216,
+      "brier": 0.2414295356412388
+    },
+    {
+      "task": "window_next_runs",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "all",
+      "n": 183160,
+      "log_loss": 0.2936086557523662,
+      "brier": 0.14403191692624603
+    },
+    {
+      "task": "window_next_runs",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "regulation",
+      "n": 180904,
+      "log_loss": 0.29155283219646344,
+      "brier": 0.1428666386791322
+    },
+    {
+      "task": "window_next_runs",
+      "model": "state_empirical",
+      "split": "test_2025",
+      "group": "extra_innings",
+      "n": 2256,
+      "log_loss": 0.4584609184106246,
+      "brier": 0.23747318289073346
+    }
+  ],
+  "game_bootstrap": {
+    "pa_log_loss": {
+      "difference_selected_minus_baseline": -0.021353942058578778,
+      "percentile_95_interval": [
+        -0.022376903634536743,
+        -0.020409492355465218
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 626
+    },
+    "transition_joint_log_loss": {
+      "difference_selected_minus_baseline": 0.0024339304400521323,
+      "percentile_95_interval": [
+        0.00182401917702814,
+        0.0029737312261228686
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 626
+    },
+    "pa_brier": {
+      "difference_selected_minus_baseline": -0.0032376049242971022,
+      "percentile_95_interval": [
+        -0.003399579744128428,
+        -0.0030854687010762848
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 626
+    },
+    "transition_joint_brier": {
+      "difference_selected_minus_baseline": 0.00030887400713299975,
+      "percentile_95_interval": [
+        0.00013984289588304892,
+        0.00047706038886353693
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 626
+    }
+  },
+  "definitions": {
+    "log_loss": "natural logarithm, nats per observation; lower is better; no probability clipping",
+    "brier": "sum over all classes of (p-one_hot)^2, range 0..2; no division by class count",
+    "ece": "10 fixed equal-width probability bins; macro class ECE and top-label ECE",
+    "transition": "Joint post-state/runs predicted BEFORE outcome, marginalizing all 15 outcomes",
+    "censoring": "All final windows before third out excluded from transition fitting/scoring; completed PA labels retained",
+    "calibration_limit": "ECE depends on binning and is descriptive; intervals resample games, not seasons"
+  },
+  "coverage": {
+    "unseen_test_batters_windows": 15515,
+    "unseen_test_pitchers_windows": 20472,
+    "unseen_test_context_windows": 171
+  }
+}

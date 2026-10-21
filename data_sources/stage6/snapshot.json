@@ -1,0 +1,30 @@
+{
+  "snapshot_id": "d0a6e1166170560f19b250d3",
+  "files": {
+    "ATTRIBUTIONS.md": "7bdb59303224d31cf1412c4290df8cd03b9b5933bccd1d559ff18581eab2bff8",
+    "README.md": "66605fb88ad884e6b7a60ec6eebf4caef494e49048a602a215f07a899e5e3605",
+    "calibration.csv": "bdc759a1d9d274a97449ad99650c40f9f89eba923e34cd385d87f13f12bdf830",
+    "censored_windows.csv": "2df03890df081bb448d80344f9981b684810ccfbaba259b7fca71750a916667d",
+    "config.json": "1aa4445c335ecc103ab523e0610af08cd4580101b999da3bee05bf762a95fbfd",
+    "demo_result.json": "3d83a65d3b456b011db5d07562b4176b11fa3ed71124509393511b724bd1ebb6",
+    "demo_steps.csv": "a712da8b4e3c83680e4f7f9b1d99c6ead8e0f9d0779fe1c067d27cda3f482dea",
+    "evaluation.json": "da53077d3dd6c18bfd121f29041e78f5e3533feab075651947e2c4e3ed977f2b",
+    "evaluation_metrics.csv": "2cea5f5ec90c78835174807af69ef29759058110fd9c45bfde0224546ecd64dc",
+    "examples.json": "5054cdd2585efc6e6f111a8929bf033600b9539c53d4fa98f5e4d496673ce823",
+    "excluded_nonplays.csv": "3c9d5d54a4377e3e153dc0c55cd1ba485d4ea0e9569cb8f90a3451fabdae37b9",
+    "input_audit.json": "59aaecc39064db8ed46b755771707972401cd6b331614b1c555c6e95f8ca6856",
+    "kernels.json": "ee0a69e89b38b4fa7d30163602c275d68cfa5fdf6f17e4ea355151cf6c4c96f7",
+    "manifest.json": "37da38894b3526ca0ad9fe8eb6a54cf15e54c5430ee19a5a667db53a875de6f0",
+    "model.json": "380094dc8d6a189b92577e3f289c2474a4590db0bdbe3e1a40ff902ea6071a26",
+    "observations.sqlite3": "22b9c8e637495dcbfef8c89d69539a1e83f63c8afb33bf644d6aa2944405c046",
+    "outcome_frequencies.csv": "b766004f549021686b7b02671929b4d6694b3eeb5523cea556f95e13bdf7b084",
+    "player_observed_stats.csv": "40e0a5c2d8dea7b33486973f145d7caee47fcfc371f9d1e76e82c128bad96912",
+    "probability_components.csv": "d31270aa84a08d955573d42a875a7dbc653c72c23362e214a916c5e684d7f572",
+    "run_expectancy.csv": "34ad5c017eb22b8c8f672da327998967947f3c57af39982537741a8469897090",
+    "summary.json": "931e4a2fccc987337426f5ca4e5eea20eb587a494a1dbfe237ac0ab3a0ed0b90",
+    "transition_counts.csv": "a2610ba3da31cd2ee855adccfe96740511cbbbc8f1699ec564af6ed2d1b99c63",
+    "transition_probabilities.csv": "c6d6ed005cf4eb9d6de2dc4800527678acf2ca51ee75887cf22375adad3079fc",
+    "transition_validation_grid.csv": "2cf2f1aba2fbb30ba20afca5f6558a706a02aaecbe24e8f66dc08f7e6837fb20",
+    "validation_grid.csv": "8266da0db74a8a96c92c3e50558782a659e0f971179bdede548939d8f2c14acb"
+  }
+}

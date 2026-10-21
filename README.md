@@ -114,6 +114,8 @@ Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sour
 
 第5段階では [実測研究データの追加と年代比較](docs/data-stage5/README.md) を実施しました。3研究の856項目と過去5年のGame Logsを追加し、計19,272試合を収録。[統合DB・CSV・研究原本](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage5-tracking/data_sources/stage5/database_bundle.zip) と [全44取得原本のバックアップ](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage5-tracking/data_sources/stage5/originals_bundle.zip) を用意しました。球速の単位未確認、打球の集計単位、公式戦のセンサー値不足を明示し、詳細なプロ野球再現の準備は未完としています。
 
+第6段階では [打席結果・24状態の遷移・得点の確率抽出](docs/data-stage6/README.md) を実施。2023〜2024年で縮小推定し、2025年を評価用に分離しました。打席結果の予測はリーグ平均から改善し、状態・得点の同時予測は単純な状態別基準に劣った結果も保存しています。[確率表・加工DB・CSV・検証一式](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage6-probability/data_sources/stage6/stage6_bundle.zip) と [軽量Python API・再実行手順](data_sources/stage6/README.md) を用意しました。一球の物理モデルへの置き換えや、既存ゲームの較正は実施していません。
+
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。
