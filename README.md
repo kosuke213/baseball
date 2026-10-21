@@ -108,7 +108,7 @@ DH制、9回制、既定12回打ち切り引き分け。ファウルは2スト�
 
 ## 検証と次の段階
 
-Phase 2の第1段階として、[データ・情報源の収集先台帳](docs/data-sources/README.md) を追加しました。[調査結果](docs/data-sources/findings.md) と [Excel向け一覧](data_sources/sources.csv) もあります。ここでは取得先と条件を調査し、実データのサンプル取得や確率モデルの学習は次の段階に分けています。
+Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sources/README.md) を作成し、第2段階で [実データの取得・品質検査](docs/data-pilot/README.md) を実施しました。4提供元の原本を保存し、試合・プレー・選手ID・日本の候補情報・気象を独立したSQLiteへ収録しています。[DBと確認用CSVのダウンロード](https://raw.githubusercontent.com/kosuke213/baseball/codex/data-sampling-pilot/data_sources/pilot/sample_bundle.zip) と [開き方](data_sources/pilot/README.md) を用意しました。確率モデルの学習・較正はまだ行っていません。
 
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 

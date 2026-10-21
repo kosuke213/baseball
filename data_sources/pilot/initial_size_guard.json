@@ -1,0 +1,72 @@
+{
+  "stage": 2,
+  "kind": "initial_byte_guard_observation",
+  "initial_artifact_cap_bytes": 3000000,
+  "result": "The 16 register shard responses were rejected before body download because their declared uncompressed sizes exceeded the initial cap. The reviewed final plan uses a 5.5 MB per-shard cap and a 96 MB total network budget. Final acquisition succeeded; see manifest.json.",
+  "attempts": [
+    {
+      "artifact_id": "register_0",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_1",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_2",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_3",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_4",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_5",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_6",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_7",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_8",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_9",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_a",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_b",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_c",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_d",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_e",
+      "error": "Artifact exceeds the byte budget"
+    },
+    {
+      "artifact_id": "register_f",
+      "error": "Artifact exceeds the byte budget"
+    }
+  ]
+}

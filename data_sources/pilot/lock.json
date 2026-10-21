@@ -1,0 +1,146 @@
+{
+  "schema_version": 1,
+  "plan_sha256": "db0bffb6806822dfe341a9decc29514483c1805a5aae2a1b221aacc4395c2a85",
+  "artifacts": {
+    "retro_notice": {
+      "url": "https://www.retrosheet.org/notice.txt",
+      "sha256": "2218abe680e21d3308de06352c394baefbffc7618d36a821d38ed6e97c24105d",
+      "bytes": 971
+    },
+    "retro_csv_docs": {
+      "url": "https://www.retrosheet.org/downloads/csvdownloads.html",
+      "sha256": "1417ef511d08d702ba0d250ffc7e6bc8833d8456c24631e68aed963a999aa0b6",
+      "bytes": 22302
+    },
+    "retro_gamelog_docs": {
+      "url": "https://www.retrosheet.org/gamelogs/glfields.txt",
+      "sha256": "399aea2c74af36da766bb38c97455c641730eb37d53c9d4948c5929931f9cc98",
+      "bytes": 6559
+    },
+    "retro_play_docs": {
+      "url": "https://www.retrosheet.org/downloads/plays.html",
+      "sha256": "6f04119df235a743bca8043c9b834165a374ed0d364a49a855e002c8fedd8b10",
+      "bytes": 28758
+    },
+    "register_readme": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/README.md",
+      "sha256": "74bbe60a72b17ea709ef97fc7f191e717f4d28174cdeccbb9f429e133fb8c434",
+      "bytes": 8058
+    },
+    "jpl_license": {
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/LICENSE",
+      "sha256": "9655f4ceec3ee34f37d88fe957454091f78b8f8dd3e94548b61d7cae9c70d638",
+      "bytes": 1122
+    },
+    "jpl_methodology": {
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/METHODOLOGY.md",
+      "sha256": "8af8ab63f9bb0393f11a06dc895694c9b37d31813d326f6127f21889ed039bfb",
+      "bytes": 6424
+    },
+    "jma_terms": {
+      "url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+      "sha256": "ff2b45042e6207053d8f6aa617656aa6a144e462db138f0b8138de6eefbeff48",
+      "bytes": 23377
+    },
+    "retro_gl_2024": {
+      "url": "https://www.retrosheet.org/gamelogs/gl2024.zip",
+      "sha256": "3089e0a895e70a6fd244d31fe822bc4d856d0987458e86b5acc5df1aa297d250",
+      "bytes": 465881
+    },
+    "retro_plays_2024": {
+      "url": "https://www.retrosheet.org/downloads/plays/2024plays.zip",
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+      "bytes": 7446849
+    },
+    "register_0": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-0.csv",
+      "sha256": "d825dc9ad301f8f9e6dc4338f0153dcb60d9953e80b92ab737d7020a68cbe1d2",
+      "bytes": 4257746
+    },
+    "register_1": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-1.csv",
+      "sha256": "1c55cbbbf8ef252af41687485525db0d52dcb50b6ffad83d2afabf34a590415d",
+      "bytes": 4264399
+    },
+    "register_2": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-2.csv",
+      "sha256": "8cd2cfc50090f4ccc16aaab591133841c783f5514d17e21704311a9b7c246e8c",
+      "bytes": 4228679
+    },
+    "register_3": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-3.csv",
+      "sha256": "4f04d2d720268c779826f1019307e8da57a41732e5eee75ee2fa6a2f758dc104",
+      "bytes": 4260677
+    },
+    "register_4": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-4.csv",
+      "sha256": "a7b1513083a196448fcc29f630f08bac0df840ecab016a6fe3f20798cb3bcefb",
+      "bytes": 4254461
+    },
+    "register_5": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-5.csv",
+      "sha256": "8c2a114c819f082c2ce2f00eb6e7d00747c18503603a1a194dbb6204070623a2",
+      "bytes": 4260872
+    },
+    "register_6": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-6.csv",
+      "sha256": "147e139cd39fb8532d3d4664f9a541d27e2a76cab5d700cd178d4c4c63ab577a",
+      "bytes": 4234752
+    },
+    "register_7": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-7.csv",
+      "sha256": "b627671de7f2185f06934de980085feb708987598baa8ba7539a1c34400779ce",
+      "bytes": 4264989
+    },
+    "register_8": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-8.csv",
+      "sha256": "5fc519b9f9152f83082b3ff086745df102af4df8c52f2525bdc21c9884e7d12d",
+      "bytes": 4220617
+    },
+    "register_9": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-9.csv",
+      "sha256": "0d7e872eaaada86393d55d8a71f9e22f710078165f3605c5025932da43066623",
+      "bytes": 4242599
+    },
+    "register_a": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-a.csv",
+      "sha256": "acf5f83a0c1224c482aec3e295a8e8815da7606a7eab1551db279af3d7916e7a",
+      "bytes": 4305511
+    },
+    "register_b": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-b.csv",
+      "sha256": "3865907858bb96a911b3de94d5885451ea57315b0159847d8365b1bacc69a3c3",
+      "bytes": 4271053
+    },
+    "register_c": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-c.csv",
+      "sha256": "7ba78a859d5bd57622eb16538f71c1d558aca34da2d41d6555df9801222bbd7f",
+      "bytes": 4252290
+    },
+    "register_d": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-d.csv",
+      "sha256": "eb2395d69c03c0b1850f17ad904f37a8c31440467d5929aa3e4f8ab4f65203ef",
+      "bytes": 4280813
+    },
+    "register_e": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-e.csv",
+      "sha256": "81926371966427488d066a724fbeec7903d56eff40112f84ee9f84cdbbc6a1ee",
+      "bytes": 4250065
+    },
+    "register_f": {
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-f.csv",
+      "sha256": "006a2acab5be8bdea08daa149cea1b12a9eddd5dfe0a66e6bf9c6a36b2cb5980",
+      "bytes": 4319123
+    },
+    "jpl_draft_2026": {
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/boards/2026-npb-draft-board.csv",
+      "sha256": "541a664e208558024761c261ef7c1428e9f54f256203f7f8160b150292a4f9a9",
+      "bytes": 5718
+    },
+    "jma_tokyo_20240329": {
+      "url": "https://www.data.jma.go.jp/stats/etrn/view/hourly_s1.php?prec_no=44&block_no=47662&year=2024&month=3&day=29&view=",
+      "sha256": "a68855f79e086e2ea95577cce6488dbeb9724c71e12df11a1561f981fdeea11c",
+      "bytes": 24055
+    }
+  }
+}

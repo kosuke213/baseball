@@ -13,7 +13,7 @@ dependencies = ["numpy>=2.0,<3", "pandas>=2.2,<3", "streamlit>=1.41,<2"]
 test = ["pytest>=8,<10"]
 
 [tool.setuptools.packages.find]
-include = ["baseball_simulation_lab*"]
+include = ["baseball_simulation_lab*", "data_collection*"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
