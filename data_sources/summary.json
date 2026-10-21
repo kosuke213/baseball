@@ -1,0 +1,56 @@
+{
+  "catalog_entries": 128,
+  "provider_groups": 84,
+  "categories": {
+    "投球・打球・守備計測": 17,
+    "試合経過・歴史・集計": 10,
+    "選手ID・所属・経歴": 5,
+    "日本プロ・アマチュア・独立リーグ": 22,
+    "海外リーグ・国際大会・大学": 18,
+    "球場・地理・移動": 5,
+    "天候・環境": 6,
+    "疲労・成長・動作・故障研究": 8,
+    "契約・ドラフト・経営": 8,
+    "ルール・統計定義・分析資料": 8,
+    "論文・データセット探索": 14,
+    "公開アーカイブ・補助データ": 7
+  },
+  "kinds": {
+    "dataset": 39,
+    "portal": 56,
+    "reference": 15,
+    "research_index": 18
+  },
+  "review_status": {
+    "documentation_reviewed": 110,
+    "portal_candidate": 18
+  },
+  "entry_access": {
+    "reachable": 117,
+    "http_error": 9,
+    "proxy_blocked": 2
+  },
+  "portal_review_http_status": {
+    "200": 49,
+    "403": 6
+  },
+  "priority": {
+    "A": 26,
+    "B": 68,
+    "C": 34
+  },
+  "rights_status": {
+    "needs_review": 106,
+    "documented": 7,
+    "mixed": 4,
+    "restricted": 11
+  },
+  "supporting_tools": 13,
+  "sample_datasets_collected": 0,
+  "link_checks": 201,
+  "link_check_status": {
+    "reachable": 182,
+    "proxy_blocked": 9,
+    "http_error": 10
+  }
+}

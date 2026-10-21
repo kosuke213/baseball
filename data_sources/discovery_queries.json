@@ -1,0 +1,606 @@
+{
+  "search_type": "GitHub repository discovery; relevance filtering was manual; not an exhaustive web search",
+  "queries": [
+    {
+      "query": "npb data",
+      "url": "https://github.com/search?q=npb+data&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:09.049286+00:00",
+      "results": [
+        {
+          "repository": "michaelchughes/NPBayesHMM",
+          "description": "Nonparametric Bayesian Inference for Sequential Data. Includes state-of-the-art MCMC inference for Beta process Hidden Markov Models (BP-…",
+          "archived": false,
+          "updated_at": "2018-01-29T21:12:35.556Z"
+        },
+        {
+          "repository": "armstjc/Nippon-Baseball-Data-Repository",
+          "description": "Holds public data for the Nippon Professional Baseball (NPB) League, a professional baseball league based in Japan.",
+          "archived": false,
+          "updated_at": "2026-10-02T22:12:03.501Z"
+        },
+        {
+          "repository": "rimehi/NPBayes_fMRI",
+          "description": "Bayesian Non-Parametric Spatio-Temporal Models for fMRI data",
+          "archived": false,
+          "updated_at": "2018-05-03T01:02:55.284Z"
+        },
+        {
+          "repository": "kirikei4/npb_scraping",
+          "description": "NPB data",
+          "archived": false,
+          "updated_at": "2020-09-19T03:22:35.004Z"
+        },
+        {
+          "repository": "mldlproject/2021-NPBERT-Antimalaria",
+          "description": "Source code and data of the paper entitled \"Predicting Antimalarial Activity in Natural Products Using Pretrained Bidirectional Encoder R…",
+          "archived": false,
+          "updated_at": "2023-06-27T23:10:43.945Z"
+        },
+        {
+          "repository": "npbnoitall/npbdata",
+          "description": "npb data 1936-2015",
+          "archived": false,
+          "updated_at": "2016-03-17T05:38:26.235Z"
+        },
+        {
+          "repository": "jclymo/DataGen_NPBE",
+          "description": "",
+          "archived": false,
+          "updated_at": "2020-07-21T20:24:52.785Z"
+        },
+        {
+          "repository": "wocchi09/npb-data",
+          "description": "",
+          "archived": false,
+          "updated_at": "2026-10-21T08:45:05.314Z"
+        },
+        {
+          "repository": "Shinichi-Nakagawa/jupyter-sample-baseball",
+          "description": "Jupyter notebook sample for baseball data(NPB)",
+          "archived": false,
+          "updated_at": "2017-10-01T07:50:13.129Z"
+        },
+        {
+          "repository": "hsnguyen/npBarcode",
+          "description": "Demultiplex the Nanopore barcoding data",
+          "archived": false,
+          "updated_at": "2018-07-09T05:56:27.079Z"
+        }
+      ]
+    },
+    {
+      "query": "retrosheet",
+      "url": "https://github.com/search?q=retrosheet&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:09.489153+00:00",
+      "results": [
+        {
+          "repository": "theapache64/retrosheet",
+          "description": "📃 Turn Google Spreadsheet to JSON endpoint (without any login/auth). Supported Platforms: Android, iOS, JVM and JS. Thanks to Kotlin Mult…",
+          "archived": false,
+          "updated_at": "2026-09-05T19:58:12.880Z"
+        },
+        {
+          "repository": "chadwickbureau/retrosheet",
+          "description": "Enhanced version of Retrosheet (http://www.retrosheet.org) data.",
+          "archived": false,
+          "updated_at": "2026-08-13T00:33:29.264Z"
+        },
+        {
+          "repository": "droher/boxball",
+          "description": "Prebuilt Docker images with Retrosheet's complete baseball history data for many analytical frameworks. Includes Postgres, cstore_fdw, My…",
+          "archived": false,
+          "updated_at": "2026-05-20T00:16:03.174Z"
+        },
+        {
+          "repository": "wellsoliver/py-retrosheet",
+          "description": "Python scripts for Retrosheet parsing",
+          "archived": false,
+          "updated_at": "2023-02-12T03:38:51.645Z"
+        },
+        {
+          "repository": "chadwickbureau/retrosplits",
+          "description": "Major League Baseball playing data aggregated/disaggregated at various levels, based on files published by Retrosheet",
+          "archived": false,
+          "updated_at": "2026-08-13T08:37:47.989Z"
+        },
+        {
+          "repository": "rmscriven/retrosheet",
+          "description": "Import Professional Baseball Data from 'Retrosheet'",
+          "archived": false,
+          "updated_at": "2020-03-23T02:23:54.898Z"
+        },
+        {
+          "repository": "calestini/retrosheet",
+          "description": "Project to parse retrosheet baseball data in python",
+          "archived": false,
+          "updated_at": "2020-06-13T00:21:05.130Z"
+        },
+        {
+          "repository": "sdiehl28/baseball-analytics",
+          "description": "Download, parse, and wrangle Lahman and Retrosheet data to tidy csv files. Analyze with Python and Pandas in Jupyter notebooks.",
+          "archived": false,
+          "updated_at": "2020-02-16T00:46:51.334Z"
+        },
+        {
+          "repository": "mattdennewitz/retrosheet-sql-queries",
+          "description": "Retrosheet SQL cookbook",
+          "archived": false,
+          "updated_at": "2015-03-26T18:29:05.700Z"
+        },
+        {
+          "repository": "davidbmitchell/Baseball-PostgreSQL",
+          "description": "Schemas and queries using a PostgreSQL version of the Lahman Database and Retrosheet Database",
+          "archived": false,
+          "updated_at": "2015-12-15T00:27:21.287Z"
+        }
+      ]
+    },
+    {
+      "query": "kbo baseball data",
+      "url": "https://github.com/search?q=kbo+baseball+data&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:10.960437+00:00",
+      "results": [
+        {
+          "repository": "dev-bearabbit/kbo-data",
+          "description": "kbo-data is a Python package that provides Korean professional baseball game information by scraping.",
+          "archived": false,
+          "updated_at": "2024-07-08T14:23:38.683Z"
+        },
+        {
+          "repository": "Yunseo-Hwang/KBO-Baseball-Data-Collection",
+          "description": "",
+          "archived": false,
+          "updated_at": "2021-09-20T07:39:08.457Z"
+        },
+        {
+          "repository": "mingksong/kboElo_zeroSum",
+          "description": "An ELO-based matchup evaluation system using KBO pro baseball data, built on plate appearance-level run expectancy models.",
+          "archived": false,
+          "updated_at": "2025-06-20T15:30:44.351Z"
+        },
+        {
+          "repository": "kellytodhunter/KBO-Player-Analysis",
+          "description": "Marcel-style projection system for KBO (Korea Baseball Organization) hitters, built with empirical Bayes regression to the mean, delta-me…",
+          "archived": false,
+          "updated_at": "2026-07-22T08:07:39.366Z"
+        },
+        {
+          "repository": "JEENSUNG/CBO",
+          "description": "This is based on FireBase(low-capacity) If you would like Baseball game(or KBO, MLB watching), this app is qualified for you. This app fe…",
+          "archived": false,
+          "updated_at": "2021-11-19T14:48:27.960Z"
+        },
+        {
+          "repository": "Hawk-Jo/baseball_analysis",
+          "description": "mini project with kbo data",
+          "archived": false,
+          "updated_at": "2026-02-10T06:04:59.122Z"
+        },
+        {
+          "repository": "dentearl/kbo-data",
+          "description": "Automated regular season schedule and results pipeline for Korea Baseball Organization (KBO)",
+          "archived": false,
+          "updated_at": "2026-10-20T19:28:45.182Z"
+        },
+        {
+          "repository": "kyengwook/baseball",
+          "description": "Baseball Data Analysis / Visualization based on MLB / Baseball Savant",
+          "archived": false,
+          "updated_at": "2025-10-15T04:54:29.155Z"
+        },
+        {
+          "repository": "dongkyucho17/datanow-blog-assets",
+          "description": "Image assets for Datanow.kr blog posts (KBO baseball data)",
+          "archived": false,
+          "updated_at": "2026-08-30T11:05:28.378Z"
+        },
+        {
+          "repository": "Seunggon-Kim/b_project",
+          "description": "KBO Baseball Statistics Dashboard - Automated data collection and visualization",
+          "archived": false,
+          "updated_at": "2026-10-20T03:41:34.607Z"
+        }
+      ]
+    },
+    {
+      "query": "cpbl data",
+      "url": "https://github.com/search?q=cpbl+data&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:11.621239+00:00",
+      "results": [
+        {
+          "repository": "ndliu3549/pbp-support-tool",
+          "description": "Tool for CPBL data (Desktop version)",
+          "archived": false,
+          "updated_at": "2019-10-30T10:23:11.978Z"
+        },
+        {
+          "repository": "anchengyoung/CPBL_Database",
+          "description": "",
+          "archived": false,
+          "updated_at": "2021-05-02T07:05:01.902Z"
+        },
+        {
+          "repository": "hyp0515/cpbl_data_analysis",
+          "description": "",
+          "archived": false,
+          "updated_at": "2026-01-08T13:26:46.413Z"
+        },
+        {
+          "repository": "asgard-ai-platform/mcp-cpbl-statistics",
+          "description": "An MCP (Model Context Protocol) server that provides comprehensive statistics and data for the Chinese Professional Baseball League (CPBL).",
+          "archived": false,
+          "updated_at": "2026-06-04T10:01:38.913Z"
+        },
+        {
+          "repository": "mirage7714/CPBL",
+          "description": "CPBL data",
+          "archived": false,
+          "updated_at": "2016-04-20T12:14:22.220Z"
+        },
+        {
+          "repository": "JungYihoon/CPBL_data",
+          "description": "cpbl 선수데이터 크롤링 웹애플리케이션",
+          "archived": false,
+          "updated_at": "2026-05-20T02:01:14.983Z"
+        },
+        {
+          "repository": "LukeChuang890212/DataMining",
+          "description": "Mining the data about cpbl.",
+          "archived": false,
+          "updated_at": "2019-12-26T11:59:49.999Z"
+        },
+        {
+          "repository": "hjhsu/CPBL_Advanced_Sabermetric",
+          "description": "CPBL Advanced Sabermetric Data",
+          "archived": false,
+          "updated_at": "2017-12-28T04:59:46.910Z"
+        },
+        {
+          "repository": "tranimal13/cpbl",
+          "description": "Data on Taiwan's baseball CPBL from inception to 2025. All data gathered from https://en.cpbl.com.tw/stats/recordall",
+          "archived": false,
+          "updated_at": "2025-10-17T00:44:04.795Z"
+        },
+        {
+          "repository": "ichendong/cpbl",
+          "description": "CPBL (Chinese Professional Baseball League) stats, scores, schedules, and player data for Taiwan's pro baseball.",
+          "archived": false,
+          "updated_at": "2026-09-04T15:12:27.633Z"
+        }
+      ]
+    },
+    {
+      "query": "baseball injury",
+      "url": "https://github.com/search?q=baseball+injury&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:13.144007+00:00",
+      "results": [
+        {
+          "repository": "JaretK/BaseballInjuryLearning",
+          "description": "",
+          "archived": false,
+          "updated_at": "2019-05-02T03:16:50.310Z"
+        },
+        {
+          "repository": "LA-Dodgers-Capstone-Team/API-Web-Scraper-Pipeline",
+          "description": "Houses the notebooks used to create injury datasets for baseball players",
+          "archived": false,
+          "updated_at": "2026-06-10T18:45:41.895Z"
+        },
+        {
+          "repository": "hjoneweek/mlb_injury_recovery_prediction",
+          "description": "This repository provides the data set and the machine learning model to predict the severity of Major League Baseball players' injuries b…",
+          "archived": false,
+          "updated_at": "2026-03-30T09:48:12.265Z"
+        },
+        {
+          "repository": "NAB-hub/Baseball-Analytics-Portfolio",
+          "description": "Baseball analytics projects showcasing R programming, statistical modeling, and player evaluation. Specializing in pitcher performance an…",
+          "archived": false,
+          "updated_at": "2025-12-29T21:23:13.921Z"
+        },
+        {
+          "repository": "nwong22/Baseball_InjuryWatch",
+          "description": "A report to track pitcher metrics over the course of a season to find sources of injury and monitor pitchers health.",
+          "archived": false,
+          "updated_at": "2025-01-27T06:13:55.478Z"
+        },
+        {
+          "repository": "gkjapo/baseball-injury",
+          "description": "This is a small application that uses Pandas to pull information from a website containing several years of baseball injury history, with…",
+          "archived": false,
+          "updated_at": "2021-05-25T15:01:53.679Z"
+        },
+        {
+          "repository": "JackThHanley/Baseball_Injury",
+          "description": "Final Project for Harvey Mudd CS35: Computer Science for Insight",
+          "archived": false,
+          "updated_at": "2019-10-14T03:42:54.995Z"
+        },
+        {
+          "repository": "Nakazato-Yuya/baseball-injury",
+          "description": "怪我の課題の共有ファイル",
+          "archived": false,
+          "updated_at": "2025-11-28T14:18:47.989Z"
+        },
+        {
+          "repository": "andrewmaguiree/baseball-injury-predictor",
+          "description": "trying to predict injury",
+          "archived": false,
+          "updated_at": "2025-08-02T21:52:14.015Z"
+        },
+        {
+          "repository": "hartkemeyerjake/baseball_injury_sites",
+          "description": "Project Management Class GITHUB",
+          "archived": false,
+          "updated_at": "2026-04-28T20:03:58.271Z"
+        }
+      ]
+    },
+    {
+      "query": "baseball biomechanics",
+      "url": "https://github.com/search?q=baseball+biomechanics&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:13.594936+00:00",
+      "results": [
+        {
+          "repository": "drivelineresearch/openbiomechanics",
+          "description": "The open source initiative for anonymized, elite-level athletic motion capture data. Run by Driveline Baseball.",
+          "archived": false,
+          "updated_at": "2026-10-14T05:56:25.955Z"
+        },
+        {
+          "repository": "shihwesley/SamPlaysBaseball",
+          "description": "Pitcher mechanics analyzer: single-camera video → 3D biomechanical analysis using SAM 3D Body. Built for MLB player development.",
+          "archived": false,
+          "updated_at": "2026-04-09T04:10:13.571Z"
+        },
+        {
+          "repository": "yasumorishima/baseball-cv",
+          "description": "Baseball biomechanics from Driveline OpenBiomechanics motion capture (C3D): skeletons, kinematic sequence, body efficiency",
+          "archived": false,
+          "updated_at": "2026-10-08T05:58:33.966Z"
+        },
+        {
+          "repository": "TimBrownDataSci/BioMechanics",
+          "description": "A brief exploration of using Computer Vision frameworks for Biomechanic-analysis. Primarily with respect to a baseball pitching motion.",
+          "archived": false,
+          "updated_at": "2023-05-22T16:30:11.059Z"
+        },
+        {
+          "repository": "collinprather/pyomechanics",
+          "description": "Reproducing Driveline's joint angles in the OpenBiomechanics project",
+          "archived": false,
+          "updated_at": "2025-08-03T18:58:34.567Z"
+        },
+        {
+          "repository": "JacobChin/Baseball-Projects",
+          "description": "Baseball analytics projects that I think are interested using Python, Statcast data, and biomechanical analysis.",
+          "archived": false,
+          "updated_at": "2026-10-16T07:50:30.419Z"
+        },
+        {
+          "repository": "Jmogilevich2/PitchBiomech-AI",
+          "description": "End-to-End Computer Vision + Biomechanical Analysis for Baseball Pitching Mechanics & Performance Prediction",
+          "archived": false,
+          "updated_at": "2026-06-04T00:46:54.505Z"
+        },
+        {
+          "repository": "nanditasanjivi/baseball_biomechanics",
+          "description": "",
+          "archived": false,
+          "updated_at": "2025-07-14T19:36:43.055Z"
+        },
+        {
+          "repository": "benjiboodle/baseballresearch",
+          "description": "Ben Marshall's research in baseball analytics and biomechanics",
+          "archived": false,
+          "updated_at": "2026-01-16T01:54:35.187Z"
+        },
+        {
+          "repository": "spencerbyers15/baseball-biomechanics",
+          "description": "Baseball biomechanics analysis pipeline using pose estimation and video segmentation",
+          "archived": false,
+          "updated_at": "2026-08-26T15:26:59.552Z"
+        }
+      ]
+    },
+    {
+      "query": "college baseball data",
+      "url": "https://github.com/search?q=college+baseball+data&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:15.376086+00:00",
+      "results": [
+        {
+          "repository": "nathanblumenfeld/collegebaseball",
+          "description": "An open-source college baseball analysis package for Python. Includes functionality for data acquisition and calculation of advanced metr…",
+          "archived": false,
+          "updated_at": "2024-01-07T00:29:40.650Z"
+        },
+        {
+          "repository": "CodeMateo15/ncaa_bbStats",
+          "description": "ncaa_bbStats is an open-source Python package for retrieving, parsing, and analyzing college baseball data: NCAA Division I, II, and III …",
+          "archived": false,
+          "updated_at": "2026-09-08T20:05:58.841Z"
+        },
+        {
+          "repository": "ahump20/Texas-Longhorns-Baseball-Intelligence",
+          "description": "Texas Longhorns baseball intelligence for scouting, roster evaluation, and SEC analysis. Integrates program doctrine with live MCP data f…",
+          "archived": false,
+          "updated_at": "2026-07-05T18:15:03.869Z"
+        },
+        {
+          "repository": "jacksongazin2022/CollegeBaseball_Projection_DataBase",
+          "description": "Using Division 1 Stats to forecast minor league performance",
+          "archived": false,
+          "updated_at": "2022-08-21T20:34:59.016Z"
+        },
+        {
+          "repository": "mjhoracek/collegeBaseballStatScraper",
+          "description": "Data scraping bot for https://trovabaseball.com/",
+          "archived": false,
+          "updated_at": "2021-10-13T20:59:20.229Z"
+        },
+        {
+          "repository": "noahcs2002/Diamond-Data",
+          "description": "A baseball stats tracker for the high school and college level of play.",
+          "archived": false,
+          "updated_at": "2025-03-27T19:47:33.845Z"
+        },
+        {
+          "repository": "smorsink1/collegebballR",
+          "description": "Accessing and Analyzing NCAA Baseball Data",
+          "archived": false,
+          "updated_at": "2020-04-21T22:53:53.385Z"
+        },
+        {
+          "repository": "Chandanaramesh-cr/diamond-kg",
+          "description": "Knowledge graph for college baseball data using Neo4j, Python web scraping, and GitHub Gists",
+          "archived": false,
+          "updated_at": "2026-03-16T20:07:06.588Z"
+        },
+        {
+          "repository": "willrod31/Weather-Correlation-",
+          "description": "This project analyzes Hanover College baseball’s 2025 season by combining scraped schedules with historical weather data. Using Python, S…",
+          "archived": false,
+          "updated_at": "2026-09-20T03:26:48.588Z"
+        },
+        {
+          "repository": "braytonst4/College-baseball-sim-data",
+          "description": "NCAA Baseball database",
+          "archived": false,
+          "updated_at": "2026-08-30T00:58:42.778Z"
+        }
+      ]
+    },
+    {
+      "query": "baseball salary",
+      "url": "https://github.com/search?q=baseball+salary&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:15.886624+00:00",
+      "results": [
+        {
+          "repository": "chelm/mlb_viz",
+          "description": "An exploration salaries and payrolls across Major League Baseball teams and players ",
+          "archived": false,
+          "updated_at": "2014-02-21T14:56:30.000Z"
+        },
+        {
+          "repository": "nurrturkaslan/Salary-Prediction-with-Machine-Learning",
+          "description": "We have a dataset of user performances. The project is to develop a machine learning model that will predict the salaries of baseball pla…",
+          "archived": false,
+          "updated_at": "2021-10-17T08:31:08.485Z"
+        },
+        {
+          "repository": "eric8395/baseball-analytics",
+          "description": "Predicting MLB player salaries and team wins with machine learning regression models. ",
+          "archived": false,
+          "updated_at": "2023-08-10T21:20:42.882Z"
+        },
+        {
+          "repository": "pinar-oner/end_to_end_hitters_ml",
+          "description": "Can a machine learning project be implemented to estimate the salaries of baseball players whose salary information and career statistics…",
+          "archived": false,
+          "updated_at": "2021-10-27T22:00:52.235Z"
+        },
+        {
+          "repository": "kool814/MLB-Player-Valuations",
+          "description": "Analysis of Major League Baseball Player value through salary compensation",
+          "archived": false,
+          "updated_at": "2018-08-20T01:50:53.152Z"
+        },
+        {
+          "repository": "SerdarTafrali/Baseball_Players_Salary_Prediction_Machine_Learning",
+          "description": "Baseball Players Salary Prediction with Regression Techniques",
+          "archived": false,
+          "updated_at": "2022-07-29T18:34:39.752Z"
+        },
+        {
+          "repository": "Safae26/ridge-and-lasso-regression",
+          "description": "ML project comparing Ridge & Lasso regression to predict baseball player salaries. Includes EDA, feature engineering, and regularization …",
+          "archived": false,
+          "updated_at": "2025-11-12T22:27:41.870Z"
+        },
+        {
+          "repository": "anyren/baseball_salary_analysis",
+          "description": "Machine Learning research project to determine if we can predict a Major League Baseball player's salary based on batting statistics.",
+          "archived": false,
+          "updated_at": "2022-12-06T02:21:28.168Z"
+        },
+        {
+          "repository": "MerveKirisci/Salary-Prediction-of-Baseball-Players",
+          "description": "",
+          "archived": false,
+          "updated_at": "2022-08-11T09:41:17.023Z"
+        },
+        {
+          "repository": "zulqar-abbas/Baseball-Salaries-Analysis",
+          "description": "Salaries over Time in Major League Baseball from 1988-2016",
+          "archived": false,
+          "updated_at": "2020-05-08T22:37:05.148Z"
+        }
+      ]
+    },
+    {
+      "query": "japan baseball data",
+      "url": "https://github.com/search?q=japan+baseball+data&type=repositories&s=stars&o=desc",
+      "status": 200,
+      "checked_at": "2026-10-21T10:20:17.299187+00:00",
+      "results": [
+        {
+          "repository": "armstjc/Nippon-Baseball-Data-Repository",
+          "description": "Holds public data for the Nippon Professional Baseball (NPB) League, a professional baseball league based in Japan.",
+          "archived": false,
+          "updated_at": "2026-10-02T22:12:03.501Z"
+        },
+        {
+          "repository": "tyler-janak/Japanese-Baseball-to-MLB",
+          "description": "Using data from Baseball Reference, I look into Japanese baseball data and forecast players who will come to the MLB in their career.",
+          "archived": false,
+          "updated_at": "2025-04-29T05:37:18.886Z"
+        },
+        {
+          "repository": "japanprospectlab/data",
+          "description": "Open data on Japanese amateur baseball prospects — high school, university, corporate and independent leagues. Velocity in mph, sources l…",
+          "archived": false,
+          "updated_at": "2026-09-29T23:07:49.840Z"
+        },
+        {
+          "repository": "ss77995ss/koshien-pbp-data",
+          "description": "Collect Japan High School Baseball Tournament Pitch-by-Pitch Data",
+          "archived": false,
+          "updated_at": "2024-09-07T17:17:35.208Z"
+        },
+        {
+          "repository": "arvizzoni/MiLB-indy-JAP-KOR-data",
+          "description": "Data from Independent, Japanese, Korean and Minor baseball leagues",
+          "archived": false,
+          "updated_at": "2024-02-03T20:43:44.592Z"
+        },
+        {
+          "repository": "rauta0127/Probspace-Baseball-Challenge-4thPlace-Solution",
+          "description": "Probspace baseball challenge 4th place solution. This competition involved analyzing data from Japanese professional baseball to predict …",
+          "archived": false,
+          "updated_at": "2024-04-11T13:02:59.911Z"
+        },
+        {
+          "repository": "leejeongeunnnn/npb_dashboard",
+          "description": "A customizable, real-time monitoring system for Japanese Professional Baseball (NPB) data. This project provides an integrated environmen…",
+          "archived": false,
+          "updated_at": "2026-10-11T08:56:48.189Z"
+        }
+      ]
+    },
+    {
+      "query": "baseball park data",
+      "url": "https://github.com/search?q=baseball+park+data&type=repositories&s=stars&o=desc",
+      "status": 429,
+      "checked_at": "2026-10-21T10:20:17.616917+00:00",
+      "results": []
+    }
+  ]
+}

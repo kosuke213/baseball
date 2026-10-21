@@ -108,6 +108,8 @@ DH制、9回制、既定12回打ち切り引き分け。ファウルは2スト�
 
 ## 検証と次の段階
 
+Phase 2の第1段階として、[データ・情報源の収集先台帳](docs/data-sources/README.md) を追加しました。[調査結果](docs/data-sources/findings.md) と [Excel向け一覧](data_sources/sources.csv) もあります。ここでは取得先と条件を調査し、実データのサンプル取得や確率モデルの学習は次の段階に分けています。
+
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。

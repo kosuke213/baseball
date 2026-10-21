@@ -1,0 +1,69 @@
+{
+  "scope": "Stage-1 corrected entry URLs; old response metadata preserved",
+  "corrections": [
+    {
+      "id": "S005",
+      "previous_url": "https://baseballsavant.mlb.com/leaderboard/sprint-speed",
+      "new_url": "https://baseballsavant.mlb.com/leaderboard/sprint_speed",
+      "reason": "以前のハイフン区切りURLは404。公式の別表記URLが200でタイトルを確認。",
+      "previous_check": {
+        "url": "https://baseballsavant.mlb.com/leaderboard/sprint-speed",
+        "checked_at": "2026-10-21T10:34:23.578981+00:00",
+        "method": "GET",
+        "max_response_bytes": 131072,
+        "http_status": 404,
+        "status": "http_error",
+        "retry_after": null
+      },
+      "review_date": "2026-10-21"
+    },
+    {
+      "id": "S006",
+      "previous_url": "https://baseballsavant.mlb.com/leaderboard/outs-above-average",
+      "new_url": "https://baseballsavant.mlb.com/leaderboard/outs_above_average",
+      "reason": "以前のハイフン区切りURLは404。公式の別表記URLが200でタイトルを確認。",
+      "previous_check": {
+        "url": "https://baseballsavant.mlb.com/leaderboard/outs-above-average",
+        "checked_at": "2026-10-21T10:34:22.308294+00:00",
+        "method": "GET",
+        "max_response_bytes": 131072,
+        "http_status": 404,
+        "status": "http_error",
+        "retry_after": null
+      },
+      "review_date": "2026-10-21"
+    },
+    {
+      "id": "S008",
+      "previous_url": "https://baseballsavant.mlb.com/leaderboard/pop-time",
+      "new_url": "https://baseballsavant.mlb.com/leaderboard/poptime",
+      "reason": "以前のハイフン区切りURLは404。公式の別表記URLが200でタイトルを確認。",
+      "previous_check": {
+        "url": "https://baseballsavant.mlb.com/leaderboard/pop-time",
+        "checked_at": "2026-10-21T10:34:23.250354+00:00",
+        "method": "GET",
+        "max_response_bytes": 131072,
+        "http_status": 404,
+        "status": "http_error",
+        "retry_after": null
+      },
+      "review_date": "2026-10-21"
+    },
+    {
+      "id": "S092",
+      "previous_url": "https://www.mlb.com/official-information/official-rules",
+      "new_url": "https://www.mlb.com/official-information",
+      "reason": "旧official-rulesパスは404。公式情報ページに規則PDFへのリンクがあることを確認。",
+      "previous_check": {
+        "url": "https://www.mlb.com/official-information/official-rules",
+        "checked_at": "2026-10-21T10:35:30.044612+00:00",
+        "method": "GET",
+        "max_response_bytes": 131072,
+        "http_status": 404,
+        "status": "http_error",
+        "retry_after": null
+      },
+      "review_date": "2026-10-21"
+    }
+  ]
+}
