@@ -1,0 +1,267 @@
+﻿park_id,source_code,name_as_published,city,region,metadata_status
+retrosheet:park:ALB01,ALB01,Riverside Park,Albany,NY,documented
+retrosheet:park:ALT01,ALT01,Columbia Park,Altoona,PA,documented
+retrosheet:park:ANA01,ANA01,Angel Stadium of Anaheim,Anaheim,CA,documented
+retrosheet:park:ARL01,ARL01,Arlington Stadium,Arlington,TX,documented
+retrosheet:park:ARL02,ARL02,Rangers Ballpark in Arlington,Arlington,TX,documented
+retrosheet:park:ARL03,ARL03,Globe Life Field in Arlington,Arlington,TX,documented
+retrosheet:park:ATL01,ATL01,Atlanta-Fulton County Stadium,Atlanta,GA,documented
+retrosheet:park:ATL02,ATL02,Turner Field,Atlanta,GA,documented
+retrosheet:park:ATL03,ATL03,Suntrust Park,Atlanta,GA,documented
+retrosheet:park:BAL01,BAL01,Madison Avenue Grounds,Baltimore,MD,documented
+retrosheet:park:BAL02,BAL02,Newington Park,Baltimore,MD,documented
+retrosheet:park:BAL03,BAL03,Oriole Park I,Baltimore,MD,documented
+retrosheet:park:BAL04,BAL04,Belair Lot,Baltimore,MD,documented
+retrosheet:park:BAL05,BAL05,Monumental Park,Baltimore,MD,documented
+retrosheet:park:BAL06,BAL06,Oriole Park II,Baltimore,MD,documented
+retrosheet:park:BAL07,BAL07,Oriole Park III,Baltimore,MD,documented
+retrosheet:park:BAL09,BAL09,Oriole Park IV,Baltimore,MD,documented
+retrosheet:park:BAL10,BAL10,Terrapin Park,Baltimore,MD,documented
+retrosheet:park:BAL11,BAL11,Memorial Stadium,Baltimore,MD,documented
+retrosheet:park:BAL12,BAL12,Oriole Park at Camden Yards,Baltimore,MD,documented
+retrosheet:park:BIR01,BIR01,,,,unresolved
+retrosheet:park:BOS01,BOS01,South End Grounds I,Boston,MA,documented
+retrosheet:park:BOS02,BOS02,Dartmouth Grounds,Boston,MA,documented
+retrosheet:park:BOS03,BOS03,South End Grounds II,Boston,MA,documented
+retrosheet:park:BOS04,BOS04,Congress Street Grounds,Boston,MA,documented
+retrosheet:park:BOS05,BOS05,South End Grounds III,Boston,MA,documented
+retrosheet:park:BOS06,BOS06,Huntington Avenue Baseball Grounds,Boston,MA,documented
+retrosheet:park:BOS07,BOS07,Fenway Park,Boston,MA,documented
+retrosheet:park:BOS08,BOS08,Braves Field,Boston,MA,documented
+retrosheet:park:BST01,BST01,,,,unresolved
+retrosheet:park:BUF01,BUF01,Riverside Grounds,Buffalo,NY,documented
+retrosheet:park:BUF02,BUF02,Olympic Park I,Buffalo,NY,documented
+retrosheet:park:BUF03,BUF03,Olympic Park II,Buffalo,NY,documented
+retrosheet:park:BUF04,BUF04,International Fair Association Grounds,Buffalo,NY,documented
+retrosheet:park:BUF05,BUF05,Sahlen Field,Buffalo,NY,documented
+retrosheet:park:CAN01,CAN01,Mahaffey Park,Canton,OH,documented
+retrosheet:park:CAN02,CAN02,Pastime Park,Canton,OH,documented
+retrosheet:park:CHI01,CHI01,Lake Front Park I,Chicago,IL,documented
+retrosheet:park:CHI02,CHI02,23rd Street Park,Chicago,IL,documented
+retrosheet:park:CHI03,CHI03,Lake Front Park II,Chicago,IL,documented
+retrosheet:park:CHI04,CHI04,Lake Front Park III,Chicago,IL,documented
+retrosheet:park:CHI05,CHI05,South Side Park I,Chicago,IL,documented
+retrosheet:park:CHI06,CHI06,West Side Park,Chicago,IL,documented
+retrosheet:park:CHI07,CHI07,South Side Park II,Chicago,IL,documented
+retrosheet:park:CHI08,CHI08,West Side Grounds,Chicago,IL,documented
+retrosheet:park:CHI09,CHI09,South Side Park III,Chicago,IL,documented
+retrosheet:park:CHI10,CHI10,Comiskey Park I,Chicago,IL,documented
+retrosheet:park:CHI11,CHI11,Wrigley Field,Chicago,IL,documented
+retrosheet:park:CHI12,CHI12,Guaranteed Rate Field;U.S. Cellular Field,Chicago,IL,documented
+retrosheet:park:CIN01,CIN01,Lincoln Park Grounds,Cincinnati,OH,documented
+retrosheet:park:CIN02,CIN02,Avenue Grounds,Cincinnati,OH,documented
+retrosheet:park:CIN03,CIN03,Bank Street Grounds,Cincinnati,OH,documented
+retrosheet:park:CIN04,CIN04,League Park I,Cincinnati,OH,documented
+retrosheet:park:CIN05,CIN05,League Park II,Cincinnati,OH,documented
+retrosheet:park:CIN06,CIN06,Palace of the Fans,Cincinnati,OH,documented
+retrosheet:park:CIN07,CIN07,Crosley Field,Cincinnati,OH,documented
+retrosheet:park:CIN08,CIN08,Cinergy Field,Cincinnati,OH,documented
+retrosheet:park:CIN09,CIN09,Great American Ballpark,Cincinnati,OH,documented
+retrosheet:park:CLE01,CLE01,National Association Grounds,Cleveland,OH,documented
+retrosheet:park:CLE02,CLE02,League Park I,Cleveland,OH,documented
+retrosheet:park:CLE03,CLE03,League Park II,Cleveland,OH,documented
+retrosheet:park:CLE04,CLE04,Brotherhood Park,Cleveland,OH,documented
+retrosheet:park:CLE05,CLE05,League Park III,Cleveland,OH,documented
+retrosheet:park:CLE06,CLE06,League Park IV,Cleveland,OH,documented
+retrosheet:park:CLE07,CLE07,Cleveland Stadium,Cleveland,OH,documented
+retrosheet:park:CLE08,CLE08,Progressive Field,Cleveland,OH,documented
+retrosheet:park:CLE09,CLE09,Cedar Avenue Driving Park,Cleveland,OH,documented
+retrosheet:park:CLL01,CLL01,Euclid Beach Park,Collinwood,OH,documented
+retrosheet:park:COL01,COL01,Recreation Park I,Columbus,OH,documented
+retrosheet:park:COL02,COL02,Recreation Park II,Columbus,OH,documented
+retrosheet:park:COL03,COL03,Neil Park I,Columbus,OH,documented
+retrosheet:park:COL04,COL04,Neil Park II,Columbus,OH,documented
+retrosheet:park:COV01,COV01,Star Baseball Park,Covington,KY,documented
+retrosheet:park:DAY01,DAY01,Fairview Park,Dayton,OH,documented
+retrosheet:park:DEN01,DEN01,Mile High Stadium,Denver,CO,documented
+retrosheet:park:DEN02,DEN02,Coors Field,Denver,CO,documented
+retrosheet:park:DET01,DET01,Recreation Park,Detroit,MI,documented
+retrosheet:park:DET02,DET02,Bennett Park,Detroit,MI,documented
+retrosheet:park:DET03,DET03,Burns Park,Detroit,MI,documented
+retrosheet:park:DET04,DET04,Tiger Stadium,Detroit,MI,documented
+retrosheet:park:DET05,DET05,Comerica Park,Detroit,MI,documented
+retrosheet:park:DOV01,DOV01,Fairview Park Fair Grounds,Dover,DE,documented
+retrosheet:park:DUN01,DUN01,TD Ballpark,Dunedin,FL,documented
+retrosheet:park:DYE01,DYE01,Field of Dreams,Dyersville,IA,documented
+retrosheet:park:ELM01,ELM01,Maple Avenue Driving Park,Elmira,NY,documented
+retrosheet:park:FOR01,FOR01,Grand Duchess,Fort Wayne,IN,documented
+retrosheet:park:FOR02,FOR02,Swinney Park,Fort Wayne,IN,documented
+retrosheet:park:FOR03,FOR03,Jailhouse Flats,Fort Wayne,IN,documented
+retrosheet:park:FTB01,FTB01,Fort Bragg Field,Fort Bragg,NC,documented
+retrosheet:park:GEA01,GEA01,Geauga Lake Grounds,Geauga Lake,OH,documented
+retrosheet:park:GLO01,GLO01,Gloucester Point Grounds,Gloucester City,NJ,documented
+retrosheet:park:GLO02,GLO02,Gloucester Fireworks Park,Gloucester City,NJ,documented
+retrosheet:park:GRA01,GRA01,Ramona Park,Grand Rapids,MI,documented
+retrosheet:park:HAR01,HAR01,Harrison Field,Harrison,NJ,documented
+retrosheet:park:HON01,HON01,Aloha Stadium,Honolulu,HI,documented
+retrosheet:park:HOU01,HOU01,Colt Stadium,Houston,TX,documented
+retrosheet:park:HOU02,HOU02,Astrodome,Houston,TX,documented
+retrosheet:park:HOU03,HOU03,Minute Maid Park,Houston,TX,documented
+retrosheet:park:HRT01,HRT01,Hartford Ball Club Grounds,Hartford,CT,documented
+retrosheet:park:HRT02,HRT02,Hartford Trotting Park,Hartford,CT,documented
+retrosheet:park:IND01,IND01,South Street Park,Indianapolis,IN,documented
+retrosheet:park:IND02,IND02,Seventh Street Park I,Indianapolis,IN,documented
+retrosheet:park:IND03,IND03,Bruce Grounds,Indianapolis,IN,documented
+retrosheet:park:IND04,IND04,Seventh Street Park II,Indianapolis,IN,documented
+retrosheet:park:IND05,IND05,Seventh Street Park III,Indianapolis,IN,documented
+retrosheet:park:IND06,IND06,Indianapolis Park,Indianapolis,IN,documented
+retrosheet:park:IND07,IND07,Federal League Park,Indianapolis,IN,documented
+retrosheet:park:IRO01,IRO01,Windsor Beach,Irondequoit,NY,documented
+retrosheet:park:JER01,JER01,Oakdale Park,Jersey City,NJ,documented
+retrosheet:park:JER02,JER02,Roosevelt Stadium,Jersey City,NJ,documented
+retrosheet:park:KAN01,KAN01,Athletic Park,Kansas City,MO,documented
+retrosheet:park:KAN02,KAN02,Association Park,Kansas City,MO,documented
+retrosheet:park:KAN03,KAN03,Exposition Park,Kansas City,MO,documented
+retrosheet:park:KAN04,KAN04,Gordon and Koppel Field,Kansas City,MO,documented
+retrosheet:park:KAN05,KAN05,Municipal Stadium,Kansas City,MO,documented
+retrosheet:park:KAN06,KAN06,Kauffman Stadium,Kansas City,MO,documented
+retrosheet:park:KEO01,KEO01,Perry Park,Keokuk,IA,documented
+retrosheet:park:LAS01,LAS01,Cashman Field,Las Vegas,NV,documented
+retrosheet:park:LBV01,LBV01,The Ballpark at Disney's Wide World,Lake Buena Vista,FL,documented
+retrosheet:park:LON01,LON01,London Stadium,London,England,documented
+retrosheet:park:LOS01,LOS01,Los Angeles Memorial Coliseum,Los Angeles,CA,documented
+retrosheet:park:LOS02,LOS02,Wrigley Field,Los Angeles,CA,documented
+retrosheet:park:LOS03,LOS03,Dodger Stadium,Los Angeles,CA,documented
+retrosheet:park:LOU01,LOU01,Louisville Baseball Park,Louisville,KY,documented
+retrosheet:park:LOU02,LOU02,Eclipse Park I,Louisville,KY,documented
+retrosheet:park:LOU03,LOU03,Eclipse Park II,Louisville,KY,documented
+retrosheet:park:LOU04,LOU04,Eclipse Park III,Louisville,KY,documented
+retrosheet:park:LUD01,LUD01,Ludlow Baseball Park,Ludlow,KY,documented
+retrosheet:park:MAS01,MAS01,Long Island Grounds,Maspeth,NY,documented
+retrosheet:park:MEX02,MEX02,,,,unresolved
+retrosheet:park:MIA01,MIA01,Sun Life Stadium,Miami,FL,documented
+retrosheet:park:MIA02,MIA02,Marlins Park,Miami,FL,documented
+retrosheet:park:MID01,MID01,Mansfield Club Grounds,Middletown,CT,documented
+retrosheet:park:MIL01,MIL01,Milwaukee Base-Ball Grounds,Milwaukee,WI,documented
+retrosheet:park:MIL02,MIL02,Wright Street Grounds,Milwaukee,WI,documented
+retrosheet:park:MIL03,MIL03,Athletic Park,Milwaukee,WI,documented
+retrosheet:park:MIL04,MIL04,Lloyd Street Grounds,Milwaukee,WI,documented
+retrosheet:park:MIL05,MIL05,County Stadium,Milwaukee,WI,documented
+retrosheet:park:MIL06,MIL06,Miller Park,Milwaukee,WI,documented
+retrosheet:park:MIN01,MIN01,Athletic Park,Minneapolis,MN,documented
+retrosheet:park:MIN02,MIN02,Metropolitan Stadium,Bloomington,MN,documented
+retrosheet:park:MIN03,MIN03,Hubert H. Humphrey Metrodome,Minneapolis,MN,documented
+retrosheet:park:MIN04,MIN04,Target Field,Minneapolis,MN,documented
+retrosheet:park:MNT01,MNT01,Estadio Monterrey,Monterrey,MX,documented
+retrosheet:park:MON01,MON01,Parc Jarry,Montreal,QUE,documented
+retrosheet:park:MON02,MON02,Stade Olympique,Montreal,QUE,documented
+retrosheet:park:NEW01,NEW01,Howard Avenue Grounds,New Haven,CT,documented
+retrosheet:park:NEW02,NEW02,Hamilton Park,New Haven,CT,documented
+retrosheet:park:NEW03,NEW03,Beyerle's Park,Newburgh Township,OH,documented
+retrosheet:park:NWK01,NWK01,Wiedenmeyer's Park,Newark,NJ,documented
+retrosheet:park:NYC01,NYC01,Union Grounds,Brooklyn,NY,documented
+retrosheet:park:NYC02,NYC02,Capitoline Grounds,Brooklyn,NY,documented
+retrosheet:park:NYC03,NYC03,Polo Grounds I (Southeast Diamond),New York,NY,documented
+retrosheet:park:NYC04,NYC04,Polo Grounds II (Southwest Diamond),New York,NY,documented
+retrosheet:park:NYC05,NYC05,Washington Park I,Brooklyn,NY,documented
+retrosheet:park:NYC06,NYC06,Metropolitan Park,New York,NY,documented
+retrosheet:park:NYC07,NYC07,Grauer's Ridgewood Park,Queens,NY,documented
+retrosheet:park:NYC08,NYC08,Washington Park II,Brooklyn,NY,documented
+retrosheet:park:NYC09,NYC09,Polo Grounds III,New York,NY,documented
+retrosheet:park:NYC10,NYC10,Polo Grounds IV,New York,NY,documented
+retrosheet:park:NYC11,NYC11,Eastern Park,Brooklyn,NY,documented
+retrosheet:park:NYC12,NYC12,Washington Park III,Brooklyn,NY,documented
+retrosheet:park:NYC13,NYC13,Hilltop Park,New York,NY,documented
+retrosheet:park:NYC14,NYC14,Polo Grounds V,New York,NY,documented
+retrosheet:park:NYC15,NYC15,Ebbets Field,Brooklyn,NY,documented
+retrosheet:park:NYC16,NYC16,Yankee Stadium I,New York,NY,documented
+retrosheet:park:NYC17,NYC17,Shea Stadium,New York,NY,documented
+retrosheet:park:NYC18,NYC18,Wallace's Ridgewood Park,Queens,NY,documented
+retrosheet:park:NYC19,NYC19,Washington Park IV,Brooklyn,NY,documented
+retrosheet:park:NYC20,NYC20,Citi Field,New York,NY,documented
+retrosheet:park:NYC21,NYC21,Yankee Stadium II,New York,NY,documented
+retrosheet:park:OAK01,OAK01,Oakland-Alameda County Coliseum,Oakland,CA,documented
+retrosheet:park:OMA01,OMA01,TD Ameritrade Park,Omaha,NE,documented
+retrosheet:park:PEN01,PEN01,East End Park,Cincinnati,OH,documented
+retrosheet:park:PHI01,PHI01,Jefferson Street Grounds,Philadelphia,PA,documented
+retrosheet:park:PHI02,PHI02,Centennial Park,Philadelphia,PA,documented
+retrosheet:park:PHI03,PHI03,Oakdale Park,Philadelphia,PA,documented
+retrosheet:park:PHI04,PHI04,Recreation Park,Philadelphia,PA,documented
+retrosheet:park:PHI05,PHI05,Keystone Park,Philadelphia,PA,documented
+retrosheet:park:PHI06,PHI06,Huntingdon Grounds I,Philadelphia,PA,documented
+retrosheet:park:PHI07,PHI07,Forepaugh Park,Philadelphia,PA,documented
+retrosheet:park:PHI08,PHI08,University of Penn. Athletic Field,Philadelphia,PA,documented
+retrosheet:park:PHI09,PHI09,Baker Bowl,Philadelphia,PA,documented
+retrosheet:park:PHI10,PHI10,Columbia Park,Philadelphia,PA,documented
+retrosheet:park:PHI11,PHI11,Shibe Park,Philadelphia,PA,documented
+retrosheet:park:PHI12,PHI12,Veterans Stadium,Philadelphia,PA,documented
+retrosheet:park:PHI13,PHI13,Citizens Bank Park,Philadelphia,PA,documented
+retrosheet:park:PHI14,PHI14,Huntingdon Grounds II,Philadelphia,PA,documented
+retrosheet:park:PHO01,PHO01,Chase Field,Phoenix,AZ,documented
+retrosheet:park:PIT01,PIT01,Union Park,Pittsburgh,PA,documented
+retrosheet:park:PIT02,PIT02,Exposition Park I,Pittsburgh,PA,documented
+retrosheet:park:PIT03,PIT03,Exposition Park II,Pittsburgh,PA,documented
+retrosheet:park:PIT04,PIT04,Recreation Park,Pittsburgh,PA,documented
+retrosheet:park:PIT05,PIT05,Exposition Park III,Pittsburgh,PA,documented
+retrosheet:park:PIT06,PIT06,Forbes Field,Pittsburgh,PA,documented
+retrosheet:park:PIT07,PIT07,Three Rivers Stadium,Pittsburgh,PA,documented
+retrosheet:park:PIT08,PIT08,PNC Park,Pittsburgh,PA,documented
+retrosheet:park:PRO01,PRO01,Adelaide Avenue Grounds,Providence,RI,documented
+retrosheet:park:PRO02,PRO02,Messer Street Grounds,Providence,RI,documented
+retrosheet:park:RCK01,RCK01,Agricultural Society Fair Grounds,Rockford,IL,documented
+retrosheet:park:RIC01,RIC01,Richmond Fair Grounds,Richmond,VA,documented
+retrosheet:park:RIC02,RIC02,Allens Pasture,Richmond,VA,documented
+retrosheet:park:ROC01,ROC01,Culver Field I,Rochester,NY,documented
+retrosheet:park:ROC02,ROC02,Culver Field II,Rochester,NY,documented
+retrosheet:park:ROC03,ROC03,Ontario Beach Grounds,Rochester,NY,documented
+retrosheet:park:SAC01,SAC01,,,,unresolved
+retrosheet:park:SAI01,SAI01,St. George Cricket Grounds,New York,NY,documented
+retrosheet:park:SAN01,SAN01,Qualcomm Stadium,San Diego,CA,documented
+retrosheet:park:SAN02,SAN02,PETCO Park,San Diego,CA,documented
+retrosheet:park:SEA01,SEA01,Sick's Stadium,Seattle,WA,documented
+retrosheet:park:SEA02,SEA02,Kingdome,Seattle,WA,documented
+retrosheet:park:SEA03,SEA03,Safeco Field,Seattle,WA,documented
+retrosheet:park:SEO01,SEO01,,,,unresolved
+retrosheet:park:SFO01,SFO01,Seals Stadium,San Francisco,CA,documented
+retrosheet:park:SFO02,SFO02,Candlestick Park,San Francisco,CA,documented
+retrosheet:park:SFO03,SFO03,AT&T Park,San Francisco,CA,documented
+retrosheet:park:SJU01,SJU01,Estadio Hiram Bithorn,San Juan,PR,documented
+retrosheet:park:SPR01,SPR01,Hampden Park Race Track,Springfield,MA,documented
+retrosheet:park:STL01,STL01,Red Stockings Base Ball Park,St. Louis,MO,documented
+retrosheet:park:STL02,STL02,Grand Avenue Park,St. Louis,MO,documented
+retrosheet:park:STL03,STL03,Sportsman's Park I,St. Louis,MO,documented
+retrosheet:park:STL04,STL04,Union Grounds,St. Louis,MO,documented
+retrosheet:park:STL05,STL05,Robison Field,St. Louis,MO,documented
+retrosheet:park:STL06,STL06,Sportsman's Park II,St. Louis,MO,documented
+retrosheet:park:STL07,STL07,Sportsman's Park III,St. Louis,MO,documented
+retrosheet:park:STL08,STL08,Handlan's Park,St. Louis,MO,documented
+retrosheet:park:STL09,STL09,Busch Stadium II,St. Louis,MO,documented
+retrosheet:park:STL10,STL10,Busch Stadium III,St. Louis,MO,documented
+retrosheet:park:STP01,STP01,Tropicana Field,St. Petersburg,FL,documented
+retrosheet:park:SYD01,SYD01,Sydney Cricket Ground,Sydney,Australia,documented
+retrosheet:park:SYR01,SYR01,Star Park I,Syracuse,NY,documented
+retrosheet:park:SYR02,SYR02,Star Park II,Syracuse,NY,documented
+retrosheet:park:SYR03,SYR03,Iron Pier,Syracuse,NY,documented
+retrosheet:park:TAM02,TAM02,,,,unresolved
+retrosheet:park:THR01,THR01,Three Rivers Park,Three Rivers,NY,documented
+retrosheet:park:TOK01,TOK01,Tokyo Dome,Tokyo,JAP,documented
+retrosheet:park:TOL01,TOL01,League Park,Toledo,OH,documented
+retrosheet:park:TOL02,TOL02,Tri-State Fair Grounds,Toledo,OH,documented
+retrosheet:park:TOL03,TOL03,Speranza Park,Toledo,OH,documented
+retrosheet:park:TOL04,TOL04,Armory Park,Toledo,OH,documented
+retrosheet:park:TOR01,TOR01,Exhibition Stadium,Toronto,ONT,documented
+retrosheet:park:TOR02,TOR02,Rogers Centre,Toronto,ONT,documented
+retrosheet:park:TRO01,TRO01,Haymakers' Grounds,Troy,NY,documented
+retrosheet:park:TRO02,TRO02,Putnam Grounds,Troy,NY,documented
+retrosheet:park:WAR01,WAR01,Rocky Point Park,Warwick,RI,documented
+retrosheet:park:WAS01,WAS01,Olympic Grounds,Washington,DC,documented
+retrosheet:park:WAS02,WAS02,National Grounds,Washington,DC,documented
+retrosheet:park:WAS03,WAS03,Capitol Grounds,Washington,DC,documented
+retrosheet:park:WAS04,WAS04,Athletic Park,Washington,DC,documented
+retrosheet:park:WAS05,WAS05,Swampoodle Grounds,Washington,DC,documented
+retrosheet:park:WAS06,WAS06,Boundary Field,Washington,DC,documented
+retrosheet:park:WAS07,WAS07,American League Park I,Washington,DC,documented
+retrosheet:park:WAS08,WAS08,American League Park II,Washington,DC,documented
+retrosheet:park:WAS09,WAS09,Griffith Stadium,Washington,DC,documented
+retrosheet:park:WAS10,WAS10,Robert F. Kennedy Stadium,Washington,DC,documented
+retrosheet:park:WAS11,WAS11,Nationals Park,Washington,DC,documented
+retrosheet:park:WAT01,WAT01,Troy Ball Club Grounds,Watervliet,NY,documented
+retrosheet:park:WAV01,WAV01,Waverly Fairgrounds,Waverly,NJ,documented
+retrosheet:park:WEE01,WEE01,Monitor Grounds,Weehawken,NJ,documented
+retrosheet:park:WHE01,WHE01,Island Grounds,Wheeling,WV,documented
+retrosheet:park:WIL01,WIL01,Union Street Park,Wilmington,DE,documented
+retrosheet:park:WIL02,WIL02,BB&T Ballpark at Bowman Field,Williamsport,PA,documented
+retrosheet:park:WNY01,WNY01,West New York Field Club Grounds,West New York,NJ,documented
+retrosheet:park:WOR01,WOR01,Agricultural County Fair Grounds I,Worcester,MA,documented
+retrosheet:park:WOR02,WOR02,Agricultural County Fair Grounds II,Worcester,MA,documented
+retrosheet:park:WOR03,WOR03,Worcester Driving Park Grounds,Worcester,MA,documented

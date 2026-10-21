@@ -28,4 +28,4 @@ with sqlite3.connect("data_sources/catalog.sqlite3") as connection:
         print(row)
 ```
 
-本体データや第三者のページ全文、資格情報はこのディレクトリには含めていません。公開ページの入口の成功と、データ取得・条件確認の完了を区別して利用してください。
+台帳自体には本体データ・第三者のページ全文・資格情報を含めていません。[pilot/](pilot/README.md) と [warehouse/](warehouse/README.md) は、確認した条件に基づく加工済みDBと検査結果の別成果物です。公開ページの入口の成功と、データ取得・条件確認の完了を区別して利用してください。

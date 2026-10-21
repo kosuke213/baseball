@@ -1,0 +1,40 @@
+name: Baseball data warehouse
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * 1'
+permissions:
+  contents: read
+concurrency:
+  group: baseball-data-warehouse
+  cancel-in-progress: false
+jobs:
+  collect-and-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache@v4
+        with:
+          path: data/research/pilot/raw
+          key: baseball-raw-${{ hashFiles('data_sources/warehouse/plan.json', 'data_sources/warehouse/lock.json') }}
+      - name: Collect the fixed plan and validate all partitions
+        run: python -m data_collection.warehouse run
+      - name: Check mutable URLs without promoting revisions
+        run: python -m data_collection.warehouse check-updates
+      - name: Preserve database, source manifest and audit results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: baseball-warehouse-${{ github.run_id }}
+          retention-days: 14
+          if-no-files-found: error
+          path: |
+            data_sources/warehouse/database_bundle.zip
+            data_sources/warehouse/quality.json
+            data_sources/warehouse/manifest.json
+            data_sources/warehouse/update_check.json
+            data/research/warehouse/last_acquisition.json

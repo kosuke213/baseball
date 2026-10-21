@@ -246,7 +246,11 @@ def validate_plays(games, plays_rows, selected):
         check([int(p["pn"]) for p in seq] == list(range(1, len(seq) + 1)), "play_sequence", gid, None)
         for index, p in enumerate(seq):
             pre, post = int(p["outs_pre"]), int(p["outs_post"])
-            check(0 <= pre <= 2 and pre <= post <= 3, "outs_range", gid, p["pn"])
+            # Some records retain lineup changes after the third out as NP.
+            between_innings_np = (p.get("event") == "NP" and pre == post == 3
+                                  and p.get("pa") == "0" and p["runs"] == "0")
+            check((0 <= pre <= 2 and pre <= post <= 3) or between_innings_np,
+                  "outs_range", gid, p["pn"])
             side = int(p["vis_home"])
             check(side in (0, 1) and p["batteam"] == g["field_004" if side == 0 else "field_007"],
                   "batting_team", gid, p["pn"])
@@ -260,7 +264,23 @@ def validate_plays(games, plays_rows, selected):
                 if same_half:
                     check(post == int(nxt["outs_pre"]), "outs_transition", gid, p["pn"])
                     # Pinch runners change identity without changing base occupancy.
-                    check(all(bool(p[f"br{b}_post"]) == bool(nxt[f"br{b}_pre"]) for b in (1, 2, 3)),
+                    occupancy_matches = all(bool(p[f"br{b}_post"]) == bool(nxt[f"br{b}_pre"]) for b in (1, 2, 3))
+                    # In 2023-2025 MLB regular-season files, leading NP rows may
+                    # precede placement of the extra-inning runner on second.
+                    # Recognize this narrow boundary; do not waive arbitrary moves.
+                    runner_boundary = (
+                        not occupancy_matches and p.get("event") == "NP" and p.get("pa") == "0"
+                        and p["runs"] == "0" and pre == post == int(nxt["outs_pre"]) == 0
+                        and "20230101" <= g.get("field_001", "") <= "20251231"
+                        and p.get("gametype") == nxt.get("gametype") == "regular" and int(p["inning"]) >= 10
+                        and not any(p[f"br{b}_{s}"] for s in ("pre", "post") for b in (1, 2, 3))
+                        and bool(nxt["br2_pre"]) and not nxt["br1_pre"] and not nxt["br3_pre"]
+                        and all(q.get("event") == "NP" for q in seq[:index]
+                                if (q["inning"], q["top_bot"]) == (p["inning"], p["top_bot"]))
+                    )
+                    if runner_boundary:
+                        counters["automatic_runner_np_boundary_observed"] += 1
+                    check(occupancy_matches or runner_boundary,
                           "base_occupancy_transition", gid, p["pn"])
                 else:
                     check(post == 3 and int(nxt["outs_pre"]) == 0, "half_inning_outs", gid, p["pn"])

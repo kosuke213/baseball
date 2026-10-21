@@ -1,0 +1,380 @@
+{
+  "schema_version": 1,
+  "stage": [
+    3,
+    4
+  ],
+  "budget_bytes": 140000000,
+  "rights": {
+    "retrosheet": {
+      "source_ids": [
+        "S012",
+        "S013"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "Retrosheet Notices",
+      "evidence_artifacts": [
+        "retro_notice",
+        "retro_csv_docs"
+      ],
+      "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+      "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+      "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+      "warehouse_collection_allowed": true
+    },
+    "chadwick": {
+      "source_ids": [
+        "S021"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "ODC-By-1.0",
+      "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+      "evidence_artifacts": [
+        "register_readme"
+      ],
+      "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+      "review_note": "Fixed commit. Scan all 16 shards; normalize identities referenced in the collected games and all entries with an NPB ID. Retain original shards. No name matching.",
+      "warehouse_collection_allowed": true
+    },
+    "jpl": {
+      "source_ids": [
+        "S034"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "evidence_artifacts": [
+        "jpl_license",
+        "jpl_methodology"
+      ],
+      "attribution": "Japan Prospect Lab — https://japanprospectlab.substack.com ; https://github.com/japanprospectlab/data . CC BY 4.0. Changes: CSV parsed to JSON/SQLite; no grades recalculated.",
+      "review_note": "Publisher licensing statement covers its board. Secondary scouting/metadata only; upstream official statistics are not separately scraped. Notes and published measurements retained, no independent verification or name-based join.",
+      "warehouse_collection_allowed": true
+    },
+    "jma": {
+      "source_ids": [
+        "S075"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "公共データ利用規約 第1.0版（気象庁の適用条件付き）",
+      "license_url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+      "evidence_artifacts": [
+        "jma_terms"
+      ],
+      "attribution": "出典：気象庁「過去の気象データ検索」東京・2024年3月29日（１時間ごとの値）。当プロジェクトがHTMLを表に加工し、JST/UTC時刻を付加。 https://www.data.jma.go.jp/stats/etrn/",
+      "review_note": "Official past observed numerical weather table under site terms; no third-party credited content in target table. Preserve original HTML, units, cell text/classes/symbols. Not stadium observations.",
+      "warehouse_collection_allowed": true
+    }
+  },
+  "artifacts": [
+    {
+      "id": "retro_notice",
+      "url": "https://www.retrosheet.org/notice.txt",
+      "rights": "retrosheet",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "retro_csv_docs",
+      "url": "https://www.retrosheet.org/downloads/csvdownloads.html",
+      "rights": "retrosheet",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "retro_gamelog_docs",
+      "url": "https://www.retrosheet.org/gamelogs/glfields.txt",
+      "rights": "retrosheet",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "retro_play_docs",
+      "url": "https://www.retrosheet.org/downloads/plays.html",
+      "rights": "retrosheet",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "retro_gl_2024",
+      "url": "https://www.retrosheet.org/gamelogs/gl2024.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "2024 official snapshot; SHA256 locked after acquisition"
+    },
+    {
+      "id": "retro_plays_2024",
+      "url": "https://www.retrosheet.org/downloads/plays/2024plays.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 16000000,
+      "upstream_version": "2024 official parsed plays; SHA256 locked after acquisition"
+    },
+    {
+      "id": "register_readme",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/README.md",
+      "rights": "chadwick",
+      "purpose": "evidence",
+      "max_bytes": 500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_0",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-0.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_1",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-1.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_2",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-2.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_3",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-3.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_4",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-4.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_5",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-5.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_6",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-6.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_7",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-7.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_8",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-8.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_9",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-9.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_a",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-a.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_b",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-b.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_c",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-c.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_d",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-d.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_e",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-e.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "register_f",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-f.csv",
+      "rights": "chadwick",
+      "purpose": "data",
+      "max_bytes": 5500000,
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92"
+    },
+    {
+      "id": "jpl_license",
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/LICENSE",
+      "rights": "jpl",
+      "purpose": "evidence",
+      "max_bytes": 500000,
+      "upstream_version": "cd0f9a0ec39db786fdad20815a0b5f91f8466b12"
+    },
+    {
+      "id": "jpl_methodology",
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/METHODOLOGY.md",
+      "rights": "jpl",
+      "purpose": "evidence",
+      "max_bytes": 500000,
+      "upstream_version": "cd0f9a0ec39db786fdad20815a0b5f91f8466b12"
+    },
+    {
+      "id": "jpl_draft_2026",
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/boards/2026-npb-draft-board.csv",
+      "rights": "jpl",
+      "purpose": "data",
+      "max_bytes": 500000,
+      "upstream_version": "cd0f9a0ec39db786fdad20815a0b5f91f8466b12"
+    },
+    {
+      "id": "jma_terms",
+      "url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+      "rights": "jma",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "jma_tokyo_20240329",
+      "url": "https://www.data.jma.go.jp/stats/etrn/view/hourly_s1.php?prec_no=44&block_no=47662&year=2024&month=3&day=29&view=",
+      "rights": "jma",
+      "purpose": "data",
+      "max_bytes": 500000,
+      "upstream_version": "station 47662, 2024-03-29 JST, hourly"
+    },
+    {
+      "id": "retro_gl_2023",
+      "url": "https://www.retrosheet.org/gamelogs/gl2023.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "2023 official snapshot; SHA256 locked after acquisition"
+    },
+    {
+      "id": "retro_plays_2023",
+      "url": "https://www.retrosheet.org/downloads/plays/2023plays.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 16000000,
+      "upstream_version": "2023 official snapshot; SHA256 locked after acquisition"
+    },
+    {
+      "id": "retro_gl_2025",
+      "url": "https://www.retrosheet.org/gamelogs/gl2025.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "2025 official snapshot; SHA256 locked after acquisition"
+    },
+    {
+      "id": "retro_plays_2025",
+      "url": "https://www.retrosheet.org/downloads/plays/2025plays.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 16000000,
+      "upstream_version": "2025 official snapshot; SHA256 locked after acquisition"
+    },
+    {
+      "id": "retro_park_codes",
+      "url": "https://www.retrosheet.org/parkcode.txt",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 500000
+    }
+  ],
+  "deferred": [
+    {
+      "source_ids": [
+        "S001",
+        "S002",
+        "S003"
+      ],
+      "status": "rights_review_pending",
+      "reason": "MLB一次提供元の自動取得・利用・再配布条件が未解決。二次配布やクライアントのコードライセンスを根拠に本体を取得しない。"
+    },
+    {
+      "source_ids": [
+        "S026",
+        "S027",
+        "S028",
+        "S029",
+        "S030",
+        "S031"
+      ],
+      "status": "rights_review_pending",
+      "reason": "NPB公式の二次利用・無断転載に関する表示。用途別の許諾・適用条件の確認後に判断。"
+    },
+    {
+      "source_ids": [
+        "S077",
+        "S078",
+        "S079"
+      ],
+      "status": "restricted_use",
+      "reason": "OpenBiomechanicsは非商用・継承条件と追加の利用者制限があり、今回の採用を保留。"
+    },
+    {
+      "source_ids": [
+        "S072"
+      ],
+      "status": "size_and_endpoint_review",
+      "reason": "現行Bulk Hourly資料は data.meteostat.net/hourly/{year}.parquet の年別全体配布を案内。モデル補完と変数別_sourceあり。古い観測所年別CSVの存在を前提に取得せず、小分け取得を次回検証。証拠 https://dev.meteostat.net/data/bulk/hourly.html"
+    }
+  ],
+  "years": [
+    2023,
+    2024,
+    2025
+  ],
+  "scope": {
+    "games": "all regular-season Game Logs for specified years",
+    "plays": "all regular-season play records with matching Game Logs; retain originals and report excluded groups",
+    "people": "referenced Retrosheet IDs and all NPB-ID-bearing register entries",
+    "weather": "retain stage-2 Tokyo day only; no stadium join",
+    "japan": "retain fixed secondary board, no name join"
+  }
+}

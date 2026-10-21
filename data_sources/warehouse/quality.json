@@ -1,0 +1,187 @@
+{
+  "schema_version": 1,
+  "stages": [
+    3,
+    4
+  ],
+  "status": "pass",
+  "counts": {
+    "games": 7289,
+    "plays": 570548,
+    "analysis_plays": 570548,
+    "teams": 31,
+    "team_seasons": 90,
+    "parks": 266,
+    "people": 5449,
+    "identifiers": 21989,
+    "player_matches": 2228,
+    "secondary_claims": 18,
+    "stations": 1,
+    "weather_observations": 384,
+    "game_checks": 7289,
+    "excluded_game_groups": 134
+  },
+  "by_year": [
+    {
+      "season": 2023,
+      "games": 2430,
+      "play_rows": 191073
+    },
+    {
+      "season": 2024,
+      "games": 2429,
+      "play_rows": 189536
+    },
+    {
+      "season": 2025,
+      "games": 2430,
+      "play_rows": 189939
+    }
+  ],
+  "scanned_rows": {
+    "2023": {
+      "game_logs": 2430,
+      "all_plays": 194350,
+      "regular_plays": 191073
+    },
+    "2024": {
+      "game_logs": 2429,
+      "all_plays": 192998,
+      "regular_plays": 189536
+    },
+    "2025": {
+      "game_logs": 2430,
+      "all_plays": 193767,
+      "regular_plays": 189939
+    },
+    "register": {
+      "scanned": 526894,
+      "retained": 5449
+    }
+  },
+  "raw_bytes": 92164066,
+  "artifact_count": 33,
+  "checks": {
+    "base_occupancy_transition_checked": 440870,
+    "batting_team_checked": 570548,
+    "final_score_checked": 7289,
+    "game_present_checked": 7289,
+    "half_inning_outs_checked": 122389,
+    "half_inning_sequence_checked": 122389,
+    "initial_state_checked": 7289,
+    "inning_range_checked": 570548,
+    "outs_range_checked": 570548,
+    "outs_transition_checked": 440870,
+    "play_sequence_checked": 7289,
+    "score_transition_checked": 563259,
+    "total_outs_checked": 7289,
+    "automatic_runner_np_boundary_observed": 8
+  },
+  "game_validation_status": {
+    "pass": 7289
+  },
+  "game_failures": [],
+  "identity_status_all_roles": {
+    "matched": 2227,
+    "unmatched": 1
+  },
+  "identity_status_batters_pitchers": {
+    "matched": 2067
+  },
+  "unresolved_park_metadata": [
+    {
+      "park_id": "retrosheet:park:BIR01",
+      "source_code": "BIR01"
+    },
+    {
+      "park_id": "retrosheet:park:BST01",
+      "source_code": "BST01"
+    },
+    {
+      "park_id": "retrosheet:park:MEX02",
+      "source_code": "MEX02"
+    },
+    {
+      "park_id": "retrosheet:park:SAC01",
+      "source_code": "SAC01"
+    },
+    {
+      "park_id": "retrosheet:park:SEO01",
+      "source_code": "SEO01"
+    },
+    {
+      "park_id": "retrosheet:park:TAM02",
+      "source_code": "TAM02"
+    }
+  ],
+  "excluded_input_groups": [
+    {
+      "game_type": "allstar",
+      "reason": "non_regular_season",
+      "games": 3,
+      "rows": 229
+    },
+    {
+      "game_type": "divisionseries",
+      "reason": "non_regular_season",
+      "games": 50,
+      "rows": 3907
+    },
+    {
+      "game_type": "lcs",
+      "reason": "non_regular_season",
+      "games": 36,
+      "rows": 2877
+    },
+    {
+      "game_type": "wildcard",
+      "reason": "non_regular_season",
+      "games": 28,
+      "rows": 2103
+    },
+    {
+      "game_type": "worldseries",
+      "reason": "non_regular_season",
+      "games": 17,
+      "rows": 1451
+    }
+  ],
+  "weather_parse_status": {
+    "categorical": 35,
+    "empty": 72,
+    "numeric": 219,
+    "symbol_or_flagged": 58
+  },
+  "integrity_check": "ok",
+  "foreign_key_errors": [],
+  "limits": [
+    "Retrosheet parsed plays and Game Logs share provenance; these are consistency checks, not independent verification.",
+    "Raw artifacts preserve every original column; typed plays expose selected defined fields with exact source-row references.",
+    "Park names are as published in an older reference, not historical season-specific names. Unresolved codes remain explicit.",
+    "No join from JPL names or from Tokyo weather to MLB parks; no imputation, model training or calibration.",
+    "analysis_plays excludes games failing validation and non-full PBP. Raw typed records remain available.",
+    "Only 2023-2025 MLB regular extra innings recognize leading NP -> runner-on-second placement. The count is explicit; runner eligibility is not independently verified."
+  ],
+  "plan_sha256": "13e36ead1e7df3363ec3e7a25e951284037c10d0ded2aefc857d659f9da5d013",
+  "lock_sha256": "22f909a259c5cc9e00df705240e1f4a17ed3fbd2b236d7435a6a45c2c356d317",
+  "transform_sha256": "2b130744939a2f100556971ba5d81afb30699619b404164d22617656348c3dfe",
+  "rule_context": {
+    "league": "MLB",
+    "game_type": "regular",
+    "seasons": [
+      2023,
+      2024,
+      2025
+    ],
+    "automatic_runner": "At the start of each half-inning after the ninth, a runner is placed on second.",
+    "evidence_url": "https://www.mlb.com/glossary/rules/designated-runner",
+    "reviewed_on": "2026-10-21",
+    "reviewed_document_sha256": "7a063334b7634a5c55ff86877861550121f2420f25be21480c76ad40c064a633",
+    "scope": "Recognize placement after leading NP rows; not independent validation of which runner is eligible."
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1"
+  },
+  "snapshot_id": "717f7b15b7df58818ce55989"
+}

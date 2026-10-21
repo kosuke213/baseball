@@ -1,0 +1,34 @@
+{
+  "snapshot_id": "717f7b15b7df58818ce55989",
+  "status": "pass",
+  "files": {
+    "warehouse.sqlite3": "3e0b5597cf48c44e1b7ac4ad8f00d4abc26acbb4d3763c4322aaa5b974249ce1",
+    "quality.json": "11389c50807e4ca3c321b6379cb827e71d7ba40eeafe28c5ffa39a4a6a64f348",
+    "manifest.json": "0b0f7b83bf8ddec74751d781f7a1510dceb66a4d29421de09d525e16cdc52db7",
+    "policy.json": "4d388627d9533ce2498c91d9c0759478f5d74f3fb48efb54968b765d98a9374e",
+    "plan.json": "13e36ead1e7df3363ec3e7a25e951284037c10d0ded2aefc857d659f9da5d013",
+    "lock.json": "22f909a259c5cc9e00df705240e1f4a17ed3fbd2b236d7435a6a45c2c356d317"
+  },
+  "schema_version": 1,
+  "plan_sha256": "13e36ead1e7df3363ec3e7a25e951284037c10d0ded2aefc857d659f9da5d013",
+  "lock_sha256": "22f909a259c5cc9e00df705240e1f4a17ed3fbd2b236d7435a6a45c2c356d317",
+  "transform_sha256": "2b130744939a2f100556971ba5d81afb30699619b404164d22617656348c3dfe",
+  "rule_context": {
+    "league": "MLB",
+    "game_type": "regular",
+    "seasons": [
+      2023,
+      2024,
+      2025
+    ],
+    "automatic_runner": "At the start of each half-inning after the ninth, a runner is placed on second.",
+    "evidence_url": "https://www.mlb.com/glossary/rules/designated-runner",
+    "reviewed_on": "2026-10-21",
+    "reviewed_document_sha256": "7a063334b7634a5c55ff86877861550121f2420f25be21480c76ad40c064a633",
+    "scope": "Recognize placement after leading NP rows; not independent validation of which runner is eligible."
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1"
+  }
+}

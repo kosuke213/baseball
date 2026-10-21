@@ -110,6 +110,8 @@ DH制、9回制、既定12回打ち切り引き分け。ファウルは2スト�
 
 Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sources/README.md) を作成し、第2段階で [実データの取得・品質検査](docs/data-pilot/README.md) を実施しました。4提供元の原本を保存し、試合・プレー・選手ID・日本の候補情報・気象を独立したSQLiteへ収録しています。[DBと確認用CSVのダウンロード](https://raw.githubusercontent.com/kosuke213/baseball/codex/data-sampling-pilot/data_sources/pilot/sample_bundle.zip) と [開き方](data_sources/pilot/README.md) を用意しました。確率モデルの学習・較正はまだ行っていません。
 
+第3・第4段階では [共通DBの構築と年単位の収集](docs/data-warehouse/README.md) を実施し、2023〜2025年の7,289試合・570,548行へ拡張しました。[全件DBとCSVのZIP](https://raw.githubusercontent.com/kosuke213/baseball/codex/data-warehouse/data_sources/warehouse/database_bundle.zip) と [開き方・再実行手順](data_sources/warehouse/README.md) があります。取得の再開・版管理・更新検知・週次処理の設定も実装しました。定期実行は作業ブランチ上の設定段階です。
+
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。
