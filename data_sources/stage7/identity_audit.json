@@ -1,0 +1,1544 @@
+{
+  "windows": 550794,
+  "recovered_atomic_plays": 567658,
+  "reconstructed_windows": 549857,
+  "supported_windows": 548399,
+  "reasons": {
+    "rule_scope:Hit credited before batter stretching out requires a richer route": 683,
+    "rule_scope:Safe-batter result followed by a stretching out is not implemented": 27,
+    "rule_scope:Third-out run timing / appeal / force adjudication is not implemented": 413,
+    "reconstruction:Unique missing participant set does not equal source out delta": 269,
+    "censored_game_ending": 626,
+    "rule_scope:Only the simple forced-base award is implemented for this result": 206,
+    "rule_scope:Only a caught/retired-batter sacrifice with fewer than two outs is supported": 129,
+    "actor_or_substitution_changed": 27,
+    "reconstruction:Unrecorded participant substitution inside window": 15
+  },
+  "source_examples": [
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 2,
+      "source_rows": [
+        3
+      ],
+      "initial_ids": {
+        "rutsa001": "B"
+      },
+      "actions": [
+        {
+          "source_row": 3,
+          "scorers": [
+            "rutsa001"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "home_run",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "H"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 25,
+      "source_rows": [
+        26
+      ],
+      "initial_ids": {
+        "uriar001": "B",
+        "hendg002": "1"
+      },
+      "actions": [
+        {
+          "source_row": 26,
+          "scorers": [
+            "uriar001",
+            "hendg002"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "home_run",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "H"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 28,
+      "source_rows": [
+        29
+      ],
+      "initial_ids": {
+        "matej003": "B",
+        "fraza001": "2"
+      },
+      "actions": [
+        {
+          "source_row": 29,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 29,
+      "source_rows": [
+        30,
+        31
+      ],
+      "initial_ids": {
+        "mullc002": "B",
+        "matej003": "1",
+        "fraza001": "3"
+      },
+      "actions": [
+        {
+          "source_row": 30,
+          "scorers": [],
+          "outs": []
+        },
+        {
+          "source_row": 31,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "stolen_base",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "3"
+            }
+          ]
+        },
+        {
+          "outcome": "walk",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 31,
+      "source_rows": [
+        32,
+        33
+      ],
+      "initial_ids": {
+        "rutsa001": "B",
+        "mullc002": "1",
+        "matej003": "2",
+        "fraza001": "3"
+      },
+      "actions": [
+        {
+          "source_row": 32,
+          "scorers": [
+            "fraza001"
+          ],
+          "outs": []
+        },
+        {
+          "source_row": 33,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "wild_pitch",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "3"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "H"
+            }
+          ]
+        },
+        {
+          "outcome": "walk",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "role": "2",
+              "origin": 3,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 39,
+      "source_rows": [
+        40
+      ],
+      "initial_ids": {
+        "duvaa001": "B",
+        "yoshm002": "1",
+        "dever001": "3"
+      },
+      "actions": [
+        {
+          "source_row": 40,
+          "scorers": [
+            "dever001"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 41,
+      "source_rows": [
+        42
+      ],
+      "initial_ids": {
+        "arroc001": "B",
+        "casat001": "1",
+        "duvaa001": "2",
+        "yoshm002": "3"
+      },
+      "actions": [
+        {
+          "source_row": 42,
+          "scorers": [],
+          "outs": [
+            "arroc001",
+            "casat001"
+          ]
+        }
+      ],
+      "template": [
+        {
+          "outcome": "other_out",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "OUT"
+            },
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "LOB"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "LOB"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 43,
+      "source_rows": [
+        44
+      ],
+      "initial_ids": {
+        "haysa001": "B",
+        "uriar001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 44,
+          "scorers": [],
+          "outs": [
+            "haysa001",
+            "uriar001"
+          ]
+        }
+      ],
+      "template": [
+        {
+          "outcome": "other_out",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "OUT"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 45,
+      "source_rows": [
+        46,
+        47
+      ],
+      "initial_ids": {
+        "matej003": "B",
+        "fraza001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 46,
+          "scorers": [],
+          "outs": []
+        },
+        {
+          "source_row": 47,
+          "scorers": [
+            "fraza001"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "stolen_base",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            }
+          ]
+        },
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 47,
+      "source_rows": [
+        48,
+        49,
+        50
+      ],
+      "initial_ids": {
+        "mullc002": "B",
+        "matej003": "1"
+      },
+      "actions": [
+        {
+          "source_row": 48,
+          "scorers": [],
+          "outs": []
+        },
+        {
+          "source_row": 49,
+          "scorers": [],
+          "outs": []
+        },
+        {
+          "source_row": 50,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "stolen_base",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            }
+          ]
+        },
+        {
+          "outcome": "wild_pitch",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "3"
+            }
+          ]
+        },
+        {
+          "outcome": "walk",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 3,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 50,
+      "source_rows": [
+        51,
+        52
+      ],
+      "initial_ids": {
+        "rutsa001": "B",
+        "mullc002": "1",
+        "matej003": "3"
+      },
+      "actions": [
+        {
+          "source_row": 51,
+          "scorers": [],
+          "outs": []
+        },
+        {
+          "source_row": 52,
+          "scorers": [
+            "mullc002",
+            "matej003"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "stolen_base",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "3"
+            }
+          ]
+        },
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 53,
+      "source_rows": [
+        54
+      ],
+      "initial_ids": {
+        "mcgur002": "B"
+      },
+      "actions": [
+        {
+          "source_row": 54,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 55,
+      "source_rows": [
+        56
+      ],
+      "initial_ids": {
+        "verda001": "B",
+        "herne001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 56,
+          "scorers": [],
+          "outs": [
+            "herne001",
+            "verda001"
+          ]
+        }
+      ],
+      "template": [
+        {
+          "outcome": "other_out",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "OUT"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 58,
+      "source_rows": [
+        59
+      ],
+      "initial_ids": {
+        "uriar001": "B"
+      },
+      "actions": [
+        {
+          "source_row": 59,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 60,
+      "source_rows": [
+        61
+      ],
+      "initial_ids": {
+        "dever001": "B"
+      },
+      "actions": [
+        {
+          "source_row": 61,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 61,
+      "source_rows": [
+        62
+      ],
+      "initial_ids": {
+        "turnj001": "B",
+        "dever001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 62,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 62,
+      "source_rows": [
+        63
+      ],
+      "initial_ids": {
+        "yoshm002": "B",
+        "turnj001": "1",
+        "dever001": "2"
+      },
+      "actions": [
+        {
+          "source_row": 63,
+          "scorers": [
+            "dever001"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "3"
+            },
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 68,
+      "source_rows": [
+        69
+      ],
+      "initial_ids": {
+        "mullc002": "B",
+        "fraza001": "3"
+      },
+      "actions": [
+        {
+          "source_row": 69,
+          "scorers": [
+            "fraza001"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 82,
+      "source_rows": [
+        83
+      ],
+      "initial_ids": {
+        "yoshm002": "B",
+        "turnj001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 83,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 89,
+      "source_rows": [
+        90
+      ],
+      "initial_ids": {
+        "rutsa001": "B"
+      },
+      "actions": [
+        {
+          "source_row": 90,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 90,
+      "source_rows": [
+        91
+      ],
+      "initial_ids": {
+        "santa003": "B",
+        "rutsa001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 91,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 94,
+      "source_rows": [
+        95
+      ],
+      "initial_ids": {
+        "verda001": "B",
+        "tapir001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 95,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "2"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:BOS202303300",
+      "first_pn": 96,
+      "source_rows": [
+        97
+      ],
+      "initial_ids": {
+        "turnj001": "B",
+        "verda001": "2",
+        "tapir001": "3"
+      },
+      "actions": [
+        {
+          "source_row": 97,
+          "scorers": [
+            "tapir001"
+          ],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:CHN202303300",
+      "first_pn": 3,
+      "source_rows": [
+        102
+      ],
+      "initial_ids": {
+        "adamw002": "B"
+      },
+      "actions": [
+        {
+          "source_row": 102,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:CHN202303300",
+      "first_pn": 4,
+      "source_rows": [
+        103,
+        104
+      ],
+      "initial_ids": {
+        "tellr001": "B",
+        "adamw002": "1"
+      },
+      "actions": [
+        {
+          "source_row": 103,
+          "scorers": [],
+          "outs": []
+        },
+        {
+          "source_row": 104,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "passed_ball",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            }
+          ]
+        },
+        {
+          "outcome": "walk",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:CHN202303300",
+      "first_pn": 15,
+      "source_rows": [
+        114
+      ],
+      "initial_ids": {
+        "gomey001": "B",
+        "manct001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 114,
+          "scorers": [],
+          "outs": [
+            "gomey001",
+            "manct001"
+          ]
+        }
+      ],
+      "template": [
+        {
+          "outcome": "other_out",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "OUT"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:CHN202303300",
+      "first_pn": 17,
+      "source_rows": [
+        116
+      ],
+      "initial_ids": {
+        "turab002": "B"
+      },
+      "actions": [
+        {
+          "source_row": 116,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "2"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:CHN202303300",
+      "first_pn": 20,
+      "source_rows": [
+        119,
+        120
+      ],
+      "initial_ids": {
+        "adamw002": "B",
+        "yelic001": "1",
+        "turab002": "2"
+      },
+      "actions": [
+        {
+          "source_row": 119,
+          "scorers": [],
+          "outs": []
+        },
+        {
+          "source_row": 120,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "passed_ball",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "3"
+            }
+          ]
+        },
+        {
+          "outcome": "walk",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "role": "2",
+              "origin": 3,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:CHN202303300",
+      "first_pn": 22,
+      "source_rows": [
+        121
+      ],
+      "initial_ids": {
+        "tellr001": "B",
+        "adamw002": "1",
+        "yelic001": "2",
+        "turab002": "3"
+      },
+      "actions": [
+        {
+          "source_row": 121,
+          "scorers": [],
+          "outs": [
+            "adamw002",
+            "tellr001"
+          ]
+        }
+      ],
+      "template": [
+        {
+          "outcome": "other_out",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "OUT"
+            },
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "LOB"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "LOB"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    },
+    {
+      "game_id": "retrosheet:game:CHN202303300",
+      "first_pn": 25,
+      "source_rows": [
+        124
+      ],
+      "initial_ids": {
+        "hoern001": "B",
+        "mastm001": "1"
+      },
+      "actions": [
+        {
+          "source_row": 124,
+          "scorers": [],
+          "outs": []
+        }
+      ],
+      "template": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "1"
+            }
+          ]
+        }
+      ],
+      "artifact_id": "retro_plays_2023",
+      "artifact_sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  ],
+  "raw_artifacts": [
+    {
+      "bytes": 7498178,
+      "content_type": "application/zip",
+      "etag": "\"7269c2-658a04015d479\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2023plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2023",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "b00170cde17f3d396d09f940bc98f9fad973d494686479bc78fccf96bbc51e6e",
+      "retrieved_at": "2026-10-21T11:49:19.150975+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+      "upstream_version": "2023 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2023plays.zip"
+    },
+    {
+      "bytes": 7446849,
+      "content_type": "application/zip",
+      "etag": "\"71a141-658a04019dbc5\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2024plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2024",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "d517018296cec373befb1733e952e14a77959691700989319a35ef851355d396",
+      "retrieved_at": "2026-10-21T11:29:49.774265+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+      "upstream_version": "2024 official parsed plays; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2024plays.zip"
+    },
+    {
+      "bytes": 7496795,
+      "content_type": "application/zip",
+      "etag": "\"72645b-658a0402ae323\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2025plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2025",
+      "last_modified": "Sun, 09 Aug 2026 17:05:54 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "3692ecb325bc771d7a5e455004286424dbd83acd5fab1367d5a1afa03d90b426",
+      "retrieved_at": "2026-10-21T11:49:28.485418+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "ea7f4be3464825b332ed6f8c19e15310858458ea9eddf3e91a954e5b47f69d73",
+      "upstream_version": "2025 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2025plays.zip"
+    }
+  ],
+  "by_year": [
+    {
+      "season": 2023,
+      "windows": 184506,
+      "reconstructed": 184195,
+      "supported": 183681
+    },
+    {
+      "season": 2024,
+      "windows": 182903,
+      "reconstructed": 182595,
+      "supported": 182116
+    },
+    {
+      "season": 2025,
+      "windows": 183385,
+      "reconstructed": 183067,
+      "supported": 182602
+    }
+  ],
+  "limits": [
+    "run fields contain explicit scorer IDs; missing participants are outs only when out delta and explicit LOB IDs agree",
+    "LOB identifies a stranded player but does not establish a final base",
+    "scorer/out identity is recoverable more widely than supported rule timing",
+    "source fielding-position out codes are not misinterpreted as player IDs"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿population,movement,n
+identity_rules,1->1,3519
+identity_rules,1->2,3902
+identity_rules,1->3,1038
+identity_rules,1->H,723
+identity_rules,1->LOB,3291
+identity_rules,1->OUT,1875
+identity_rules,2->2,2503
+identity_rules,2->3,1757
+identity_rules,2->H,1361
+identity_rules,2->LOB,2661
+identity_rules,2->OUT,135
+identity_rules,3->3,1315
+identity_rules,3->H,1409
+identity_rules,3->LOB,1501
+identity_rules,3->OUT,65

@@ -1,0 +1,100 @@
+{
+  "seed": 726,
+  "summaries": [
+    {
+      "model": "state_only",
+      "attempted_halves": 10000,
+      "completed_halves": 10000,
+      "failed_halves": 0,
+      "mean_runs_completed_only": 0.5043,
+      "sd_runs": 1.031061500969694,
+      "mean_steps_completed_only": 4.2604,
+      "outs_per_completed_half": 3,
+      "completed_pa": null,
+      "hit_rate": null,
+      "walk_rate": null,
+      "home_run_rate": null,
+      "assumed_actions_attempted": 0,
+      "empirical_actions_attempted": 0,
+      "failures": {}
+    },
+    {
+      "model": "result_conditional",
+      "attempted_halves": 10000,
+      "completed_halves": 10000,
+      "failed_halves": 0,
+      "mean_runs_completed_only": 0.485,
+      "sd_runs": 0.9853284159145725,
+      "mean_steps_completed_only": 4.2672,
+      "outs_per_completed_half": 3,
+      "completed_pa": 42648,
+      "hit_rate": 0.21965860063777903,
+      "walk_rate": 0.08539673607203152,
+      "home_run_rate": 0.03092759332207841,
+      "assumed_actions_attempted": 0,
+      "empirical_actions_attempted": 0,
+      "failures": {}
+    },
+    {
+      "model": "identity_rules",
+      "attempted_halves": 10000,
+      "completed_halves": 9992,
+      "failed_halves": 8,
+      "mean_runs_completed_only": 0.4795836669335468,
+      "sd_runs": 1.000942157913525,
+      "mean_steps_completed_only": 4.262209767814252,
+      "outs_per_completed_half": 3,
+      "completed_pa": 42569,
+      "hit_rate": 0.21931452465409101,
+      "walk_rate": 0.08503840823134205,
+      "home_run_rate": 0.030468181070732223,
+      "assumed_actions_attempted": 254,
+      "empirical_actions_attempted": 43788,
+      "failures": {
+        "No supported empirical route; no silent resampling or guessed runner choice": 8
+      }
+    },
+    {
+      "model": "observed_complete_regular_2024",
+      "attempted_halves": 42547,
+      "completed_halves": 42547,
+      "failed_halves": 0,
+      "mean_runs_completed_only": 0.48323031001010647,
+      "sd_runs": 1.0135033489648666,
+      "mean_steps_completed_only": 4.23273086234047,
+      "outs_per_completed_half": 3,
+      "completed_pa": 179642,
+      "hit_rate": 0.21776087997238952,
+      "walk_rate": 0.08094988922412354,
+      "home_run_rate": 0.029781454225626523,
+      "assumed_actions_attempted": null,
+      "empirical_actions_attempted": null,
+      "failures": {}
+    },
+    {
+      "model": "observed_complete_regular_2025",
+      "attempted_halves": 42503,
+      "completed_halves": 42503,
+      "failed_halves": 0,
+      "mean_runs_completed_only": 0.4911653295061525,
+      "sd_runs": 1.0248251735893839,
+      "mean_steps_completed_only": 4.248170717361128,
+      "outs_per_completed_half": 3,
+      "completed_pa": 180111,
+      "hit_rate": 0.21912598342133463,
+      "walk_rate": 0.08295440034201132,
+      "home_run_rate": 0.030875404611600623,
+      "assumed_actions_attempted": null,
+      "empirical_actions_attempted": null,
+      "failures": {}
+    }
+  ],
+  "limits": [
+    "fictional roster has no real-player IDs or hand information; common league fallback is used",
+    "all trials start regulation half 1 with bases empty, no walkoff; NOT a complete baseball game",
+    "failures are not resampled; completed-only summaries may have selection bias",
+    "score-only state model has no identifiable hits/walks/HR, shown as null",
+    "observed halves contain actual player/hand/tactical mixtures and are not the same population"
+  ],
+  "state_baseline_expected_runs_from_empty": 0.4984476493185947
+}

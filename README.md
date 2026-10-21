@@ -116,6 +116,8 @@ Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sour
 
 第6段階では [打席結果・24状態の遷移・得点の確率抽出](docs/data-stage6/README.md) を実施。2023〜2024年で縮小推定し、2025年を評価用に分離しました。打席結果の予測はリーグ平均から改善し、状態・得点の同時予測は単純な状態別基準に劣った結果も保存しています。[確率表・加工DB・CSV・検証一式](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage6-probability/data_sources/stage6/stage6_bundle.zip) と [軽量Python API・再実行手順](data_sources/stage6/README.md) を用意しました。一球の物理モデルへの置き換えや、既存ゲームの較正は実施していません。
 
+第7段階では [確率校正の比較と選手ID付き遷移](docs/data-stage7/README.md) を実装しました。打者・走者・投手のID、得点者・アウト者を保持するAPIと、確率から独立したルール処理・記録再生を追加しています。校正だけによる精度改善は得られず、補正なしを維持しました。2025年は既知の参考期間として扱います。[加工DB・モデル・コード・評価一式](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage7-calibration-transition/data_sources/stage7/stage7_bundle.zip) と [第8段階への接続仕様](data_sources/stage7/STAGE8.md) があります。限定した検証モードで利用でき、未観測経路・公式記録等の制限から本番リーグへの完全統合は未完です。従来の一球モデルとは独立しています。
+
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。

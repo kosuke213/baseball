@@ -1,0 +1,177 @@
+{
+  "checked_on": "2026-10-22 JST",
+  "snapshot_id": "22cc8e577ad14b4c8804e88b",
+  "pytest": {
+    "passed": 145,
+    "previous_tests_preserved": 99,
+    "new_tests": 46
+  },
+  "bundle_bytes": 25335459,
+  "bundle_sha256": "8b2b27d3b782bee22e1d7862a55e40f0a6ecd68b196c710a45f2c2a57e533a7c",
+  "checksum_lists_verified": {
+    "manifest.json": 67,
+    "snapshot.json": 68
+  },
+  "zip_crc_verified": true,
+  "all_extracted_files_equal_snapshot": true,
+  "identity_sqlite_integrity": "ok",
+  "identity_sqlite_foreign_key_violations": 0,
+  "standalone_python_no_site_packages": true,
+  "journal_replay_verified": true,
+  "repeated_seed_example_equal": true,
+  "source_stage5_stage6_sha256_unchanged": true,
+  "example": {
+    "seed": 726,
+    "model_version": "22cc8e577ad14b4c8804e88b",
+    "rules_version": "identity-rules-1",
+    "before": {
+      "lineups": [
+        [
+          "B",
+          "A0",
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "R1",
+          "R2",
+          "R3"
+        ],
+        [
+          "H0",
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "H7",
+          "H8"
+        ]
+      ],
+      "pitchers": [
+        "AP",
+        "HP"
+      ],
+      "orders": [
+        0,
+        0
+      ],
+      "bases": [
+        {
+          "player_id": "R1",
+          "responsible_pitcher": "HP",
+          "automatic": false,
+          "earned_eligible": true
+        },
+        {
+          "player_id": "R2",
+          "responsible_pitcher": "HP",
+          "automatic": false,
+          "earned_eligible": true
+        },
+        null
+      ],
+      "outs": 1,
+      "inning": 1,
+      "half": 0,
+      "score": [
+        0,
+        0
+      ],
+      "balls": 0,
+      "strikes": 0,
+      "finished": false,
+      "retired_ids": [],
+      "pitcher_history": []
+    },
+    "after": {
+      "lineups": [
+        [
+          "B",
+          "A0",
+          "A1",
+          "A2",
+          "A3",
+          "A4",
+          "R1",
+          "R2",
+          "R3"
+        ],
+        [
+          "H0",
+          "H1",
+          "H2",
+          "H3",
+          "H4",
+          "H5",
+          "H6",
+          "H7",
+          "H8"
+        ]
+      ],
+      "pitchers": [
+        "AP",
+        "HP"
+      ],
+      "orders": [
+        1,
+        0
+      ],
+      "bases": [
+        null,
+        {
+          "player_id": "B",
+          "responsible_pitcher": "HP",
+          "automatic": false,
+          "earned_eligible": true
+        },
+        null
+      ],
+      "outs": 1,
+      "inning": 1,
+      "half": 0,
+      "score": [
+        2,
+        0
+      ],
+      "balls": 0,
+      "strikes": 0,
+      "finished": false,
+      "retired_ids": [],
+      "pitcher_history": []
+    },
+    "scored": [
+      {
+        "player_id": "R2",
+        "responsible_pitcher": "HP",
+        "automatic": false,
+        "earned_eligible": true
+      },
+      {
+        "player_id": "R1",
+        "responsible_pitcher": "HP",
+        "automatic": false,
+        "earned_eligible": true
+      }
+    ],
+    "out_ids": [],
+    "completed_pa": true,
+    "route_sources": [
+      {
+        "source": "empirical",
+        "reference": "25e1f9c714b6759cc9bf793b6a89e7a703e09056fb2a1cfdcb4a0d9f52ba7f66"
+      }
+    ],
+    "after_sha256": "58fd52a5d02c168df87f97cea35555ce1c712b8eae7f17ca46006048a00b2554"
+  },
+  "independent_raw_source_rebuild": {
+    "all_snapshot_files_equal": 69,
+    "bundle_byte_identical": true,
+    "snapshot_id": "22cc8e577ad14b4c8804e88b",
+    "command": ".venv/bin/python -m baseball_simulation_lab.calibrated run --output /tmp/baseball-stage7/independent-rebuild/data --report-dir /tmp/baseball-stage7/independent-rebuild/reports"
+  },
+  "same_output_rerun_status": "reused",
+  "previous_tracked_sources_diff": "unchanged versus a1f9af6",
+  "platform_limit": "Linux verified; Windows hardware not tested"
+}

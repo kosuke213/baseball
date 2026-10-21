@@ -1,0 +1,179 @@
+{
+  "target": "observed-window post-state/runs, 125 physical cells + explicit abstention cell",
+  "identity_transition_mode": "empirical templates plus declared conservative prior (allow_assumptions=True); API default is empirical-only",
+  "additional_identity_rule_mask": "FC result impossible with no preceding runner; separate from calibration-only comparisons",
+  "interpretation": "same coarse target; individual trajectories are a different target and have no directly comparable accuracy score",
+  "zero_policy": "zero probability means infinite log loss, serialized as null plus infinite_log_loss=true; never clipped",
+  "diagnostic_limit": "positive-support subset depends on realized target, so it is NOT an all-population performance claim",
+  "witness_limit": "no supported ID route is a bounded-contract limitation, not proof that the real play is universally illegal",
+  "metrics": [
+    {
+      "period": "selection_2024_H2_exploratory",
+      "model": "state_only",
+      "n": 87921,
+      "log_loss": 1.1551620493347439,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.550587992357583,
+      "supported_stratum_log_loss": 1.1551620493347439,
+      "mean_abstention_mass": 0
+    },
+    {
+      "period": "selection_2024_H2_exploratory",
+      "model": "result_conditional",
+      "n": 87921,
+      "log_loss": 1.1581156360650988,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.5514373012684345,
+      "supported_stratum_log_loss": 1.1581156360650988,
+      "mean_abstention_mass": 0
+    },
+    {
+      "period": "selection_2024_H2_exploratory",
+      "model": "identity_rules",
+      "n": 87921,
+      "log_loss": null,
+      "infinite_log_loss": true,
+      "zero_probability_targets": 25,
+      "positive_target_coverage": 0.9997156538255935,
+      "brier": 0.5516501679673672,
+      "supported_stratum_log_loss": 1.1577421907670646,
+      "mean_abstention_mass": 0.0001247534062720225
+    },
+    {
+      "period": "selection_2024_H2_exploratory:positive_support_diagnostic",
+      "model": "state_only",
+      "n": 87896,
+      "log_loss": 1.1532171013584172,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.5503659450856772,
+      "supported_stratum_log_loss": 1.1532171013584172,
+      "mean_abstention_mass": null
+    },
+    {
+      "period": "selection_2024_H2_exploratory:positive_support_diagnostic",
+      "model": "result_conditional",
+      "n": 87896,
+      "log_loss": 1.1564468367649585,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.5512078019237154,
+      "supported_stratum_log_loss": 1.1564468367649585,
+      "mean_abstention_mass": null
+    },
+    {
+      "period": "selection_2024_H2_exploratory:positive_support_diagnostic",
+      "model": "identity_rules",
+      "n": 87896,
+      "log_loss": 1.1577421907670646,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.5514141433166779,
+      "supported_stratum_log_loss": 1.1577421907670646,
+      "mean_abstention_mass": null
+    },
+    {
+      "period": "known_reference_2025",
+      "model": "state_only",
+      "n": 183160,
+      "log_loss": 1.1583352929783313,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.552746539177335,
+      "supported_stratum_log_loss": 1.1583352929783313,
+      "mean_abstention_mass": 0
+    },
+    {
+      "period": "known_reference_2025",
+      "model": "result_conditional",
+      "n": 183160,
+      "log_loss": 1.1607692234183833,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.553055413184468,
+      "supported_stratum_log_loss": 1.1607692234183833,
+      "mean_abstention_mass": 0
+    },
+    {
+      "period": "known_reference_2025",
+      "model": "identity_rules",
+      "n": 183160,
+      "log_loss": null,
+      "infinite_log_loss": true,
+      "zero_probability_targets": 25,
+      "positive_target_coverage": 0.9998635073160078,
+      "brier": 0.5531472593516116,
+      "supported_stratum_log_loss": 1.1610366687514335,
+      "mean_abstention_mass": 0.00012565709348970526
+    },
+    {
+      "period": "known_reference_2025:positive_support_diagnostic",
+      "model": "state_only",
+      "n": 183135,
+      "log_loss": 1.157540025833877,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.5526459384902416,
+      "supported_stratum_log_loss": 1.157540025833877,
+      "mean_abstention_mass": null
+    },
+    {
+      "period": "known_reference_2025:positive_support_diagnostic",
+      "model": "result_conditional",
+      "n": 183135,
+      "log_loss": 1.160082647256489,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.5529544608786294,
+      "supported_stratum_log_loss": 1.160082647256489,
+      "mean_abstention_mass": null
+    },
+    {
+      "period": "known_reference_2025:positive_support_diagnostic",
+      "model": "identity_rules",
+      "n": 183135,
+      "log_loss": 1.1610366687514335,
+      "infinite_log_loss": false,
+      "zero_probability_targets": 0,
+      "positive_target_coverage": 1.0,
+      "brier": 0.5530403800034132,
+      "supported_stratum_log_loss": 1.1610366687514335,
+      "mean_abstention_mass": null
+    }
+  ],
+  "game_bootstrap": {
+    "selection_2024_H2_exploratory:identity_brier_vs_state": {
+      "difference_selected_minus_baseline": 0.0010621756097841286,
+      "percentile_95_interval": [
+        0.0008050956305852236,
+        0.0013517595153633882
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 1167,
+      "repetitions": 1000,
+      "seed": 726
+    },
+    "known_reference_2025:identity_brier_vs_state": {
+      "difference_selected_minus_baseline": 0.00040072017427659194,
+      "percentile_95_interval": [
+        0.0002324283790448286,
+        0.0005597528948173624
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 726
+    }
+  }
+}

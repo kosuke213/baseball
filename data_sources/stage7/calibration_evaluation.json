@@ -1,0 +1,296 @@
+{
+  "version": "calibration-1",
+  "fit_period": "2024-H1",
+  "selection_period": "2024-H2",
+  "selected_method": "identity",
+  "parameters": {
+    "temperature": 1.0,
+    "league_weight": 0.0
+  },
+  "methods": {
+    "identity": {
+      "temperature": 1.0,
+      "league_weight": 0.0
+    },
+    "temperature": {
+      "temperature": 1,
+      "league_weight": 0.0
+    },
+    "league_blend": {
+      "temperature": 1.0,
+      "league_weight": 0
+    },
+    "temperature_blend": {
+      "temperature": 1,
+      "league_weight": 0
+    }
+  },
+  "fit_games": 1261,
+  "selection_games": 1167,
+  "fit_pa": 94570,
+  "selection_pa": 87809,
+  "spanning_cutoff_windows_excluded": 70,
+  "independent_final_test_available": false,
+  "evaluation_status": "2024 re-split is exploratory (stage6 already used 2024); 2025 is known reference, never a new untouched test",
+  "refit_transfer_limit": "H1 calibrator fitted to 2023-only OOS predictions is frozen and transferred to 2023-2024 base; no 2025 retuning",
+  "selection_rule": "H2 log loss with Brier and top-ECE non-degradation guards; identity remains if no admissible improvement",
+  "rare_classes": [
+    "triple",
+    "sacrifice_bunt",
+    "sacrifice_fly",
+    "interference",
+    "reached_on_error",
+    "fielders_choice",
+    "other_pa"
+  ],
+  "metrics": [
+    {
+      "period": "fit_2024_H1",
+      "method": "identity",
+      "temperature": 1.0,
+      "league_weight": 0.0,
+      "n": 94570,
+      "log_loss": 1.5727520002946944,
+      "brier": 0.7188814593337961,
+      "macro_class_ece": 0.0025832218813595467,
+      "top_label_ece": 0.011966621287361017,
+      "rare_true_class_n": 2314,
+      "rare_true_class_log_loss": 4.962598185380799
+    },
+    {
+      "period": "fit_2024_H1",
+      "method": "temperature",
+      "temperature": 1,
+      "league_weight": 0.0,
+      "n": 94570,
+      "log_loss": 1.5727520002946944,
+      "brier": 0.7188814593337961,
+      "macro_class_ece": 0.0025832218813595467,
+      "top_label_ece": 0.011966621287361017,
+      "rare_true_class_n": 2314,
+      "rare_true_class_log_loss": 4.962598185380799
+    },
+    {
+      "period": "fit_2024_H1",
+      "method": "league_blend",
+      "temperature": 1.0,
+      "league_weight": 0,
+      "n": 94570,
+      "log_loss": 1.5727520002946944,
+      "brier": 0.7188814593337961,
+      "macro_class_ece": 0.0025832218813595467,
+      "top_label_ece": 0.011966621287361017,
+      "rare_true_class_n": 2314,
+      "rare_true_class_log_loss": 4.962598185380799
+    },
+    {
+      "period": "fit_2024_H1",
+      "method": "temperature_blend",
+      "temperature": 1,
+      "league_weight": 0,
+      "n": 94570,
+      "log_loss": 1.5727520002946944,
+      "brier": 0.7188814593337961,
+      "macro_class_ece": 0.0025832218813595467,
+      "top_label_ece": 0.011966621287361017,
+      "rare_true_class_n": 2314,
+      "rare_true_class_log_loss": 4.962598185380799
+    },
+    {
+      "period": "selection_2024_H2",
+      "method": "identity",
+      "temperature": 1.0,
+      "league_weight": 0.0,
+      "n": 87809,
+      "log_loss": 1.5756902999218023,
+      "brier": 0.7225387519198846,
+      "macro_class_ece": 0.0015794373769771415,
+      "top_label_ece": 0.004408722850424227,
+      "rare_true_class_n": 2009,
+      "rare_true_class_log_loss": 4.937575078335047
+    },
+    {
+      "period": "selection_2024_H2",
+      "method": "temperature",
+      "temperature": 1,
+      "league_weight": 0.0,
+      "n": 87809,
+      "log_loss": 1.5756902999218023,
+      "brier": 0.7225387519198846,
+      "macro_class_ece": 0.0015794373769771415,
+      "top_label_ece": 0.004408722850424227,
+      "rare_true_class_n": 2009,
+      "rare_true_class_log_loss": 4.937575078335047
+    },
+    {
+      "period": "selection_2024_H2",
+      "method": "league_blend",
+      "temperature": 1.0,
+      "league_weight": 0,
+      "n": 87809,
+      "log_loss": 1.5756902999218023,
+      "brier": 0.7225387519198846,
+      "macro_class_ece": 0.0015794373769771415,
+      "top_label_ece": 0.004408722850424227,
+      "rare_true_class_n": 2009,
+      "rare_true_class_log_loss": 4.937575078335047
+    },
+    {
+      "period": "selection_2024_H2",
+      "method": "temperature_blend",
+      "temperature": 1,
+      "league_weight": 0,
+      "n": 87809,
+      "log_loss": 1.5756902999218023,
+      "brier": 0.7225387519198846,
+      "macro_class_ece": 0.0015794373769771415,
+      "top_label_ece": 0.004408722850424227,
+      "rare_true_class_n": 2009,
+      "rare_true_class_log_loss": 4.937575078335047
+    },
+    {
+      "period": "known_reference_2025",
+      "method": "identity",
+      "temperature": 1.0,
+      "league_weight": 0.0,
+      "n": 182926,
+      "log_loss": 1.5688152508924231,
+      "brier": 0.720076705788002,
+      "macro_class_ece": 0.0019410837716435474,
+      "top_label_ece": 0.0065825010304870896,
+      "rare_true_class_n": 4311,
+      "rare_true_class_log_loss": 4.733175857597348
+    },
+    {
+      "period": "known_reference_2025",
+      "method": "selected",
+      "temperature": 1.0,
+      "league_weight": 0.0,
+      "n": 182926,
+      "log_loss": 1.5688152508924231,
+      "brier": 0.720076705788002,
+      "macro_class_ece": 0.0019410837716435474,
+      "top_label_ece": 0.0065825010304870896,
+      "rare_true_class_n": 4311,
+      "rare_true_class_log_loss": 4.733175857597348
+    },
+    {
+      "period": "selection_2024_H2",
+      "method": "selected_plus_FC_rule",
+      "temperature": 1.0,
+      "league_weight": 0.0,
+      "n": 87809,
+      "log_loss": 1.5745533011682349,
+      "brier": 0.7225263947379374,
+      "macro_class_ece": 0.0016185072088377942,
+      "top_label_ece": 0.003942263295616407,
+      "rare_true_class_n": 2009,
+      "rare_true_class_log_loss": 4.936998511973375
+    },
+    {
+      "period": "known_reference_2025",
+      "method": "selected_plus_FC_rule",
+      "temperature": 1.0,
+      "league_weight": 0.0,
+      "n": 182926,
+      "log_loss": 1.5676970035224251,
+      "brier": 0.7200641167892878,
+      "macro_class_ece": 0.0020031392381873554,
+      "top_label_ece": 0.0060795061831685655,
+      "rare_true_class_n": 4311,
+      "rare_true_class_log_loss": 4.732680722838422
+    }
+  ],
+  "game_bootstrap": {
+    "selection_2024_H2:log_loss": {
+      "difference_selected_minus_baseline": 0.0,
+      "percentile_95_interval": [
+        0.0,
+        0.0
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 1167,
+      "repetitions": 1000,
+      "seed": 726
+    },
+    "selection_2024_H2:brier": {
+      "difference_selected_minus_baseline": 0.0,
+      "percentile_95_interval": [
+        0.0,
+        0.0
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 1167,
+      "repetitions": 1000,
+      "seed": 726
+    },
+    "known_reference_2025:log_loss": {
+      "difference_selected_minus_baseline": 0.0,
+      "percentile_95_interval": [
+        0.0,
+        0.0
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 726
+    },
+    "known_reference_2025:brier": {
+      "difference_selected_minus_baseline": 0.0,
+      "percentile_95_interval": [
+        0.0,
+        0.0
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 726
+    }
+  },
+  "absolute_score_intervals": {
+    "selection_2024_H2:log_loss": {
+      "percentile_95_interval": [
+        1.568388203415967,
+        1.582804020835518
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 1167,
+      "repetitions": 1000,
+      "seed": 726,
+      "estimate": 1.5756902999218023
+    },
+    "selection_2024_H2:brier": {
+      "percentile_95_interval": [
+        0.7200934806785901,
+        0.7248568287884157
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 1167,
+      "repetitions": 1000,
+      "seed": 726,
+      "estimate": 0.7225387519198846
+    },
+    "known_reference_2025:log_loss": {
+      "percentile_95_interval": [
+        1.564437860920812,
+        1.5737065231441856
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 726,
+      "estimate": 1.5688152508924231
+    },
+    "known_reference_2025:brier": {
+      "percentile_95_interval": [
+        0.7185170869571385,
+        0.7215809753862599
+      ],
+      "unit": "resampled whole games, weighted by observations",
+      "games": 2430,
+      "repetitions": 1000,
+      "seed": 726,
+      "estimate": 0.720076705788002
+    }
+  }
+}

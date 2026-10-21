@@ -1,0 +1,30 @@
+{
+  "snapshot_id": "22cc8e577ad14b4c8804e88b",
+  "source5_sha256": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+  "source6_sha256": "22b9c8e637495dcbfef8c89d69539a1e83f63c8afb33bf644d6aa2944405c046",
+  "config_sha256": "85294f6209cb7f33643fca302a714fe38b9724d68d5c4dda4c71ec1c229cd8d8",
+  "rules_version": "identity-rules-1",
+  "code_sha256": "47131b7b004050a8e7d4fc76d0cac5db9b573fbb9477b5e96cb8d4cfb8ea3e06",
+  "documentation": {
+    "README.md": "8e99a0d5bb88adbad6964d66e94bfbb22f774d963f35782c7f1b362188b2d60b",
+    "ATTRIBUTIONS.md": "baad16d5d6c9cec676597b3b4ad8b8f2c3a45f47f2e1b10e487bf26ee7eba237",
+    "TRANSITIONS.md": "c90d9a8ce1179cf64376814350b24ee08455c19e8eaa47e11d57f655e111b450",
+    "STAGE8.md": "13b35cb75d1b970ea23b333d3ac26273a7117a939a3e7cc6c03cf70e214c980d"
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1",
+    "numpy": "2.5.4"
+  },
+  "evaluation": "2024 re-split exploratory, 2025 known reference; no independent final test available",
+  "windows": 550794,
+  "reconstructed": 549857,
+  "supported": 548399,
+  "calibration_method": "identity",
+  "identity_groups": 496,
+  "identity_patterns": 1514,
+  "simulation_halves_per_model": 10000,
+  "simulation_identity_failures": 8,
+  "network_data_requests": 0,
+  "full_engine_integration_ready": false
+}

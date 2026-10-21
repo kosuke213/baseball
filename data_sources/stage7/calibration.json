@@ -1,0 +1,37 @@
+{
+  "version": "calibration-1",
+  "fit_period": "2024-H1",
+  "selection_period": "2024-H2",
+  "selected_method": "identity",
+  "parameters": {
+    "temperature": 1.0,
+    "league_weight": 0.0
+  },
+  "methods": {
+    "identity": {
+      "temperature": 1.0,
+      "league_weight": 0.0
+    },
+    "temperature": {
+      "temperature": 1,
+      "league_weight": 0.0
+    },
+    "league_blend": {
+      "temperature": 1.0,
+      "league_weight": 0
+    },
+    "temperature_blend": {
+      "temperature": 1,
+      "league_weight": 0
+    }
+  },
+  "fit_games": 1261,
+  "selection_games": 1167,
+  "fit_pa": 94570,
+  "selection_pa": 87809,
+  "spanning_cutoff_windows_excluded": 70,
+  "independent_final_test_available": false,
+  "evaluation_status": "2024 re-split is exploratory (stage6 already used 2024); 2025 is known reference, never a new untouched test",
+  "refit_transfer_limit": "H1 calibrator fitted to 2023-only OOS predictions is frozen and transferred to 2023-2024 base; no 2025 retuning",
+  "selection_rule": "H2 log loss with Brier and top-ECE non-degradation guards; identity remains if no admissible improvement"
+}
