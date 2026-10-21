@@ -1,0 +1,857 @@
+﻿measurement_id,dataset_id,participant_id,metric,condition,statistic,value,sd,reported_n,n_unit,source_unit,normalized_value,normalized_sd,normalized_unit,artifact_id,source_location,raw_text
+1,zenodo_5796004,zenodo_5796004:participant:100,height,tryout,individual,170.5,,,,,,,,zenodo_5796004_data,CSV:row=2:column=height,170.5
+2,zenodo_5796004,zenodo_5796004:participant:100,irrom,tryout,individual,54.5,,,,,,,,zenodo_5796004_data,CSV:row=2:column=irrom,54.5
+3,zenodo_5796004,zenodo_5796004:participant:100,errom,tryout,individual,110.0,,,,,,,,zenodo_5796004_data,CSV:row=2:column=errom,110
+4,zenodo_5796004,zenodo_5796004:participant:100,lthorax,tryout,individual,61.0,,,,,,,,zenodo_5796004_data,CSV:row=2:column=lthorax,61
+5,zenodo_5796004,zenodo_5796004:participant:100,rthorax,tryout,individual,62.0,,,,,,,,zenodo_5796004_data,CSV:row=2:column=rthorax,62
+6,zenodo_5796004,zenodo_5796004:participant:100,cmjnw,tryout,individual,36.82,,,,,,,,zenodo_5796004_data,CSV:row=2:column=cmjnw,36.82
+7,zenodo_5796004,zenodo_5796004:participant:100,cmjw,tryout,individual,29.8,,,,,,,,zenodo_5796004_data,CSV:row=2:column=cmjw,29.8
+8,zenodo_5796004,zenodo_5796004:participant:100,sprint10,tryout,individual,1.79,,,,,,,,zenodo_5796004_data,CSV:row=2:column=sprint10,1.79
+9,zenodo_5796004,zenodo_5796004:participant:100,sprint30,tryout,individual,3.93,,,,,,,,zenodo_5796004_data,CSV:row=2:column=sprint30,3.93
+10,zenodo_5796004,zenodo_5796004:participant:100,velocity,tryout,individual,134.0,,,,,,,,zenodo_5796004_data,CSV:row=2:column=velocity,134
+11,zenodo_5796004,zenodo_5796004:participant:100,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=2:column=handedness,R
+12,zenodo_5796004,zenodo_5796004:participant:102,height,tryout,individual,175.0,,,,,,,,zenodo_5796004_data,CSV:row=3:column=height,175
+13,zenodo_5796004,zenodo_5796004:participant:102,irrom,tryout,individual,53.5,,,,,,,,zenodo_5796004_data,CSV:row=3:column=irrom,53.5
+14,zenodo_5796004,zenodo_5796004:participant:102,errom,tryout,individual,117.0,,,,,,,,zenodo_5796004_data,CSV:row=3:column=errom,117
+15,zenodo_5796004,zenodo_5796004:participant:102,lthorax,tryout,individual,74.5,,,,,,,,zenodo_5796004_data,CSV:row=3:column=lthorax,74.5
+16,zenodo_5796004,zenodo_5796004:participant:102,rthorax,tryout,individual,76.5,,,,,,,,zenodo_5796004_data,CSV:row=3:column=rthorax,76.5
+17,zenodo_5796004,zenodo_5796004:participant:102,cmjnw,tryout,individual,37.22,,,,,,,,zenodo_5796004_data,CSV:row=3:column=cmjnw,37.22
+18,zenodo_5796004,zenodo_5796004:participant:102,cmjw,tryout,individual,32.65,,,,,,,,zenodo_5796004_data,CSV:row=3:column=cmjw,32.65
+19,zenodo_5796004,zenodo_5796004:participant:102,sprint10,tryout,individual,1.84,,,,,,,,zenodo_5796004_data,CSV:row=3:column=sprint10,1.84
+20,zenodo_5796004,zenodo_5796004:participant:102,sprint30,tryout,individual,4.04,,,,,,,,zenodo_5796004_data,CSV:row=3:column=sprint30,4.04
+21,zenodo_5796004,zenodo_5796004:participant:102,velocity,tryout,individual,141.0,,,,,,,,zenodo_5796004_data,CSV:row=3:column=velocity,141
+22,zenodo_5796004,zenodo_5796004:participant:102,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=3:column=handedness,R
+23,zenodo_5796004,zenodo_5796004:participant:103,height,tryout,individual,187.5,,,,,,,,zenodo_5796004_data,CSV:row=4:column=height,187.5
+24,zenodo_5796004,zenodo_5796004:participant:103,irrom,tryout,individual,57.5,,,,,,,,zenodo_5796004_data,CSV:row=4:column=irrom,57.5
+25,zenodo_5796004,zenodo_5796004:participant:103,errom,tryout,individual,116.0,,,,,,,,zenodo_5796004_data,CSV:row=4:column=errom,116
+26,zenodo_5796004,zenodo_5796004:participant:103,lthorax,tryout,individual,51.0,,,,,,,,zenodo_5796004_data,CSV:row=4:column=lthorax,51
+27,zenodo_5796004,zenodo_5796004:participant:103,rthorax,tryout,individual,73.5,,,,,,,,zenodo_5796004_data,CSV:row=4:column=rthorax,73.5
+28,zenodo_5796004,zenodo_5796004:participant:103,cmjnw,tryout,individual,42.97,,,,,,,,zenodo_5796004_data,CSV:row=4:column=cmjnw,42.97
+29,zenodo_5796004,zenodo_5796004:participant:103,cmjw,tryout,individual,33.54,,,,,,,,zenodo_5796004_data,CSV:row=4:column=cmjw,33.54
+30,zenodo_5796004,zenodo_5796004:participant:103,sprint10,tryout,individual,1.87,,,,,,,,zenodo_5796004_data,CSV:row=4:column=sprint10,1.87
+31,zenodo_5796004,zenodo_5796004:participant:103,sprint30,tryout,individual,4.17,,,,,,,,zenodo_5796004_data,CSV:row=4:column=sprint30,4.17
+32,zenodo_5796004,zenodo_5796004:participant:103,velocity,tryout,individual,142.0,,,,,,,,zenodo_5796004_data,CSV:row=4:column=velocity,142
+33,zenodo_5796004,zenodo_5796004:participant:103,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=4:column=handedness,R
+34,zenodo_5796004,zenodo_5796004:participant:104,height,tryout,individual,180.0,,,,,,,,zenodo_5796004_data,CSV:row=5:column=height,180
+35,zenodo_5796004,zenodo_5796004:participant:104,irrom,tryout,individual,51.5,,,,,,,,zenodo_5796004_data,CSV:row=5:column=irrom,51.5
+36,zenodo_5796004,zenodo_5796004:participant:104,errom,tryout,individual,118.0,,,,,,,,zenodo_5796004_data,CSV:row=5:column=errom,118
+37,zenodo_5796004,zenodo_5796004:participant:104,lthorax,tryout,individual,72.0,,,,,,,,zenodo_5796004_data,CSV:row=5:column=lthorax,72
+38,zenodo_5796004,zenodo_5796004:participant:104,rthorax,tryout,individual,77.0,,,,,,,,zenodo_5796004_data,CSV:row=5:column=rthorax,77
+39,zenodo_5796004,zenodo_5796004:participant:104,cmjnw,tryout,individual,44.73,,,,,,,,zenodo_5796004_data,CSV:row=5:column=cmjnw,44.73
+40,zenodo_5796004,zenodo_5796004:participant:104,cmjw,tryout,individual,35.75,,,,,,,,zenodo_5796004_data,CSV:row=5:column=cmjw,35.75
+41,zenodo_5796004,zenodo_5796004:participant:104,sprint10,tryout,individual,1.77,,,,,,,,zenodo_5796004_data,CSV:row=5:column=sprint10,1.77
+42,zenodo_5796004,zenodo_5796004:participant:104,sprint30,tryout,individual,3.93,,,,,,,,zenodo_5796004_data,CSV:row=5:column=sprint30,3.93
+43,zenodo_5796004,zenodo_5796004:participant:104,velocity,tryout,individual,135.0,,,,,,,,zenodo_5796004_data,CSV:row=5:column=velocity,135
+44,zenodo_5796004,zenodo_5796004:participant:104,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=5:column=handedness,L
+45,zenodo_5796004,zenodo_5796004:participant:105,height,tryout,individual,190.0,,,,,,,,zenodo_5796004_data,CSV:row=6:column=height,190
+46,zenodo_5796004,zenodo_5796004:participant:105,irrom,tryout,individual,32.5,,,,,,,,zenodo_5796004_data,CSV:row=6:column=irrom,32.5
+47,zenodo_5796004,zenodo_5796004:participant:105,errom,tryout,individual,110.5,,,,,,,,zenodo_5796004_data,CSV:row=6:column=errom,110.5
+48,zenodo_5796004,zenodo_5796004:participant:105,lthorax,tryout,individual,64.0,,,,,,,,zenodo_5796004_data,CSV:row=6:column=lthorax,64
+49,zenodo_5796004,zenodo_5796004:participant:105,rthorax,tryout,individual,63.0,,,,,,,,zenodo_5796004_data,CSV:row=6:column=rthorax,63
+50,zenodo_5796004,zenodo_5796004:participant:105,cmjnw,tryout,individual,44.29,,,,,,,,zenodo_5796004_data,CSV:row=6:column=cmjnw,44.29
+51,zenodo_5796004,zenodo_5796004:participant:105,cmjw,tryout,individual,43.7,,,,,,,,zenodo_5796004_data,CSV:row=6:column=cmjw,43.7
+52,zenodo_5796004,zenodo_5796004:participant:105,sprint10,tryout,individual,1.83,,,,,,,,zenodo_5796004_data,CSV:row=6:column=sprint10,1.83
+53,zenodo_5796004,zenodo_5796004:participant:105,sprint30,tryout,individual,4.18,,,,,,,,zenodo_5796004_data,CSV:row=6:column=sprint30,4.18
+54,zenodo_5796004,zenodo_5796004:participant:105,velocity,tryout,individual,138.0,,,,,,,,zenodo_5796004_data,CSV:row=6:column=velocity,138
+55,zenodo_5796004,zenodo_5796004:participant:105,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=6:column=handedness,L
+56,zenodo_5796004,zenodo_5796004:participant:106,height,tryout,individual,178.0,,,,,,,,zenodo_5796004_data,CSV:row=7:column=height,178
+57,zenodo_5796004,zenodo_5796004:participant:106,irrom,tryout,individual,47.0,,,,,,,,zenodo_5796004_data,CSV:row=7:column=irrom,47
+58,zenodo_5796004,zenodo_5796004:participant:106,errom,tryout,individual,109.0,,,,,,,,zenodo_5796004_data,CSV:row=7:column=errom,109
+59,zenodo_5796004,zenodo_5796004:participant:106,lthorax,tryout,individual,60.0,,,,,,,,zenodo_5796004_data,CSV:row=7:column=lthorax,60
+60,zenodo_5796004,zenodo_5796004:participant:106,rthorax,tryout,individual,64.0,,,,,,,,zenodo_5796004_data,CSV:row=7:column=rthorax,64
+61,zenodo_5796004,zenodo_5796004:participant:106,cmjnw,tryout,individual,35.62,,,,,,,,zenodo_5796004_data,CSV:row=7:column=cmjnw,35.62
+62,zenodo_5796004,zenodo_5796004:participant:106,cmjw,tryout,individual,30.16,,,,,,,,zenodo_5796004_data,CSV:row=7:column=cmjw,30.16
+63,zenodo_5796004,zenodo_5796004:participant:106,sprint10,tryout,individual,1.387,,,,,,,,zenodo_5796004_data,CSV:row=7:column=sprint10,1.387
+64,zenodo_5796004,zenodo_5796004:participant:106,sprint30,tryout,individual,4.17,,,,,,,,zenodo_5796004_data,CSV:row=7:column=sprint30,4.17
+65,zenodo_5796004,zenodo_5796004:participant:106,velocity,tryout,individual,130.0,,,,,,,,zenodo_5796004_data,CSV:row=7:column=velocity,130
+66,zenodo_5796004,zenodo_5796004:participant:106,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=7:column=handedness,R
+67,zenodo_5796004,zenodo_5796004:participant:107,height,tryout,individual,180.0,,,,,,,,zenodo_5796004_data,CSV:row=8:column=height,180
+68,zenodo_5796004,zenodo_5796004:participant:107,irrom,tryout,individual,66.5,,,,,,,,zenodo_5796004_data,CSV:row=8:column=irrom,66.5
+69,zenodo_5796004,zenodo_5796004:participant:107,errom,tryout,individual,120.5,,,,,,,,zenodo_5796004_data,CSV:row=8:column=errom,120.5
+70,zenodo_5796004,zenodo_5796004:participant:107,lthorax,tryout,individual,69.0,,,,,,,,zenodo_5796004_data,CSV:row=8:column=lthorax,69
+71,zenodo_5796004,zenodo_5796004:participant:107,rthorax,tryout,individual,66.0,,,,,,,,zenodo_5796004_data,CSV:row=8:column=rthorax,66
+72,zenodo_5796004,zenodo_5796004:participant:107,cmjnw,tryout,individual,44.88,,,,,,,,zenodo_5796004_data,CSV:row=8:column=cmjnw,44.88
+73,zenodo_5796004,zenodo_5796004:participant:107,cmjw,tryout,individual,39.7,,,,,,,,zenodo_5796004_data,CSV:row=8:column=cmjw,39.7
+74,zenodo_5796004,zenodo_5796004:participant:107,sprint10,tryout,individual,1.86,,,,,,,,zenodo_5796004_data,CSV:row=8:column=sprint10,1.86
+75,zenodo_5796004,zenodo_5796004:participant:107,sprint30,tryout,individual,4.02,,,,,,,,zenodo_5796004_data,CSV:row=8:column=sprint30,4.02
+76,zenodo_5796004,zenodo_5796004:participant:107,velocity,tryout,individual,135.0,,,,,,,,zenodo_5796004_data,CSV:row=8:column=velocity,135
+77,zenodo_5796004,zenodo_5796004:participant:107,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=8:column=handedness,R
+78,zenodo_5796004,zenodo_5796004:participant:108,height,tryout,individual,177.5,,,,,,,,zenodo_5796004_data,CSV:row=9:column=height,177.5
+79,zenodo_5796004,zenodo_5796004:participant:108,irrom,tryout,individual,80.5,,,,,,,,zenodo_5796004_data,CSV:row=9:column=irrom,80.5
+80,zenodo_5796004,zenodo_5796004:participant:108,errom,tryout,individual,103.0,,,,,,,,zenodo_5796004_data,CSV:row=9:column=errom,103
+81,zenodo_5796004,zenodo_5796004:participant:108,lthorax,tryout,individual,79.5,,,,,,,,zenodo_5796004_data,CSV:row=9:column=lthorax,79.5
+82,zenodo_5796004,zenodo_5796004:participant:108,rthorax,tryout,individual,78.5,,,,,,,,zenodo_5796004_data,CSV:row=9:column=rthorax,78.5
+83,zenodo_5796004,zenodo_5796004:participant:108,cmjnw,tryout,individual,49.44,,,,,,,,zenodo_5796004_data,CSV:row=9:column=cmjnw,49.44
+84,zenodo_5796004,zenodo_5796004:participant:108,cmjw,tryout,individual,37.09,,,,,,,,zenodo_5796004_data,CSV:row=9:column=cmjw,37.09
+85,zenodo_5796004,zenodo_5796004:participant:108,sprint10,tryout,individual,1.84,,,,,,,,zenodo_5796004_data,CSV:row=9:column=sprint10,1.84
+86,zenodo_5796004,zenodo_5796004:participant:108,sprint30,tryout,individual,4.03,,,,,,,,zenodo_5796004_data,CSV:row=9:column=sprint30,4.03
+87,zenodo_5796004,zenodo_5796004:participant:108,velocity,tryout,individual,136.0,,,,,,,,zenodo_5796004_data,CSV:row=9:column=velocity,136
+88,zenodo_5796004,zenodo_5796004:participant:108,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=9:column=handedness,L
+89,zenodo_5796004,zenodo_5796004:participant:110,height,tryout,individual,178.5,,,,,,,,zenodo_5796004_data,CSV:row=10:column=height,178.5
+90,zenodo_5796004,zenodo_5796004:participant:110,irrom,tryout,individual,42.0,,,,,,,,zenodo_5796004_data,CSV:row=10:column=irrom,42
+91,zenodo_5796004,zenodo_5796004:participant:110,errom,tryout,individual,112.5,,,,,,,,zenodo_5796004_data,CSV:row=10:column=errom,112.5
+92,zenodo_5796004,zenodo_5796004:participant:110,lthorax,tryout,individual,59.0,,,,,,,,zenodo_5796004_data,CSV:row=10:column=lthorax,59
+93,zenodo_5796004,zenodo_5796004:participant:110,rthorax,tryout,individual,56.0,,,,,,,,zenodo_5796004_data,CSV:row=10:column=rthorax,56
+94,zenodo_5796004,zenodo_5796004:participant:110,cmjnw,tryout,individual,32.9,,,,,,,,zenodo_5796004_data,CSV:row=10:column=cmjnw,32.9
+95,zenodo_5796004,zenodo_5796004:participant:110,cmjw,tryout,individual,32.9,,,,,,,,zenodo_5796004_data,CSV:row=10:column=cmjw,32.9
+96,zenodo_5796004,zenodo_5796004:participant:110,sprint10,tryout,individual,1.88,,,,,,,,zenodo_5796004_data,CSV:row=10:column=sprint10,1.88
+97,zenodo_5796004,zenodo_5796004:participant:110,sprint30,tryout,individual,4.06,,,,,,,,zenodo_5796004_data,CSV:row=10:column=sprint30,4.06
+98,zenodo_5796004,zenodo_5796004:participant:110,velocity,tryout,individual,142.0,,,,,,,,zenodo_5796004_data,CSV:row=10:column=velocity,142
+99,zenodo_5796004,zenodo_5796004:participant:110,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=10:column=handedness,R
+100,zenodo_5796004,zenodo_5796004:participant:111,height,tryout,individual,176.0,,,,,,,,zenodo_5796004_data,CSV:row=11:column=height,176
+101,zenodo_5796004,zenodo_5796004:participant:111,irrom,tryout,individual,70.0,,,,,,,,zenodo_5796004_data,CSV:row=11:column=irrom,70
+102,zenodo_5796004,zenodo_5796004:participant:111,errom,tryout,individual,107.5,,,,,,,,zenodo_5796004_data,CSV:row=11:column=errom,107.5
+103,zenodo_5796004,zenodo_5796004:participant:111,lthorax,tryout,individual,58.5,,,,,,,,zenodo_5796004_data,CSV:row=11:column=lthorax,58.5
+104,zenodo_5796004,zenodo_5796004:participant:111,rthorax,tryout,individual,59.5,,,,,,,,zenodo_5796004_data,CSV:row=11:column=rthorax,59.5
+105,zenodo_5796004,zenodo_5796004:participant:111,cmjnw,tryout,individual,41.53,,,,,,,,zenodo_5796004_data,CSV:row=11:column=cmjnw,41.53
+106,zenodo_5796004,zenodo_5796004:participant:111,cmjw,tryout,individual,34.96,,,,,,,,zenodo_5796004_data,CSV:row=11:column=cmjw,34.96
+107,zenodo_5796004,zenodo_5796004:participant:111,sprint10,tryout,individual,1.75,,,,,,,,zenodo_5796004_data,CSV:row=11:column=sprint10,1.75
+108,zenodo_5796004,zenodo_5796004:participant:111,sprint30,tryout,individual,3.96,,,,,,,,zenodo_5796004_data,CSV:row=11:column=sprint30,3.96
+109,zenodo_5796004,zenodo_5796004:participant:111,velocity,tryout,individual,138.0,,,,,,,,zenodo_5796004_data,CSV:row=11:column=velocity,138
+110,zenodo_5796004,zenodo_5796004:participant:111,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=11:column=handedness,R
+111,zenodo_5796004,zenodo_5796004:participant:17,height,tryout,individual,187.5,,,,,,,,zenodo_5796004_data,CSV:row=12:column=height,187.5
+112,zenodo_5796004,zenodo_5796004:participant:17,irrom,tryout,individual,60.5,,,,,,,,zenodo_5796004_data,CSV:row=12:column=irrom,60.5
+113,zenodo_5796004,zenodo_5796004:participant:17,errom,tryout,individual,94.0,,,,,,,,zenodo_5796004_data,CSV:row=12:column=errom,94
+114,zenodo_5796004,zenodo_5796004:participant:17,lthorax,tryout,individual,66.0,,,,,,,,zenodo_5796004_data,CSV:row=12:column=lthorax,66
+115,zenodo_5796004,zenodo_5796004:participant:17,rthorax,tryout,individual,63.0,,,,,,,,zenodo_5796004_data,CSV:row=12:column=rthorax,63
+116,zenodo_5796004,zenodo_5796004:participant:17,cmjnw,tryout,individual,38.59,,,,,,,,zenodo_5796004_data,CSV:row=12:column=cmjnw,38.59
+117,zenodo_5796004,zenodo_5796004:participant:17,cmjw,tryout,individual,33.54,,,,,,,,zenodo_5796004_data,CSV:row=12:column=cmjw,33.54
+118,zenodo_5796004,zenodo_5796004:participant:17,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=12:column=sprint10,1.8
+119,zenodo_5796004,zenodo_5796004:participant:17,sprint30,tryout,individual,4.06,,,,,,,,zenodo_5796004_data,CSV:row=12:column=sprint30,4.06
+120,zenodo_5796004,zenodo_5796004:participant:17,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=12:column=velocity,140
+121,zenodo_5796004,zenodo_5796004:participant:17,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=12:column=handedness,R
+122,zenodo_5796004,zenodo_5796004:participant:112,height,tryout,individual,176.5,,,,,,,,zenodo_5796004_data,CSV:row=13:column=height,176.5
+123,zenodo_5796004,zenodo_5796004:participant:112,irrom,tryout,individual,49.5,,,,,,,,zenodo_5796004_data,CSV:row=13:column=irrom,49.5
+124,zenodo_5796004,zenodo_5796004:participant:112,errom,tryout,individual,118.5,,,,,,,,zenodo_5796004_data,CSV:row=13:column=errom,118.5
+125,zenodo_5796004,zenodo_5796004:participant:112,lthorax,tryout,individual,62.5,,,,,,,,zenodo_5796004_data,CSV:row=13:column=lthorax,62.5
+126,zenodo_5796004,zenodo_5796004:participant:112,rthorax,tryout,individual,69.0,,,,,,,,zenodo_5796004_data,CSV:row=13:column=rthorax,69
+127,zenodo_5796004,zenodo_5796004:participant:112,cmjnw,tryout,individual,39.84,,,,,,,,zenodo_5796004_data,CSV:row=13:column=cmjnw,39.84
+128,zenodo_5796004,zenodo_5796004:participant:112,cmjw,tryout,individual,34.44,,,,,,,,zenodo_5796004_data,CSV:row=13:column=cmjw,34.44
+129,zenodo_5796004,zenodo_5796004:participant:112,sprint10,tryout,individual,1.78,,,,,,,,zenodo_5796004_data,CSV:row=13:column=sprint10,1.78
+130,zenodo_5796004,zenodo_5796004:participant:112,sprint30,tryout,individual,4.03,,,,,,,,zenodo_5796004_data,CSV:row=13:column=sprint30,4.03
+131,zenodo_5796004,zenodo_5796004:participant:112,velocity,tryout,individual,137.0,,,,,,,,zenodo_5796004_data,CSV:row=13:column=velocity,137
+132,zenodo_5796004,zenodo_5796004:participant:112,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=13:column=handedness,R
+133,zenodo_5796004,zenodo_5796004:participant:113,height,tryout,individual,175.5,,,,,,,,zenodo_5796004_data,CSV:row=14:column=height,175.5
+134,zenodo_5796004,zenodo_5796004:participant:113,irrom,tryout,individual,56.0,,,,,,,,zenodo_5796004_data,CSV:row=14:column=irrom,56
+135,zenodo_5796004,zenodo_5796004:participant:113,errom,tryout,individual,112.5,,,,,,,,zenodo_5796004_data,CSV:row=14:column=errom,112.5
+136,zenodo_5796004,zenodo_5796004:participant:113,lthorax,tryout,individual,56.0,,,,,,,,zenodo_5796004_data,CSV:row=14:column=lthorax,56
+137,zenodo_5796004,zenodo_5796004:participant:113,rthorax,tryout,individual,78.5,,,,,,,,zenodo_5796004_data,CSV:row=14:column=rthorax,78.5
+138,zenodo_5796004,zenodo_5796004:participant:113,cmjnw,tryout,individual,49.6,,,,,,,,zenodo_5796004_data,CSV:row=14:column=cmjnw,49.6
+139,zenodo_5796004,zenodo_5796004:participant:113,cmjw,tryout,individual,39.7,,,,,,,,zenodo_5796004_data,CSV:row=14:column=cmjw,39.7
+140,zenodo_5796004,zenodo_5796004:participant:113,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=14:column=sprint10,1.8
+141,zenodo_5796004,zenodo_5796004:participant:113,sprint30,tryout,individual,4.03,,,,,,,,zenodo_5796004_data,CSV:row=14:column=sprint30,4.03
+142,zenodo_5796004,zenodo_5796004:participant:113,velocity,tryout,individual,142.0,,,,,,,,zenodo_5796004_data,CSV:row=14:column=velocity,142
+143,zenodo_5796004,zenodo_5796004:participant:113,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=14:column=handedness,R
+144,zenodo_5796004,zenodo_5796004:participant:114,height,tryout,individual,174.5,,,,,,,,zenodo_5796004_data,CSV:row=15:column=height,174.5
+145,zenodo_5796004,zenodo_5796004:participant:114,irrom,tryout,individual,25.0,,,,,,,,zenodo_5796004_data,CSV:row=15:column=irrom,25
+146,zenodo_5796004,zenodo_5796004:participant:114,errom,tryout,individual,95.0,,,,,,,,zenodo_5796004_data,CSV:row=15:column=errom,95
+147,zenodo_5796004,zenodo_5796004:participant:114,lthorax,tryout,individual,38.5,,,,,,,,zenodo_5796004_data,CSV:row=15:column=lthorax,38.5
+148,zenodo_5796004,zenodo_5796004:participant:114,rthorax,tryout,individual,49.0,,,,,,,,zenodo_5796004_data,CSV:row=15:column=rthorax,49
+149,zenodo_5796004,zenodo_5796004:participant:114,cmjnw,tryout,individual,43.12,,,,,,,,zenodo_5796004_data,CSV:row=15:column=cmjnw,43.12
+150,zenodo_5796004,zenodo_5796004:participant:114,cmjw,tryout,individual,36.69,,,,,,,,zenodo_5796004_data,CSV:row=15:column=cmjw,36.69
+151,zenodo_5796004,zenodo_5796004:participant:114,sprint10,tryout,individual,1.84,,,,,,,,zenodo_5796004_data,CSV:row=15:column=sprint10,1.84
+152,zenodo_5796004,zenodo_5796004:participant:114,sprint30,tryout,individual,4.06,,,,,,,,zenodo_5796004_data,CSV:row=15:column=sprint30,4.06
+153,zenodo_5796004,zenodo_5796004:participant:114,velocity,tryout,individual,134.0,,,,,,,,zenodo_5796004_data,CSV:row=15:column=velocity,134
+154,zenodo_5796004,zenodo_5796004:participant:114,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=15:column=handedness,R
+155,zenodo_5796004,zenodo_5796004:participant:56,height,tryout,individual,170.5,,,,,,,,zenodo_5796004_data,CSV:row=16:column=height,170.5
+156,zenodo_5796004,zenodo_5796004:participant:56,irrom,tryout,individual,42.0,,,,,,,,zenodo_5796004_data,CSV:row=16:column=irrom,42
+157,zenodo_5796004,zenodo_5796004:participant:56,errom,tryout,individual,106.5,,,,,,,,zenodo_5796004_data,CSV:row=16:column=errom,106.5
+158,zenodo_5796004,zenodo_5796004:participant:56,lthorax,tryout,individual,63.0,,,,,,,,zenodo_5796004_data,CSV:row=16:column=lthorax,63
+159,zenodo_5796004,zenodo_5796004:participant:56,rthorax,tryout,individual,74.5,,,,,,,,zenodo_5796004_data,CSV:row=16:column=rthorax,74.5
+160,zenodo_5796004,zenodo_5796004:participant:56,cmjnw,tryout,individual,47.74,,,,,,,,zenodo_5796004_data,CSV:row=16:column=cmjnw,47.74
+161,zenodo_5796004,zenodo_5796004:participant:56,cmjw,tryout,individual,40.96,,,,,,,,zenodo_5796004_data,CSV:row=16:column=cmjw,40.96
+162,zenodo_5796004,zenodo_5796004:participant:56,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=16:column=sprint10,1.8
+163,zenodo_5796004,zenodo_5796004:participant:56,sprint30,tryout,individual,3.92,,,,,,,,zenodo_5796004_data,CSV:row=16:column=sprint30,3.92
+164,zenodo_5796004,zenodo_5796004:participant:56,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=16:column=velocity,140
+165,zenodo_5796004,zenodo_5796004:participant:56,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=16:column=handedness,R
+166,zenodo_5796004,zenodo_5796004:participant:115,height,tryout,individual,183.0,,,,,,,,zenodo_5796004_data,CSV:row=17:column=height,183
+167,zenodo_5796004,zenodo_5796004:participant:115,irrom,tryout,individual,30.0,,,,,,,,zenodo_5796004_data,CSV:row=17:column=irrom,30
+168,zenodo_5796004,zenodo_5796004:participant:115,errom,tryout,individual,113.0,,,,,,,,zenodo_5796004_data,CSV:row=17:column=errom,113
+169,zenodo_5796004,zenodo_5796004:participant:115,lthorax,tryout,individual,52.5,,,,,,,,zenodo_5796004_data,CSV:row=17:column=lthorax,52.5
+170,zenodo_5796004,zenodo_5796004:participant:115,rthorax,tryout,individual,54.5,,,,,,,,zenodo_5796004_data,CSV:row=17:column=rthorax,54.5
+171,zenodo_5796004,zenodo_5796004:participant:115,cmjnw,tryout,individual,41.96,,,,,,,,zenodo_5796004_data,CSV:row=17:column=cmjnw,41.96
+172,zenodo_5796004,zenodo_5796004:participant:115,cmjw,tryout,individual,34.18,,,,,,,,zenodo_5796004_data,CSV:row=17:column=cmjw,34.18
+173,zenodo_5796004,zenodo_5796004:participant:115,sprint10,tryout,individual,1.9,,,,,,,,zenodo_5796004_data,CSV:row=17:column=sprint10,1.9
+174,zenodo_5796004,zenodo_5796004:participant:115,sprint30,tryout,individual,4.26,,,,,,,,zenodo_5796004_data,CSV:row=17:column=sprint30,4.26
+175,zenodo_5796004,zenodo_5796004:participant:115,velocity,tryout,individual,136.0,,,,,,,,zenodo_5796004_data,CSV:row=17:column=velocity,136
+176,zenodo_5796004,zenodo_5796004:participant:115,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=17:column=handedness,R
+177,zenodo_5796004,zenodo_5796004:participant:116,height,tryout,individual,175.0,,,,,,,,zenodo_5796004_data,CSV:row=18:column=height,175
+178,zenodo_5796004,zenodo_5796004:participant:116,irrom,tryout,individual,43.0,,,,,,,,zenodo_5796004_data,CSV:row=18:column=irrom,43
+179,zenodo_5796004,zenodo_5796004:participant:116,errom,tryout,individual,93.5,,,,,,,,zenodo_5796004_data,CSV:row=18:column=errom,93.5
+180,zenodo_5796004,zenodo_5796004:participant:116,lthorax,tryout,individual,45.5,,,,,,,,zenodo_5796004_data,CSV:row=18:column=lthorax,45.5
+181,zenodo_5796004,zenodo_5796004:participant:116,rthorax,tryout,individual,37.5,,,,,,,,zenodo_5796004_data,CSV:row=18:column=rthorax,37.5
+182,zenodo_5796004,zenodo_5796004:participant:116,cmjnw,tryout,individual,44.73,,,,,,,,zenodo_5796004_data,CSV:row=18:column=cmjnw,44.73
+183,zenodo_5796004,zenodo_5796004:participant:116,cmjw,tryout,individual,37.5,,,,,,,,zenodo_5796004_data,CSV:row=18:column=cmjw,37.5
+184,zenodo_5796004,zenodo_5796004:participant:116,sprint10,tryout,individual,1.86,,,,,,,,zenodo_5796004_data,CSV:row=18:column=sprint10,1.86
+185,zenodo_5796004,zenodo_5796004:participant:116,sprint30,tryout,individual,4.11,,,,,,,,zenodo_5796004_data,CSV:row=18:column=sprint30,4.11
+186,zenodo_5796004,zenodo_5796004:participant:116,velocity,tryout,individual,133.0,,,,,,,,zenodo_5796004_data,CSV:row=18:column=velocity,133
+187,zenodo_5796004,zenodo_5796004:participant:116,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=18:column=handedness,L
+188,zenodo_5796004,zenodo_5796004:participant:117,height,tryout,individual,188.0,,,,,,,,zenodo_5796004_data,CSV:row=19:column=height,188
+189,zenodo_5796004,zenodo_5796004:participant:117,irrom,tryout,individual,53.5,,,,,,,,zenodo_5796004_data,CSV:row=19:column=irrom,53.5
+190,zenodo_5796004,zenodo_5796004:participant:117,errom,tryout,individual,103.0,,,,,,,,zenodo_5796004_data,CSV:row=19:column=errom,103
+191,zenodo_5796004,zenodo_5796004:participant:117,lthorax,tryout,individual,39.5,,,,,,,,zenodo_5796004_data,CSV:row=19:column=lthorax,39.5
+192,zenodo_5796004,zenodo_5796004:participant:117,rthorax,tryout,individual,69.0,,,,,,,,zenodo_5796004_data,CSV:row=19:column=rthorax,69
+193,zenodo_5796004,zenodo_5796004:participant:117,cmjnw,tryout,individual,48.82,,,,,,,,zenodo_5796004_data,CSV:row=19:column=cmjnw,48.82
+194,zenodo_5796004,zenodo_5796004:participant:117,cmjw,tryout,individual,39.56,,,,,,,,zenodo_5796004_data,CSV:row=19:column=cmjw,39.56
+195,zenodo_5796004,zenodo_5796004:participant:117,sprint10,tryout,individual,1.73,,,,,,,,zenodo_5796004_data,CSV:row=19:column=sprint10,1.73
+196,zenodo_5796004,zenodo_5796004:participant:117,sprint30,tryout,individual,3.8,,,,,,,,zenodo_5796004_data,CSV:row=19:column=sprint30,3.8
+197,zenodo_5796004,zenodo_5796004:participant:117,velocity,tryout,individual,132.0,,,,,,,,zenodo_5796004_data,CSV:row=19:column=velocity,132
+198,zenodo_5796004,zenodo_5796004:participant:117,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=19:column=handedness,R
+199,zenodo_5796004,zenodo_5796004:participant:118,height,tryout,individual,176.0,,,,,,,,zenodo_5796004_data,CSV:row=20:column=height,176
+200,zenodo_5796004,zenodo_5796004:participant:118,irrom,tryout,individual,65.5,,,,,,,,zenodo_5796004_data,CSV:row=20:column=irrom,65.5
+201,zenodo_5796004,zenodo_5796004:participant:118,errom,tryout,individual,98.5,,,,,,,,zenodo_5796004_data,CSV:row=20:column=errom,98.5
+202,zenodo_5796004,zenodo_5796004:participant:118,lthorax,tryout,individual,50.0,,,,,,,,zenodo_5796004_data,CSV:row=20:column=lthorax,50
+203,zenodo_5796004,zenodo_5796004:participant:118,rthorax,tryout,individual,47.5,,,,,,,,zenodo_5796004_data,CSV:row=20:column=rthorax,47.5
+204,zenodo_5796004,zenodo_5796004:participant:118,cmjnw,tryout,individual,31.14,,,,,,,,zenodo_5796004_data,CSV:row=20:column=cmjnw,31.14
+205,zenodo_5796004,zenodo_5796004:participant:118,cmjw,tryout,individual,26.28,,,,,,,,zenodo_5796004_data,CSV:row=20:column=cmjw,26.28
+206,zenodo_5796004,zenodo_5796004:participant:118,sprint10,tryout,individual,1.98,,,,,,,,zenodo_5796004_data,CSV:row=20:column=sprint10,1.98
+207,zenodo_5796004,zenodo_5796004:participant:118,sprint30,tryout,individual,4.44,,,,,,,,zenodo_5796004_data,CSV:row=20:column=sprint30,4.44
+208,zenodo_5796004,zenodo_5796004:participant:118,velocity,tryout,individual,131.0,,,,,,,,zenodo_5796004_data,CSV:row=20:column=velocity,131
+209,zenodo_5796004,zenodo_5796004:participant:118,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=20:column=handedness,R
+210,zenodo_5796004,zenodo_5796004:participant:119,height,tryout,individual,178.0,,,,,,,,zenodo_5796004_data,CSV:row=21:column=height,178
+211,zenodo_5796004,zenodo_5796004:participant:119,irrom,tryout,individual,42.0,,,,,,,,zenodo_5796004_data,CSV:row=21:column=irrom,42
+212,zenodo_5796004,zenodo_5796004:participant:119,errom,tryout,individual,106.5,,,,,,,,zenodo_5796004_data,CSV:row=21:column=errom,106.5
+213,zenodo_5796004,zenodo_5796004:participant:119,lthorax,tryout,individual,53.0,,,,,,,,zenodo_5796004_data,CSV:row=21:column=lthorax,53
+214,zenodo_5796004,zenodo_5796004:participant:119,rthorax,tryout,individual,55.0,,,,,,,,zenodo_5796004_data,CSV:row=21:column=rthorax,55
+215,zenodo_5796004,zenodo_5796004:participant:119,cmjnw,tryout,individual,50.54,,,,,,,,zenodo_5796004_data,CSV:row=21:column=cmjnw,50.54
+216,zenodo_5796004,zenodo_5796004:participant:119,cmjw,tryout,individual,45.33,,,,,,,,zenodo_5796004_data,CSV:row=21:column=cmjw,45.33
+217,zenodo_5796004,zenodo_5796004:participant:119,sprint10,tryout,individual,1.69,,,,,,,,zenodo_5796004_data,CSV:row=21:column=sprint10,1.69
+218,zenodo_5796004,zenodo_5796004:participant:119,sprint30,tryout,individual,3.77,,,,,,,,zenodo_5796004_data,CSV:row=21:column=sprint30,3.77
+219,zenodo_5796004,zenodo_5796004:participant:119,velocity,tryout,individual,135.0,,,,,,,,zenodo_5796004_data,CSV:row=21:column=velocity,135
+220,zenodo_5796004,zenodo_5796004:participant:119,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=21:column=handedness,R
+221,zenodo_5796004,zenodo_5796004:participant:120,height,tryout,individual,187.0,,,,,,,,zenodo_5796004_data,CSV:row=22:column=height,187
+222,zenodo_5796004,zenodo_5796004:participant:120,irrom,tryout,individual,44.5,,,,,,,,zenodo_5796004_data,CSV:row=22:column=irrom,44.5
+223,zenodo_5796004,zenodo_5796004:participant:120,errom,tryout,individual,114.5,,,,,,,,zenodo_5796004_data,CSV:row=22:column=errom,114.5
+224,zenodo_5796004,zenodo_5796004:participant:120,lthorax,tryout,individual,59.5,,,,,,,,zenodo_5796004_data,CSV:row=22:column=lthorax,59.5
+225,zenodo_5796004,zenodo_5796004:participant:120,rthorax,tryout,individual,55.5,,,,,,,,zenodo_5796004_data,CSV:row=22:column=rthorax,55.5
+226,zenodo_5796004,zenodo_5796004:participant:120,cmjnw,tryout,individual,40.54,,,,,,,,zenodo_5796004_data,CSV:row=22:column=cmjnw,40.54
+227,zenodo_5796004,zenodo_5796004:participant:120,cmjw,tryout,individual,35.23,,,,,,,,zenodo_5796004_data,CSV:row=22:column=cmjw,35.23
+228,zenodo_5796004,zenodo_5796004:participant:120,sprint10,tryout,individual,1.82,,,,,,,,zenodo_5796004_data,CSV:row=22:column=sprint10,1.82
+229,zenodo_5796004,zenodo_5796004:participant:120,sprint30,tryout,individual,4.01,,,,,,,,zenodo_5796004_data,CSV:row=22:column=sprint30,4.01
+230,zenodo_5796004,zenodo_5796004:participant:120,velocity,tryout,individual,137.0,,,,,,,,zenodo_5796004_data,CSV:row=22:column=velocity,137
+231,zenodo_5796004,zenodo_5796004:participant:120,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=22:column=handedness,R
+232,zenodo_5796004,zenodo_5796004:participant:121,height,tryout,individual,180.0,,,,,,,,zenodo_5796004_data,CSV:row=23:column=height,180
+233,zenodo_5796004,zenodo_5796004:participant:121,irrom,tryout,individual,51.0,,,,,,,,zenodo_5796004_data,CSV:row=23:column=irrom,51
+234,zenodo_5796004,zenodo_5796004:participant:121,errom,tryout,individual,113.0,,,,,,,,zenodo_5796004_data,CSV:row=23:column=errom,113
+235,zenodo_5796004,zenodo_5796004:participant:121,lthorax,tryout,individual,70.0,,,,,,,,zenodo_5796004_data,CSV:row=23:column=lthorax,70
+236,zenodo_5796004,zenodo_5796004:participant:121,rthorax,tryout,individual,60.0,,,,,,,,zenodo_5796004_data,CSV:row=23:column=rthorax,60
+237,zenodo_5796004,zenodo_5796004:participant:121,cmjnw,tryout,individual,38.45,,,,,,,,zenodo_5796004_data,CSV:row=23:column=cmjnw,38.45
+238,zenodo_5796004,zenodo_5796004:participant:121,cmjw,tryout,individual,29.56,,,,,,,,zenodo_5796004_data,CSV:row=23:column=cmjw,29.56
+239,zenodo_5796004,zenodo_5796004:participant:121,sprint10,tryout,individual,1.87,,,,,,,,zenodo_5796004_data,CSV:row=23:column=sprint10,1.87
+240,zenodo_5796004,zenodo_5796004:participant:121,sprint30,tryout,individual,4.71,,,,,,,,zenodo_5796004_data,CSV:row=23:column=sprint30,4.71
+241,zenodo_5796004,zenodo_5796004:participant:121,velocity,tryout,individual,133.0,,,,,,,,zenodo_5796004_data,CSV:row=23:column=velocity,133
+242,zenodo_5796004,zenodo_5796004:participant:121,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=23:column=handedness,R
+243,zenodo_5796004,zenodo_5796004:participant:122,height,tryout,individual,173.5,,,,,,,,zenodo_5796004_data,CSV:row=24:column=height,173.5
+244,zenodo_5796004,zenodo_5796004:participant:122,irrom,tryout,individual,47.0,,,,,,,,zenodo_5796004_data,CSV:row=24:column=irrom,47
+245,zenodo_5796004,zenodo_5796004:participant:122,errom,tryout,individual,95.0,,,,,,,,zenodo_5796004_data,CSV:row=24:column=errom,95
+246,zenodo_5796004,zenodo_5796004:participant:122,lthorax,tryout,individual,60.0,,,,,,,,zenodo_5796004_data,CSV:row=24:column=lthorax,60
+247,zenodo_5796004,zenodo_5796004:participant:122,rthorax,tryout,individual,64.0,,,,,,,,zenodo_5796004_data,CSV:row=24:column=rthorax,64
+248,zenodo_5796004,zenodo_5796004:participant:122,cmjnw,tryout,individual,47.44,,,,,,,,zenodo_5796004_data,CSV:row=24:column=cmjnw,47.44
+249,zenodo_5796004,zenodo_5796004:participant:122,cmjw,tryout,individual,43.41,,,,,,,,zenodo_5796004_data,CSV:row=24:column=cmjw,43.41
+250,zenodo_5796004,zenodo_5796004:participant:122,sprint10,tryout,individual,1.75,,,,,,,,zenodo_5796004_data,CSV:row=24:column=sprint10,1.75
+251,zenodo_5796004,zenodo_5796004:participant:122,sprint30,tryout,individual,3.83,,,,,,,,zenodo_5796004_data,CSV:row=24:column=sprint30,3.83
+252,zenodo_5796004,zenodo_5796004:participant:122,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=24:column=velocity,140
+253,zenodo_5796004,zenodo_5796004:participant:122,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=24:column=handedness,R
+254,zenodo_5796004,zenodo_5796004:participant:123,height,tryout,individual,193.0,,,,,,,,zenodo_5796004_data,CSV:row=25:column=height,193
+255,zenodo_5796004,zenodo_5796004:participant:123,irrom,tryout,individual,51.0,,,,,,,,zenodo_5796004_data,CSV:row=25:column=irrom,51
+256,zenodo_5796004,zenodo_5796004:participant:123,errom,tryout,individual,96.5,,,,,,,,zenodo_5796004_data,CSV:row=25:column=errom,96.5
+257,zenodo_5796004,zenodo_5796004:participant:123,lthorax,tryout,individual,58.5,,,,,,,,zenodo_5796004_data,CSV:row=25:column=lthorax,58.5
+258,zenodo_5796004,zenodo_5796004:participant:123,rthorax,tryout,individual,62.0,,,,,,,,zenodo_5796004_data,CSV:row=25:column=rthorax,62
+259,zenodo_5796004,zenodo_5796004:participant:123,cmjnw,tryout,individual,40.4,,,,,,,,zenodo_5796004_data,CSV:row=25:column=cmjnw,40.4
+260,zenodo_5796004,zenodo_5796004:participant:123,cmjw,tryout,individual,34.57,,,,,,,,zenodo_5796004_data,CSV:row=25:column=cmjw,34.57
+261,zenodo_5796004,zenodo_5796004:participant:123,sprint10,tryout,individual,1.83,,,,,,,,zenodo_5796004_data,CSV:row=25:column=sprint10,1.83
+262,zenodo_5796004,zenodo_5796004:participant:123,sprint30,tryout,individual,4.16,,,,,,,,zenodo_5796004_data,CSV:row=25:column=sprint30,4.16
+263,zenodo_5796004,zenodo_5796004:participant:123,velocity,tryout,individual,141.0,,,,,,,,zenodo_5796004_data,CSV:row=25:column=velocity,141
+264,zenodo_5796004,zenodo_5796004:participant:123,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=25:column=handedness,R
+265,zenodo_5796004,zenodo_5796004:participant:11,height,tryout,individual,174.5,,,,,,,,zenodo_5796004_data,CSV:row=26:column=height,174.5
+266,zenodo_5796004,zenodo_5796004:participant:11,irrom,tryout,individual,56.0,,,,,,,,zenodo_5796004_data,CSV:row=26:column=irrom,56
+267,zenodo_5796004,zenodo_5796004:participant:11,errom,tryout,individual,114.5,,,,,,,,zenodo_5796004_data,CSV:row=26:column=errom,114.5
+268,zenodo_5796004,zenodo_5796004:participant:11,lthorax,tryout,individual,66.5,,,,,,,,zenodo_5796004_data,CSV:row=26:column=lthorax,66.5
+269,zenodo_5796004,zenodo_5796004:participant:11,rthorax,tryout,individual,58.5,,,,,,,,zenodo_5796004_data,CSV:row=26:column=rthorax,58.5
+270,zenodo_5796004,zenodo_5796004:participant:11,cmjnw,tryout,individual,44.88,,,,,,,,zenodo_5796004_data,CSV:row=26:column=cmjnw,44.88
+271,zenodo_5796004,zenodo_5796004:participant:11,cmjw,tryout,individual,35.09,,,,,,,,zenodo_5796004_data,CSV:row=26:column=cmjw,35.09
+272,zenodo_5796004,zenodo_5796004:participant:11,sprint10,tryout,individual,1.81,,,,,,,,zenodo_5796004_data,CSV:row=26:column=sprint10,1.81
+273,zenodo_5796004,zenodo_5796004:participant:11,sprint30,tryout,individual,3.98,,,,,,,,zenodo_5796004_data,CSV:row=26:column=sprint30,3.98
+274,zenodo_5796004,zenodo_5796004:participant:11,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=26:column=velocity,140
+275,zenodo_5796004,zenodo_5796004:participant:11,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=26:column=handedness,R
+276,zenodo_5796004,zenodo_5796004:participant:124,height,tryout,individual,190.0,,,,,,,,zenodo_5796004_data,CSV:row=27:column=height,190
+277,zenodo_5796004,zenodo_5796004:participant:124,irrom,tryout,individual,46.0,,,,,,,,zenodo_5796004_data,CSV:row=27:column=irrom,46
+278,zenodo_5796004,zenodo_5796004:participant:124,errom,tryout,individual,106.5,,,,,,,,zenodo_5796004_data,CSV:row=27:column=errom,106.5
+279,zenodo_5796004,zenodo_5796004:participant:124,lthorax,tryout,individual,78.0,,,,,,,,zenodo_5796004_data,CSV:row=27:column=lthorax,78
+280,zenodo_5796004,zenodo_5796004:participant:124,rthorax,tryout,individual,62.5,,,,,,,,zenodo_5796004_data,CSV:row=27:column=rthorax,62.5
+281,zenodo_5796004,zenodo_5796004:participant:124,cmjnw,tryout,individual,44.73,,,,,,,,zenodo_5796004_data,CSV:row=27:column=cmjnw,44.73
+282,zenodo_5796004,zenodo_5796004:participant:124,cmjw,tryout,individual,35.89,,,,,,,,zenodo_5796004_data,CSV:row=27:column=cmjw,35.89
+283,zenodo_5796004,zenodo_5796004:participant:124,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=27:column=sprint10,1.8
+284,zenodo_5796004,zenodo_5796004:participant:124,sprint30,tryout,individual,3.99,,,,,,,,zenodo_5796004_data,CSV:row=27:column=sprint30,3.99
+285,zenodo_5796004,zenodo_5796004:participant:124,velocity,tryout,individual,142.0,,,,,,,,zenodo_5796004_data,CSV:row=27:column=velocity,142
+286,zenodo_5796004,zenodo_5796004:participant:124,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=27:column=handedness,R
+287,zenodo_5796004,zenodo_5796004:participant:125,height,tryout,individual,186.0,,,,,,,,zenodo_5796004_data,CSV:row=28:column=height,186
+288,zenodo_5796004,zenodo_5796004:participant:125,irrom,tryout,individual,30.5,,,,,,,,zenodo_5796004_data,CSV:row=28:column=irrom,30.5
+289,zenodo_5796004,zenodo_5796004:participant:125,errom,tryout,individual,105.0,,,,,,,,zenodo_5796004_data,CSV:row=28:column=errom,105
+290,zenodo_5796004,zenodo_5796004:participant:125,lthorax,tryout,individual,62.0,,,,,,,,zenodo_5796004_data,CSV:row=28:column=lthorax,62
+291,zenodo_5796004,zenodo_5796004:participant:125,rthorax,tryout,individual,51.5,,,,,,,,zenodo_5796004_data,CSV:row=28:column=rthorax,51.5
+292,zenodo_5796004,zenodo_5796004:participant:125,cmjnw,tryout,individual,48.51,,,,,,,,zenodo_5796004_data,CSV:row=28:column=cmjnw,48.51
+293,zenodo_5796004,zenodo_5796004:participant:125,cmjw,tryout,individual,37.77,,,,,,,,zenodo_5796004_data,CSV:row=28:column=cmjw,37.77
+294,zenodo_5796004,zenodo_5796004:participant:125,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=28:column=sprint10,1.8
+295,zenodo_5796004,zenodo_5796004:participant:125,sprint30,tryout,individual,3.84,,,,,,,,zenodo_5796004_data,CSV:row=28:column=sprint30,3.84
+296,zenodo_5796004,zenodo_5796004:participant:125,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=28:column=velocity,140
+297,zenodo_5796004,zenodo_5796004:participant:125,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=28:column=handedness,R
+298,zenodo_5796004,zenodo_5796004:participant:127,height,tryout,individual,179.5,,,,,,,,zenodo_5796004_data,CSV:row=29:column=height,179.5
+299,zenodo_5796004,zenodo_5796004:participant:127,irrom,tryout,individual,44.5,,,,,,,,zenodo_5796004_data,CSV:row=29:column=irrom,44.5
+300,zenodo_5796004,zenodo_5796004:participant:127,errom,tryout,individual,105.5,,,,,,,,zenodo_5796004_data,CSV:row=29:column=errom,105.5
+301,zenodo_5796004,zenodo_5796004:participant:127,lthorax,tryout,individual,71.5,,,,,,,,zenodo_5796004_data,CSV:row=29:column=lthorax,71.5
+302,zenodo_5796004,zenodo_5796004:participant:127,rthorax,tryout,individual,64.0,,,,,,,,zenodo_5796004_data,CSV:row=29:column=rthorax,64
+303,zenodo_5796004,zenodo_5796004:participant:127,cmjnw,tryout,individual,47.59,,,,,,,,zenodo_5796004_data,CSV:row=29:column=cmjnw,47.59
+304,zenodo_5796004,zenodo_5796004:participant:127,cmjw,tryout,individual,37.77,,,,,,,,zenodo_5796004_data,CSV:row=29:column=cmjw,37.77
+305,zenodo_5796004,zenodo_5796004:participant:127,sprint10,tryout,individual,1.87,,,,,,,,zenodo_5796004_data,CSV:row=29:column=sprint10,1.87
+306,zenodo_5796004,zenodo_5796004:participant:127,sprint30,tryout,individual,4.06,,,,,,,,zenodo_5796004_data,CSV:row=29:column=sprint30,4.06
+307,zenodo_5796004,zenodo_5796004:participant:127,velocity,tryout,individual,139.0,,,,,,,,zenodo_5796004_data,CSV:row=29:column=velocity,139
+308,zenodo_5796004,zenodo_5796004:participant:127,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=29:column=handedness,R
+309,zenodo_5796004,zenodo_5796004:participant:128,height,tryout,individual,188.0,,,,,,,,zenodo_5796004_data,CSV:row=30:column=height,188
+310,zenodo_5796004,zenodo_5796004:participant:128,irrom,tryout,individual,50.0,,,,,,,,zenodo_5796004_data,CSV:row=30:column=irrom,50
+311,zenodo_5796004,zenodo_5796004:participant:128,errom,tryout,individual,101.0,,,,,,,,zenodo_5796004_data,CSV:row=30:column=errom,101
+312,zenodo_5796004,zenodo_5796004:participant:128,lthorax,tryout,individual,61.5,,,,,,,,zenodo_5796004_data,CSV:row=30:column=lthorax,61.5
+313,zenodo_5796004,zenodo_5796004:participant:128,rthorax,tryout,individual,68.0,,,,,,,,zenodo_5796004_data,CSV:row=30:column=rthorax,68
+314,zenodo_5796004,zenodo_5796004:participant:128,cmjnw,tryout,individual,46.22,,,,,,,,zenodo_5796004_data,CSV:row=30:column=cmjnw,46.22
+315,zenodo_5796004,zenodo_5796004:participant:128,cmjw,tryout,individual,42.1,,,,,,,,zenodo_5796004_data,CSV:row=30:column=cmjw,42.1
+316,zenodo_5796004,zenodo_5796004:participant:128,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=30:column=sprint10,1.8
+317,zenodo_5796004,zenodo_5796004:participant:128,sprint30,tryout,individual,4.04,,,,,,,,zenodo_5796004_data,CSV:row=30:column=sprint30,4.04
+318,zenodo_5796004,zenodo_5796004:participant:128,velocity,tryout,individual,143.0,,,,,,,,zenodo_5796004_data,CSV:row=30:column=velocity,143
+319,zenodo_5796004,zenodo_5796004:participant:128,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=30:column=handedness,R
+320,zenodo_5796004,zenodo_5796004:participant:129,height,tryout,individual,176.5,,,,,,,,zenodo_5796004_data,CSV:row=31:column=height,176.5
+321,zenodo_5796004,zenodo_5796004:participant:129,irrom,tryout,individual,43.5,,,,,,,,zenodo_5796004_data,CSV:row=31:column=irrom,43.5
+322,zenodo_5796004,zenodo_5796004:participant:129,errom,tryout,individual,93.0,,,,,,,,zenodo_5796004_data,CSV:row=31:column=errom,93
+323,zenodo_5796004,zenodo_5796004:participant:129,lthorax,tryout,individual,60.5,,,,,,,,zenodo_5796004_data,CSV:row=31:column=lthorax,60.5
+324,zenodo_5796004,zenodo_5796004:participant:129,rthorax,tryout,individual,58.0,,,,,,,,zenodo_5796004_data,CSV:row=31:column=rthorax,58
+325,zenodo_5796004,zenodo_5796004:participant:129,cmjnw,tryout,individual,46.22,,,,,,,,zenodo_5796004_data,CSV:row=31:column=cmjnw,46.22
+326,zenodo_5796004,zenodo_5796004:participant:129,cmjw,tryout,individual,37.5,,,,,,,,zenodo_5796004_data,CSV:row=31:column=cmjw,37.5
+327,zenodo_5796004,zenodo_5796004:participant:129,sprint10,tryout,individual,1.85,,,,,,,,zenodo_5796004_data,CSV:row=31:column=sprint10,1.85
+328,zenodo_5796004,zenodo_5796004:participant:129,sprint30,tryout,individual,4.11,,,,,,,,zenodo_5796004_data,CSV:row=31:column=sprint30,4.11
+329,zenodo_5796004,zenodo_5796004:participant:129,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=31:column=velocity,140
+330,zenodo_5796004,zenodo_5796004:participant:129,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=31:column=handedness,R
+331,zenodo_5796004,zenodo_5796004:participant:130,height,tryout,individual,171.5,,,,,,,,zenodo_5796004_data,CSV:row=32:column=height,171.5
+332,zenodo_5796004,zenodo_5796004:participant:130,irrom,tryout,individual,51.5,,,,,,,,zenodo_5796004_data,CSV:row=32:column=irrom,51.5
+333,zenodo_5796004,zenodo_5796004:participant:130,errom,tryout,individual,105.0,,,,,,,,zenodo_5796004_data,CSV:row=32:column=errom,105
+334,zenodo_5796004,zenodo_5796004:participant:130,lthorax,tryout,individual,50.0,,,,,,,,zenodo_5796004_data,CSV:row=32:column=lthorax,50
+335,zenodo_5796004,zenodo_5796004:participant:130,rthorax,tryout,individual,55.5,,,,,,,,zenodo_5796004_data,CSV:row=32:column=rthorax,55.5
+336,zenodo_5796004,zenodo_5796004:participant:130,cmjnw,tryout,individual,43.99,,,,,,,,zenodo_5796004_data,CSV:row=32:column=cmjnw,43.99
+337,zenodo_5796004,zenodo_5796004:participant:130,cmjw,tryout,individual,36.55,,,,,,,,zenodo_5796004_data,CSV:row=32:column=cmjw,36.55
+338,zenodo_5796004,zenodo_5796004:participant:130,sprint10,tryout,individual,1.66,,,,,,,,zenodo_5796004_data,CSV:row=32:column=sprint10,1.66
+339,zenodo_5796004,zenodo_5796004:participant:130,sprint30,tryout,individual,3.74,,,,,,,,zenodo_5796004_data,CSV:row=32:column=sprint30,3.74
+340,zenodo_5796004,zenodo_5796004:participant:130,velocity,tryout,individual,130.0,,,,,,,,zenodo_5796004_data,CSV:row=32:column=velocity,130
+341,zenodo_5796004,zenodo_5796004:participant:130,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=32:column=handedness,L
+342,zenodo_5796004,zenodo_5796004:participant:131,height,tryout,individual,181.0,,,,,,,,zenodo_5796004_data,CSV:row=33:column=height,181
+343,zenodo_5796004,zenodo_5796004:participant:131,irrom,tryout,individual,47.5,,,,,,,,zenodo_5796004_data,CSV:row=33:column=irrom,47.5
+344,zenodo_5796004,zenodo_5796004:participant:131,errom,tryout,individual,103.5,,,,,,,,zenodo_5796004_data,CSV:row=33:column=errom,103.5
+345,zenodo_5796004,zenodo_5796004:participant:131,lthorax,tryout,individual,64.5,,,,,,,,zenodo_5796004_data,CSV:row=33:column=lthorax,64.5
+346,zenodo_5796004,zenodo_5796004:participant:131,rthorax,tryout,individual,61.0,,,,,,,,zenodo_5796004_data,CSV:row=33:column=rthorax,61
+347,zenodo_5796004,zenodo_5796004:participant:131,cmjnw,tryout,individual,35.49,,,,,,,,zenodo_5796004_data,CSV:row=33:column=cmjnw,35.49
+348,zenodo_5796004,zenodo_5796004:participant:131,cmjw,tryout,individual,26.51,,,,,,,,zenodo_5796004_data,CSV:row=33:column=cmjw,26.51
+349,zenodo_5796004,zenodo_5796004:participant:131,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=33:column=sprint10,1.8
+350,zenodo_5796004,zenodo_5796004:participant:131,sprint30,tryout,individual,4.03,,,,,,,,zenodo_5796004_data,CSV:row=33:column=sprint30,4.03
+351,zenodo_5796004,zenodo_5796004:participant:131,velocity,tryout,individual,131.0,,,,,,,,zenodo_5796004_data,CSV:row=33:column=velocity,131
+352,zenodo_5796004,zenodo_5796004:participant:131,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=33:column=handedness,R
+353,zenodo_5796004,zenodo_5796004:participant:14,height,tryout,individual,174.5,,,,,,,,zenodo_5796004_data,CSV:row=34:column=height,174.5
+354,zenodo_5796004,zenodo_5796004:participant:14,irrom,tryout,individual,45.0,,,,,,,,zenodo_5796004_data,CSV:row=34:column=irrom,45
+355,zenodo_5796004,zenodo_5796004:participant:14,errom,tryout,individual,103.0,,,,,,,,zenodo_5796004_data,CSV:row=34:column=errom,103
+356,zenodo_5796004,zenodo_5796004:participant:14,lthorax,tryout,individual,53.5,,,,,,,,zenodo_5796004_data,CSV:row=34:column=lthorax,53.5
+357,zenodo_5796004,zenodo_5796004:participant:14,rthorax,tryout,individual,54.0,,,,,,,,zenodo_5796004_data,CSV:row=34:column=rthorax,54
+358,zenodo_5796004,zenodo_5796004:participant:14,cmjnw,tryout,individual,45.92,,,,,,,,zenodo_5796004_data,CSV:row=34:column=cmjnw,45.92
+359,zenodo_5796004,zenodo_5796004:participant:14,cmjw,tryout,individual,37.5,,,,,,,,zenodo_5796004_data,CSV:row=34:column=cmjw,37.5
+360,zenodo_5796004,zenodo_5796004:participant:14,sprint10,tryout,individual,1.85,,,,,,,,zenodo_5796004_data,CSV:row=34:column=sprint10,1.85
+361,zenodo_5796004,zenodo_5796004:participant:14,sprint30,tryout,individual,3.98,,,,,,,,zenodo_5796004_data,CSV:row=34:column=sprint30,3.98
+362,zenodo_5796004,zenodo_5796004:participant:14,velocity,tryout,individual,139.0,,,,,,,,zenodo_5796004_data,CSV:row=34:column=velocity,139
+363,zenodo_5796004,zenodo_5796004:participant:14,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=34:column=handedness,R
+364,zenodo_5796004,zenodo_5796004:participant:132,height,tryout,individual,180.5,,,,,,,,zenodo_5796004_data,CSV:row=35:column=height,180.5
+365,zenodo_5796004,zenodo_5796004:participant:132,irrom,tryout,individual,58.0,,,,,,,,zenodo_5796004_data,CSV:row=35:column=irrom,58
+366,zenodo_5796004,zenodo_5796004:participant:132,errom,tryout,individual,105.5,,,,,,,,zenodo_5796004_data,CSV:row=35:column=errom,105.5
+367,zenodo_5796004,zenodo_5796004:participant:132,lthorax,tryout,individual,71.5,,,,,,,,zenodo_5796004_data,CSV:row=35:column=lthorax,71.5
+368,zenodo_5796004,zenodo_5796004:participant:132,rthorax,tryout,individual,66.5,,,,,,,,zenodo_5796004_data,CSV:row=35:column=rthorax,66.5
+369,zenodo_5796004,zenodo_5796004:participant:132,cmjnw,tryout,individual,35.62,,,,,,,,zenodo_5796004_data,CSV:row=35:column=cmjnw,35.62
+370,zenodo_5796004,zenodo_5796004:participant:132,cmjw,tryout,individual,27.78,,,,,,,,zenodo_5796004_data,CSV:row=35:column=cmjw,27.78
+371,zenodo_5796004,zenodo_5796004:participant:132,sprint10,tryout,individual,1.92,,,,,,,,zenodo_5796004_data,CSV:row=35:column=sprint10,1.92
+372,zenodo_5796004,zenodo_5796004:participant:132,sprint30,tryout,individual,4.29,,,,,,,,zenodo_5796004_data,CSV:row=35:column=sprint30,4.29
+373,zenodo_5796004,zenodo_5796004:participant:132,velocity,tryout,individual,132.0,,,,,,,,zenodo_5796004_data,CSV:row=35:column=velocity,132
+374,zenodo_5796004,zenodo_5796004:participant:132,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=35:column=handedness,R
+375,zenodo_5796004,zenodo_5796004:participant:133,height,tryout,individual,177.0,,,,,,,,zenodo_5796004_data,CSV:row=36:column=height,177
+376,zenodo_5796004,zenodo_5796004:participant:133,irrom,tryout,individual,52.0,,,,,,,,zenodo_5796004_data,CSV:row=36:column=irrom,52
+377,zenodo_5796004,zenodo_5796004:participant:133,errom,tryout,individual,95.0,,,,,,,,zenodo_5796004_data,CSV:row=36:column=errom,95
+378,zenodo_5796004,zenodo_5796004:participant:133,lthorax,tryout,individual,57.0,,,,,,,,zenodo_5796004_data,CSV:row=36:column=lthorax,57
+379,zenodo_5796004,zenodo_5796004:participant:133,rthorax,tryout,individual,53.0,,,,,,,,zenodo_5796004_data,CSV:row=36:column=rthorax,53
+380,zenodo_5796004,zenodo_5796004:participant:133,cmjnw,tryout,individual,42.39,,,,,,,,zenodo_5796004_data,CSV:row=36:column=cmjnw,42.39
+381,zenodo_5796004,zenodo_5796004:participant:133,cmjw,tryout,individual,34.57,,,,,,,,zenodo_5796004_data,CSV:row=36:column=cmjw,34.57
+382,zenodo_5796004,zenodo_5796004:participant:133,sprint10,tryout,individual,1.86,,,,,,,,zenodo_5796004_data,CSV:row=36:column=sprint10,1.86
+383,zenodo_5796004,zenodo_5796004:participant:133,sprint30,tryout,individual,4.1,,,,,,,,zenodo_5796004_data,CSV:row=36:column=sprint30,4.1
+384,zenodo_5796004,zenodo_5796004:participant:133,velocity,tryout,individual,134.0,,,,,,,,zenodo_5796004_data,CSV:row=36:column=velocity,134
+385,zenodo_5796004,zenodo_5796004:participant:133,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=36:column=handedness,L
+386,zenodo_5796004,zenodo_5796004:participant:134,height,tryout,individual,181.0,,,,,,,,zenodo_5796004_data,CSV:row=37:column=height,181
+387,zenodo_5796004,zenodo_5796004:participant:134,irrom,tryout,individual,45.5,,,,,,,,zenodo_5796004_data,CSV:row=37:column=irrom,45.5
+388,zenodo_5796004,zenodo_5796004:participant:134,errom,tryout,individual,113.0,,,,,,,,zenodo_5796004_data,CSV:row=37:column=errom,113
+389,zenodo_5796004,zenodo_5796004:participant:134,lthorax,tryout,individual,57.0,,,,,,,,zenodo_5796004_data,CSV:row=37:column=lthorax,57
+390,zenodo_5796004,zenodo_5796004:participant:134,rthorax,tryout,individual,61.5,,,,,,,,zenodo_5796004_data,CSV:row=37:column=rthorax,61.5
+391,zenodo_5796004,zenodo_5796004:participant:134,cmjnw,tryout,individual,35.09,,,,,,,,zenodo_5796004_data,CSV:row=37:column=cmjnw,35.09
+392,zenodo_5796004,zenodo_5796004:participant:134,cmjw,tryout,individual,30.04,,,,,,,,zenodo_5796004_data,CSV:row=37:column=cmjw,30.04
+393,zenodo_5796004,zenodo_5796004:participant:134,sprint10,tryout,individual,1.75,,,,,,,,zenodo_5796004_data,CSV:row=37:column=sprint10,1.75
+394,zenodo_5796004,zenodo_5796004:participant:134,sprint30,tryout,individual,3.87,,,,,,,,zenodo_5796004_data,CSV:row=37:column=sprint30,3.87
+395,zenodo_5796004,zenodo_5796004:participant:134,velocity,tryout,individual,133.0,,,,,,,,zenodo_5796004_data,CSV:row=37:column=velocity,133
+396,zenodo_5796004,zenodo_5796004:participant:134,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=37:column=handedness,R
+397,zenodo_5796004,zenodo_5796004:participant:136,height,tryout,individual,180.0,,,,,,,,zenodo_5796004_data,CSV:row=38:column=height,180
+398,zenodo_5796004,zenodo_5796004:participant:136,irrom,tryout,individual,46.0,,,,,,,,zenodo_5796004_data,CSV:row=38:column=irrom,46
+399,zenodo_5796004,zenodo_5796004:participant:136,errom,tryout,individual,103.0,,,,,,,,zenodo_5796004_data,CSV:row=38:column=errom,103
+400,zenodo_5796004,zenodo_5796004:participant:136,lthorax,tryout,individual,57.5,,,,,,,,zenodo_5796004_data,CSV:row=38:column=lthorax,57.5
+401,zenodo_5796004,zenodo_5796004:participant:136,rthorax,tryout,individual,68.5,,,,,,,,zenodo_5796004_data,CSV:row=38:column=rthorax,68.5
+402,zenodo_5796004,zenodo_5796004:participant:136,cmjnw,tryout,individual,40.4,,,,,,,,zenodo_5796004_data,CSV:row=38:column=cmjnw,40.4
+403,zenodo_5796004,zenodo_5796004:participant:136,cmjw,tryout,individual,22.9,,,,,,,,zenodo_5796004_data,CSV:row=38:column=cmjw,22.9
+404,zenodo_5796004,zenodo_5796004:participant:136,sprint10,tryout,individual,1.71,,,,,,,,zenodo_5796004_data,CSV:row=38:column=sprint10,1.71
+405,zenodo_5796004,zenodo_5796004:participant:136,sprint30,tryout,individual,3.87,,,,,,,,zenodo_5796004_data,CSV:row=38:column=sprint30,3.87
+406,zenodo_5796004,zenodo_5796004:participant:136,velocity,tryout,individual,132.0,,,,,,,,zenodo_5796004_data,CSV:row=38:column=velocity,132
+407,zenodo_5796004,zenodo_5796004:participant:136,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=38:column=handedness,L
+408,zenodo_5796004,zenodo_5796004:participant:137,height,tryout,individual,178.5,,,,,,,,zenodo_5796004_data,CSV:row=39:column=height,178.5
+409,zenodo_5796004,zenodo_5796004:participant:137,irrom,tryout,individual,58.0,,,,,,,,zenodo_5796004_data,CSV:row=39:column=irrom,58
+410,zenodo_5796004,zenodo_5796004:participant:137,errom,tryout,individual,109.0,,,,,,,,zenodo_5796004_data,CSV:row=39:column=errom,109
+411,zenodo_5796004,zenodo_5796004:participant:137,lthorax,tryout,individual,64.0,,,,,,,,zenodo_5796004_data,CSV:row=39:column=lthorax,64
+412,zenodo_5796004,zenodo_5796004:participant:137,rthorax,tryout,individual,70.0,,,,,,,,zenodo_5796004_data,CSV:row=39:column=rthorax,70
+413,zenodo_5796004,zenodo_5796004:participant:137,cmjnw,tryout,individual,41.82,,,,,,,,zenodo_5796004_data,CSV:row=39:column=cmjnw,41.82
+414,zenodo_5796004,zenodo_5796004:participant:137,cmjw,tryout,individual,40.96,,,,,,,,zenodo_5796004_data,CSV:row=39:column=cmjw,40.96
+415,zenodo_5796004,zenodo_5796004:participant:137,sprint10,tryout,individual,1.82,,,,,,,,zenodo_5796004_data,CSV:row=39:column=sprint10,1.82
+416,zenodo_5796004,zenodo_5796004:participant:137,sprint30,tryout,individual,3.95,,,,,,,,zenodo_5796004_data,CSV:row=39:column=sprint30,3.95
+417,zenodo_5796004,zenodo_5796004:participant:137,velocity,tryout,individual,139.0,,,,,,,,zenodo_5796004_data,CSV:row=39:column=velocity,139
+418,zenodo_5796004,zenodo_5796004:participant:137,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=39:column=handedness,R
+419,zenodo_5796004,zenodo_5796004:participant:139,height,tryout,individual,187.5,,,,,,,,zenodo_5796004_data,CSV:row=40:column=height,187.5
+420,zenodo_5796004,zenodo_5796004:participant:139,irrom,tryout,individual,67.0,,,,,,,,zenodo_5796004_data,CSV:row=40:column=irrom,67
+421,zenodo_5796004,zenodo_5796004:participant:139,errom,tryout,individual,104.5,,,,,,,,zenodo_5796004_data,CSV:row=40:column=errom,104.5
+422,zenodo_5796004,zenodo_5796004:participant:139,lthorax,tryout,individual,67.5,,,,,,,,zenodo_5796004_data,CSV:row=40:column=lthorax,67.5
+423,zenodo_5796004,zenodo_5796004:participant:139,rthorax,tryout,individual,76.5,,,,,,,,zenodo_5796004_data,CSV:row=40:column=rthorax,76.5
+424,zenodo_5796004,zenodo_5796004:participant:139,cmjnw,tryout,individual,40.54,,,,,,,,zenodo_5796004_data,CSV:row=40:column=cmjnw,40.54
+425,zenodo_5796004,zenodo_5796004:participant:139,cmjw,tryout,individual,32.52,,,,,,,,zenodo_5796004_data,CSV:row=40:column=cmjw,32.52
+426,zenodo_5796004,zenodo_5796004:participant:139,sprint10,tryout,individual,1.82,,,,,,,,zenodo_5796004_data,CSV:row=40:column=sprint10,1.82
+427,zenodo_5796004,zenodo_5796004:participant:139,sprint30,tryout,individual,4.06,,,,,,,,zenodo_5796004_data,CSV:row=40:column=sprint30,4.06
+428,zenodo_5796004,zenodo_5796004:participant:139,velocity,tryout,individual,137.0,,,,,,,,zenodo_5796004_data,CSV:row=40:column=velocity,137
+429,zenodo_5796004,zenodo_5796004:participant:139,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=40:column=handedness,R
+430,zenodo_5796004,zenodo_5796004:participant:140,height,tryout,individual,176.5,,,,,,,,zenodo_5796004_data,CSV:row=41:column=height,176.5
+431,zenodo_5796004,zenodo_5796004:participant:140,irrom,tryout,individual,46.5,,,,,,,,zenodo_5796004_data,CSV:row=41:column=irrom,46.5
+432,zenodo_5796004,zenodo_5796004:participant:140,errom,tryout,individual,113.0,,,,,,,,zenodo_5796004_data,CSV:row=41:column=errom,113
+433,zenodo_5796004,zenodo_5796004:participant:140,lthorax,tryout,individual,74.5,,,,,,,,zenodo_5796004_data,CSV:row=41:column=lthorax,74.5
+434,zenodo_5796004,zenodo_5796004:participant:140,rthorax,tryout,individual,77.0,,,,,,,,zenodo_5796004_data,CSV:row=41:column=rthorax,77
+435,zenodo_5796004,zenodo_5796004:participant:140,cmjnw,tryout,individual,51.96,,,,,,,,zenodo_5796004_data,CSV:row=41:column=cmjnw,51.96
+436,zenodo_5796004,zenodo_5796004:participant:140,cmjw,tryout,individual,37.5,,,,,,,,zenodo_5796004_data,CSV:row=41:column=cmjw,37.5
+437,zenodo_5796004,zenodo_5796004:participant:140,sprint10,tryout,individual,1.78,,,,,,,,zenodo_5796004_data,CSV:row=41:column=sprint10,1.78
+438,zenodo_5796004,zenodo_5796004:participant:140,sprint30,tryout,individual,4.03,,,,,,,,zenodo_5796004_data,CSV:row=41:column=sprint30,4.03
+439,zenodo_5796004,zenodo_5796004:participant:140,velocity,tryout,individual,133.0,,,,,,,,zenodo_5796004_data,CSV:row=41:column=velocity,133
+440,zenodo_5796004,zenodo_5796004:participant:140,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=41:column=handedness,L
+441,zenodo_5796004,zenodo_5796004:participant:141,height,tryout,individual,183.0,,,,,,,,zenodo_5796004_data,CSV:row=42:column=height,183
+442,zenodo_5796004,zenodo_5796004:participant:141,irrom,tryout,individual,54.0,,,,,,,,zenodo_5796004_data,CSV:row=42:column=irrom,54
+443,zenodo_5796004,zenodo_5796004:participant:141,errom,tryout,individual,100.0,,,,,,,,zenodo_5796004_data,CSV:row=42:column=errom,100
+444,zenodo_5796004,zenodo_5796004:participant:141,lthorax,tryout,individual,65.0,,,,,,,,zenodo_5796004_data,CSV:row=42:column=lthorax,65
+445,zenodo_5796004,zenodo_5796004:participant:141,rthorax,tryout,individual,74.0,,,,,,,,zenodo_5796004_data,CSV:row=42:column=rthorax,74
+446,zenodo_5796004,zenodo_5796004:participant:141,cmjnw,tryout,individual,42.54,,,,,,,,zenodo_5796004_data,CSV:row=42:column=cmjnw,42.54
+447,zenodo_5796004,zenodo_5796004:participant:141,cmjw,tryout,individual,37.09,,,,,,,,zenodo_5796004_data,CSV:row=42:column=cmjw,37.09
+448,zenodo_5796004,zenodo_5796004:participant:141,sprint10,tryout,individual,1.82,,,,,,,,zenodo_5796004_data,CSV:row=42:column=sprint10,1.82
+449,zenodo_5796004,zenodo_5796004:participant:141,sprint30,tryout,individual,4.07,,,,,,,,zenodo_5796004_data,CSV:row=42:column=sprint30,4.07
+450,zenodo_5796004,zenodo_5796004:participant:141,velocity,tryout,individual,136.0,,,,,,,,zenodo_5796004_data,CSV:row=42:column=velocity,136
+451,zenodo_5796004,zenodo_5796004:participant:141,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=42:column=handedness,R
+452,zenodo_5796004,zenodo_5796004:participant:142,height,tryout,individual,179.0,,,,,,,,zenodo_5796004_data,CSV:row=43:column=height,179
+453,zenodo_5796004,zenodo_5796004:participant:142,irrom,tryout,individual,62.5,,,,,,,,zenodo_5796004_data,CSV:row=43:column=irrom,62.5
+454,zenodo_5796004,zenodo_5796004:participant:142,errom,tryout,individual,121.0,,,,,,,,zenodo_5796004_data,CSV:row=43:column=errom,121
+455,zenodo_5796004,zenodo_5796004:participant:142,lthorax,tryout,individual,59.5,,,,,,,,zenodo_5796004_data,CSV:row=43:column=lthorax,59.5
+456,zenodo_5796004,zenodo_5796004:participant:142,rthorax,tryout,individual,73.0,,,,,,,,zenodo_5796004_data,CSV:row=43:column=rthorax,73
+457,zenodo_5796004,zenodo_5796004:participant:142,cmjnw,tryout,individual,46.07,,,,,,,,zenodo_5796004_data,CSV:row=43:column=cmjnw,46.07
+458,zenodo_5796004,zenodo_5796004:participant:142,cmjw,tryout,individual,37.77,,,,,,,,zenodo_5796004_data,CSV:row=43:column=cmjw,37.77
+459,zenodo_5796004,zenodo_5796004:participant:142,sprint10,tryout,individual,1.8,,,,,,,,zenodo_5796004_data,CSV:row=43:column=sprint10,1.8
+460,zenodo_5796004,zenodo_5796004:participant:142,sprint30,tryout,individual,3.89,,,,,,,,zenodo_5796004_data,CSV:row=43:column=sprint30,3.89
+461,zenodo_5796004,zenodo_5796004:participant:142,velocity,tryout,individual,133.0,,,,,,,,zenodo_5796004_data,CSV:row=43:column=velocity,133
+462,zenodo_5796004,zenodo_5796004:participant:142,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=43:column=handedness,R
+463,zenodo_5796004,zenodo_5796004:participant:143,height,tryout,individual,171.0,,,,,,,,zenodo_5796004_data,CSV:row=44:column=height,171
+464,zenodo_5796004,zenodo_5796004:participant:143,irrom,tryout,individual,73.5,,,,,,,,zenodo_5796004_data,CSV:row=44:column=irrom,73.5
+465,zenodo_5796004,zenodo_5796004:participant:143,errom,tryout,individual,99.0,,,,,,,,zenodo_5796004_data,CSV:row=44:column=errom,99
+466,zenodo_5796004,zenodo_5796004:participant:143,lthorax,tryout,individual,64.5,,,,,,,,zenodo_5796004_data,CSV:row=44:column=lthorax,64.5
+467,zenodo_5796004,zenodo_5796004:participant:143,rthorax,tryout,individual,65.5,,,,,,,,zenodo_5796004_data,CSV:row=44:column=rthorax,65.5
+468,zenodo_5796004,zenodo_5796004:participant:143,cmjnw,tryout,individual,52.93,,,,,,,,zenodo_5796004_data,CSV:row=44:column=cmjnw,52.93
+469,zenodo_5796004,zenodo_5796004:participant:143,cmjw,tryout,individual,47.13,,,,,,,,zenodo_5796004_data,CSV:row=44:column=cmjw,47.13
+470,zenodo_5796004,zenodo_5796004:participant:143,sprint10,tryout,individual,1.75,,,,,,,,zenodo_5796004_data,CSV:row=44:column=sprint10,1.75
+471,zenodo_5796004,zenodo_5796004:participant:143,sprint30,tryout,individual,3.83,,,,,,,,zenodo_5796004_data,CSV:row=44:column=sprint30,3.83
+472,zenodo_5796004,zenodo_5796004:participant:143,velocity,tryout,individual,132.0,,,,,,,,zenodo_5796004_data,CSV:row=44:column=velocity,132
+473,zenodo_5796004,zenodo_5796004:participant:143,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=44:column=handedness,R
+474,zenodo_5796004,zenodo_5796004:participant:144,height,tryout,individual,184.0,,,,,,,,zenodo_5796004_data,CSV:row=45:column=height,184
+475,zenodo_5796004,zenodo_5796004:participant:144,irrom,tryout,individual,60.0,,,,,,,,zenodo_5796004_data,CSV:row=45:column=irrom,60
+476,zenodo_5796004,zenodo_5796004:participant:144,errom,tryout,individual,107.0,,,,,,,,zenodo_5796004_data,CSV:row=45:column=errom,107
+477,zenodo_5796004,zenodo_5796004:participant:144,lthorax,tryout,individual,63.5,,,,,,,,zenodo_5796004_data,CSV:row=45:column=lthorax,63.5
+478,zenodo_5796004,zenodo_5796004:participant:144,rthorax,tryout,individual,60.0,,,,,,,,zenodo_5796004_data,CSV:row=45:column=rthorax,60
+479,zenodo_5796004,zenodo_5796004:participant:144,cmjnw,tryout,individual,44.29,,,,,,,,zenodo_5796004_data,CSV:row=45:column=cmjnw,44.29
+480,zenodo_5796004,zenodo_5796004:participant:144,cmjw,tryout,individual,35.49,,,,,,,,zenodo_5796004_data,CSV:row=45:column=cmjw,35.49
+481,zenodo_5796004,zenodo_5796004:participant:144,sprint10,tryout,individual,1.76,,,,,,,,zenodo_5796004_data,CSV:row=45:column=sprint10,1.76
+482,zenodo_5796004,zenodo_5796004:participant:144,sprint30,tryout,individual,3.86,,,,,,,,zenodo_5796004_data,CSV:row=45:column=sprint30,3.86
+483,zenodo_5796004,zenodo_5796004:participant:144,velocity,tryout,individual,143.0,,,,,,,,zenodo_5796004_data,CSV:row=45:column=velocity,143
+484,zenodo_5796004,zenodo_5796004:participant:144,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=45:column=handedness,R
+485,zenodo_5796004,zenodo_5796004:participant:145,height,tryout,individual,177.5,,,,,,,,zenodo_5796004_data,CSV:row=46:column=height,177.5
+486,zenodo_5796004,zenodo_5796004:participant:145,irrom,tryout,individual,76.5,,,,,,,,zenodo_5796004_data,CSV:row=46:column=irrom,76.5
+487,zenodo_5796004,zenodo_5796004:participant:145,errom,tryout,individual,103.0,,,,,,,,zenodo_5796004_data,CSV:row=46:column=errom,103
+488,zenodo_5796004,zenodo_5796004:participant:145,lthorax,tryout,individual,69.5,,,,,,,,zenodo_5796004_data,CSV:row=46:column=lthorax,69.5
+489,zenodo_5796004,zenodo_5796004:participant:145,rthorax,tryout,individual,56.5,,,,,,,,zenodo_5796004_data,CSV:row=46:column=rthorax,56.5
+490,zenodo_5796004,zenodo_5796004:participant:145,cmjnw,tryout,individual,21.11,,,,,,,,zenodo_5796004_data,CSV:row=46:column=cmjnw,21.11
+491,zenodo_5796004,zenodo_5796004:participant:145,cmjw,tryout,individual,21.42,,,,,,,,zenodo_5796004_data,CSV:row=46:column=cmjw,21.42
+492,zenodo_5796004,zenodo_5796004:participant:145,sprint10,tryout,individual,1.91,,,,,,,,zenodo_5796004_data,CSV:row=46:column=sprint10,1.91
+493,zenodo_5796004,zenodo_5796004:participant:145,sprint30,tryout,individual,4.2,,,,,,,,zenodo_5796004_data,CSV:row=46:column=sprint30,4.2
+494,zenodo_5796004,zenodo_5796004:participant:145,velocity,tryout,individual,143.0,,,,,,,,zenodo_5796004_data,CSV:row=46:column=velocity,143
+495,zenodo_5796004,zenodo_5796004:participant:145,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=46:column=handedness,R
+496,zenodo_5796004,zenodo_5796004:participant:146,height,tryout,individual,182.5,,,,,,,,zenodo_5796004_data,CSV:row=47:column=height,182.5
+497,zenodo_5796004,zenodo_5796004:participant:146,irrom,tryout,individual,49.0,,,,,,,,zenodo_5796004_data,CSV:row=47:column=irrom,49
+498,zenodo_5796004,zenodo_5796004:participant:146,errom,tryout,individual,108.5,,,,,,,,zenodo_5796004_data,CSV:row=47:column=errom,108.5
+499,zenodo_5796004,zenodo_5796004:participant:146,lthorax,tryout,individual,62.0,,,,,,,,zenodo_5796004_data,CSV:row=47:column=lthorax,62
+500,zenodo_5796004,zenodo_5796004:participant:146,rthorax,tryout,individual,68.0,,,,,,,,zenodo_5796004_data,CSV:row=47:column=rthorax,68
+501,zenodo_5796004,zenodo_5796004:participant:146,cmjnw,tryout,individual,42.83,,,,,,,,zenodo_5796004_data,CSV:row=47:column=cmjnw,42.83
+502,zenodo_5796004,zenodo_5796004:participant:146,cmjw,tryout,individual,37.63,,,,,,,,zenodo_5796004_data,CSV:row=47:column=cmjw,37.63
+503,zenodo_5796004,zenodo_5796004:participant:146,sprint10,tryout,individual,1.78,,,,,,,,zenodo_5796004_data,CSV:row=47:column=sprint10,1.78
+504,zenodo_5796004,zenodo_5796004:participant:146,sprint30,tryout,individual,3.99,,,,,,,,zenodo_5796004_data,CSV:row=47:column=sprint30,3.99
+505,zenodo_5796004,zenodo_5796004:participant:146,velocity,tryout,individual,136.0,,,,,,,,zenodo_5796004_data,CSV:row=47:column=velocity,136
+506,zenodo_5796004,zenodo_5796004:participant:146,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=47:column=handedness,R
+507,zenodo_5796004,zenodo_5796004:participant:147,height,tryout,individual,171.5,,,,,,,,zenodo_5796004_data,CSV:row=48:column=height,171.5
+508,zenodo_5796004,zenodo_5796004:participant:147,irrom,tryout,individual,49.0,,,,,,,,zenodo_5796004_data,CSV:row=48:column=irrom,49
+509,zenodo_5796004,zenodo_5796004:participant:147,errom,tryout,individual,112.5,,,,,,,,zenodo_5796004_data,CSV:row=48:column=errom,112.5
+510,zenodo_5796004,zenodo_5796004:participant:147,lthorax,tryout,individual,63.0,,,,,,,,zenodo_5796004_data,CSV:row=48:column=lthorax,63
+511,zenodo_5796004,zenodo_5796004:participant:147,rthorax,tryout,individual,63.0,,,,,,,,zenodo_5796004_data,CSV:row=48:column=rthorax,63
+512,zenodo_5796004,zenodo_5796004:participant:147,cmjnw,tryout,individual,37.77,,,,,,,,zenodo_5796004_data,CSV:row=48:column=cmjnw,37.77
+513,zenodo_5796004,zenodo_5796004:participant:147,cmjw,tryout,individual,32.65,,,,,,,,zenodo_5796004_data,CSV:row=48:column=cmjw,32.65
+514,zenodo_5796004,zenodo_5796004:participant:147,sprint10,tryout,individual,1.89,,,,,,,,zenodo_5796004_data,CSV:row=48:column=sprint10,1.89
+515,zenodo_5796004,zenodo_5796004:participant:147,sprint30,tryout,individual,4.27,,,,,,,,zenodo_5796004_data,CSV:row=48:column=sprint30,4.27
+516,zenodo_5796004,zenodo_5796004:participant:147,velocity,tryout,individual,135.0,,,,,,,,zenodo_5796004_data,CSV:row=48:column=velocity,135
+517,zenodo_5796004,zenodo_5796004:participant:147,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=48:column=handedness,L
+518,zenodo_5796004,zenodo_5796004:participant:148,height,tryout,individual,173.0,,,,,,,,zenodo_5796004_data,CSV:row=49:column=height,173
+519,zenodo_5796004,zenodo_5796004:participant:148,irrom,tryout,individual,46.5,,,,,,,,zenodo_5796004_data,CSV:row=49:column=irrom,46.5
+520,zenodo_5796004,zenodo_5796004:participant:148,errom,tryout,individual,117.0,,,,,,,,zenodo_5796004_data,CSV:row=49:column=errom,117
+521,zenodo_5796004,zenodo_5796004:participant:148,lthorax,tryout,individual,57.0,,,,,,,,zenodo_5796004_data,CSV:row=49:column=lthorax,57
+522,zenodo_5796004,zenodo_5796004:participant:148,rthorax,tryout,individual,54.5,,,,,,,,zenodo_5796004_data,CSV:row=49:column=rthorax,54.5
+523,zenodo_5796004,zenodo_5796004:participant:148,cmjnw,tryout,individual,43.55,,,,,,,,zenodo_5796004_data,CSV:row=49:column=cmjnw,43.55
+524,zenodo_5796004,zenodo_5796004:participant:148,cmjw,tryout,individual,30.65,,,,,,,,zenodo_5796004_data,CSV:row=49:column=cmjw,30.65
+525,zenodo_5796004,zenodo_5796004:participant:148,sprint10,tryout,individual,1.9,,,,,,,,zenodo_5796004_data,CSV:row=49:column=sprint10,1.9
+526,zenodo_5796004,zenodo_5796004:participant:148,sprint30,tryout,individual,4.22,,,,,,,,zenodo_5796004_data,CSV:row=49:column=sprint30,4.22
+527,zenodo_5796004,zenodo_5796004:participant:148,velocity,tryout,individual,136.0,,,,,,,,zenodo_5796004_data,CSV:row=49:column=velocity,136
+528,zenodo_5796004,zenodo_5796004:participant:148,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=49:column=handedness,R
+529,zenodo_5796004,zenodo_5796004:participant:149,height,tryout,individual,176.0,,,,,,,,zenodo_5796004_data,CSV:row=50:column=height,176
+530,zenodo_5796004,zenodo_5796004:participant:149,irrom,tryout,individual,38.0,,,,,,,,zenodo_5796004_data,CSV:row=50:column=irrom,38
+531,zenodo_5796004,zenodo_5796004:participant:149,errom,tryout,individual,103.0,,,,,,,,zenodo_5796004_data,CSV:row=50:column=errom,103
+532,zenodo_5796004,zenodo_5796004:participant:149,lthorax,tryout,individual,57.0,,,,,,,,zenodo_5796004_data,CSV:row=50:column=lthorax,57
+533,zenodo_5796004,zenodo_5796004:participant:149,rthorax,tryout,individual,66.0,,,,,,,,zenodo_5796004_data,CSV:row=50:column=rthorax,66
+534,zenodo_5796004,zenodo_5796004:participant:149,cmjnw,tryout,individual,33.54,,,,,,,,zenodo_5796004_data,CSV:row=50:column=cmjnw,33.54
+535,zenodo_5796004,zenodo_5796004:participant:149,cmjw,tryout,individual,29.32,,,,,,,,zenodo_5796004_data,CSV:row=50:column=cmjw,29.32
+536,zenodo_5796004,zenodo_5796004:participant:149,sprint10,tryout,individual,1.89,,,,,,,,zenodo_5796004_data,CSV:row=50:column=sprint10,1.89
+537,zenodo_5796004,zenodo_5796004:participant:149,sprint30,tryout,individual,4.12,,,,,,,,zenodo_5796004_data,CSV:row=50:column=sprint30,4.12
+538,zenodo_5796004,zenodo_5796004:participant:149,velocity,tryout,individual,142.0,,,,,,,,zenodo_5796004_data,CSV:row=50:column=velocity,142
+539,zenodo_5796004,zenodo_5796004:participant:149,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=50:column=handedness,R
+540,zenodo_5796004,zenodo_5796004:participant:151,height,tryout,individual,178.0,,,,,,,,zenodo_5796004_data,CSV:row=51:column=height,178
+541,zenodo_5796004,zenodo_5796004:participant:151,irrom,tryout,individual,54.0,,,,,,,,zenodo_5796004_data,CSV:row=51:column=irrom,54
+542,zenodo_5796004,zenodo_5796004:participant:151,errom,tryout,individual,114.0,,,,,,,,zenodo_5796004_data,CSV:row=51:column=errom,114
+543,zenodo_5796004,zenodo_5796004:participant:151,lthorax,tryout,individual,68.0,,,,,,,,zenodo_5796004_data,CSV:row=51:column=lthorax,68
+544,zenodo_5796004,zenodo_5796004:participant:151,rthorax,tryout,individual,67.5,,,,,,,,zenodo_5796004_data,CSV:row=51:column=rthorax,67.5
+545,zenodo_5796004,zenodo_5796004:participant:151,cmjnw,tryout,individual,40.68,,,,,,,,zenodo_5796004_data,CSV:row=51:column=cmjnw,40.68
+546,zenodo_5796004,zenodo_5796004:participant:151,cmjw,tryout,individual,36.02,,,,,,,,zenodo_5796004_data,CSV:row=51:column=cmjw,36.02
+547,zenodo_5796004,zenodo_5796004:participant:151,sprint10,tryout,individual,1.86,,,,,,,,zenodo_5796004_data,CSV:row=51:column=sprint10,1.86
+548,zenodo_5796004,zenodo_5796004:participant:151,sprint30,tryout,individual,4.07,,,,,,,,zenodo_5796004_data,CSV:row=51:column=sprint30,4.07
+549,zenodo_5796004,zenodo_5796004:participant:151,velocity,tryout,individual,136.0,,,,,,,,zenodo_5796004_data,CSV:row=51:column=velocity,136
+550,zenodo_5796004,zenodo_5796004:participant:151,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=51:column=handedness,R
+551,zenodo_5796004,zenodo_5796004:participant:152,height,tryout,individual,187.0,,,,,,,,zenodo_5796004_data,CSV:row=52:column=height,187
+552,zenodo_5796004,zenodo_5796004:participant:152,irrom,tryout,individual,54.0,,,,,,,,zenodo_5796004_data,CSV:row=52:column=irrom,54
+553,zenodo_5796004,zenodo_5796004:participant:152,errom,tryout,individual,108.5,,,,,,,,zenodo_5796004_data,CSV:row=52:column=errom,108.5
+554,zenodo_5796004,zenodo_5796004:participant:152,lthorax,tryout,individual,78.5,,,,,,,,zenodo_5796004_data,CSV:row=52:column=lthorax,78.5
+555,zenodo_5796004,zenodo_5796004:participant:152,rthorax,tryout,individual,74.0,,,,,,,,zenodo_5796004_data,CSV:row=52:column=rthorax,74
+556,zenodo_5796004,zenodo_5796004:participant:152,cmjnw,tryout,individual,52.6,,,,,,,,zenodo_5796004_data,CSV:row=52:column=cmjnw,52.6
+557,zenodo_5796004,zenodo_5796004:participant:152,cmjw,tryout,individual,41.25,,,,,,,,zenodo_5796004_data,CSV:row=52:column=cmjw,41.25
+558,zenodo_5796004,zenodo_5796004:participant:152,sprint10,tryout,individual,1.82,,,,,,,,zenodo_5796004_data,CSV:row=52:column=sprint10,1.82
+559,zenodo_5796004,zenodo_5796004:participant:152,sprint30,tryout,individual,3.99,,,,,,,,zenodo_5796004_data,CSV:row=52:column=sprint30,3.99
+560,zenodo_5796004,zenodo_5796004:participant:152,velocity,tryout,individual,135.0,,,,,,,,zenodo_5796004_data,CSV:row=52:column=velocity,135
+561,zenodo_5796004,zenodo_5796004:participant:152,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=52:column=handedness,L
+562,zenodo_5796004,zenodo_5796004:participant:153,height,tryout,individual,184.0,,,,,,,,zenodo_5796004_data,CSV:row=53:column=height,184
+563,zenodo_5796004,zenodo_5796004:participant:153,irrom,tryout,individual,56.5,,,,,,,,zenodo_5796004_data,CSV:row=53:column=irrom,56.5
+564,zenodo_5796004,zenodo_5796004:participant:153,errom,tryout,individual,115.0,,,,,,,,zenodo_5796004_data,CSV:row=53:column=errom,115
+565,zenodo_5796004,zenodo_5796004:participant:153,lthorax,tryout,individual,73.5,,,,,,,,zenodo_5796004_data,CSV:row=53:column=lthorax,73.5
+566,zenodo_5796004,zenodo_5796004:participant:153,rthorax,tryout,individual,71.5,,,,,,,,zenodo_5796004_data,CSV:row=53:column=rthorax,71.5
+567,zenodo_5796004,zenodo_5796004:participant:153,cmjnw,tryout,individual,51.49,,,,,,,,zenodo_5796004_data,CSV:row=53:column=cmjnw,51.49
+568,zenodo_5796004,zenodo_5796004:participant:153,cmjw,tryout,individual,42.54,,,,,,,,zenodo_5796004_data,CSV:row=53:column=cmjw,42.54
+569,zenodo_5796004,zenodo_5796004:participant:153,sprint10,tryout,individual,1.75,,,,,,,,zenodo_5796004_data,CSV:row=53:column=sprint10,1.75
+570,zenodo_5796004,zenodo_5796004:participant:153,sprint30,tryout,individual,3.95,,,,,,,,zenodo_5796004_data,CSV:row=53:column=sprint30,3.95
+571,zenodo_5796004,zenodo_5796004:participant:153,velocity,tryout,individual,135.0,,,,,,,,zenodo_5796004_data,CSV:row=53:column=velocity,135
+572,zenodo_5796004,zenodo_5796004:participant:153,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=53:column=handedness,R
+573,zenodo_5796004,zenodo_5796004:participant:157,height,tryout,individual,176.5,,,,,,,,zenodo_5796004_data,CSV:row=54:column=height,176.5
+574,zenodo_5796004,zenodo_5796004:participant:157,irrom,tryout,individual,49.5,,,,,,,,zenodo_5796004_data,CSV:row=54:column=irrom,49.5
+575,zenodo_5796004,zenodo_5796004:participant:157,errom,tryout,individual,103.0,,,,,,,,zenodo_5796004_data,CSV:row=54:column=errom,103
+576,zenodo_5796004,zenodo_5796004:participant:157,lthorax,tryout,individual,57.5,,,,,,,,zenodo_5796004_data,CSV:row=54:column=lthorax,57.5
+577,zenodo_5796004,zenodo_5796004:participant:157,rthorax,tryout,individual,62.0,,,,,,,,zenodo_5796004_data,CSV:row=54:column=rthorax,62
+578,zenodo_5796004,zenodo_5796004:participant:157,cmjnw,tryout,individual,42.54,,,,,,,,zenodo_5796004_data,CSV:row=54:column=cmjnw,42.54
+579,zenodo_5796004,zenodo_5796004:participant:157,cmjw,tryout,individual,36.15,,,,,,,,zenodo_5796004_data,CSV:row=54:column=cmjw,36.15
+580,zenodo_5796004,zenodo_5796004:participant:157,sprint10,tryout,individual,1.85,,,,,,,,zenodo_5796004_data,CSV:row=54:column=sprint10,1.85
+581,zenodo_5796004,zenodo_5796004:participant:157,sprint30,tryout,individual,4.03,,,,,,,,zenodo_5796004_data,CSV:row=54:column=sprint30,4.03
+582,zenodo_5796004,zenodo_5796004:participant:157,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=54:column=velocity,140
+583,zenodo_5796004,zenodo_5796004:participant:157,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=54:column=handedness,R
+584,zenodo_5796004,zenodo_5796004:participant:159,height,tryout,individual,181.0,,,,,,,,zenodo_5796004_data,CSV:row=55:column=height,181
+585,zenodo_5796004,zenodo_5796004:participant:159,irrom,tryout,individual,44.5,,,,,,,,zenodo_5796004_data,CSV:row=55:column=irrom,44.5
+586,zenodo_5796004,zenodo_5796004:participant:159,errom,tryout,individual,115.5,,,,,,,,zenodo_5796004_data,CSV:row=55:column=errom,115.5
+587,zenodo_5796004,zenodo_5796004:participant:159,lthorax,tryout,individual,51.5,,,,,,,,zenodo_5796004_data,CSV:row=55:column=lthorax,51.5
+588,zenodo_5796004,zenodo_5796004:participant:159,rthorax,tryout,individual,41.0,,,,,,,,zenodo_5796004_data,CSV:row=55:column=rthorax,41
+589,zenodo_5796004,zenodo_5796004:participant:159,cmjnw,tryout,individual,43.55,,,,,,,,zenodo_5796004_data,CSV:row=55:column=cmjnw,43.55
+590,zenodo_5796004,zenodo_5796004:participant:159,cmjw,tryout,individual,30.28,,,,,,,,zenodo_5796004_data,CSV:row=55:column=cmjw,30.28
+591,zenodo_5796004,zenodo_5796004:participant:159,sprint10,tryout,individual,1.95,,,,,,,,zenodo_5796004_data,CSV:row=55:column=sprint10,1.95
+592,zenodo_5796004,zenodo_5796004:participant:159,sprint30,tryout,individual,4.33,,,,,,,,zenodo_5796004_data,CSV:row=55:column=sprint30,4.33
+593,zenodo_5796004,zenodo_5796004:participant:159,velocity,tryout,individual,133.0,,,,,,,,zenodo_5796004_data,CSV:row=55:column=velocity,133
+594,zenodo_5796004,zenodo_5796004:participant:159,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=55:column=handedness,R
+595,zenodo_5796004,zenodo_5796004:participant:160,height,tryout,individual,175.5,,,,,,,,zenodo_5796004_data,CSV:row=56:column=height,175.5
+596,zenodo_5796004,zenodo_5796004:participant:160,irrom,tryout,individual,61.0,,,,,,,,zenodo_5796004_data,CSV:row=56:column=irrom,61
+597,zenodo_5796004,zenodo_5796004:participant:160,errom,tryout,individual,95.5,,,,,,,,zenodo_5796004_data,CSV:row=56:column=errom,95.5
+598,zenodo_5796004,zenodo_5796004:participant:160,lthorax,tryout,individual,62.5,,,,,,,,zenodo_5796004_data,CSV:row=56:column=lthorax,62.5
+599,zenodo_5796004,zenodo_5796004:participant:160,rthorax,tryout,individual,59.0,,,,,,,,zenodo_5796004_data,CSV:row=56:column=rthorax,59
+600,zenodo_5796004,zenodo_5796004:participant:160,cmjnw,tryout,individual,45.62,,,,,,,,zenodo_5796004_data,CSV:row=56:column=cmjnw,45.62
+601,zenodo_5796004,zenodo_5796004:participant:160,cmjw,tryout,individual,36.42,,,,,,,,zenodo_5796004_data,CSV:row=56:column=cmjw,36.42
+602,zenodo_5796004,zenodo_5796004:participant:160,sprint10,tryout,individual,1.9,,,,,,,,zenodo_5796004_data,CSV:row=56:column=sprint10,1.9
+603,zenodo_5796004,zenodo_5796004:participant:160,sprint30,tryout,individual,4.11,,,,,,,,zenodo_5796004_data,CSV:row=56:column=sprint30,4.11
+604,zenodo_5796004,zenodo_5796004:participant:160,velocity,tryout,individual,133.0,,,,,,,,zenodo_5796004_data,CSV:row=56:column=velocity,133
+605,zenodo_5796004,zenodo_5796004:participant:160,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=56:column=handedness,L
+606,zenodo_5796004,zenodo_5796004:participant:162,height,tryout,individual,189.5,,,,,,,,zenodo_5796004_data,CSV:row=57:column=height,189.5
+607,zenodo_5796004,zenodo_5796004:participant:162,irrom,tryout,individual,63.5,,,,,,,,zenodo_5796004_data,CSV:row=57:column=irrom,63.5
+608,zenodo_5796004,zenodo_5796004:participant:162,errom,tryout,individual,92.5,,,,,,,,zenodo_5796004_data,CSV:row=57:column=errom,92.5
+609,zenodo_5796004,zenodo_5796004:participant:162,lthorax,tryout,individual,67.5,,,,,,,,zenodo_5796004_data,CSV:row=57:column=lthorax,67.5
+610,zenodo_5796004,zenodo_5796004:participant:162,rthorax,tryout,individual,67.5,,,,,,,,zenodo_5796004_data,CSV:row=57:column=rthorax,67.5
+611,zenodo_5796004,zenodo_5796004:participant:162,cmjnw,tryout,individual,36.55,,,,,,,,zenodo_5796004_data,CSV:row=57:column=cmjnw,36.55
+612,zenodo_5796004,zenodo_5796004:participant:162,cmjw,tryout,individual,27.2,,,,,,,,zenodo_5796004_data,CSV:row=57:column=cmjw,27.2
+613,zenodo_5796004,zenodo_5796004:participant:162,sprint10,tryout,individual,1.9,,,,,,,,zenodo_5796004_data,CSV:row=57:column=sprint10,1.9
+614,zenodo_5796004,zenodo_5796004:participant:162,sprint30,tryout,individual,4.27,,,,,,,,zenodo_5796004_data,CSV:row=57:column=sprint30,4.27
+615,zenodo_5796004,zenodo_5796004:participant:162,velocity,tryout,individual,140.0,,,,,,,,zenodo_5796004_data,CSV:row=57:column=velocity,140
+616,zenodo_5796004,zenodo_5796004:participant:162,handedness,tryout,categorical,,,,,,,,,zenodo_5796004_data,CSV:row=57:column=handedness,L
+617,zenodo_17502529,zenodo_17502529:participant:S1,angle:Extension (+),maximum_effort_pitching,participant_summary,23.1,0.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=3:column=2,23.1 ± 0.9
+618,zenodo_17502529,zenodo_17502529:participant:S1,angle:Flexion (–),maximum_effort_pitching,participant_summary,-23.4,2.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=3:column=3,-23.4 ± 2.7
+619,zenodo_17502529,zenodo_17502529:participant:S1,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,19.5,1.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=3:column=4,19.5 ± 1.0
+620,zenodo_17502529,zenodo_17502529:participant:S1,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-43.8,4.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=3:column=5,-43.8 ± 4.4
+621,zenodo_17502529,zenodo_17502529:participant:S1,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,42.9,0.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=3:column=6,42.9 ± 0.7
+622,zenodo_17502529,zenodo_17502529:participant:S1,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,9.8,1.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=3:column=7,9.8 ± 1.8
+623,zenodo_17502529,zenodo_17502529:participant:S2,angle:Extension (+),maximum_effort_pitching,participant_summary,14.1,0.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=4:column=2,14.1 ± 0.7
+624,zenodo_17502529,zenodo_17502529:participant:S2,angle:Flexion (–),maximum_effort_pitching,participant_summary,-21.0,3.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=4:column=3,-21.0 ± 3.0
+625,zenodo_17502529,zenodo_17502529:participant:S2,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,11.0,0.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=4:column=4,11.0 ± 0.8
+626,zenodo_17502529,zenodo_17502529:participant:S2,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-38.4,2.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=4:column=5,-38.4 ± 2.7
+627,zenodo_17502529,zenodo_17502529:participant:S2,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,32.8,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=4:column=6,32.8 ± 0.6
+628,zenodo_17502529,zenodo_17502529:participant:S2,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,4.9,1.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=4:column=7,4.9 ± 1.8
+629,zenodo_17502529,zenodo_17502529:participant:S3,angle:Extension (+),maximum_effort_pitching,participant_summary,24.1,1.5,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=5:column=2,24.1 ± 1.5
+630,zenodo_17502529,zenodo_17502529:participant:S3,angle:Flexion (–),maximum_effort_pitching,participant_summary,-12.9,2.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=5:column=3,-12.9 ± 2.7
+631,zenodo_17502529,zenodo_17502529:participant:S3,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,5.9,1.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=5:column=4,5.9 ± 1.0
+632,zenodo_17502529,zenodo_17502529:participant:S3,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-53.3,1.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=5:column=5,-53.3 ± 1.8
+633,zenodo_17502529,zenodo_17502529:participant:S3,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,43.0,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=5:column=6,43.0 ± 0.6
+634,zenodo_17502529,zenodo_17502529:participant:S3,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,2.8,1.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=5:column=7,2.8 ± 1.7
+635,zenodo_17502529,zenodo_17502529:participant:S4,angle:Extension (+),maximum_effort_pitching,participant_summary,12.7,0.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=6:column=2,12.7 ± 0.9
+636,zenodo_17502529,zenodo_17502529:participant:S4,angle:Flexion (–),maximum_effort_pitching,participant_summary,-20.7,9.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=6:column=3,-20.7 ± 9.7
+637,zenodo_17502529,zenodo_17502529:participant:S4,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,16.4,0.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=6:column=4,16.4 ± 0.4
+638,zenodo_17502529,zenodo_17502529:participant:S4,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-29.3,5.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=6:column=5,-29.3 ± 5.0
+639,zenodo_17502529,zenodo_17502529:participant:S4,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,44.0,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=6:column=6,44.0 ± 0.6
+640,zenodo_17502529,zenodo_17502529:participant:S4,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-0.9,8.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=6:column=7,-0.9 ± 8.4
+641,zenodo_17502529,zenodo_17502529:participant:S5,angle:Extension (+),maximum_effort_pitching,participant_summary,10.3,1.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=7:column=2,10.3 ± 1.2
+642,zenodo_17502529,zenodo_17502529:participant:S5,angle:Flexion (–),maximum_effort_pitching,participant_summary,-11.8,1.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=7:column=3,-11.8 ± 1.6
+643,zenodo_17502529,zenodo_17502529:participant:S5,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,16.2,1.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=7:column=4,16.2 ± 1.6
+644,zenodo_17502529,zenodo_17502529:participant:S5,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-38.0,1.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=7:column=5,-38.0 ± 1.8
+645,zenodo_17502529,zenodo_17502529:participant:S5,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,39.5,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=7:column=6,39.5 ± 0.6
+646,zenodo_17502529,zenodo_17502529:participant:S5,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-5.0,1.3,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=7:column=7,-5.0 ± 1.3
+647,zenodo_17502529,zenodo_17502529:participant:S6,angle:Extension (+),maximum_effort_pitching,participant_summary,28.5,1.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=8:column=2,28.5 ± 1.1
+648,zenodo_17502529,zenodo_17502529:participant:S6,angle:Flexion (–),maximum_effort_pitching,participant_summary,-0.5,1.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=8:column=3,-0.5 ± 1.6
+649,zenodo_17502529,zenodo_17502529:participant:S6,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,3.5,1.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=8:column=4,3.5 ± 1.4
+650,zenodo_17502529,zenodo_17502529:participant:S6,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-30.3,1.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=8:column=5,-30.3 ± 1.6
+651,zenodo_17502529,zenodo_17502529:participant:S6,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,32.7,1.5,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=8:column=6,32.7 ± 1.5
+652,zenodo_17502529,zenodo_17502529:participant:S6,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-8.3,1.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=8:column=7,-8.3 ± 1.0
+653,zenodo_17502529,zenodo_17502529:participant:S7,angle:Extension (+),maximum_effort_pitching,participant_summary,22.7,1.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=9:column=2,22.7 ± 1.8
+654,zenodo_17502529,zenodo_17502529:participant:S7,angle:Flexion (–),maximum_effort_pitching,participant_summary,-20.1,3.3,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=9:column=3,-20.1 ± 3.3
+655,zenodo_17502529,zenodo_17502529:participant:S7,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,7.5,1.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=9:column=4,7.5 ± 1.4
+656,zenodo_17502529,zenodo_17502529:participant:S7,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-45.2,1.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=9:column=5,-45.2 ± 1.6
+657,zenodo_17502529,zenodo_17502529:participant:S7,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,42.3,0.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=9:column=6,42.3 ± 0.8
+658,zenodo_17502529,zenodo_17502529:participant:S7,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,2.4,1.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=9:column=7,2.4 ± 1.1
+659,zenodo_17502529,zenodo_17502529:participant:S8,angle:Extension (+),maximum_effort_pitching,participant_summary,20.6,1.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=10:column=2,20.6 ± 1.2
+660,zenodo_17502529,zenodo_17502529:participant:S8,angle:Flexion (–),maximum_effort_pitching,participant_summary,-8.3,2.5,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=10:column=3,-8.3 ± 2.5
+661,zenodo_17502529,zenodo_17502529:participant:S8,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,5.5,1.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=10:column=4,5.5 ± 1.1
+662,zenodo_17502529,zenodo_17502529:participant:S8,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-31.4,1.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=10:column=5,-31.4 ± 1.9
+663,zenodo_17502529,zenodo_17502529:participant:S8,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,25.1,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=10:column=6,25.1 ± 0.6
+664,zenodo_17502529,zenodo_17502529:participant:S8,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-21.4,0.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=10:column=7,-21.4 ± 0.7
+665,zenodo_17502529,zenodo_17502529:participant:S9,angle:Extension (+),maximum_effort_pitching,participant_summary,11.4,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=11:column=2,11.4 ± 0.6
+666,zenodo_17502529,zenodo_17502529:participant:S9,angle:Flexion (–),maximum_effort_pitching,participant_summary,-29.1,2.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=11:column=3,-29.1 ± 2.1
+667,zenodo_17502529,zenodo_17502529:participant:S9,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,4.8,1.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=11:column=4,4.8 ± 1.0
+668,zenodo_17502529,zenodo_17502529:participant:S9,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-37.2,1.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=11:column=5,-37.2 ± 1.8
+669,zenodo_17502529,zenodo_17502529:participant:S9,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,33.4,0.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=11:column=6,33.4 ± 0.8
+670,zenodo_17502529,zenodo_17502529:participant:S9,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,12.5,1.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=11:column=7,12.5 ± 1.1
+671,zenodo_17502529,zenodo_17502529:participant:S10,angle:Extension (+),maximum_effort_pitching,participant_summary,21.4,1.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=12:column=2,21.4 ± 1.2
+672,zenodo_17502529,zenodo_17502529:participant:S10,angle:Flexion (–),maximum_effort_pitching,participant_summary,-18.6,1.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=12:column=3,-18.6 ± 1.4
+673,zenodo_17502529,zenodo_17502529:participant:S10,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,11.4,1.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=12:column=4,11.4 ± 1.1
+674,zenodo_17502529,zenodo_17502529:participant:S10,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-35.8,1.5,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=12:column=5,-35.8 ± 1.5
+675,zenodo_17502529,zenodo_17502529:participant:S10,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,35.1,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=12:column=6,35.1 ± 0.6
+676,zenodo_17502529,zenodo_17502529:participant:S10,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-3.3,1.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=12:column=7,-3.3 ± 1.4
+677,zenodo_17502529,zenodo_17502529:participant:S11,angle:Extension (+),maximum_effort_pitching,participant_summary,21.4,0.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=13:column=2,21.4 ± 0.9
+678,zenodo_17502529,zenodo_17502529:participant:S11,angle:Flexion (–),maximum_effort_pitching,participant_summary,-16.4,1.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=13:column=3,-16.4 ± 1.7
+679,zenodo_17502529,zenodo_17502529:participant:S11,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,11.9,0.8,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=13:column=4,11.9 ± 0.8
+680,zenodo_17502529,zenodo_17502529:participant:S11,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-48.5,1.5,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=13:column=5,-48.5 ± 1.5
+681,zenodo_17502529,zenodo_17502529:participant:S11,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,31.4,0.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=13:column=6,31.4 ± 0.7
+682,zenodo_17502529,zenodo_17502529:participant:S11,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,1.5,1.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=13:column=7,1.5 ± 1.6
+683,zenodo_17502529,zenodo_17502529:participant:S12,angle:Extension (+),maximum_effort_pitching,participant_summary,27.2,1.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=14:column=2,27.2 ± 1.0
+684,zenodo_17502529,zenodo_17502529:participant:S12,angle:Flexion (–),maximum_effort_pitching,participant_summary,-27.0,7.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=14:column=3,-27.0 ± 7.4
+685,zenodo_17502529,zenodo_17502529:participant:S12,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,19.2,0.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=14:column=4,19.2 ± 0.7
+686,zenodo_17502529,zenodo_17502529:participant:S12,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-52.6,4.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=14:column=5,-52.6 ± 4.0
+687,zenodo_17502529,zenodo_17502529:participant:S12,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,41.9,0.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=14:column=6,41.9 ± 0.6
+688,zenodo_17502529,zenodo_17502529:participant:S12,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,10.7,4.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=14:column=7,10.7 ± 4.2
+689,zenodo_17502529,zenodo_17502529:participant:S13,angle:Extension (+),maximum_effort_pitching,participant_summary,24.7,1.3,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=15:column=2,24.7 ± 1.3
+690,zenodo_17502529,zenodo_17502529:participant:S13,angle:Flexion (–),maximum_effort_pitching,participant_summary,-8.9,2.3,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=15:column=3,-8.9 ± 2.3
+691,zenodo_17502529,zenodo_17502529:participant:S13,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,7.6,0.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=15:column=4,7.6 ± 0.7
+692,zenodo_17502529,zenodo_17502529:participant:S13,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-30.7,1.3,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=15:column=5,-30.7 ± 1.3
+693,zenodo_17502529,zenodo_17502529:participant:S13,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,35.1,1.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=15:column=6,35.1 ± 1.4
+694,zenodo_17502529,zenodo_17502529:participant:S13,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-7.8,1.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=15:column=7,-7.8 ± 1.9
+695,zenodo_17502529,zenodo_17502529:participant:S14,angle:Extension (+),maximum_effort_pitching,participant_summary,10.7,1.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=16:column=2,10.7 ± 1.7
+696,zenodo_17502529,zenodo_17502529:participant:S14,angle:Flexion (–),maximum_effort_pitching,participant_summary,-23.2,2.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=16:column=3,-23.2 ± 2.9
+697,zenodo_17502529,zenodo_17502529:participant:S14,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,18.7,2.4,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=16:column=4,18.7 ± 2.4
+698,zenodo_17502529,zenodo_17502529:participant:S14,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-30.8,3.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=16:column=5,-30.8 ± 3.6
+699,zenodo_17502529,zenodo_17502529:participant:S14,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,27.1,1.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=16:column=6,27.1 ± 1.1
+700,zenodo_17502529,zenodo_17502529:participant:S14,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-13.8,1.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=16:column=7,-13.8 ± 1.2
+701,zenodo_17502529,zenodo_17502529:participant:S15,angle:Extension (+),maximum_effort_pitching,participant_summary,24.0,2.6,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=17:column=2,24.0 ± 2.6
+702,zenodo_17502529,zenodo_17502529:participant:S15,angle:Flexion (–),maximum_effort_pitching,participant_summary,-11.5,3.1,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=17:column=3,-11.5 ± 3.1
+703,zenodo_17502529,zenodo_17502529:participant:S15,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,13.5,0.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=17:column=4,13.5 ± 0.9
+704,zenodo_17502529,zenodo_17502529:participant:S15,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-41.4,1.3,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=17:column=5,-41.4 ± 1.3
+705,zenodo_17502529,zenodo_17502529:participant:S15,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,25.2,0.9,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=17:column=6,25.2 ± 0.9
+706,zenodo_17502529,zenodo_17502529:participant:S15,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-5.2,1.7,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=17:column=7,-5.2 ± 1.7
+707,zenodo_17502529,zenodo_17502529:participant:S16,angle:Extension (+),maximum_effort_pitching,participant_summary,24.4,1.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=18:column=2,24.4 ± 1.2
+708,zenodo_17502529,zenodo_17502529:participant:S16,angle:Flexion (–),maximum_effort_pitching,participant_summary,-11.9,2.3,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=18:column=3,-11.9 ± 2.3
+709,zenodo_17502529,zenodo_17502529:participant:S16,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,-0.5,1.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=18:column=4,-0.5 ± 1.2
+710,zenodo_17502529,zenodo_17502529:participant:S16,angle:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-51.5,2.2,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=18:column=5,-51.5 ± 2.2
+711,zenodo_17502529,zenodo_17502529:participant:S16,angle:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,22.6,1.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=18:column=6,22.6 ± 1.0
+712,zenodo_17502529,zenodo_17502529:participant:S16,angle:Glove side twist (–),maximum_effort_pitching,participant_summary,-5.8,2.0,,,deg,,,,zenodo_17502529_data,DOCX:table=2:row=18:column=7,-5.8 ± 2.0
+713,zenodo_17502529,zenodo_17502529:participant:S1,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,675.1,28.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=3:column=2,675.1 ± 28.6
+714,zenodo_17502529,zenodo_17502529:participant:S1,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-759.2,100.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=3:column=3,-759.2 ± 100.9
+715,zenodo_17502529,zenodo_17502529:participant:S1,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,71.9,9.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=3:column=4,71.9 ± 9.0
+716,zenodo_17502529,zenodo_17502529:participant:S1,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-629.1,50.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=3:column=5,-629.1 ± 50.5
+717,zenodo_17502529,zenodo_17502529:participant:S1,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,366.0,19.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=3:column=6,366.0 ± 19.6
+718,zenodo_17502529,zenodo_17502529:participant:S1,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-498.1,42.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=3:column=7,-498.1 ± 42.3
+719,zenodo_17502529,zenodo_17502529:participant:S2,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,412.5,20.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=4:column=2,412.5 ± 20.1
+720,zenodo_17502529,zenodo_17502529:participant:S2,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-546.3,140.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=4:column=3,-546.3 ± 140.2
+721,zenodo_17502529,zenodo_17502529:participant:S2,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,156.0,16.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=4:column=4,156.0 ± 16.1
+722,zenodo_17502529,zenodo_17502529:participant:S2,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-484.4,17.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=4:column=5,-484.4 ± 17.3
+723,zenodo_17502529,zenodo_17502529:participant:S2,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,329.8,14.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=4:column=6,329.8 ± 14.5
+724,zenodo_17502529,zenodo_17502529:participant:S2,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-331.2,30.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=4:column=7,-331.2 ± 30.8
+725,zenodo_17502529,zenodo_17502529:participant:S3,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,441.8,25.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=5:column=2,441.8 ± 25.2
+726,zenodo_17502529,zenodo_17502529:participant:S3,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-800.2,45.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=5:column=3,-800.2 ± 45.1
+727,zenodo_17502529,zenodo_17502529:participant:S3,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,35.0,23.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=5:column=4,35.0 ± 23.9
+728,zenodo_17502529,zenodo_17502529:participant:S3,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-590.8,31.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=5:column=5,-590.8 ± 31.1
+729,zenodo_17502529,zenodo_17502529:participant:S3,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,376.6,12.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=5:column=6,376.6 ± 12.2
+730,zenodo_17502529,zenodo_17502529:participant:S3,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-621.6,19.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=5:column=7,-621.6 ± 19.8
+731,zenodo_17502529,zenodo_17502529:participant:S4,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,439.2,22.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=6:column=2,439.2 ± 22.9
+732,zenodo_17502529,zenodo_17502529:participant:S4,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-731.0,162.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=6:column=3,-731.0 ± 162.9
+733,zenodo_17502529,zenodo_17502529:participant:S4,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,106.2,11.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=6:column=4,106.2 ± 11.6
+734,zenodo_17502529,zenodo_17502529:participant:S4,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-500.3,24.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=6:column=5,-500.3 ± 24.5
+735,zenodo_17502529,zenodo_17502529:participant:S4,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,543.7,21.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=6:column=6,543.7 ± 21.1
+736,zenodo_17502529,zenodo_17502529:participant:S4,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-560.9,95.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=6:column=7,-560.9 ± 95.4
+737,zenodo_17502529,zenodo_17502529:participant:S5,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,224.5,14.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=7:column=2,224.5 ± 14.1
+738,zenodo_17502529,zenodo_17502529:participant:S5,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-475.7,40.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=7:column=3,-475.7 ± 40.5
+739,zenodo_17502529,zenodo_17502529:participant:S5,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,46.3,11.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=7:column=4,46.3 ± 11.4
+740,zenodo_17502529,zenodo_17502529:participant:S5,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-457.8,18.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=7:column=5,-457.8 ± 18.2
+741,zenodo_17502529,zenodo_17502529:participant:S5,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,284.1,15.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=7:column=6,284.1 ± 15.4
+742,zenodo_17502529,zenodo_17502529:participant:S5,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-549.9,30.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=7:column=7,-549.9 ± 30.4
+743,zenodo_17502529,zenodo_17502529:participant:S6,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,649.1,35.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=8:column=2,649.1 ± 35.3
+744,zenodo_17502529,zenodo_17502529:participant:S6,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-732.0,77.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=8:column=3,-732.0 ± 77.6
+745,zenodo_17502529,zenodo_17502529:participant:S6,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,110.9,11.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=8:column=4,110.9 ± 11.5
+746,zenodo_17502529,zenodo_17502529:participant:S6,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-369.4,55.7,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=8:column=5,-369.4 ± 55.7
+747,zenodo_17502529,zenodo_17502529:participant:S6,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,268.8,29.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=8:column=6,268.8 ± 29.9
+748,zenodo_17502529,zenodo_17502529:participant:S6,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-560.5,36.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=8:column=7,-560.5 ± 36.9
+749,zenodo_17502529,zenodo_17502529:participant:S7,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,517.2,26.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=9:column=2,517.2 ± 26.1
+750,zenodo_17502529,zenodo_17502529:participant:S7,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-837.4,89.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=9:column=3,-837.4 ± 89.8
+751,zenodo_17502529,zenodo_17502529:participant:S7,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,76.6,11.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=9:column=4,76.6 ± 11.1
+752,zenodo_17502529,zenodo_17502529:participant:S7,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-586.1,22.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=9:column=5,-586.1 ± 22.5
+753,zenodo_17502529,zenodo_17502529:participant:S7,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,404.7,27.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=9:column=6,404.7 ± 27.2
+754,zenodo_17502529,zenodo_17502529:participant:S7,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-541.3,48.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=9:column=7,-541.3 ± 48.2
+755,zenodo_17502529,zenodo_17502529:participant:S8,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,495.2,25.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=10:column=2,495.2 ± 25.8
+756,zenodo_17502529,zenodo_17502529:participant:S8,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-653.8,59.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=10:column=3,-653.8 ± 59.6
+757,zenodo_17502529,zenodo_17502529:participant:S8,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,109.4,7.7,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=10:column=4,109.4 ± 7.7
+758,zenodo_17502529,zenodo_17502529:participant:S8,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-441.8,18.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=10:column=5,-441.8 ± 18.6
+759,zenodo_17502529,zenodo_17502529:participant:S8,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,248.3,14.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=10:column=6,248.3 ± 14.2
+760,zenodo_17502529,zenodo_17502529:participant:S8,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-699.1,32.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=10:column=7,-699.1 ± 32.4
+761,zenodo_17502529,zenodo_17502529:participant:S9,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,282.2,23.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=11:column=2,282.2 ± 23.2
+762,zenodo_17502529,zenodo_17502529:participant:S9,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-656.9,28.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=11:column=3,-656.9 ± 28.8
+763,zenodo_17502529,zenodo_17502529:participant:S9,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,54.2,7.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=11:column=4,54.2 ± 7.0
+764,zenodo_17502529,zenodo_17502529:participant:S9,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-498.8,35.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=11:column=5,-498.8 ± 35.3
+765,zenodo_17502529,zenodo_17502529:participant:S9,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,178.6,14.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=11:column=6,178.6 ± 14.1
+766,zenodo_17502529,zenodo_17502529:participant:S9,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-306.6,10.7,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=11:column=7,-306.6 ± 10.7
+767,zenodo_17502529,zenodo_17502529:participant:S10,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,360.6,15.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=12:column=2,360.6 ± 15.5
+768,zenodo_17502529,zenodo_17502529:participant:S10,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-619.9,34.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=12:column=3,-619.9 ± 34.6
+769,zenodo_17502529,zenodo_17502529:participant:S10,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,143.8,17.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=12:column=4,143.8 ± 17.2
+770,zenodo_17502529,zenodo_17502529:participant:S10,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-476.6,22.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=12:column=5,-476.6 ± 22.9
+771,zenodo_17502529,zenodo_17502529:participant:S10,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,309.9,21.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=12:column=6,309.9 ± 21.6
+772,zenodo_17502529,zenodo_17502529:participant:S10,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-569.7,25.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=12:column=7,-569.7 ± 25.5
+773,zenodo_17502529,zenodo_17502529:participant:S11,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,671.1,23.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=13:column=2,671.1 ± 23.0
+774,zenodo_17502529,zenodo_17502529:participant:S11,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-637.6,31.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=13:column=3,-637.6 ± 31.1
+775,zenodo_17502529,zenodo_17502529:participant:S11,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,221.8,17.7,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=13:column=4,221.8 ± 17.7
+776,zenodo_17502529,zenodo_17502529:participant:S11,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-605.2,23.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=13:column=5,-605.2 ± 23.4
+777,zenodo_17502529,zenodo_17502529:participant:S11,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,443.7,24.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=13:column=6,443.7 ± 24.5
+778,zenodo_17502529,zenodo_17502529:participant:S11,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-443.8,17.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=13:column=7,-443.8 ± 17.3
+779,zenodo_17502529,zenodo_17502529:participant:S12,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,693.0,13.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=14:column=2,693.0 ± 13.0
+780,zenodo_17502529,zenodo_17502529:participant:S12,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-924.2,115.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=14:column=3,-924.2 ± 115.9
+781,zenodo_17502529,zenodo_17502529:participant:S12,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,85.6,16.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=14:column=4,85.6 ± 16.3
+782,zenodo_17502529,zenodo_17502529:participant:S12,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-699.0,39.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=14:column=5,-699.0 ± 39.0
+783,zenodo_17502529,zenodo_17502529:participant:S12,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,456.9,13.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=14:column=6,456.9 ± 13.3
+784,zenodo_17502529,zenodo_17502529:participant:S12,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-507.7,42.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=14:column=7,-507.7 ± 42.0
+785,zenodo_17502529,zenodo_17502529:participant:S13,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,355.4,17.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=15:column=2,355.4 ± 17.6
+786,zenodo_17502529,zenodo_17502529:participant:S13,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-818.1,81.7,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=15:column=3,-818.1 ± 81.7
+787,zenodo_17502529,zenodo_17502529:participant:S13,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,62.5,16.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=15:column=4,62.5 ± 16.8
+788,zenodo_17502529,zenodo_17502529:participant:S13,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-354.3,50.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=15:column=5,-354.3 ± 50.0
+789,zenodo_17502529,zenodo_17502529:participant:S13,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,293.4,27.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=15:column=6,293.4 ± 27.6
+790,zenodo_17502529,zenodo_17502529:participant:S13,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-539.0,39.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=15:column=7,-539.0 ± 39.9
+791,zenodo_17502529,zenodo_17502529:participant:S14,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,448.3,23.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=16:column=2,448.3 ± 23.1
+792,zenodo_17502529,zenodo_17502529:participant:S14,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-633.1,64.3,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=16:column=3,-633.1 ± 64.3
+793,zenodo_17502529,zenodo_17502529:participant:S14,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,118.0,23.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=16:column=4,118.0 ± 23.9
+794,zenodo_17502529,zenodo_17502529:participant:S14,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-444.1,22.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=16:column=5,-444.1 ± 22.4
+795,zenodo_17502529,zenodo_17502529:participant:S14,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,305.2,19.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=16:column=6,305.2 ± 19.0
+796,zenodo_17502529,zenodo_17502529:participant:S14,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-442.1,48.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=16:column=7,-442.1 ± 48.5
+797,zenodo_17502529,zenodo_17502529:participant:S15,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,380.2,12.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=17:column=2,380.2 ± 12.4
+798,zenodo_17502529,zenodo_17502529:participant:S15,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-671.4,30.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=17:column=3,-671.4 ± 30.5
+799,zenodo_17502529,zenodo_17502529:participant:S15,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,86.9,10.6,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=17:column=4,86.9 ± 10.6
+800,zenodo_17502529,zenodo_17502529:participant:S15,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-570.5,39.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=17:column=5,-570.5 ± 39.8
+801,zenodo_17502529,zenodo_17502529:participant:S15,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,211.0,17.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=17:column=6,211.0 ± 17.2
+802,zenodo_17502529,zenodo_17502529:participant:S15,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-358.3,17.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=17:column=7,-358.3 ± 17.2
+803,zenodo_17502529,zenodo_17502529:participant:S16,angular_velocity:Extension (+),maximum_effort_pitching,participant_summary,472.3,15.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=18:column=2,472.3 ± 15.1
+804,zenodo_17502529,zenodo_17502529:participant:S16,angular_velocity:Flexion (–),maximum_effort_pitching,participant_summary,-670.2,48.7,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=18:column=3,-670.2 ± 48.7
+805,zenodo_17502529,zenodo_17502529:participant:S16,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,participant_summary,59.3,13.5,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=18:column=4,59.3 ± 13.5
+806,zenodo_17502529,zenodo_17502529:participant:S16,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,participant_summary,-831.9,39.4,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=18:column=5,-831.9 ± 39.4
+807,zenodo_17502529,zenodo_17502529:participant:S16,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,participant_summary,186.5,9.9,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=18:column=6,186.5 ± 9.9
+808,zenodo_17502529,zenodo_17502529:participant:S16,angular_velocity:Glove side twist (–),maximum_effort_pitching,participant_summary,-408.4,36.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=3:row=18:column=7,-408.4 ± 36.2
+809,zenodo_17502529,,angle:Extension (+),maximum_effort_pitching,cohort_summary,20.1,5.9,,,deg,,,,zenodo_17502529_data,DOCX:table=1:row=3:column=2,20.1 ± 5.9
+810,zenodo_17502529,,angle:Extension (+),association_with_ball_speed,correlation,-0.23,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=3:column=3,-0.23
+811,zenodo_17502529,,angle:Extension (+),maximum_effort_pitching,pitch_cycle_summary,92.9,1.9,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=3:column=4,92.9 ± 1.9
+812,zenodo_17502529,,angle:Flexion (–),maximum_effort_pitching,cohort_summary,-16.6,7.4,,,deg,,,,zenodo_17502529_data,DOCX:table=1:row=4:column=2,-16.6 ± 7.4
+813,zenodo_17502529,,angle:Flexion (–),association_with_ball_speed,correlation,-0.18,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=4:column=3,-0.18
+814,zenodo_17502529,,angle:Flexion (–),maximum_effort_pitching,pitch_cycle_summary,100.0,0.0,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=4:column=4,100.0 ± 0.0
+815,zenodo_17502529,,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,cohort_summary,10.8,6.2,,,deg,,,,zenodo_17502529_data,DOCX:table=1:row=5:column=2,10.8 ± 6.2
+816,zenodo_17502529,,angle:Throwing-arm side lateral bend (+),association_with_ball_speed,correlation,0.1,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=5:column=3,0.10
+817,zenodo_17502529,,angle:Throwing-arm side lateral bend (+),maximum_effort_pitching,pitch_cycle_summary,81.0,7.5,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=5:column=4,81.0 ± 7.5
+818,zenodo_17502529,,angle:Glove side lateral bend (–),maximum_effort_pitching,cohort_summary,-39.9,8.4,,,deg,,,,zenodo_17502529_data,DOCX:table=1:row=6:column=2,-39.9 ± 8.4
+819,zenodo_17502529,,angle:Glove side lateral bend (–),association_with_ball_speed,correlation,0.03,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=6:column=3,0.03
+820,zenodo_17502529,,angle:Glove side lateral bend (–),maximum_effort_pitching,pitch_cycle_summary,98.5,1.0,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=6:column=4,98.5 ± 1.0
+821,zenodo_17502529,,angle:Throwing-arm side twist (+),maximum_effort_pitching,cohort_summary,34.6,6.9,,,deg,,,,zenodo_17502529_data,DOCX:table=1:row=7:column=2,34.6 ± 6.9
+822,zenodo_17502529,,angle:Throwing-arm side twist (+),association_with_ball_speed,correlation,0.64,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=7:column=3,0.64
+823,zenodo_17502529,,angle:Throwing-arm side twist (+),maximum_effort_pitching,pitch_cycle_summary,88.6,3.2,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=7:column=4,88.6 ± 3.2
+824,zenodo_17502529,,angle:Glove side twist (–),maximum_effort_pitching,cohort_summary,-1.7,8.8,,,deg,,,,zenodo_17502529_data,DOCX:table=1:row=8:column=2,-1.7 ± 8.8
+825,zenodo_17502529,,angle:Glove side twist (–),association_with_ball_speed,correlation,0.43,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=8:column=3,0.43
+826,zenodo_17502529,,angle:Glove side twist (–),maximum_effort_pitching,pitch_cycle_summary,98.6,1.0,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=8:column=4,98.6 ± 1.0
+827,zenodo_17502529,,angular_velocity:Extension (+),maximum_effort_pitching,cohort_summary,469.9,137.2,,,deg/s,,,,zenodo_17502529_data,DOCX:table=1:row=10:column=2,469.9 ± 137.2
+828,zenodo_17502529,,angular_velocity:Extension (+),association_with_ball_speed,correlation,0.06,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=10:column=3,0.06
+829,zenodo_17502529,,angular_velocity:Extension (+),maximum_effort_pitching,pitch_cycle_summary,87.2,3.7,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=10:column=4,87.2 ± 3.7
+830,zenodo_17502529,,angular_velocity:Flexion (–),maximum_effort_pitching,cohort_summary,-697.9,109.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=1:row=11:column=2,-697.9 ± 109.8
+831,zenodo_17502529,,angular_velocity:Flexion (–),association_with_ball_speed,correlation,0.01,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=11:column=3,0.01
+832,zenodo_17502529,,angular_velocity:Flexion (–),maximum_effort_pitching,pitch_cycle_summary,98.8,0.9,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=11:column=4,98.8 ± 0.9
+833,zenodo_17502529,,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,cohort_summary,96.5,47.8,,,deg/s,,,,zenodo_17502529_data,DOCX:table=1:row=12:column=2,96.5 ± 47.8
+834,zenodo_17502529,,angular_velocity:Throwing-arm side lateral bend (+),association_with_ball_speed,correlation,-0.09,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=12:column=3,-0.09
+835,zenodo_17502529,,angular_velocity:Throwing-arm side lateral bend (+),maximum_effort_pitching,pitch_cycle_summary,76.4,6.5,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=12:column=4,76.4 ± 6.5
+836,zenodo_17502529,,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,cohort_summary,-533.8,123.1,,,deg/s,,,,zenodo_17502529_data,DOCX:table=1:row=13:column=2,-533.8 ± 123.1
+837,zenodo_17502529,,angular_velocity:Glove side lateral bend (–),association_with_ball_speed,correlation,0.01,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=13:column=3,0.01
+838,zenodo_17502529,,angular_velocity:Glove side lateral bend (–),maximum_effort_pitching,pitch_cycle_summary,92.7,3.1,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=13:column=4,92.7 ± 3.1
+839,zenodo_17502529,,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,cohort_summary,325.5,102.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=1:row=14:column=2,325.5 ± 102.0
+840,zenodo_17502529,,angular_velocity:Throwing-arm side twist (+),association_with_ball_speed,correlation,0.39,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=14:column=3,0.39
+841,zenodo_17502529,,angular_velocity:Throwing-arm side twist (+),maximum_effort_pitching,pitch_cycle_summary,84.5,4.6,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=14:column=4,84.5 ± 4.6
+842,zenodo_17502529,,angular_velocity:Glove side twist (–),maximum_effort_pitching,cohort_summary,-496.1,104.0,,,deg/s,,,,zenodo_17502529_data,DOCX:table=1:row=15:column=2,-496.1 ± 104.0
+843,zenodo_17502529,,angular_velocity:Glove side twist (–),association_with_ball_speed,correlation,-0.34,,,,dimensionless,,,,zenodo_17502529_data,DOCX:table=1:row=15:column=3,-0.34
+844,zenodo_17502529,,angular_velocity:Glove side twist (–),maximum_effort_pitching,pitch_cycle_summary,94.7,1.9,,,percent,,,,zenodo_17502529_data,DOCX:table=1:row=15:column=4,94.7 ± 1.9
+845,zenodo_16050919,,frontal_propulsion,low_in_zone,cohort_summary,-121.3,69.7,40,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=1,"{""condition"":""low"",""mean"":-121.3,""metric"":""frontal_propulsion"",""n"":40,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":69.7,""source_label"":""Frontal Plane Propulsion (Nm)"",""unit"":""N m""}"
+846,zenodo_16050919,,frontal_braking,low_in_zone,cohort_summary,254.6,117.6,40,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=2,"{""condition"":""low"",""mean"":254.6,""metric"":""frontal_braking"",""n"":40,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":117.6,""source_label"":""Frontal Plane Braking (Nm)"",""unit"":""N m""}"
+847,zenodo_16050919,,transverse_propulsion,low_in_zone,cohort_summary,216.9,77.7,41,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=3,"{""condition"":""low"",""mean"":216.9,""metric"":""transverse_propulsion"",""n"":41,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":77.7,""source_label"":""Transverse Plane Propulsion (Nm)"",""unit"":""N m""}"
+848,zenodo_16050919,,transverse_braking,low_in_zone,cohort_summary,-171.3,74.2,41,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=4,"{""condition"":""low"",""mean"":-171.3,""metric"":""transverse_braking"",""n"":41,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":74.2,""source_label"":""Transverse Plane Brake (Nm)"",""unit"":""N m""}"
+849,zenodo_16050919,,exit_velocity,low_in_zone,cohort_summary,151.4,9.8,41,"reported observations; repeated measures from 16 participants, aggregation ambiguous",km/h,42.05555555555556,2.7222222222222223,m/s,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=5,"{""condition"":""low"",""mean"":151.4,""metric"":""exit_velocity"",""n"":41,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":9.8,""source_label"":""Exit Velocity (Km/h)"",""unit"":""km/h""}"
+850,zenodo_16050919,,bat_speed,low_in_zone,cohort_summary,114.3,8.5,41,"reported observations; repeated measures from 16 participants, aggregation ambiguous",km/h,31.75,2.361111111111111,m/s,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=6,"{""condition"":""low"",""mean"":114.3,""metric"":""bat_speed"",""n"":41,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":8.5,""source_label"":""Bat Speed (Km/h)"",""unit"":""km/h""}"
+851,zenodo_16050919,,frontal_propulsion,high_in_zone,cohort_summary,-123.2,93.5,39,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=7,"{""condition"":""high"",""mean"":-123.2,""metric"":""frontal_propulsion"",""n"":39,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":93.5,""source_label"":""Frontal Plane Propulsion (Nm)"",""unit"":""N m""}"
+852,zenodo_16050919,,frontal_braking,high_in_zone,cohort_summary,258.8,145.2,39,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=8,"{""condition"":""high"",""mean"":258.8,""metric"":""frontal_braking"",""n"":39,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":145.2,""source_label"":""Frontal Plane Braking (Nm)"",""unit"":""N m""}"
+853,zenodo_16050919,,transverse_propulsion,high_in_zone,cohort_summary,212.9,76.6,40,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=9,"{""condition"":""high"",""mean"":212.9,""metric"":""transverse_propulsion"",""n"":40,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":76.6,""source_label"":""Transverse Plane Propulsion (Nm)"",""unit"":""N m""}"
+854,zenodo_16050919,,transverse_braking,high_in_zone,cohort_summary,-204.2,84.1,40,"reported observations; repeated measures from 16 participants, aggregation ambiguous",N m,,,,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=10,"{""condition"":""high"",""mean"":-204.2,""metric"":""transverse_braking"",""n"":40,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":84.1,""source_label"":""Transverse Plane Brake (Nm)"",""unit"":""N m""}"
+855,zenodo_16050919,,exit_velocity,high_in_zone,cohort_summary,148.7,12.1,40,"reported observations; repeated measures from 16 participants, aggregation ambiguous",km/h,41.30555555555556,3.361111111111111,m/s,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=11,"{""condition"":""high"",""mean"":148.7,""metric"":""exit_velocity"",""n"":40,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":12.1,""source_label"":""Exit Velocity (Km/h)"",""unit"":""km/h""}"
+856,zenodo_16050919,,bat_speed,high_in_zone,cohort_summary,113.5,8.4,40,"reported observations; repeated measures from 16 participants, aggregation ambiguous",km/h,31.52777777777778,2.3333333333333335,m/s,zenodo_16050919_data,PDF:page=14:printed_page=10:table=1:row=12,"{""condition"":""high"",""mean"":113.5,""metric"":""bat_speed"",""n"":40,""n_unit"":""reported observations; repeated measures from 16 participants, aggregation ambiguous"",""sd"":8.4,""source_label"":""Bat Speed (Km/h)"",""unit"":""km/h""}"

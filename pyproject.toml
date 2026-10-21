@@ -20,4 +20,4 @@ testpaths = ["tests"]
 addopts = "-ra"
 
 [tool.setuptools.package-data]
-data_collection = ["warehouse_schema.sql"]
+data_collection = ["warehouse_schema.sql", "stage5_schema.sql"]

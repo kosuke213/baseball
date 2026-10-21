@@ -1,0 +1,1 @@
+These are unchanged CC BY 4.0 source files and their license-bearing Zenodo metadata, acquired 2026-10-21. Attribution and source URLs: ../../../data_sources/stage5/ATTRIBUTIONS.md . Used for parsing regression tests; no raw pitches reconstructed.

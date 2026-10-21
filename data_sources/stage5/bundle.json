@@ -1,0 +1,11 @@
+{
+  "file": "database_bundle.zip",
+  "bytes": 56591938,
+  "sha256": "ea6e3251066812238bee85fdab90d989b939fbd6cc2b8f8978399c42f0e19701",
+  "database_sha256": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+  "originals": {
+    "file": "originals_bundle.zip",
+    "bytes": 54366218,
+    "sha256": "3bfbcb962f242b72d5196f539c8d8b0b42eb7b75c09816ceee9719b30681b728"
+  }
+}

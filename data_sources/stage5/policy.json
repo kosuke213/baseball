@@ -1,0 +1,126 @@
+{
+  "base": {
+    "retrosheet": {
+      "source_ids": [
+        "S012",
+        "S013"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "Retrosheet Notices",
+      "evidence_artifacts": [
+        "retro_notice",
+        "retro_csv_docs"
+      ],
+      "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+      "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+      "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+      "warehouse_collection_allowed": true
+    },
+    "chadwick": {
+      "source_ids": [
+        "S021"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "ODC-By-1.0",
+      "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+      "evidence_artifacts": [
+        "register_readme"
+      ],
+      "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+      "review_note": "Fixed commit. Scan all 16 shards; normalize identities referenced in the collected games and all entries with an NPB ID. Retain original shards. No name matching.",
+      "warehouse_collection_allowed": true
+    },
+    "jpl": {
+      "source_ids": [
+        "S034"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "evidence_artifacts": [
+        "jpl_license",
+        "jpl_methodology"
+      ],
+      "attribution": "Japan Prospect Lab — https://japanprospectlab.substack.com ; https://github.com/japanprospectlab/data . CC BY 4.0. Changes: CSV parsed to JSON/SQLite; no grades recalculated.",
+      "review_note": "Publisher licensing statement covers its board. Secondary scouting/metadata only; upstream official statistics are not separately scraped. Notes and published measurements retained, no independent verification or name-based join.",
+      "warehouse_collection_allowed": true
+    },
+    "jma": {
+      "source_ids": [
+        "S075"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "公共データ利用規約 第1.0版（気象庁の適用条件付き）",
+      "license_url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+      "evidence_artifacts": [
+        "jma_terms"
+      ],
+      "attribution": "出典：気象庁「過去の気象データ検索」東京・2024年3月29日（１時間ごとの値）。当プロジェクトがHTMLを表に加工し、JST/UTC時刻を付加。 https://www.data.jma.go.jp/stats/etrn/",
+      "review_note": "Official past observed numerical weather table under site terms; no third-party credited content in target table. Preserve original HTML, units, cell text/classes/symbols. Not stadium observations.",
+      "warehouse_collection_allowed": true
+    }
+  },
+  "stage5": {
+    "zenodo_5796004": {
+      "pilot_collection_allowed": true,
+      "warehouse_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_ids": [
+        "S108",
+        "zenodo_5796004"
+      ],
+      "attribution": "JyhHow Huang. Adult male baseball pitchers anthropometric measurements and pitching velocity in tryout settings. 10.5281/zenodo.5796004. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+      "evidence_artifacts": [
+        "zenodo_5796004_metadata"
+      ],
+      "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream."
+    },
+    "zenodo_17502529": {
+      "pilot_collection_allowed": true,
+      "warehouse_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_ids": [
+        "S108",
+        "zenodo_17502529"
+      ],
+      "attribution": "Wada, Naoki. Inter-pitcher and Intra-pitcher Comparisons on the Relationship between Trunk Kinematics and Ball Speed in Collegiate Baseball Pitchers. 10.5281/zenodo.17502529. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+      "evidence_artifacts": [
+        "zenodo_17502529_metadata"
+      ],
+      "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream."
+    },
+    "zenodo_16050919": {
+      "pilot_collection_allowed": true,
+      "warehouse_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_ids": [
+        "S108",
+        "zenodo_16050919"
+      ],
+      "attribution": "Murdock, Alanna. COMPARISON OF BIOMECHANICAL PARAMETERS AND IN-SPORT ANALYTICS IN BASEBALL HITTERS. 10.5281/zenodo.16050919. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+      "evidence_artifacts": [
+        "zenodo_16050919_metadata"
+      ],
+      "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream."
+    },
+    "retrosheet": {
+      "source_ids": [
+        "S012",
+        "S013"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "Retrosheet Notices",
+      "evidence_artifacts": [
+        "retro_notice",
+        "retro_csv_docs"
+      ],
+      "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+      "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+      "review_note": "Reuse official Game Logs from five reference years with original Notices attribution. No historical event replay or inferred tracking.",
+      "warehouse_collection_allowed": true
+    }
+  }
+}

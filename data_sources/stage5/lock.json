@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "plan_sha256": "d83630e945cf5e01c3316e387a06232508ee2abb61f7292e0750fdb2b78d5e26",
+  "artifacts": {
+    "zenodo_5796004_metadata": {
+      "url": "https://zenodo.org/api/records/5796004",
+      "sha256": "820e7109082583c59b75f56f7a97089207a405884b5e3de202c41c2cdefc2920",
+      "bytes": 4351
+    },
+    "zenodo_17502529_metadata": {
+      "url": "https://zenodo.org/api/records/17502529",
+      "sha256": "bf2a5f74220cb7385b73a383f16832ff3c5beefcf3a18d33a60475bbc8a4baa8",
+      "bytes": 4051
+    },
+    "zenodo_16050919_metadata": {
+      "url": "https://zenodo.org/api/records/16050919",
+      "sha256": "2f5ca2eef6e510adc9ce15d2be3f6db83ab0bc39a880db14a75ff3f858e2fc7b",
+      "bytes": 6448
+    },
+    "retro_notice": {
+      "url": "https://www.retrosheet.org/notice.txt",
+      "sha256": "2218abe680e21d3308de06352c394baefbffc7618d36a821d38ed6e97c24105d",
+      "bytes": 971
+    },
+    "retro_csv_docs": {
+      "url": "https://www.retrosheet.org/downloads/csvdownloads.html",
+      "sha256": "1417ef511d08d702ba0d250ffc7e6bc8833d8456c24631e68aed963a999aa0b6",
+      "bytes": 22302
+    },
+    "retro_gamelog_docs": {
+      "url": "https://www.retrosheet.org/gamelogs/glfields.txt",
+      "sha256": "399aea2c74af36da766bb38c97455c641730eb37d53c9d4948c5929931f9cc98",
+      "bytes": 6559
+    },
+    "zenodo_5796004_data": {
+      "url": "https://zenodo.org/api/records/5796004/files/baseball__Dataset.csv/content",
+      "sha256": "bd478bad3c5d2e62b3f86727dec26564e2c9304a8476f1ab323dc585bf494ad1",
+      "bytes": 3105
+    },
+    "zenodo_17502529_data": {
+      "url": "https://zenodo.org/api/records/17502529/files/Tables%20(Wada%20et%20al.).docx/content",
+      "sha256": "5006f890b68dfd722be8087b2efcf81ab356607c7e8ec2caec45220d98e31c8d",
+      "bytes": 40128
+    },
+    "zenodo_16050919_data": {
+      "url": "https://zenodo.org/api/records/16050919/files/55%202025-07-28%20Murdock%20Thesis%20FINAL.pdf/content",
+      "sha256": "f78c471e84d83658b9c61f1e7cfd7ceef0af722d62d314a3c1fa4ffa4b83aa46",
+      "bytes": 344260
+    },
+    "retro_gl_1996": {
+      "url": "https://www.retrosheet.org/gamelogs/gl1996.zip",
+      "sha256": "1fb7c0f718286e0dbe884635cb14d0e48e8a4f66735c5a7e75c564cb5359d2aa",
+      "bytes": 381623
+    },
+    "retro_gl_2006": {
+      "url": "https://www.retrosheet.org/gamelogs/gl2006.zip",
+      "sha256": "b4da78fc5ad9ce52475fbfe891f1a2e1489cc9b4bcc8299ef18d368d5daa30ad",
+      "bytes": 422862
+    },
+    "retro_gl_2016": {
+      "url": "https://www.retrosheet.org/gamelogs/gl2016.zip",
+      "sha256": "c447193bc9d0084c95e1d3f3b5b8e68770b4e69f370082d29c58649e4f151819",
+      "bytes": 451072
+    },
+    "retro_gl_2019": {
+      "url": "https://www.retrosheet.org/gamelogs/gl2019.zip",
+      "sha256": "af624738230530f2f59e141c84cb31a97c2298727301e4be8308266f6e49d229",
+      "bytes": 465409
+    },
+    "retro_gl_2022": {
+      "url": "https://www.retrosheet.org/gamelogs/gl2022.zip",
+      "sha256": "c1d5416ed28b172c70fb88e8afdfbccfddddd204d9dcb8e326c4052b3d2d7aa2",
+      "bytes": 475414
+    }
+  }
+}

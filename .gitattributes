@@ -1,1 +1,3 @@
 *.bat text eol=crlf
+# Exact research originals: preserve byte checksums on Windows as well.
+tests/fixtures/stage5/zenodo_* binary

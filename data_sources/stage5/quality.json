@@ -1,0 +1,178 @@
+{
+  "stage": 5,
+  "data_validation": "pass",
+  "simulation_readiness": "partial_research_only",
+  "counts": {
+    "games": 19272,
+    "plays": 570548,
+    "analysis_plays": 570548,
+    "people": 8479,
+    "identifiers": 39759,
+    "research_datasets": 3,
+    "research_participants": 72,
+    "research_measurements": 856,
+    "research_confirmed_speeds": 4
+  },
+  "by_year": [
+    {
+      "season": 1996,
+      "coverage": "game_log_only",
+      "games": 2267,
+      "play_rows": 0
+    },
+    {
+      "season": 2006,
+      "coverage": "game_log_only",
+      "games": 2429,
+      "play_rows": 0
+    },
+    {
+      "season": 2016,
+      "coverage": "game_log_only",
+      "games": 2428,
+      "play_rows": 0
+    },
+    {
+      "season": 2019,
+      "coverage": "game_log_only",
+      "games": 2429,
+      "play_rows": 0
+    },
+    {
+      "season": 2022,
+      "coverage": "game_log_only",
+      "games": 2430,
+      "play_rows": 0
+    },
+    {
+      "season": 2023,
+      "coverage": "validated_plays",
+      "games": 2430,
+      "play_rows": 191073
+    },
+    {
+      "season": 2024,
+      "coverage": "validated_plays",
+      "games": 2429,
+      "play_rows": 189536
+    },
+    {
+      "season": 2025,
+      "coverage": "validated_plays",
+      "games": 2430,
+      "play_rows": 189939
+    }
+  ],
+  "research_statistics": {
+    "categorical": 56,
+    "cohort_summary": 24,
+    "correlation": 12,
+    "individual": 560,
+    "participant_summary": 192,
+    "pitch_cycle_summary": 12
+  },
+  "confirmed_speed_statistics": {
+    "cohort_summary": 4
+  },
+  "identity_status_all_roles": {
+    "matched": 5482,
+    "unmatched": 1
+  },
+  "unresolved_park_codes": [
+    "BIR01",
+    "BST01",
+    "MEX02",
+    "SAC01",
+    "SEO01",
+    "TAM02"
+  ],
+  "integrity_check": "ok",
+  "foreign_key_errors": [],
+  "validation_failures": [],
+  "readiness": [
+    {
+      "requirement": "pitch_speed",
+      "status": "unit_unconfirmed",
+      "detail": "56 tryout participant values preserved; no verified unit or individual professional pitches."
+    },
+    {
+      "requirement": "batted_ball_exit_velocity",
+      "status": "aggregate_only",
+      "detail": "Two condition means/SDs, repeated selected good hits from 16 college men; N unit ambiguous."
+    },
+    {
+      "requirement": "bat_speed",
+      "status": "aggregate_only",
+      "detail": "Two condition means/SDs; metal bats and pitching machine."
+    },
+    {
+      "requirement": "pitch_movement_spin_location",
+      "status": "unavailable",
+      "detail": "No authorized competitive pitch-tracking stream obtained."
+    },
+    {
+      "requirement": "launch_angle_spin_trajectory",
+      "status": "unavailable",
+      "detail": "No raw batted-ball launch-angle, spin or trajectory observations obtained."
+    },
+    {
+      "requirement": "japanese_professional_representativeness",
+      "status": "unresolved",
+      "detail": "No NPB competitive sensor observations. Author names do not establish a cohort country."
+    },
+    {
+      "requirement": "historical_comparison",
+      "status": "selected_years_only",
+      "detail": "Five historical MLB Game Log seasons, with era/rule and coverage differences explicit."
+    }
+  ],
+  "limits": [
+    "Research participants are pseudonymous and not linked to professional-player IDs.",
+    "No synthetic pitches, inferred units, inferred Japanese nationality or reconstructed individual values.",
+    "Data validation passing does not establish simulation fidelity or external representativeness.",
+    "Historical Game Logs and recent plays are different coverage levels; do not pool blindly.",
+    "Source metadata and small research originals are preserved; automatic update promotion is disabled."
+  ],
+  "historical_log_checks": [
+    {
+      "year": 1996,
+      "games_checked": 2267,
+      "line_score_failures": []
+    },
+    {
+      "year": 2006,
+      "games_checked": 2429,
+      "line_score_failures": []
+    },
+    {
+      "year": 2016,
+      "games_checked": 2428,
+      "line_score_failures": []
+    },
+    {
+      "year": 2019,
+      "games_checked": 2429,
+      "line_score_failures": []
+    },
+    {
+      "year": 2022,
+      "games_checked": 2430,
+      "line_score_failures": []
+    }
+  ],
+  "base": {
+    "snapshot_id": "717f7b15b7df58818ce55989",
+    "database_sha256": "3e0b5597cf48c44e1b7ac4ad8f00d4abc26acbb4d3763c4322aaa5b974249ce1",
+    "bundle_url": "https://raw.githubusercontent.com/kosuke213/baseball/codex/data-warehouse/data_sources/warehouse/database_bundle.zip"
+  },
+  "plan_sha256": "d83630e945cf5e01c3316e387a06232508ee2abb61f7292e0750fdb2b78d5e26",
+  "lock_sha256": "cd626b8abfa6e48bf7bbc6c16fe214f3d1bf8f5ca31bb1f9436e8dcddd609811",
+  "transform_sha256": "c2772d4f4509ecacdc3c9585da70e0e68e4ba9f7b97eea377832e6fe8df497e9",
+  "transcription_sha256": "eabcf63968a5607450d151390e6075d20702cb2583d339556f6e7d94f555ce6c",
+  "review_sha256": "8a46df20a0a3bb11eed79400475b6ae747e642f4c70d12a7fda4306e488fd64a",
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1"
+  },
+  "snapshot_id": "3380cf3ee94809d4dae3fe92"
+}

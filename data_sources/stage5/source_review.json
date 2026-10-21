@@ -1,0 +1,67 @@
+{
+  "reviewed_on": "2026-10-21",
+  "sources": [
+    {
+      "source": "MLB / Baseball Savant / StatsAPI",
+      "status": "deferred_permission_required",
+      "evidence_url": "https://www.mlb.com/official-information/terms-of-use",
+      "evidence_sha256": "be09b6604c412850d818ee59ce8d31c5e340b2c7667fd075f6b3fc2be5532369",
+      "finding": "Prohibited uses (xi) automated scripts; personal non-commercial copy exception is insufficient for a reusable game database. No tracking data acquired; mirrors not accepted as new permission."
+    },
+    {
+      "source": "OpenBiomechanics",
+      "status": "deferred_license_incompatible",
+      "evidence_url": "https://raw.githubusercontent.com/drivelineresearch/openbiomechanics/main/LICENSE-DATA.md",
+      "evidence_sha256": "19b1e9bedd22c36f02cdccd67b7c4dd561e2379f96b540006ad0c6dc9c49cc50",
+      "finding": "Dataset CC BY-NC-SA with explicit professional-sports/financial restrictions; MIT code does not license the data. No data acquired."
+    },
+    {
+      "source": "Taiwan professional TrackMan 2020–2021",
+      "status": "restricted_access",
+      "evidence_url": "https://zenodo.org/records/6359465",
+      "finding": "Record restricted; no downloadable files or reuse license confirmed. No data acquired."
+    },
+    {
+      "source": "Batting exit velocity by ball COR",
+      "status": "restricted_access",
+      "evidence_url": "https://zenodo.org/records/7049067",
+      "finding": "Record restricted; no downloadable files or reuse license confirmed. No data acquired."
+    },
+    {
+      "source": "VICON baseball pitching",
+      "status": "restricted_access",
+      "evidence_url": "https://zenodo.org/records/7022794",
+      "finding": "Restricted record; no data acquired."
+    },
+    {
+      "source": "Figshare",
+      "status": "network_blocked",
+      "evidence_url": "https://api.figshare.com",
+      "finding": "API host added to saved environment draft, not published/applied. API still unavailable; no data acquired."
+    },
+    {
+      "source": "Taiwan tryout methodology",
+      "status": "unit_confirmation_pending",
+      "evidence_url": "https://doi.org/10.1371/journal.pone.0265525",
+      "finding": "Related paper identified via Crossref/OpenAlex. Original publisher transport unavailable; PMC human verification challenge encountered and left untouched. CSV velocity unit not explicit, no guessed conversion."
+    },
+    {
+      "source": "Wada collegiate pitchers",
+      "status": "collected_summary_only",
+      "evidence_url": "https://doi.org/10.5281/zenodo.17502529",
+      "finding": "Three DOCX tables acquired. Units from section headings. No ball-speed observations in these tables; participant nationality not established by downloaded file. Related paper DOI 10.2174/011875399x377262251029070748."
+    },
+    {
+      "source": "Huang Taiwan tryout",
+      "status": "collected_individual",
+      "evidence_url": "https://doi.org/10.5281/zenodo.5796004",
+      "finding": "CC BY4 record; actual CSV 56 participants vs abstract/description 64. No explanation confirmed; no added 8 rows, units pending. 2019 Taiwan professional-team tryout; amateur adults."
+    },
+    {
+      "source": "Murdock NCAA Division I hitters",
+      "status": "collected_aggregate",
+      "evidence_url": "https://doi.org/10.5281/zenodo.16050919",
+      "finding": "CC BY4 PDF own Table1 transcribed with source SHA; 16 men, repeated selected good hits, metal bats, pitching machine. N=39–41 observational unit needs clarification; no raw batted-ball trajectories."
+    }
+  ]
+}

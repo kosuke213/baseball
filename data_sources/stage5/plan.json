@@ -1,0 +1,195 @@
+{
+  "schema_version": 1,
+  "rights": {
+    "zenodo_5796004": {
+      "pilot_collection_allowed": true,
+      "warehouse_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_ids": [
+        "S108",
+        "zenodo_5796004"
+      ],
+      "attribution": "JyhHow Huang. Adult male baseball pitchers anthropometric measurements and pitching velocity in tryout settings. 10.5281/zenodo.5796004. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+      "evidence_artifacts": [
+        "zenodo_5796004_metadata"
+      ],
+      "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream."
+    },
+    "zenodo_17502529": {
+      "pilot_collection_allowed": true,
+      "warehouse_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_ids": [
+        "S108",
+        "zenodo_17502529"
+      ],
+      "attribution": "Wada, Naoki. Inter-pitcher and Intra-pitcher Comparisons on the Relationship between Trunk Kinematics and Ball Speed in Collegiate Baseball Pitchers. 10.5281/zenodo.17502529. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+      "evidence_artifacts": [
+        "zenodo_17502529_metadata"
+      ],
+      "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream."
+    },
+    "zenodo_16050919": {
+      "pilot_collection_allowed": true,
+      "warehouse_collection_allowed": true,
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_ids": [
+        "S108",
+        "zenodo_16050919"
+      ],
+      "attribution": "Murdock, Alanna. COMPARISON OF BIOMECHANICAL PARAMETERS AND IN-SPORT ANALYTICS IN BASEBALL HITTERS. 10.5281/zenodo.16050919. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+      "evidence_artifacts": [
+        "zenodo_16050919_metadata"
+      ],
+      "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream."
+    },
+    "retrosheet": {
+      "source_ids": [
+        "S012",
+        "S013"
+      ],
+      "pilot_collection_allowed": true,
+      "license": "Retrosheet Notices",
+      "evidence_artifacts": [
+        "retro_notice",
+        "retro_csv_docs"
+      ],
+      "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+      "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+      "review_note": "Reuse official Game Logs from five reference years with original Notices attribution. No historical event replay or inferred tracking.",
+      "warehouse_collection_allowed": true
+    }
+  },
+  "artifacts": [
+    {
+      "id": "zenodo_5796004_metadata",
+      "url": "https://zenodo.org/api/records/5796004",
+      "rights": "zenodo_5796004",
+      "purpose": "evidence",
+      "max_bytes": 200000
+    },
+    {
+      "id": "zenodo_5796004_data",
+      "url": "https://zenodo.org/api/records/5796004/files/baseball__Dataset.csv/content",
+      "rights": "zenodo_5796004",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "expected_md5": "1e4d8cba4a643ab081d7f1007d8e4f5d",
+      "upstream_version": "10.5281/zenodo.5796004",
+      "original_filename": "baseball__Dataset.csv"
+    },
+    {
+      "id": "zenodo_17502529_metadata",
+      "url": "https://zenodo.org/api/records/17502529",
+      "rights": "zenodo_17502529",
+      "purpose": "evidence",
+      "max_bytes": 200000
+    },
+    {
+      "id": "zenodo_17502529_data",
+      "url": "https://zenodo.org/api/records/17502529/files/Tables%20(Wada%20et%20al.).docx/content",
+      "rights": "zenodo_17502529",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "expected_md5": "a3625e2adb3f6c5b044323ba64f8d7c4",
+      "upstream_version": "10.5281/zenodo.17502529",
+      "original_filename": "Tables (Wada et al.).docx"
+    },
+    {
+      "id": "zenodo_16050919_metadata",
+      "url": "https://zenodo.org/api/records/16050919",
+      "rights": "zenodo_16050919",
+      "purpose": "evidence",
+      "max_bytes": 200000
+    },
+    {
+      "id": "zenodo_16050919_data",
+      "url": "https://zenodo.org/api/records/16050919/files/55%202025-07-28%20Murdock%20Thesis%20FINAL.pdf/content",
+      "rights": "zenodo_16050919",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "expected_md5": "1559b1813aeee5d1a042ec95c3c6a16f",
+      "upstream_version": "10.5281/zenodo.16050919",
+      "original_filename": "55 2025-07-28 Murdock Thesis FINAL.pdf"
+    },
+    {
+      "id": "retro_notice",
+      "url": "https://www.retrosheet.org/notice.txt",
+      "rights": "retrosheet",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "retro_csv_docs",
+      "url": "https://www.retrosheet.org/downloads/csvdownloads.html",
+      "rights": "retrosheet",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "retro_gamelog_docs",
+      "url": "https://www.retrosheet.org/gamelogs/glfields.txt",
+      "rights": "retrosheet",
+      "purpose": "evidence",
+      "max_bytes": 500000
+    },
+    {
+      "id": "retro_gl_1996",
+      "url": "https://www.retrosheet.org/gamelogs/gl1996.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "1996 official Game Logs; first acquisition SHA256 locked"
+    },
+    {
+      "id": "retro_gl_2006",
+      "url": "https://www.retrosheet.org/gamelogs/gl2006.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "2006 official Game Logs; first acquisition SHA256 locked"
+    },
+    {
+      "id": "retro_gl_2016",
+      "url": "https://www.retrosheet.org/gamelogs/gl2016.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "2016 official Game Logs; first acquisition SHA256 locked"
+    },
+    {
+      "id": "retro_gl_2019",
+      "url": "https://www.retrosheet.org/gamelogs/gl2019.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "2019 official Game Logs; first acquisition SHA256 locked"
+    },
+    {
+      "id": "retro_gl_2022",
+      "url": "https://www.retrosheet.org/gamelogs/gl2022.zip",
+      "rights": "retrosheet",
+      "purpose": "data",
+      "max_bytes": 2000000,
+      "upstream_version": "2022 official Game Logs; first acquisition SHA256 locked"
+    }
+  ],
+  "stage": 5,
+  "budget_bytes": 20000000,
+  "years": [
+    1996,
+    2006,
+    2016,
+    2019,
+    2022
+  ],
+  "base": {
+    "snapshot_id": "717f7b15b7df58818ce55989",
+    "database_sha256": "3e0b5597cf48c44e1b7ac4ad8f00d4abc26acbb4d3763c4322aaa5b974249ce1",
+    "bundle_url": "https://raw.githubusercontent.com/kosuke213/baseball/codex/data-warehouse/data_sources/warehouse/database_bundle.zip"
+  },
+  "scope": "Research measurements and selected MLB historical Game Logs only; no historical play-by-play inference."
+}

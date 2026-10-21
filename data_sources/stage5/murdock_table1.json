@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "artifact_id": "zenodo_16050919_data",
+  "source_sha256": "f78c471e84d83658b9c61f1e7cfd7ceef0af722d62d314a3c1fa4ffa4b83aa46",
+  "printed_page": 10,
+  "pdf_page": 14,
+  "table": 1,
+  "method": "Manual transcription from pdftotext, cross-checked visually against rendered PDF page 14 on 2026-10-21. Only original experiment Table 1; no cited MLB values.",
+  "limitations": "The methods describe repeated good hits from 16 men, while Table 1 reports N=39–41. The text also says repeated swings were averaged; the exact observational unit of N is unresolved. Do not treat N as independent participants or generate individual records. Metal bats, pitching machine; not live professional competition.",
+  "rows": [
+    {
+      "condition": "low",
+      "metric": "frontal_propulsion",
+      "source_label": "Frontal Plane Propulsion (Nm)",
+      "unit": "N m",
+      "mean": -121.3,
+      "sd": 69.7,
+      "n": 40,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "low",
+      "metric": "frontal_braking",
+      "source_label": "Frontal Plane Braking (Nm)",
+      "unit": "N m",
+      "mean": 254.6,
+      "sd": 117.6,
+      "n": 40,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "low",
+      "metric": "transverse_propulsion",
+      "source_label": "Transverse Plane Propulsion (Nm)",
+      "unit": "N m",
+      "mean": 216.9,
+      "sd": 77.7,
+      "n": 41,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "low",
+      "metric": "transverse_braking",
+      "source_label": "Transverse Plane Brake (Nm)",
+      "unit": "N m",
+      "mean": -171.3,
+      "sd": 74.2,
+      "n": 41,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "low",
+      "metric": "exit_velocity",
+      "source_label": "Exit Velocity (Km/h)",
+      "unit": "km/h",
+      "mean": 151.4,
+      "sd": 9.8,
+      "n": 41,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "low",
+      "metric": "bat_speed",
+      "source_label": "Bat Speed (Km/h)",
+      "unit": "km/h",
+      "mean": 114.3,
+      "sd": 8.5,
+      "n": 41,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "high",
+      "metric": "frontal_propulsion",
+      "source_label": "Frontal Plane Propulsion (Nm)",
+      "unit": "N m",
+      "mean": -123.2,
+      "sd": 93.5,
+      "n": 39,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "high",
+      "metric": "frontal_braking",
+      "source_label": "Frontal Plane Braking (Nm)",
+      "unit": "N m",
+      "mean": 258.8,
+      "sd": 145.2,
+      "n": 39,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "high",
+      "metric": "transverse_propulsion",
+      "source_label": "Transverse Plane Propulsion (Nm)",
+      "unit": "N m",
+      "mean": 212.9,
+      "sd": 76.6,
+      "n": 40,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "high",
+      "metric": "transverse_braking",
+      "source_label": "Transverse Plane Brake (Nm)",
+      "unit": "N m",
+      "mean": -204.2,
+      "sd": 84.1,
+      "n": 40,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "high",
+      "metric": "exit_velocity",
+      "source_label": "Exit Velocity (Km/h)",
+      "unit": "km/h",
+      "mean": 148.7,
+      "sd": 12.1,
+      "n": 40,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    },
+    {
+      "condition": "high",
+      "metric": "bat_speed",
+      "source_label": "Bat Speed (Km/h)",
+      "unit": "km/h",
+      "mean": 113.5,
+      "sd": 8.4,
+      "n": 40,
+      "n_unit": "reported observations; repeated measures from 16 participants, aggregation ambiguous"
+    }
+  ]
+}

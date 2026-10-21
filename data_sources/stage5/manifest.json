@@ -1,0 +1,1392 @@
+{
+  "snapshot_id": "3380cf3ee94809d4dae3fe92",
+  "base": {
+    "snapshot_id": "717f7b15b7df58818ce55989",
+    "database_sha256": "3e0b5597cf48c44e1b7ac4ad8f00d4abc26acbb4d3763c4322aaa5b974249ce1",
+    "bundle_url": "https://raw.githubusercontent.com/kosuke213/baseball/codex/data-warehouse/data_sources/warehouse/database_bundle.zip"
+  },
+  "plan_sha256": "d83630e945cf5e01c3316e387a06232508ee2abb61f7292e0750fdb2b78d5e26",
+  "lock_sha256": "cd626b8abfa6e48bf7bbc6c16fe214f3d1bf8f5ca31bb1f9436e8dcddd609811",
+  "transform_sha256": "c2772d4f4509ecacdc3c9585da70e0e68e4ba9f7b97eea377832e6fe8df497e9",
+  "transcription_sha256": "eabcf63968a5607450d151390e6075d20702cb2583d339556f6e7d94f555ce6c",
+  "review_sha256": "8a46df20a0a3bb11eed79400475b6ae747e642f4c70d12a7fda4306e488fd64a",
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1"
+  },
+  "artifacts": [
+    {
+      "bytes": 23377,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": "\"09bba9947dd7c637451db5e3a8b71e2c\"",
+      "final_url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+      "http_status": 200,
+      "id": "jma_terms",
+      "last_modified": "Thu, 06 Aug 2026 02:24:21 GMT",
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "208e3c202b9ed17b1979f2210ac18bb3dc0b595bf173f2877bde6165187a30ec",
+      "retrieved_at": "2026-10-21T11:30:00.787846+00:00",
+      "rights": "jma",
+      "rights_snapshot": {
+        "attribution": "出典：気象庁「過去の気象データ検索」東京・2024年3月29日（１時間ごとの値）。当プロジェクトがHTMLを表に加工し、JST/UTC時刻を付加。 https://www.data.jma.go.jp/stats/etrn/",
+        "evidence_artifacts": [
+          "jma_terms"
+        ],
+        "license": "公共データ利用規約 第1.0版（気象庁の適用条件付き）",
+        "license_url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+        "pilot_collection_allowed": true,
+        "review_note": "Official past observed numerical weather table under site terms; no third-party credited content in target table. Preserve original HTML, units, cell text/classes/symbols. Not stadium observations.",
+        "source_ids": [
+          "S075"
+        ]
+      },
+      "sha256": "ff2b45042e6207053d8f6aa617656aa6a144e462db138f0b8138de6eefbeff48",
+      "url": "https://www.jma.go.jp/jma/kishou/info/coment.html"
+    },
+    {
+      "bytes": 24055,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "final_url": "https://www.data.jma.go.jp/stats/etrn/view/hourly_s1.php?prec_no=44&block_no=47662&year=2024&month=3&day=29&view=",
+      "http_status": 200,
+      "id": "jma_tokyo_20240329",
+      "last_modified": null,
+      "max_bytes": 500000,
+      "purpose": "data",
+      "request_fingerprint": "01376482a5776e01cbe6928fa351325675bd1cb17298b0db0491061c95115132",
+      "retrieved_at": "2026-10-21T11:30:01.299125+00:00",
+      "rights": "jma",
+      "rights_snapshot": {
+        "attribution": "出典：気象庁「過去の気象データ検索」東京・2024年3月29日（１時間ごとの値）。当プロジェクトがHTMLを表に加工し、JST/UTC時刻を付加。 https://www.data.jma.go.jp/stats/etrn/",
+        "evidence_artifacts": [
+          "jma_terms"
+        ],
+        "license": "公共データ利用規約 第1.0版（気象庁の適用条件付き）",
+        "license_url": "https://www.jma.go.jp/jma/kishou/info/coment.html",
+        "pilot_collection_allowed": true,
+        "review_note": "Official past observed numerical weather table under site terms; no third-party credited content in target table. Preserve original HTML, units, cell text/classes/symbols. Not stadium observations.",
+        "source_ids": [
+          "S075"
+        ]
+      },
+      "sha256": "a68855f79e086e2ea95577cce6488dbeb9724c71e12df11a1561f981fdeea11c",
+      "upstream_version": "station 47662, 2024-03-29 JST, hourly",
+      "url": "https://www.data.jma.go.jp/stats/etrn/view/hourly_s1.php?prec_no=44&block_no=47662&year=2024&month=3&day=29&view="
+    },
+    {
+      "bytes": 5718,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"37338e514af11ebe7536b156e623ff41c64df1f863a663cc6f8760340db02828\"",
+      "final_url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/boards/2026-npb-draft-board.csv",
+      "http_status": 200,
+      "id": "jpl_draft_2026",
+      "last_modified": null,
+      "max_bytes": 500000,
+      "purpose": "data",
+      "request_fingerprint": "02d8b46e4edd45f8672509574b4f16536c6916f09dd484a55b0c6985727b546e",
+      "retrieved_at": "2026-10-21T11:29:59.951750+00:00",
+      "rights": "jpl",
+      "rights_snapshot": {
+        "attribution": "Japan Prospect Lab — https://japanprospectlab.substack.com ; https://github.com/japanprospectlab/data . CC BY 4.0. Changes: CSV parsed to JSON/SQLite; no grades recalculated.",
+        "evidence_artifacts": [
+          "jpl_license",
+          "jpl_methodology"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Publisher licensing statement covers its board. Secondary scouting/metadata only; upstream official statistics are not separately scraped. Notes and published measurements retained, no independent verification or name-based join.",
+        "source_ids": [
+          "S034"
+        ]
+      },
+      "sha256": "541a664e208558024761c261ef7c1428e9f54f256203f7f8160b150292a4f9a9",
+      "upstream_version": "cd0f9a0ec39db786fdad20815a0b5f91f8466b12",
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/boards/2026-npb-draft-board.csv"
+    },
+    {
+      "bytes": 1122,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"5c110df28e63ee99ac50973107efa5993beb4514ff584e61c6097fc2dd802048\"",
+      "final_url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/LICENSE",
+      "http_status": 200,
+      "id": "jpl_license",
+      "last_modified": null,
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "1e703dca3cc18def4a3a869e4af122436541547e4ac93b943351259cfcd757f5",
+      "retrieved_at": "2026-10-21T11:29:59.303733+00:00",
+      "rights": "jpl",
+      "rights_snapshot": {
+        "attribution": "Japan Prospect Lab — https://japanprospectlab.substack.com ; https://github.com/japanprospectlab/data . CC BY 4.0. Changes: CSV parsed to JSON/SQLite; no grades recalculated.",
+        "evidence_artifacts": [
+          "jpl_license",
+          "jpl_methodology"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Publisher licensing statement covers its board. Secondary scouting/metadata only; upstream official statistics are not separately scraped. Notes and published measurements retained, no independent verification or name-based join.",
+        "source_ids": [
+          "S034"
+        ]
+      },
+      "sha256": "9655f4ceec3ee34f37d88fe957454091f78b8f8dd3e94548b61d7cae9c70d638",
+      "upstream_version": "cd0f9a0ec39db786fdad20815a0b5f91f8466b12",
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/LICENSE"
+    },
+    {
+      "bytes": 6424,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"4884d1f4d15daa7ee01a61757bd1c8615167693b46d53f97e4ccaef98f6936ce\"",
+      "final_url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/METHODOLOGY.md",
+      "http_status": 200,
+      "id": "jpl_methodology",
+      "last_modified": null,
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "0fcc72e6dcb51068a08c5cd5af08dc09277bf8b06eb7d6a6e9b54c2b8818f562",
+      "retrieved_at": "2026-10-21T11:29:59.645047+00:00",
+      "rights": "jpl",
+      "rights_snapshot": {
+        "attribution": "Japan Prospect Lab — https://japanprospectlab.substack.com ; https://github.com/japanprospectlab/data . CC BY 4.0. Changes: CSV parsed to JSON/SQLite; no grades recalculated.",
+        "evidence_artifacts": [
+          "jpl_license",
+          "jpl_methodology"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Publisher licensing statement covers its board. Secondary scouting/metadata only; upstream official statistics are not separately scraped. Notes and published measurements retained, no independent verification or name-based join.",
+        "source_ids": [
+          "S034"
+        ]
+      },
+      "sha256": "8af8ab63f9bb0393f11a06dc895694c9b37d31813d326f6127f21889ed039bfb",
+      "upstream_version": "cd0f9a0ec39db786fdad20815a0b5f91f8466b12",
+      "url": "https://raw.githubusercontent.com/japanprospectlab/data/cd0f9a0ec39db786fdad20815a0b5f91f8466b12/METHODOLOGY.md"
+    },
+    {
+      "bytes": 4257746,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"52c68bd93d12dd55046b0b781d8b3b26656e20e031a34b71bee0c8ed680ac4ae\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-0.csv",
+      "http_status": 200,
+      "id": "register_0",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "aab5546c154d4812645535134c4909243a79fb09e84261c7e58d1fba0231bfeb",
+      "retrieved_at": "2026-10-21T11:30:18.338614+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "d825dc9ad301f8f9e6dc4338f0153dcb60d9953e80b92ab737d7020a68cbe1d2",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-0.csv"
+    },
+    {
+      "bytes": 4264399,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"d71ac820d595c43f6e429694f890d79a3dba65c2fea06560efa172b291259164\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-1.csv",
+      "http_status": 200,
+      "id": "register_1",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "f323fb503d04b0c879ad13c4d1368b888d87cac87c5e9b232938eb5b26927ac8",
+      "retrieved_at": "2026-10-21T11:30:18.603286+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "1c55cbbbf8ef252af41687485525db0d52dcb50b6ffad83d2afabf34a590415d",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-1.csv"
+    },
+    {
+      "bytes": 4228679,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"99aacaeaa75126e59c2ba755c3c4a420ff8b9849c0460ed27785d67b8edfb6ab\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-2.csv",
+      "http_status": 200,
+      "id": "register_2",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "f38156886def9ac444c2837f28c9276606e76c0d846307d7fafd6769723cd1f9",
+      "retrieved_at": "2026-10-21T11:30:19.004472+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "8cd2cfc50090f4ccc16aaab591133841c783f5514d17e21704311a9b7c246e8c",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-2.csv"
+    },
+    {
+      "bytes": 4260677,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"c7f7f5b4f1cf0d624640be18e5f4e2b00f0ba5f252e59f51210ac1cb7b8c504d\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-3.csv",
+      "http_status": 200,
+      "id": "register_3",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "8da43bfd45cf5f62d1989136074a1aa8f7e3ead528698bae5065278af42df065",
+      "retrieved_at": "2026-10-21T11:30:19.372360+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "4f04d2d720268c779826f1019307e8da57a41732e5eee75ee2fa6a2f758dc104",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-3.csv"
+    },
+    {
+      "bytes": 4254461,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"efcd9b87e6942b3db3d60646125f15f9ce0dab28be2667a3ab499ab72d1eff61\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-4.csv",
+      "http_status": 200,
+      "id": "register_4",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "dbdd4cabfa1883df0044f4851ea720d89a52f183b21d117b986b0542897a1630",
+      "retrieved_at": "2026-10-21T11:30:19.898809+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "a7b1513083a196448fcc29f630f08bac0df840ecab016a6fe3f20798cb3bcefb",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-4.csv"
+    },
+    {
+      "bytes": 4260872,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"a326f629766337f15f1811550292047355790ba78b53c99456d0561dd9c3d8fd\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-5.csv",
+      "http_status": 200,
+      "id": "register_5",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "3cf429613da7e86ce57e39e42dd0be7c288a0b2c4dafe3f9c84cd72108ee4cc0",
+      "retrieved_at": "2026-10-21T11:30:20.203341+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "8c2a114c819f082c2ce2f00eb6e7d00747c18503603a1a194dbb6204070623a2",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-5.csv"
+    },
+    {
+      "bytes": 4234752,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"aea6fd36b03a731960d0a851dfd097995c6681f8e33b6e8f096649846f218e12\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-6.csv",
+      "http_status": 200,
+      "id": "register_6",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "649f3b8d52c8e73b4c223164af155e4a823e46243a16ce03b93041dc027d3d52",
+      "retrieved_at": "2026-10-21T11:30:20.842117+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "147e139cd39fb8532d3d4664f9a541d27e2a76cab5d700cd178d4c4c63ab577a",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-6.csv"
+    },
+    {
+      "bytes": 4264989,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"04b0ba1896950b8ba2a6df1b66c068c71c7a175080d9f65f7d3f567e5a03aec9\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-7.csv",
+      "http_status": 200,
+      "id": "register_7",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "4a524bc77e2a60fef1ff02ac795d2b1fc39c1f4ac13a82eca2a7fb64c4104b6f",
+      "retrieved_at": "2026-10-21T11:30:21.032493+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "b627671de7f2185f06934de980085feb708987598baa8ba7539a1c34400779ce",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-7.csv"
+    },
+    {
+      "bytes": 4220617,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"1449572a83143d35343616f70bd56f1284e7207a2e2dcc12fd419eca4c927dd0\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-8.csv",
+      "http_status": 200,
+      "id": "register_8",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "e6e0040bfe0be0819af652f4f297fb1156ad5882be0d6fd01eb3bacd89f34dd5",
+      "retrieved_at": "2026-10-21T11:30:21.422675+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "5fc519b9f9152f83082b3ff086745df102af4df8c52f2525bdc21c9884e7d12d",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-8.csv"
+    },
+    {
+      "bytes": 4242599,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"8cbc6fbef26980fc56b1dcd9dcef3b31d020f109ff410d0456dc52c8e5f9d32b\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-9.csv",
+      "http_status": 200,
+      "id": "register_9",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "5c0b8df1c6cd0415fb0ca3aa7880e82e2388a6fb3bcf7168a3a09bf31132d101",
+      "retrieved_at": "2026-10-21T11:30:22.051317+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "0d7e872eaaada86393d55d8a71f9e22f710078165f3605c5025932da43066623",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-9.csv"
+    },
+    {
+      "bytes": 4305511,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"8f7bb3765f3ee7bda9b7f99af00daa37f25e5fc53518d894aa29d6ac1783f320\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-a.csv",
+      "http_status": 200,
+      "id": "register_a",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "b997d8e08306178c0154296cc76055d4f96c69ee96af80d51fe5119e08a5cc0f",
+      "retrieved_at": "2026-10-21T11:30:22.368167+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "acf5f83a0c1224c482aec3e295a8e8815da7606a7eab1551db279af3d7916e7a",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-a.csv"
+    },
+    {
+      "bytes": 4271053,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"70a43f5726d9579d28961f93f26dca18f9249ede3c9f37e6e65ee9a2431bac8f\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-b.csv",
+      "http_status": 200,
+      "id": "register_b",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "a52cfdc703e5be5e87d9a9991f3953faa791fabfa48e4c0bfcb42cb0f85747ee",
+      "retrieved_at": "2026-10-21T11:30:22.741659+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "3865907858bb96a911b3de94d5885451ea57315b0159847d8365b1bacc69a3c3",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-b.csv"
+    },
+    {
+      "bytes": 4252290,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"ce0d6c6a25be8d9af2b695dc1e0f64e56b8710891c606492d9a80f65016c7159\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-c.csv",
+      "http_status": 200,
+      "id": "register_c",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "ab73b17acefb94fc437f06d9df1761381f1e8fbac7c68f3e8335d0dd6de55f94",
+      "retrieved_at": "2026-10-21T11:30:23.018503+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "7ba78a859d5bd57622eb16538f71c1d558aca34da2d41d6555df9801222bbd7f",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-c.csv"
+    },
+    {
+      "bytes": 4280813,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"61475e767a4d285e06c52054f0c0d32cc95c746146835a0f7a3c786c29982da3\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-d.csv",
+      "http_status": 200,
+      "id": "register_d",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "ed9245cdad89a22d7844cfdc154d7f8c393cce825551750622af6a7321a36654",
+      "retrieved_at": "2026-10-21T11:30:23.589708+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "eb2395d69c03c0b1850f17ad904f37a8c31440467d5929aa3e4f8ab4f65203ef",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-d.csv"
+    },
+    {
+      "bytes": 4250065,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"702e296b48d195b576bde0861ebc25937696e5ab781782b27742fc0965db2cce\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-e.csv",
+      "http_status": 200,
+      "id": "register_e",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "ee0048b5c257d90e62eeacb579aee6478543afc0c940ad8f9e3851408d468eb7",
+      "retrieved_at": "2026-10-21T11:30:23.859835+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "81926371966427488d066a724fbeec7903d56eff40112f84ee9f84cdbbc6a1ee",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-e.csv"
+    },
+    {
+      "bytes": 4319123,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"8c4455eb9cf33b22673b1950ada38a3643252380cce7198dbc42536a2e8c6031\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-f.csv",
+      "http_status": 200,
+      "id": "register_f",
+      "last_modified": null,
+      "max_bytes": 5500000,
+      "purpose": "data",
+      "request_fingerprint": "cf71ca3b9e5cf40e63852f9b9e9ed7086f0240460b33ffa1252045897dfc3c97",
+      "retrieved_at": "2026-10-21T11:30:24.247925+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "006a2acab5be8bdea08daa149cea1b12a9eddd5dfe0a66e6bf9c6a36b2cb5980",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/data/people-f.csv"
+    },
+    {
+      "bytes": 8058,
+      "content_type": "text/plain; charset=utf-8",
+      "etag": "\"e5e993fcebdc1577cf3d6bae16cc740400d60d5b0d2c7af7a298a9ccc4158a9e\"",
+      "final_url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/README.md",
+      "http_status": 200,
+      "id": "register_readme",
+      "last_modified": null,
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "5d9ced6269bca8d1466ae3b01402611fea7553bd755753cdd98851bd69ac19ef",
+      "retrieved_at": "2026-10-21T11:29:50.248916+00:00",
+      "rights": "chadwick",
+      "rights_snapshot": {
+        "attribution": "Contains information from the Chadwick Baseball Bureau Persons Register, https://github.com/chadwickbureau/register, made available under the Open Data Commons Attribution License v1.0.",
+        "evidence_artifacts": [
+          "register_readme"
+        ],
+        "license": "ODC-By-1.0",
+        "license_url": "https://opendatacommons.org/licenses/by/1-0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Pin commit. Full 16-shard identity reference is scanned; retain only sample game identities and 100 NPB-ID examples in normalized tables. No matching on names.",
+        "source_ids": [
+          "S021"
+        ]
+      },
+      "sha256": "74bbe60a72b17ea709ef97fc7f191e717f4d28174cdeccbb9f429e133fb8c434",
+      "upstream_version": "781c175e748b89e5730fd3f5de0086b9355b2f92",
+      "url": "https://raw.githubusercontent.com/chadwickbureau/register/781c175e748b89e5730fd3f5de0086b9355b2f92/README.md"
+    },
+    {
+      "bytes": 22302,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "final_url": "https://www.retrosheet.org/downloads/csvdownloads.html",
+      "http_status": 200,
+      "id": "retro_csv_docs",
+      "last_modified": null,
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "8c3f7a265ca555844a877cc2a93ec1678eee7da3e8fbb06c4eb9417133dbbf11",
+      "retrieved_at": "2026-10-21T11:29:33.301392+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "1417ef511d08d702ba0d250ffc7e6bc8833d8456c24631e68aed963a999aa0b6",
+      "url": "https://www.retrosheet.org/downloads/csvdownloads.html"
+    },
+    {
+      "bytes": 6559,
+      "content_type": "text/plain; charset=UTF-8",
+      "etag": "\"199f-51961e557ee4f\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/glfields.txt",
+      "http_status": 200,
+      "id": "retro_gamelog_docs",
+      "last_modified": "Fri, 26 Jun 2015 01:45:33 GMT",
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "4f84eccca3d939a6e482cbadc0b973368ab79aa0e4df69f5e3df7a91ad09bc30",
+      "retrieved_at": "2026-10-21T11:29:37.207206+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "399aea2c74af36da766bb38c97455c641730eb37d53c9d4948c5929931f9cc98",
+      "url": "https://www.retrosheet.org/gamelogs/glfields.txt"
+    },
+    {
+      "bytes": 381623,
+      "content_type": "application/zip",
+      "etag": "\"5d2b7-6589f4893d083\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl1996.zip",
+      "http_status": 200,
+      "id": "retro_gl_1996",
+      "last_modified": "Sun, 09 Aug 2026 15:56:40 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "9b3d11aab5c6025f48e665496f308b36938a3e8709657daccb8e4e7cc50eb6e0",
+      "retrieved_at": "2026-10-21T14:27:00.466489+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Reuse official Game Logs from five reference years with original Notices attribution. No historical event replay or inferred tracking.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "1fb7c0f718286e0dbe884635cb14d0e48e8a4f66735c5a7e75c564cb5359d2aa",
+      "upstream_version": "1996 official Game Logs; first acquisition SHA256 locked",
+      "url": "https://www.retrosheet.org/gamelogs/gl1996.zip"
+    },
+    {
+      "bytes": 422862,
+      "content_type": "application/zip",
+      "etag": "\"673ce-6589f48cd1888\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl2006.zip",
+      "http_status": 200,
+      "id": "retro_gl_2006",
+      "last_modified": "Sun, 09 Aug 2026 15:56:44 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "4e91f8045caf53977214654e7aeb1f98addd2a265b360b39445046a86dee73e6",
+      "retrieved_at": "2026-10-21T14:27:08.727417+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Reuse official Game Logs from five reference years with original Notices attribution. No historical event replay or inferred tracking.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "b4da78fc5ad9ce52475fbfe891f1a2e1489cc9b4bcc8299ef18d368d5daa30ad",
+      "upstream_version": "2006 official Game Logs; first acquisition SHA256 locked",
+      "url": "https://www.retrosheet.org/gamelogs/gl2006.zip"
+    },
+    {
+      "bytes": 451072,
+      "content_type": "application/zip",
+      "etag": "\"6e200-6589f465467c9\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl2016.zip",
+      "http_status": 200,
+      "id": "retro_gl_2016",
+      "last_modified": "Sun, 09 Aug 2026 15:56:03 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "6ed73be65c50ad44461c069e2f662393cf1ba02b14773b1cc21f042b58253f6e",
+      "retrieved_at": "2026-10-21T14:27:16.606279+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Reuse official Game Logs from five reference years with original Notices attribution. No historical event replay or inferred tracking.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "c447193bc9d0084c95e1d3f3b5b8e68770b4e69f370082d29c58649e4f151819",
+      "upstream_version": "2016 official Game Logs; first acquisition SHA256 locked",
+      "url": "https://www.retrosheet.org/gamelogs/gl2016.zip"
+    },
+    {
+      "bytes": 465409,
+      "content_type": "application/zip",
+      "etag": "\"71a01-6589f4662e6b2\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl2019.zip",
+      "http_status": 200,
+      "id": "retro_gl_2019",
+      "last_modified": "Sun, 09 Aug 2026 15:56:04 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "256e9a487bd789638fae14673183789522b3ca07b7d6768da7ec82e2935177d9",
+      "retrieved_at": "2026-10-21T14:27:16.839775+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Reuse official Game Logs from five reference years with original Notices attribution. No historical event replay or inferred tracking.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "af624738230530f2f59e141c84cb31a97c2298727301e4be8308266f6e49d229",
+      "upstream_version": "2019 official Game Logs; first acquisition SHA256 locked",
+      "url": "https://www.retrosheet.org/gamelogs/gl2019.zip"
+    },
+    {
+      "bytes": 475414,
+      "content_type": "application/zip",
+      "etag": "\"74116-6589f4678761b\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl2022.zip",
+      "http_status": 200,
+      "id": "retro_gl_2022",
+      "last_modified": "Sun, 09 Aug 2026 15:56:05 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "13eb5b64c2fe5b45f9e1d58b31833c165fa313d002f9fe9e53e98f0805057ca6",
+      "retrieved_at": "2026-10-21T14:27:20.920778+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Reuse official Game Logs from five reference years with original Notices attribution. No historical event replay or inferred tracking.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "c1d5416ed28b172c70fb88e8afdfbccfddddd204d9dcb8e326c4052b3d2d7aa2",
+      "upstream_version": "2022 official Game Logs; first acquisition SHA256 locked",
+      "url": "https://www.retrosheet.org/gamelogs/gl2022.zip"
+    },
+    {
+      "bytes": 473397,
+      "content_type": "application/zip",
+      "etag": "\"73935-6589f467acbd6\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl2023.zip",
+      "http_status": 200,
+      "id": "retro_gl_2023",
+      "last_modified": "Sun, 09 Aug 2026 15:56:05 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "ca52ce1a8da1860fad4694d44785e09b5fe4ca7676f35a5ecdff1fcb2666b68b",
+      "retrieved_at": "2026-10-21T11:49:18.017847+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "c1461a3ed965c428406f288201b7021fcf051e5b43cca9143c8f1f0b78c072e1",
+      "upstream_version": "2023 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/gamelogs/gl2023.zip"
+    },
+    {
+      "bytes": 465881,
+      "content_type": "application/zip",
+      "etag": "\"71bd9-6589f46820783\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl2024.zip",
+      "http_status": 200,
+      "id": "retro_gl_2024",
+      "last_modified": "Sun, 09 Aug 2026 15:56:06 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "9f0e2d4c7ce851eb89e1694af0000bd4bbeb5500ae99309c1536f7236f48c3d7",
+      "retrieved_at": "2026-10-21T11:29:44.649859+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "3089e0a895e70a6fd244d31fe822bc4d856d0987458e86b5acc5df1aa297d250",
+      "upstream_version": "2024 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/gamelogs/gl2024.zip"
+    },
+    {
+      "bytes": 466269,
+      "content_type": "application/zip",
+      "etag": "\"71d5d-6589f46845145\"",
+      "final_url": "https://www.retrosheet.org/gamelogs/gl2025.zip",
+      "http_status": 200,
+      "id": "retro_gl_2025",
+      "last_modified": "Sun, 09 Aug 2026 15:56:06 GMT",
+      "max_bytes": 2000000,
+      "purpose": "data",
+      "request_fingerprint": "ca3917bb64f91d76283669bb4dbbb5aa16c9d97a3f43f3f0c52491532b46f782",
+      "retrieved_at": "2026-10-21T11:49:22.762311+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "f8a36120bc5f6925ffc914f964167f745e61a3421be9318e2ee24a576392693a",
+      "upstream_version": "2025 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/gamelogs/gl2025.zip"
+    },
+    {
+      "bytes": 971,
+      "content_type": "text/plain; charset=UTF-8",
+      "etag": "\"3cb-60b9364e9fae2\"",
+      "final_url": "https://www.retrosheet.org/notice.txt",
+      "http_status": 200,
+      "id": "retro_notice",
+      "last_modified": "Sun, 03 Dec 2023 04:25:41 GMT",
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "63c6fa23a1cd6e1bb77db3dc9ee0964bfab3bdb0db7e149ea2dc8af8e96f28b1",
+      "retrieved_at": "2026-10-21T11:29:25.747223+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "2218abe680e21d3308de06352c394baefbffc7618d36a821d38ed6e97c24105d",
+      "url": "https://www.retrosheet.org/notice.txt"
+    },
+    {
+      "bytes": 20707,
+      "content_type": "text/plain; charset=UTF-8",
+      "etag": "\"50e3-5e02bb4950b04\"",
+      "final_url": "https://www.retrosheet.org/parkcode.txt",
+      "http_status": 200,
+      "id": "retro_park_codes",
+      "last_modified": "Sun, 29 May 2022 19:40:01 GMT",
+      "max_bytes": 500000,
+      "purpose": "data",
+      "request_fingerprint": "b15a2a4a6f4b155cbb55850ec2ae6a3c19e769cf8f61bdec5d5960785a8fa7e4",
+      "retrieved_at": "2026-10-21T11:46:55.782202+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "684054aba6f8e5e38331b61905eeef2e5df0ea201a3453538012db4afa64bc9f",
+      "url": "https://www.retrosheet.org/parkcode.txt"
+    },
+    {
+      "bytes": 28758,
+      "content_type": "text/html; charset=UTF-8",
+      "etag": null,
+      "final_url": "https://www.retrosheet.org/downloads/plays.html",
+      "http_status": 200,
+      "id": "retro_play_docs",
+      "last_modified": null,
+      "max_bytes": 500000,
+      "purpose": "evidence",
+      "request_fingerprint": "d59f0f8ec76b468634d12d711a0e09444db923d8fa194cf1ce6ea5519dace929",
+      "retrieved_at": "2026-10-21T11:29:40.739959+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "6f04119df235a743bca8043c9b834165a374ed0d364a49a855e002c8fedd8b10",
+      "url": "https://www.retrosheet.org/downloads/plays.html"
+    },
+    {
+      "bytes": 7498178,
+      "content_type": "application/zip",
+      "etag": "\"7269c2-658a04015d479\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2023plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2023",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "b00170cde17f3d396d09f940bc98f9fad973d494686479bc78fccf96bbc51e6e",
+      "retrieved_at": "2026-10-21T11:49:19.150975+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+      "upstream_version": "2023 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2023plays.zip"
+    },
+    {
+      "bytes": 7446849,
+      "content_type": "application/zip",
+      "etag": "\"71a141-658a04019dbc5\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2024plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2024",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "d517018296cec373befb1733e952e14a77959691700989319a35ef851355d396",
+      "retrieved_at": "2026-10-21T11:29:49.774265+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+      "upstream_version": "2024 official parsed plays; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2024plays.zip"
+    },
+    {
+      "bytes": 7496795,
+      "content_type": "application/zip",
+      "etag": "\"72645b-658a0402ae323\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2025plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2025",
+      "last_modified": "Sun, 09 Aug 2026 17:05:54 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "3692ecb325bc771d7a5e455004286424dbd83acd5fab1367d5a1afa03d90b426",
+      "retrieved_at": "2026-10-21T11:49:28.485418+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "ea7f4be3464825b332ed6f8c19e15310858458ea9eddf3e91a954e5b47f69d73",
+      "upstream_version": "2025 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2025plays.zip"
+    },
+    {
+      "bytes": 344260,
+      "content_type": "application/octet-stream,application/octet-stream",
+      "etag": null,
+      "expected_md5": "1559b1813aeee5d1a042ec95c3c6a16f",
+      "final_url": "https://zenodo.org/api/records/16050919/files/55%202025-07-28%20Murdock%20Thesis%20FINAL.pdf/content",
+      "http_status": 200,
+      "id": "zenodo_16050919_data",
+      "last_modified": null,
+      "max_bytes": 2000000,
+      "original_filename": "55 2025-07-28 Murdock Thesis FINAL.pdf",
+      "purpose": "data",
+      "request_fingerprint": "7d37638dcd41cbb3f867c41b6b5ed178de612e6e5b77cc68c626902ed43d5f1f",
+      "retrieved_at": "2026-10-21T14:17:32.874252+00:00",
+      "rights": "zenodo_16050919",
+      "rights_snapshot": {
+        "attribution": "Murdock, Alanna. COMPARISON OF BIOMECHANICAL PARAMETERS AND IN-SPORT ANALYTICS IN BASEBALL HITTERS. 10.5281/zenodo.16050919. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+        "evidence_artifacts": [
+          "zenodo_16050919_metadata"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream.",
+        "source_ids": [
+          "S108",
+          "zenodo_16050919"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "f78c471e84d83658b9c61f1e7cfd7ceef0af722d62d314a3c1fa4ffa4b83aa46",
+      "upstream_version": "10.5281/zenodo.16050919",
+      "url": "https://zenodo.org/api/records/16050919/files/55%202025-07-28%20Murdock%20Thesis%20FINAL.pdf/content"
+    },
+    {
+      "bytes": 6448,
+      "content_type": "application/json",
+      "etag": "\"6\"",
+      "final_url": "https://zenodo.org/api/records/16050919",
+      "http_status": 200,
+      "id": "zenodo_16050919_metadata",
+      "last_modified": null,
+      "max_bytes": 200000,
+      "purpose": "evidence",
+      "request_fingerprint": "8e73b063cbb750616f63f646363b2dc409c1b0fe60dd71965c903a8bdf4cb5ac",
+      "retrieved_at": "2026-10-21T14:17:29.827058+00:00",
+      "rights": "zenodo_16050919",
+      "rights_snapshot": {
+        "attribution": "Murdock, Alanna. COMPARISON OF BIOMECHANICAL PARAMETERS AND IN-SPORT ANALYTICS IN BASEBALL HITTERS. 10.5281/zenodo.16050919. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+        "evidence_artifacts": [
+          "zenodo_16050919_metadata"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream.",
+        "source_ids": [
+          "S108",
+          "zenodo_16050919"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "2f5ca2eef6e510adc9ce15d2be3f6db83ab0bc39a880db14a75ff3f858e2fc7b",
+      "url": "https://zenodo.org/api/records/16050919"
+    },
+    {
+      "bytes": 40128,
+      "content_type": "application/octet-stream,application/octet-stream",
+      "etag": null,
+      "expected_md5": "a3625e2adb3f6c5b044323ba64f8d7c4",
+      "final_url": "https://zenodo.org/api/records/17502529/files/Tables%20(Wada%20et%20al.).docx/content",
+      "http_status": 200,
+      "id": "zenodo_17502529_data",
+      "last_modified": null,
+      "max_bytes": 2000000,
+      "original_filename": "Tables (Wada et al.).docx",
+      "purpose": "data",
+      "request_fingerprint": "92e36f9887755fd9f2d53e8ddc5933fd39cb591d3b1f84a68537a8f37cf62d9b",
+      "retrieved_at": "2026-10-21T14:17:28.977384+00:00",
+      "rights": "zenodo_17502529",
+      "rights_snapshot": {
+        "attribution": "Wada, Naoki. Inter-pitcher and Intra-pitcher Comparisons on the Relationship between Trunk Kinematics and Ball Speed in Collegiate Baseball Pitchers. 10.5281/zenodo.17502529. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+        "evidence_artifacts": [
+          "zenodo_17502529_metadata"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream.",
+        "source_ids": [
+          "S108",
+          "zenodo_17502529"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "5006f890b68dfd722be8087b2efcf81ab356607c7e8ec2caec45220d98e31c8d",
+      "upstream_version": "10.5281/zenodo.17502529",
+      "url": "https://zenodo.org/api/records/17502529/files/Tables%20(Wada%20et%20al.).docx/content"
+    },
+    {
+      "bytes": 4051,
+      "content_type": "application/json",
+      "etag": "\"4\"",
+      "final_url": "https://zenodo.org/api/records/17502529",
+      "http_status": 200,
+      "id": "zenodo_17502529_metadata",
+      "last_modified": null,
+      "max_bytes": 200000,
+      "purpose": "evidence",
+      "request_fingerprint": "e625c8f788db6dc3c6514638b7ce3c734c794b5e8ffbf73f48760388367c61d1",
+      "retrieved_at": "2026-10-21T14:17:27.847837+00:00",
+      "rights": "zenodo_17502529",
+      "rights_snapshot": {
+        "attribution": "Wada, Naoki. Inter-pitcher and Intra-pitcher Comparisons on the Relationship between Trunk Kinematics and Ball Speed in Collegiate Baseball Pitchers. 10.5281/zenodo.17502529. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+        "evidence_artifacts": [
+          "zenodo_17502529_metadata"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream.",
+        "source_ids": [
+          "S108",
+          "zenodo_17502529"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "bf2a5f74220cb7385b73a383f16832ff3c5beefcf3a18d33a60475bbc8a4baa8",
+      "url": "https://zenodo.org/api/records/17502529"
+    },
+    {
+      "bytes": 3105,
+      "content_type": "text/plain; charset=utf-8,text/plain; charset=utf-8",
+      "etag": null,
+      "expected_md5": "1e4d8cba4a643ab081d7f1007d8e4f5d",
+      "final_url": "https://zenodo.org/api/records/5796004/files/baseball__Dataset.csv/content",
+      "http_status": 200,
+      "id": "zenodo_5796004_data",
+      "last_modified": null,
+      "max_bytes": 2000000,
+      "original_filename": "baseball__Dataset.csv",
+      "purpose": "data",
+      "request_fingerprint": "df7d5bfd4cf2430060c1d40cc05ab491042fab9c372fade3cd9fd29ebb634194",
+      "retrieved_at": "2026-10-21T14:17:23.118009+00:00",
+      "rights": "zenodo_5796004",
+      "rights_snapshot": {
+        "attribution": "JyhHow Huang. Adult male baseball pitchers anthropometric measurements and pitching velocity in tryout settings. 10.5281/zenodo.5796004. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+        "evidence_artifacts": [
+          "zenodo_5796004_metadata"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream.",
+        "source_ids": [
+          "S108",
+          "zenodo_5796004"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "bd478bad3c5d2e62b3f86727dec26564e2c9304a8476f1ab323dc585bf494ad1",
+      "upstream_version": "10.5281/zenodo.5796004",
+      "url": "https://zenodo.org/api/records/5796004/files/baseball__Dataset.csv/content"
+    },
+    {
+      "bytes": 4351,
+      "content_type": "application/json",
+      "etag": "\"2\"",
+      "final_url": "https://zenodo.org/api/records/5796004",
+      "http_status": 200,
+      "id": "zenodo_5796004_metadata",
+      "last_modified": null,
+      "max_bytes": 200000,
+      "purpose": "evidence",
+      "request_fingerprint": "39411fb0a2346eecef9d4540e8d7e509ad6ea0c3ced955724d020f8f33d22103",
+      "retrieved_at": "2026-10-21T14:17:14.722986+00:00",
+      "rights": "zenodo_5796004",
+      "rights_snapshot": {
+        "attribution": "JyhHow Huang. Adult male baseball pitchers anthropometric measurements and pitching velocity in tryout settings. 10.5281/zenodo.5796004. CC BY 4.0. Changes: typed extraction and explicit unit conversion only.",
+        "evidence_artifacts": [
+          "zenodo_5796004_metadata"
+        ],
+        "license": "CC-BY-4.0",
+        "license_url": "https://creativecommons.org/licenses/by/4.0/",
+        "pilot_collection_allowed": true,
+        "review_note": "Open record with explicit CC BY 4.0. Distinct research cohort; not a professional-game tracking stream.",
+        "source_ids": [
+          "S108",
+          "zenodo_5796004"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "820e7109082583c59b75f56f7a97089207a405884b5e3de202c41c2cdefc2920",
+      "url": "https://zenodo.org/api/records/5796004"
+    }
+  ]
+}
