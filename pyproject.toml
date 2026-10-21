@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "baseball-simulation-lab"
+version = "0.1.0"
+description = "Reproducible fictional baseball experiments, with a replaceable pitch model"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0,<3", "pandas>=2.2,<3", "streamlit>=1.41,<2"]
+
+[project.optional-dependencies]
+test = ["pytest>=8,<10"]
+
+[tool.setuptools.packages.find]
+include = ["baseball_simulation_lab*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

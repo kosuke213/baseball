@@ -1,0 +1,8 @@
+{
+  "version": "phase1-rules-1",
+  "max_innings": 12,
+  "extra_runner": false,
+  "starter_pitch_limit": 90,
+  "reliever_pitch_limit": 35,
+  "max_pitches": 5000
+}

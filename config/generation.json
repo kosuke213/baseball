@@ -1,0 +1,7 @@
+{
+  "minimum_age": 18,
+  "maximum_age": 38,
+  "athletic_sd": 0.6,
+  "skill_sd": 0.6,
+  "velocity_mean_kmh": 145.0
+}

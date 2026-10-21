@@ -1,0 +1,120 @@
+{
+  "games": 1000,
+  "mean_runs_per_team_game": 4.5025,
+  "batting_average": 0.30093747892358536,
+  "on_base_percentage": 0.3555393567995651,
+  "slugging_percentage": 0.47980036420044514,
+  "strikeout_rate": 0.20398077564585676,
+  "walk_rate": 0.07989967753493371,
+  "home_run_rate": 0.031517562608878294,
+  "mean_pitches_per_game": 266.161,
+  "mean_pitches_per_pitcher_appearance": 51.481818181818184,
+  "home_win_rate_all_games": 0.503,
+  "home_win_rate_decisive_games": 0.5137895812053116,
+  "draws": 21,
+  "extra_innings_rate": 0.093,
+  "mean_runs_per_played_team_half_by_inning": {
+    "1": 0.4975,
+    "2": 0.4905,
+    "3": 0.551,
+    "4": 0.5295,
+    "5": 0.586,
+    "6": 0.485,
+    "7": 0.4925,
+    "8": 0.452,
+    "9": 0.4412878787878788,
+    "10": 0.3978494623655914,
+    "11": 0.4807692307692308,
+    "12": 0.23333333333333334
+  },
+  "total_score_histogram": {
+    "0": 2,
+    "1": 18,
+    "2": 25,
+    "3": 61,
+    "4": 36,
+    "5": 87,
+    "6": 73,
+    "7": 119,
+    "8": 83,
+    "9": 84,
+    "10": 80,
+    "11": 79,
+    "12": 50,
+    "13": 54,
+    "14": 34,
+    "15": 24,
+    "16": 22,
+    "17": 21,
+    "18": 10,
+    "19": 13,
+    "20": 9,
+    "21": 8,
+    "22": 3,
+    "23": 1,
+    "24": 2,
+    "27": 1,
+    "29": 1
+  },
+  "total_score_quantiles": {
+    "0": 0.0,
+    "0.25": 6.0,
+    "0.5": 8.0,
+    "0.75": 12.0,
+    "0.95": 17.0,
+    "1": 29.0
+  },
+  "estimated_duration_minutes": null,
+  "reference_data": null,
+  "calibrated": false,
+  "elapsed_seconds": 45.646173482999984,
+  "world_seed": 2026,
+  "first_game_seed": 42,
+  "newly_saved_games": 0,
+  "summary_only": true,
+  "carry_fatigue": false,
+  "model": {
+    "version": "hypothesis-pitch-1",
+    "settings": {
+      "home_run_scale": 1,
+      "fatigue_scale": 1.0
+    },
+    "calibrated": false
+  },
+  "rules": {
+    "version": "phase1-rules-1",
+    "max_innings": 12,
+    "extra_runner": false,
+    "starter_pitch_limit": 90,
+    "reliever_pitch_limit": 35,
+    "max_pitches": 5000
+  },
+  "environment": {
+    "park": {
+      "park_id": "bay",
+      "name": "蒼波実験球場",
+      "left_m": 100,
+      "center_m": 122,
+      "right_m": 100,
+      "fence_m": 3.0,
+      "indoor": false,
+      "home_run_factor": 1.0
+    },
+    "weather": {
+      "temperature_c": 20,
+      "wind_m_s": 0,
+      "wind_direction_deg": 0,
+      "humidity": 0.5,
+      "precipitation": "none"
+    }
+  },
+  "generation_settings": {
+    "minimum_age": 18,
+    "maximum_age": 38,
+    "athletic_sd": 0.6,
+    "skill_sd": 0.6,
+    "velocity_mean_kmh": 145.0
+  },
+  "numpy_version": "2.5.4",
+  "engine_version": "phase1-engine-1"
+}
