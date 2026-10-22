@@ -1,0 +1,749 @@
+{
+  "attempted_halves": 10000,
+  "seed": 726,
+  "failures": [
+    {
+      "trial": 743,
+      "step": 4,
+      "seed": 726,
+      "outcome": "runner_only_end",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          3,
+          0
+        ],
+        "bases": [
+          {
+            "player_id": "A1",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "A0",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          null
+        ],
+        "outs": 1,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          0,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "unresolved",
+      "new_reason": "no_training_route:runner_only_end",
+      "categories": [
+        2,
+        5
+      ],
+      "interpretation": "training has no ordinary-half terminal route; cannot import a 2025-only path or fabricate outs",
+      "source_counts": [
+        {
+          "season": 2025,
+          "transition_observed": 1,
+          "windows": 1
+        }
+      ],
+      "source_examples": [
+        {
+          "game_id": "retrosheet:game:MIL202507270",
+          "artifact_id": "retro_plays_2025",
+          "first_source_row": 123552,
+          "last_source_row": 123553,
+          "censor_reason": null
+        }
+      ]
+    },
+    {
+      "trial": 1013,
+      "step": 5,
+      "seed": 726,
+      "outcome": "runner_only_end",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          4,
+          0
+        ],
+        "bases": [
+          {
+            "player_id": "A2",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "A1",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          null
+        ],
+        "outs": 1,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          1,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "unresolved",
+      "new_reason": "no_training_route:runner_only_end",
+      "categories": [
+        2,
+        5
+      ],
+      "interpretation": "training has no ordinary-half terminal route; cannot import a 2025-only path or fabricate outs",
+      "source_counts": [
+        {
+          "season": 2025,
+          "transition_observed": 1,
+          "windows": 1
+        }
+      ],
+      "source_examples": [
+        {
+          "game_id": "retrosheet:game:MIL202507270",
+          "artifact_id": "retro_plays_2025",
+          "first_source_row": 123552,
+          "last_source_row": 123553,
+          "censor_reason": null
+        }
+      ]
+    },
+    {
+      "trial": 5779,
+      "step": 4,
+      "seed": 726,
+      "outcome": "fielders_choice",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          3,
+          0
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "B",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 2,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          0,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "resolved_under_explicit_assumption",
+      "route_sources": [
+        "assumption"
+      ],
+      "categories": [
+        5
+      ],
+      "interpretation": "declared deterministic FC fallback; not a newly observed route",
+      "source_counts": [],
+      "source_examples": []
+    },
+    {
+      "trial": 6542,
+      "step": 4,
+      "seed": 726,
+      "outcome": "runner_only_end",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          3,
+          0
+        ],
+        "bases": [
+          {
+            "player_id": "A1",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          null,
+          {
+            "player_id": "A0",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          0,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "unresolved",
+      "new_reason": "no_training_route:runner_only_end",
+      "categories": [
+        2,
+        5
+      ],
+      "interpretation": "training has no ordinary-half terminal route; cannot import a 2025-only path or fabricate outs",
+      "source_counts": [
+        {
+          "season": 2023,
+          "transition_observed": 0,
+          "windows": 1
+        },
+        {
+          "season": 2025,
+          "transition_observed": 0,
+          "windows": 1
+        }
+      ],
+      "source_examples": [
+        {
+          "game_id": "retrosheet:game:ANA202305050",
+          "artifact_id": "retro_plays_2023",
+          "first_source_row": 37257,
+          "last_source_row": 37257,
+          "censor_reason": "walkoff"
+        },
+        {
+          "game_id": "retrosheet:game:SDN202505260",
+          "artifact_id": "retro_plays_2025",
+          "first_source_row": 62851,
+          "last_source_row": 62851,
+          "censor_reason": "walkoff"
+        }
+      ]
+    },
+    {
+      "trial": 7224,
+      "step": 4,
+      "seed": 726,
+      "outcome": "fielders_choice",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          3,
+          0
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "B",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 2,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          0,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "resolved_under_explicit_assumption",
+      "route_sources": [
+        "assumption"
+      ],
+      "categories": [
+        5
+      ],
+      "interpretation": "declared deterministic FC fallback; not a newly observed route",
+      "source_counts": [],
+      "source_examples": []
+    },
+    {
+      "trial": 7364,
+      "step": 4,
+      "seed": 726,
+      "outcome": "runner_only_end",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          3,
+          0
+        ],
+        "bases": [
+          {
+            "player_id": "A1",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "A0",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          null
+        ],
+        "outs": 1,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          0,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "unresolved",
+      "new_reason": "no_training_route:runner_only_end",
+      "categories": [
+        2,
+        5
+      ],
+      "interpretation": "training has no ordinary-half terminal route; cannot import a 2025-only path or fabricate outs",
+      "source_counts": [
+        {
+          "season": 2025,
+          "transition_observed": 1,
+          "windows": 1
+        }
+      ],
+      "source_examples": [
+        {
+          "game_id": "retrosheet:game:MIL202507270",
+          "artifact_id": "retro_plays_2025",
+          "first_source_row": 123552,
+          "last_source_row": 123553,
+          "censor_reason": null
+        }
+      ]
+    },
+    {
+      "trial": 7488,
+      "step": 5,
+      "seed": 726,
+      "outcome": "runner_only_end",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          4,
+          0
+        ],
+        "bases": [
+          null,
+          {
+            "player_id": "A1",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "A0",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          1,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "unresolved",
+      "new_reason": "no_training_route:runner_only_end",
+      "categories": [
+        2,
+        5
+      ],
+      "interpretation": "training has no ordinary-half terminal route; cannot import a 2025-only path or fabricate outs",
+      "source_counts": [
+        {
+          "season": 2023,
+          "transition_observed": 0,
+          "windows": 1
+        }
+      ],
+      "source_examples": [
+        {
+          "game_id": "retrosheet:game:ANA202306260",
+          "artifact_id": "retro_plays_2023",
+          "first_source_row": 91817,
+          "last_source_row": 91817,
+          "censor_reason": "walkoff"
+        }
+      ]
+    },
+    {
+      "trial": 7969,
+      "step": 5,
+      "seed": 726,
+      "outcome": "runner_only_end",
+      "frame": {
+        "lineups": [
+          [
+            "B",
+            "A0",
+            "A1",
+            "A2",
+            "A3",
+            "A4",
+            "R1",
+            "R2",
+            "R3"
+          ],
+          [
+            "H0",
+            "H1",
+            "H2",
+            "H3",
+            "H4",
+            "H5",
+            "H6",
+            "H7",
+            "H8"
+          ]
+        ],
+        "pitchers": [
+          "AP",
+          "HP"
+        ],
+        "orders": [
+          4,
+          0
+        ],
+        "bases": [
+          {
+            "player_id": "A1",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          null,
+          {
+            "player_id": "A0",
+            "responsible_pitcher": "HP",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 1,
+        "half": 0,
+        "score": [
+          1,
+          0
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": []
+      },
+      "reason": "No supported empirical route; no silent resampling or guessed runner choice",
+      "old_model_version": "22cc8e577ad14b4c8804e88b",
+      "old_rules_version": "identity-rules-1",
+      "new_rules_version": "fullgame-rules-1",
+      "new_status": "unresolved",
+      "new_reason": "no_training_route:runner_only_end",
+      "categories": [
+        2,
+        5
+      ],
+      "interpretation": "training has no ordinary-half terminal route; cannot import a 2025-only path or fabricate outs",
+      "source_counts": [
+        {
+          "season": 2023,
+          "transition_observed": 0,
+          "windows": 1
+        },
+        {
+          "season": 2025,
+          "transition_observed": 0,
+          "windows": 1
+        }
+      ],
+      "source_examples": [
+        {
+          "game_id": "retrosheet:game:ANA202305050",
+          "artifact_id": "retro_plays_2023",
+          "first_source_row": 37257,
+          "last_source_row": 37257,
+          "censor_reason": "walkoff"
+        },
+        {
+          "game_id": "retrosheet:game:SDN202505260",
+          "artifact_id": "retro_plays_2025",
+          "first_source_row": 62851,
+          "last_source_row": 62851,
+          "censor_reason": "walkoff"
+        }
+      ]
+    }
+  ],
+  "resolved_assumption_only": 2,
+  "unresolved": 6,
+  "comparison_limit": "reproduces the old full RNG stream; new check fixes each sampled outcome and tests route availability, not identical new full-stream trials"
+}

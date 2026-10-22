@@ -118,6 +118,8 @@ Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sour
 
 第7段階では [確率校正の比較と選手ID付き遷移](docs/data-stage7/README.md) を実装しました。打者・走者・投手のID、得点者・アウト者を保持するAPIと、確率から独立したルール処理・記録再生を追加しています。校正だけによる精度改善は得られず、補正なしを維持しました。2025年は既知の参考期間として扱います。[加工DB・モデル・コード・評価一式](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage7-calibration-transition/data_sources/stage7/stage7_bundle.zip) と [第8段階への接続仕様](data_sources/stage7/STAGE8.md) があります。限定した検証モードで利用でき、未観測経路・公式記録等の制限から本番リーグへの完全統合は未完です。従来の一球モデルとは独立しています。
 
+第8段階では [独立した実験用フルゲームと保存・再生](docs/data-stage8/README.md) を実装しました。打席窓単位で9回制の試合を進め、延長・引き分け・自動走者を設定でき、選手別成績と変更しない試合履歴をSQLiteへ保存します。100→1,000→10,000試合の完走性、未対応による停止、成績の整合性を検証します。完全な公式記録・NPB本番リーグへの適合は未完です。[モデル・コード・評価・再生サンプルのZIP](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage8-game-engine/data_sources/stage8/stage8_bundle.zip)、[起動とAPI](data_sources/stage8/README.md)、[第9段階への接続](data_sources/stage8/STAGE9.md) を参照してください。
+
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。

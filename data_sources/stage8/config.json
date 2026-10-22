@@ -1,0 +1,15 @@
+{
+  "milestones": [100, 1000, 10000],
+  "strict_milestones": [100, 1000],
+  "seed_start": 8000,
+  "game_date": "2026-04-01",
+  "allow_assumptions": true,
+  "auto_relief_inning": 7,
+  "sample_histories": 10,
+  "rules": {
+    "max_innings": 12,
+    "allow_draw": true,
+    "automatic_runner_start": null,
+    "max_windows": 1500
+  }
+}

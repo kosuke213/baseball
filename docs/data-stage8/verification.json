@@ -1,0 +1,144 @@
+{
+  "checked_on": "2026-10-22 JST",
+  "snapshot_id": "1208b6dd526d5860bce4d00a",
+  "bundle_sha256": "d062ab9518ac100fb4741b5f00b88cebd2dc9365855612db023b8304d7892754",
+  "bundle_bytes": 6304347,
+  "checksum_lists_verified": {
+    "manifest.json": 90,
+    "snapshot.json": 91
+  },
+  "zip_crc_verified": true,
+  "all_extracted_files_equal_snapshot": true,
+  "standalone_python_no_site_packages": true,
+  "same_seed_same_game_and_stats": true,
+  "persisted_database_replays_with_models_hidden": {
+    "sample_history.sqlite3": 10,
+    "empirical_only/sample_history.sqlite3": 2,
+    "user_history.sqlite3": 1
+  },
+  "source_databases_sha256_unchanged": true,
+  "prior_stage_tracked_sources_unchanged": true,
+  "pytest": {
+    "passed": 187,
+    "previous": 145,
+    "new": 42
+  },
+  "windows_hardware_tested": false,
+  "example": {
+    "game_id": "729621f084e483671d8f9395c5a01251",
+    "status": "completed",
+    "score": [
+      7,
+      14
+    ],
+    "windows": 86,
+    "model_version": "game-model-1:22cc8e577ad14b4c8804e88b:985d04a53d45bb649498f3ac4a0580f504eeba7e67de04fa069072a8d5258fdf",
+    "rules_version": "fullgame-rules-1",
+    "linescore": [
+      {
+        "inning": 1,
+        "away": 0,
+        "home": 3
+      },
+      {
+        "inning": 2,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 3,
+        "away": 0,
+        "home": 1
+      },
+      {
+        "inning": 4,
+        "away": 0,
+        "home": 5
+      },
+      {
+        "inning": 5,
+        "away": 0,
+        "home": 4
+      },
+      {
+        "inning": 6,
+        "away": 1,
+        "home": 0
+      },
+      {
+        "inning": 7,
+        "away": 2,
+        "home": 0
+      },
+      {
+        "inning": 8,
+        "away": 4,
+        "home": 1
+      },
+      {
+        "inning": 9,
+        "away": 0,
+        "home": null
+      }
+    ],
+    "team_totals": [
+      {
+        "team_id": "AWAY",
+        "r": 7,
+        "pa": 40,
+        "ab": 36,
+        "h": 9,
+        "double": 2,
+        "triple": 0,
+        "hr": 1,
+        "bb": 4,
+        "hbp": 0,
+        "k": 11,
+        "sh": 0,
+        "sf": 0,
+        "ci": 0
+      },
+      {
+        "team_id": "HOME",
+        "r": 14,
+        "pa": 46,
+        "ab": 42,
+        "h": 18,
+        "double": 7,
+        "triple": 0,
+        "hr": 3,
+        "bb": 4,
+        "hbp": 0,
+        "k": 7,
+        "sh": 0,
+        "sf": 0,
+        "ci": 0
+      }
+    ],
+    "pitcher_decisions": {
+      "status": "determined_within_supported_rules",
+      "winner": "HOME:P01",
+      "loser": "AWAY:P01"
+    },
+    "scoring_status": {
+      "basic_counts": "verified_event_counts",
+      "rbi_complete": true,
+      "run_responsibility_complete": true,
+      "earned_runs_saves_holds": "not_implemented",
+      "full_official_record": false
+    },
+    "source_actions": {
+      "empirical": 89
+    },
+    "failure": null,
+    "journal_replay_equal": true
+  },
+  "independent_original_source_rebuild": {
+    "routes_json_byte_identical": true,
+    "source_audit_byte_identical": true,
+    "routes_json_sha256": "d3f18200d48871b2b3de61a2d71dcc74c3572885fc6b827e453ac0cefc1ddbed",
+    "note": "both builds use frozen originals and the same code; benchmark timings are excluded from this equality claim"
+  },
+  "same_output_build_status": "reused",
+  "public_bundle_after_reuse_sha256": "d062ab9518ac100fb4741b5f00b88cebd2dc9365855612db023b8304d7892754"
+}

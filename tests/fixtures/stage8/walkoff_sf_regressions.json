@@ -1,0 +1,2429 @@
+{
+  "origin": "22 reproducible development-cohort failures before caught-fly order handling; not a held-out accuracy test",
+  "cases": [
+    {
+      "seed": 8639,
+      "source": {
+        "artifact_id": "retro_plays_2024",
+        "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+        "game_id": "retrosheet:game:SDN202409220",
+        "first_source_row": 182389,
+        "last_source_row": 182390
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          2,
+          4
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B04",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          2,
+          2
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B04",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B05",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "01999fd3ba2ff75ba41a3c463eb306d9d2da4e1e05acaa5609ea070257443478",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B04"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "9/SF/F9L.3-H"
+      }
+    },
+    {
+      "seed": 9093,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:KCA202308030",
+        "first_source_row": 127991,
+        "last_source_row": 127993
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          1,
+          2
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B02",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          1,
+          1
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B02",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B03",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "76d4d05b4b013d429aed1305661911ee9386bb00d9a248cf2cfbb0b94353e46c",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B02"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/F89D.3-H"
+      }
+    },
+    {
+      "seed": 9141,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:SDN202304130",
+        "first_source_row": 14903,
+        "last_source_row": 14904
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          5,
+          8
+        ],
+        "bases": [
+          null,
+          {
+            "player_id": "LAB_H:B08",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "LAB_H:B07",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 11,
+        "half": 1,
+        "score": [
+          3,
+          3
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B08",
+              "origin": 2,
+              "destination": "3"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B09",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "69e84537f6d717b55a3e450cbc015d6c09d6fe95757df093c454a8154dd17656",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B07"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "9/SF/L9.3-H(UR);2-3"
+      }
+    },
+    {
+      "seed": 9638,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:NYN202308140",
+        "first_source_row": 139884,
+        "last_source_row": 139885
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          0,
+          2
+        ],
+        "bases": [
+          {
+            "player_id": "LAB_H:B02",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          null,
+          {
+            "player_id": "LAB_H:B01",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          2,
+          2
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B02",
+              "origin": 1,
+              "destination": "1"
+            },
+            {
+              "player_id": "LAB_H:B01",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B03",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "d5b26198d5ad5230b14ca2470dc93524ab627903d2e14d4e0cb10f6b4660cb59",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B01"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "7/SF/F7.3-H"
+      }
+    },
+    {
+      "seed": 9808,
+      "source": {
+        "artifact_id": "retro_plays_2024",
+        "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+        "game_id": "retrosheet:game:PHI202407300",
+        "first_source_row": 125912,
+        "last_source_row": 125912
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          1,
+          2
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B01",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 11,
+        "half": 1,
+        "score": [
+          9,
+          9
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B01",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B03",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "1333c3176838dc823b7efc8e0109accdf9ba8a7ef7ee77c17d41af4dc4bba6e8",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B01"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/L8D.3-H(UR)"
+      }
+    },
+    {
+      "seed": 9991,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:MIN202308160",
+        "first_source_row": 142006,
+        "last_source_row": 142007
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          3,
+          1
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B01",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          4,
+          4
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B01",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B02",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "cabc45dc430c887956d9bbdbd3fc5399bf5373dfaea8d0ec996883b7e4db9b14",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B01"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/F8D.3-H"
+      }
+    },
+    {
+      "seed": 10034,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:BAL202304080",
+        "first_source_row": 9003,
+        "last_source_row": 9004
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          2,
+          8
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B08",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          4,
+          4
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B08",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B09",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "b44ef7733ef4d5ec59c7fff7713ba79841dd9f6c46862d7183b3133cba63b459",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B08"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/F8.3-H"
+      }
+    },
+    {
+      "seed": 10080,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:NYN202308140",
+        "first_source_row": 139884,
+        "last_source_row": 139885
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          4,
+          6
+        ],
+        "bases": [
+          {
+            "player_id": "LAB_H:B06",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          null,
+          {
+            "player_id": "LAB_H:B05",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          4,
+          4
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 1,
+              "destination": "1"
+            },
+            {
+              "player_id": "LAB_H:B05",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "d5b26198d5ad5230b14ca2470dc93524ab627903d2e14d4e0cb10f6b4660cb59",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B05"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "7/SF/F7.3-H"
+      }
+    },
+    {
+      "seed": 10280,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:WAS202307040",
+        "first_source_row": 101129,
+        "last_source_row": 101130
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          3,
+          6
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B06",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          4,
+          4
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "d42fcf778660fbdaa11b26208526e3afaece3ebeabe53ed5ed85f2c4fd1ce60a",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B06"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/L8.3-H"
+      }
+    },
+    {
+      "seed": 10526,
+      "source": {
+        "artifact_id": "retro_plays_2024",
+        "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+        "game_id": "retrosheet:game:ANA202404280",
+        "first_source_row": 32275,
+        "last_source_row": 32277
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          4,
+          5
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B05",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 11,
+        "half": 1,
+        "score": [
+          5,
+          5
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B05",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "3bc3dd8c50031cc31495880fbf86793dc6381dbc712aa092f8e38b621113aaed",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B05"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "9/SF/F9L.3-H(UR)"
+      }
+    },
+    {
+      "seed": 10725,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:SDN202309230",
+        "first_source_row": 182653,
+        "last_source_row": 182654
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          4,
+          8
+        ],
+        "bases": [
+          null,
+          {
+            "player_id": "LAB_H:B08",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "LAB_H:B07",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": null
+          }
+        ],
+        "outs": 1,
+        "inning": 10,
+        "half": 1,
+        "score": [
+          1,
+          1
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B08",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B09",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "3abe845b4f7037558353eaad9fc2a039edb51a447f7603779fe5e27cec2c675e",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B07"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "7/SF/F7S.3-H"
+      }
+    },
+    {
+      "seed": 10951,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:SDN202309230",
+        "first_source_row": 182653,
+        "last_source_row": 182654
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          3,
+          6
+        ],
+        "bases": [
+          null,
+          {
+            "player_id": "LAB_H:B06",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "LAB_H:B05",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 11,
+        "half": 1,
+        "score": [
+          3,
+          3
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "player_id": "LAB_H:B05",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "3abe845b4f7037558353eaad9fc2a039edb51a447f7603779fe5e27cec2c675e",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B05"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "7/SF/F7S.3-H"
+      }
+    },
+    {
+      "seed": 11618,
+      "source": {
+        "artifact_id": "retro_plays_2024",
+        "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+        "game_id": "retrosheet:game:ATL202408230",
+        "first_source_row": 149631,
+        "last_source_row": 149632
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          6,
+          7
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B06",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          3,
+          3
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B08",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "6c22bb81279c22361a6c45993c4ce84ba233f411bce68300dd47ae3d42d6eee9",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B06"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "9/SF/L89D.3-H"
+      }
+    },
+    {
+      "seed": 12745,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:MIL202307060",
+        "first_source_row": 102847,
+        "last_source_row": 102848
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          3,
+          8
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B07",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          7,
+          7
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B09",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "4523566c1b73988727ea31ceb70771cc480e36108ccf5c1cf826f98db3e994de",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B07"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "7/SF/F78.3-H(UR)"
+      }
+    },
+    {
+      "seed": 14271,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:MIN202308160",
+        "first_source_row": 142006,
+        "last_source_row": 142007
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          7,
+          2
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B02",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          1,
+          1
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B02",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B03",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "cabc45dc430c887956d9bbdbd3fc5399bf5373dfaea8d0ec996883b7e4db9b14",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B02"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/F8D.3-H"
+      }
+    },
+    {
+      "seed": 14396,
+      "source": {
+        "artifact_id": "retro_plays_2024",
+        "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+        "game_id": "retrosheet:game:ANA202408300",
+        "first_source_row": 157182,
+        "last_source_row": 157184
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          2,
+          4
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B04",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          1,
+          1
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B04",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B05",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "97dec172e56e7434caca3aaee3b39a165aaa2862195cffb27c9156fd82541b53",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B04"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/F78D.3-H"
+      }
+    },
+    {
+      "seed": 15639,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:CLE202304250",
+        "first_source_row": 27425,
+        "last_source_row": 27426
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          2,
+          3
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B03",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 11,
+        "half": 1,
+        "score": [
+          3,
+          3
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B03",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B04",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "ffbcda0f5bbb32875c96246ede623332a91baa63a6269ac5ec0a7cc93d651728",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B03"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "9/SF/L89D.3-H(UR)"
+      }
+    },
+    {
+      "seed": 16191,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:ARI202305300",
+        "first_source_row": 63770,
+        "last_source_row": 63772
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          5,
+          6
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B06",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          3,
+          3
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "90b5917c953fa3fdb6becb76f86d2ae58b5cb6a11c9ead2b1a3ac86ccca3d686",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B06"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "9/SF/F9D.3-H"
+      }
+    },
+    {
+      "seed": 16536,
+      "source": {
+        "artifact_id": "retro_plays_2024",
+        "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+        "game_id": "retrosheet:game:CLE202409120",
+        "first_source_row": 171152,
+        "last_source_row": 171153
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          5,
+          8
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B08",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 10,
+        "half": 1,
+        "score": [
+          5,
+          5
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B08",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B09",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "8a5083f272b348ce11b789492d62a945e89739972dae55d615d09c859ef21faf",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B08"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "7/SF/F7D.3-H(UR)"
+      }
+    },
+    {
+      "seed": 17188,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:PIT202304250",
+        "first_source_row": 27811,
+        "last_source_row": 27811
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          3,
+          8
+        ],
+        "bases": [
+          {
+            "player_id": "LAB_H:B08",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "LAB_H:B07",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          },
+          {
+            "player_id": "LAB_H:B06",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          4,
+          4
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B08",
+              "origin": 1,
+              "destination": "1"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 2,
+              "destination": "2"
+            },
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B09",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "8ed3cb11277113504aa8a774f50ed0c9cd45932056f18c7c0e48676647d11997",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B06"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/L8.3-H"
+      }
+    },
+    {
+      "seed": 17368,
+      "source": {
+        "artifact_id": "retro_plays_2024",
+        "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+        "game_id": "retrosheet:game:BOS202406120",
+        "first_source_row": 78543,
+        "last_source_row": 78544
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          2,
+          2
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B02",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 0,
+        "inning": 9,
+        "half": 1,
+        "score": [
+          3,
+          3
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B02",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B03",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "e65cf4fd5384f7ecd4744aebe28753a3e5b5491c970caa1a94500d0774ccf508",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B02"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "9/SF/F9.3-H"
+      }
+    },
+    {
+      "seed": 17386,
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:PIT202304080",
+        "first_source_row": 9715,
+        "last_source_row": 9717
+      },
+      "frame": {
+        "lineups": [
+          [
+            "LAB_A:B01",
+            "LAB_A:B02",
+            "LAB_A:B03",
+            "LAB_A:B04",
+            "LAB_A:B05",
+            "LAB_A:B06",
+            "LAB_A:B07",
+            "LAB_A:B08",
+            "LAB_A:B09"
+          ],
+          [
+            "LAB_H:B01",
+            "LAB_H:B02",
+            "LAB_H:B03",
+            "LAB_H:B04",
+            "LAB_H:B05",
+            "LAB_H:B06",
+            "LAB_H:B07",
+            "LAB_H:B08",
+            "LAB_H:B09"
+          ]
+        ],
+        "pitchers": [
+          "LAB_A:P02",
+          "LAB_H:P02"
+        ],
+        "orders": [
+          7,
+          6
+        ],
+        "bases": [
+          null,
+          null,
+          {
+            "player_id": "LAB_H:B06",
+            "responsible_pitcher": "LAB_A:P02",
+            "automatic": false,
+            "earned_eligible": true
+          }
+        ],
+        "outs": 1,
+        "inning": 11,
+        "half": 1,
+        "score": [
+          2,
+          2
+        ],
+        "balls": 0,
+        "strikes": 0,
+        "finished": false,
+        "retired_ids": [],
+        "pitcher_history": [
+          "LAB_A:P01",
+          "LAB_H:P01"
+        ]
+      },
+      "play": {
+        "plan": {
+          "outcome": "sacrifice_fly",
+          "moves": [
+            {
+              "player_id": "LAB_H:B06",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "player_id": "LAB_H:B07",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "completed_pa": true,
+          "source": "empirical",
+          "source_ref": "dd2ed34fd4570215fa09f1c843a9980bc888e15f7c47dc2deaa8c93d7f0e4103",
+          "dropped_third_strike": false
+        },
+        "credit": {
+          "at_bat": false,
+          "hit_bases": 0,
+          "rbi_ids": [
+            "LAB_H:B06"
+          ],
+          "sacrifice_bunt": false,
+          "sacrifice_fly": true,
+          "ground_double_play": false,
+          "source": "empirical"
+        },
+        "batter_reached": 0,
+        "third_out": "unspecified",
+        "certified": true,
+        "responsibility_transfer": null,
+        "responsibility_complete": true,
+        "event_text": "8/SF/F8XD.3-H"
+      }
+    }
+  ]
+}

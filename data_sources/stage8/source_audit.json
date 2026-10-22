@@ -1,0 +1,805 @@
+{
+  "counts": {
+    "2023:windows": 184506,
+    "2023:supported": 184300,
+    "2023:force_LOB_repairs": 105,
+    "2024:windows": 182903,
+    "2024:supported": 182681,
+    "2024:force_LOB_repairs": 86,
+    "2025:windows": 183385,
+    "2025:supported": 183143,
+    "2025:force_LOB_repairs": 76
+  },
+  "reasons": {
+    "2023:censored_end_requires_game_context_not_regular_template": 192,
+    "2023:actor_changed_requires_lineup_parser": 8,
+    "2023:participant_substitution_inside_window": 5,
+    "2023:Unique missing participant set does not equal source out delta": 1,
+    "2024:censored_end_requires_game_context_not_regular_template": 209,
+    "2024:participant_substitution_inside_window": 3,
+    "2024:actor_changed_requires_lineup_parser": 10,
+    "2025:censored_end_requires_game_context_not_regular_template": 225,
+    "2025:actor_changed_requires_lineup_parser": 9,
+    "2025:participant_substitution_inside_window": 7,
+    "2025:Unique missing participant set does not equal source out delta": 1
+  },
+  "raw_artifacts": [
+    {
+      "bytes": 7498178,
+      "content_type": "application/zip",
+      "etag": "\"7269c2-658a04015d479\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2023plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2023",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "b00170cde17f3d396d09f940bc98f9fad973d494686479bc78fccf96bbc51e6e",
+      "retrieved_at": "2026-10-21T11:49:19.150975+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+      "upstream_version": "2023 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2023plays.zip"
+    },
+    {
+      "bytes": 7446849,
+      "content_type": "application/zip",
+      "etag": "\"71a141-658a04019dbc5\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2024plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2024",
+      "last_modified": "Sun, 09 Aug 2026 17:05:53 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "d517018296cec373befb1733e952e14a77959691700989319a35ef851355d396",
+      "retrieved_at": "2026-10-21T11:29:49.774265+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official download notices permit use including commercial products with prominent attribution. Keep derived data labelled and preserve original snapshots.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ]
+      },
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b",
+      "upstream_version": "2024 official parsed plays; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2024plays.zip"
+    },
+    {
+      "bytes": 7496795,
+      "content_type": "application/zip",
+      "etag": "\"72645b-658a0402ae323\"",
+      "final_url": "https://www.retrosheet.org/downloads/plays/2025plays.zip",
+      "http_status": 200,
+      "id": "retro_plays_2025",
+      "last_modified": "Sun, 09 Aug 2026 17:05:54 GMT",
+      "max_bytes": 16000000,
+      "purpose": "data",
+      "request_fingerprint": "3692ecb325bc771d7a5e455004286424dbd83acd5fab1367d5a1afa03d90b426",
+      "retrieved_at": "2026-10-21T11:49:28.485418+00:00",
+      "rights": "retrosheet",
+      "rights_snapshot": {
+        "additional_attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at \"www.retrosheet.org\".",
+        "attribution": "The information used here was obtained free of charge from and is copyrighted by Retrosheet. Interested parties may contact Retrosheet at 20 Sunset Rd., Newark, DE 19711.",
+        "evidence_artifacts": [
+          "retro_notice",
+          "retro_csv_docs"
+        ],
+        "license": "Retrosheet Notices",
+        "pilot_collection_allowed": true,
+        "review_note": "Official Notices permit reuse including commercial products with attribution. Acquire 2023–2025 regular-season Game Logs and parsed plays, plus parkcode reference. Retain non-regular records in original archives but exclude them from regular-season typed tables with explicit counts.",
+        "source_ids": [
+          "S012",
+          "S013"
+        ],
+        "warehouse_collection_allowed": true
+      },
+      "sha256": "ea7f4be3464825b332ed6f8c19e15310858458ea9eddf3e91a954e5b47f69d73",
+      "upstream_version": "2025 official snapshot; SHA256 locked after acquisition",
+      "url": "https://www.retrosheet.org/downloads/plays/2025plays.zip"
+    }
+  ],
+  "source_examples": [
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:BOS202303300",
+        "first_source_row": 19,
+        "last_source_row": 19
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S5/G56.BX2(54)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:BOS202303300",
+        "first_source_row": 70,
+        "last_source_row": 71
+      },
+      "actions": [
+        {
+          "outcome": "stolen_base",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            }
+          ],
+          "credit": {
+            "at_bat": false,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 0,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "SB2"
+        },
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [
+              "1"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S7/L7S.2-H;BX2(754)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:LAN202303300",
+        "first_source_row": 446,
+        "last_source_row": 446
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "OUT"
+            },
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "LOB"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [
+              "2"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "source_counted",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S7/L78.2-H;1X3(75)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:LAN202303300",
+        "first_source_row": 448,
+        "last_source_row": 448
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S9/L9LS.BX2(96)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:MIA202303300",
+        "first_source_row": 490,
+        "last_source_row": 490
+      },
+      "actions": [
+        {
+          "outcome": "sacrifice_fly",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "OUT"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true,
+            "ground_double_play": false
+          },
+          "batter_reached": 0,
+          "third_out": "source_counted",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "7/SF/DP/L7.3-H;1X2(7243)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:TEX202303300",
+        "first_source_row": 1056,
+        "last_source_row": 1057
+      },
+      "actions": [
+        {
+          "outcome": "passed_ball",
+          "completed_pa": false,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "2"
+            },
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "3"
+            },
+            {
+              "role": "3",
+              "origin": 3,
+              "destination": "H"
+            }
+          ],
+          "credit": {
+            "at_bat": false,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 0,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "PB.3-H(NR);2-3;1-2"
+        },
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "2",
+              "origin": 3,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [
+              "1",
+              "2"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "source_counted",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S9/L9D+.3-H;2-H(UR);BX2(96)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:BOS202304010",
+        "first_source_row": 1606,
+        "last_source_row": 1606
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S9/L89D+.BX2(96)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:BOS202304010",
+        "first_source_row": 1613,
+        "last_source_row": 1613
+      },
+      "actions": [
+        {
+          "outcome": "double",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 2,
+            "rbi_roles": [
+              "1"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 2,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "D8/L8XD+.1-H;BX3(8625)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:CHN202304020",
+        "first_source_row": 2859,
+        "last_source_row": 2859
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "1",
+              "origin": 1,
+              "destination": "3"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S9/G3.1-3;BX2(96)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:TEX202304020",
+        "first_source_row": 3821,
+        "last_source_row": 3821
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [
+              "2"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "source_counted",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S9/G34.2-H;BX2(936)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:KCA202304030",
+        "first_source_row": 4295,
+        "last_source_row": 4295
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "2",
+              "origin": 2,
+              "destination": "H"
+            },
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [
+              "2"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "source_counted",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S8/G4M.2-H;BX3(15)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:MIA202304030",
+        "first_source_row": 4480,
+        "last_source_row": 4480
+      },
+      "actions": [
+        {
+          "outcome": "double",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 2,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 2,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "D7/F7D.BX3(765)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:MIL202304030",
+        "first_source_row": 4510,
+        "last_source_row": 4510
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S9/G3.BX2(96)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:HOU202304040",
+        "first_source_row": 5349,
+        "last_source_row": 5349
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S7/L7D.BX2(74)"
+        }
+      ]
+    },
+    {
+      "source": {
+        "artifact_id": "retro_plays_2023",
+        "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e",
+        "game_id": "retrosheet:game:OAK202304040",
+        "first_source_row": 5741,
+        "last_source_row": 5741
+      },
+      "actions": [
+        {
+          "outcome": "single",
+          "completed_pa": true,
+          "dropped_third_strike": false,
+          "moves": [
+            {
+              "role": "B",
+              "origin": 0,
+              "destination": "OUT"
+            }
+          ],
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 1,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "transfer_role": null,
+          "responsibility_complete": true,
+          "event_text": "S7/L7S.BX2(764)"
+        }
+      ]
+    }
+  ],
+  "route_groups": 498,
+  "route_patterns": 24297,
+  "input_sha256": {
+    "stage5": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+    "stage6": "22b9c8e637495dcbfef8c89d69539a1e83f63c8afb33bf644d6aa2944405c046"
+  },
+  "new_play_data_requests": 0
+}

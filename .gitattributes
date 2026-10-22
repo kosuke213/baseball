@@ -4,3 +4,4 @@ tests/fixtures/stage5/zenodo_* binary
 # Probability tables are SHA256-pinned; do not rewrite LF to CRLF on checkout.
 data_sources/stage6/** -text
 data_sources/stage7/** -text
+data_sources/stage8/** -text
