@@ -1,0 +1,57 @@
+{
+  "snapshot_id": "75b7c55816cbb33e588c991c",
+  "model_version": "stability-model-1:ed6d5b54f6a6a061a326cde082da98372b93443c1a0296a4d15178d7be6021a6",
+  "engine_version": "stability-engine-1",
+  "rules_version": "stability-rules-1",
+  "main": {
+    "attempted_games": 10000,
+    "completed_games": 10000,
+    "failed_games": 0,
+    "draws": 221,
+    "game_completion_rate": 1.0,
+    "record_integrity_failures": 0,
+    "unresolved_priority_records": 0,
+    "elapsed_seconds": 404.25160495500313
+  },
+  "empirical_only": {
+    "attempted_games": 1000,
+    "completed_games": 979,
+    "failed_games": 21,
+    "failure_causes": {
+      "walkoff_out_timing_unknown": 14,
+      "no_training_route:sacrifice_bunt": 1,
+      "no_training_route:fielders_choice": 6
+    },
+    "record_integrity_failures": 0,
+    "unresolved_priority_records": 0
+  },
+  "league": {
+    "games": 858,
+    "status": "completed",
+    "scheduled_games": 858,
+    "executed_games": 858,
+    "season_id": "stage10-integration-2026",
+    "reason": null,
+    "full_season_completed": true,
+    "checks": {
+      "game_count_858": true,
+      "each_team_143": true,
+      "wins_equal_losses": true,
+      "draws_counted_twice": true,
+      "runs_for_equal_against": true,
+      "replay_same_standings_and_players": true,
+      "batting_runs_equal_scores": true,
+      "no_duplicate_games": true
+    },
+    "assumptions": "same league probabilities, generated timing, no fictional ability differences; experimental integration season"
+  },
+  "old62": {
+    "old_failures_exact_reproduced": 62,
+    "walkoff_cases": 61,
+    "other_pa_cases": 1,
+    "same_play_deterministic_repairs": 0,
+    "generated_future_paths_covered": 61,
+    "original_chronology_still_unknown": 61,
+    "resampled_outcomes": 0
+  }
+}

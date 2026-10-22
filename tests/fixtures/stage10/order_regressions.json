@@ -1,0 +1,1599 @@
+[
+  {
+    "key": "13:other_out:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": true,
+            "ground_double_play": true,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false
+          },
+          "dropped_third_strike": false,
+          "event_text": "3(B)6(1)/GDP/G3.3-H(NR)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "other_out",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 2,
+      "sha256": "7d042da953c013d37ce26fb87dc9a6b5bee5051d3608c4e7cf9002f6f853dbb9"
+    },
+    "reason": "source_runs_conflict_with_generated_third_out_type",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 68667,
+      "game_id": "retrosheet:game:WAS202306030",
+      "last_source_row": 68667,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "13:other_out:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": true,
+            "ground_double_play": true,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false
+          },
+          "dropped_third_strike": false,
+          "event_text": "143(B)63(1)/GDP/G34S.3-H(NR)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "other_out",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "ba5e816d9cafcd80a5323dbed55c951c4a27987f0eda16532077ff13dba5fc68"
+    },
+    "reason": "source_runs_conflict_with_generated_third_out_type",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 151951,
+      "game_id": "retrosheet:game:ATL202408250",
+      "last_source_row": 151951,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": false,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false
+          },
+          "dropped_third_strike": false,
+          "event_text": "SB2",
+          "moves": [
+            {
+              "destination": "2",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "3",
+              "origin": 3,
+              "role": "3"
+            }
+          ],
+          "outcome": "stolen_base",
+          "responsibility_complete": true,
+          "third_out": "unspecified",
+          "transfer_role": null
+        },
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/L8S.3-H;2X3(836)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "1c415b8bd53e5111d38456ab4443e26d83f319cd55d13c23ecda400b6a0a1e8b"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 156226,
+      "game_id": "retrosheet:game:BAL202308300",
+      "last_source_row": 156227,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "9/SF/DP/F9S.3-H;1X2(92645)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "2de5639e9b7ff062b94349723476b18afa4e4be278abdbbae2677c692ee87fec"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 38272,
+      "game_id": "retrosheet:game:TBA202305050",
+      "last_source_row": 38272,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/F8D.3-H;1X2(836)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "55dcd993aa67860cf1be458fa0513207e88e2524c99381d77939df9286bde303"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 155445,
+      "game_id": "retrosheet:game:CIN202408280",
+      "last_source_row": 155445,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/L7LD.3-H;1X2(74)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "5e9ae1ceca391118596948d03f18773b313d4e8956fbb288c77d32501bf46d30"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 113782,
+      "game_id": "retrosheet:game:PIT202407190",
+      "last_source_row": 113782,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": false,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false
+          },
+          "dropped_third_strike": false,
+          "event_text": "SB2",
+          "moves": [
+            {
+              "destination": "2",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "3",
+              "origin": 3,
+              "role": "3"
+            }
+          ],
+          "outcome": "stolen_base",
+          "responsibility_complete": true,
+          "third_out": "unspecified",
+          "transfer_role": null
+        },
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/F78.3-H;2X3(756)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "6d9738e0dc7a7839b2cde2652101d780280cb21e66d567195edf4b3b46296e8d"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 139776,
+      "game_id": "retrosheet:game:BOS202408130",
+      "last_source_row": 139777,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/F78XD.3-H;1X2(74)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "882b6a9bdb35f60f8fccaac5f8503ed3d2eaefd41efdc3fa9f011f9429cd3526"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 8387,
+      "game_id": "retrosheet:game:NYN202304070",
+      "last_source_row": 8387,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/F8D.3-H;1X1(83)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "8bcff7c1c703f1126af94c767a479698857acd42f14763964b66075ef3f82a8b"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 140902,
+      "game_id": "retrosheet:game:BOS202408140",
+      "last_source_row": 140902,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": false,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false
+          },
+          "dropped_third_strike": false,
+          "event_text": "WP.1-2",
+          "moves": [
+            {
+              "destination": "2",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "3",
+              "origin": 3,
+              "role": "3"
+            }
+          ],
+          "outcome": "wild_pitch",
+          "responsibility_complete": true,
+          "third_out": "unspecified",
+          "transfer_role": null
+        },
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/F8.3-H;2X3(836)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "90da4480604ddd2a6027144ce4e80627222d1d6f75fc79ab45d6153bd720a0a6"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 938,
+      "game_id": "retrosheet:game:SDN202403280",
+      "last_source_row": 939,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/L7.3-H;1X2(7243)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "c1d7d0d93e76dbae12dbd8557c18674106713eb50a2c5f9722bb8d5c9961dedf"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 490,
+      "game_id": "retrosheet:game:MIA202303300",
+      "last_source_row": 490,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/L78D.3-H;1X2(834)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "c4c4a7d9429280d893fbc141b14c00ef38918bb81f8c243c18d16b268b4691d8"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 44858,
+      "game_id": "retrosheet:game:COL202305120",
+      "last_source_row": 44858,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "9/SF/DP/F89XD.3-H;1X1(963)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "c524471d6065f41fe24bc40d5a49bed7bca86a5230cba24fc46e2b47858292bf"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 45591,
+      "game_id": "retrosheet:game:ARI202305130",
+      "last_source_row": 45591,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "13:sacrifice_fly:1",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/L89.3-H;1X1(83)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "44949abaf33e457026355ef400b399292fe2298fef87c5d358e1aec0570dd1c2"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 149268,
+      "game_id": "retrosheet:game:PHI202308230",
+      "last_source_row": 149268,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "14:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/L89D+.3-H;2X3(865)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "bb0942b704dbea9d32a0fa6437fb48956e87e9563590a514454610d59a45d044"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 142599,
+      "game_id": "retrosheet:game:KCA202308170",
+      "last_source_row": 142599,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "14:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/F8.3-H(UR);2X3(856)",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "e632b91e9030e21f4b7be42d10613c08c6143beb3c2e9fc6dbeca87c87012db9"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 169218,
+      "game_id": "retrosheet:game:MIN202409100",
+      "last_source_row": 169218,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "15:other_out:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": true,
+            "ground_double_play": true,
+            "hit_bases": 0,
+            "rbi_roles": [],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false
+          },
+          "dropped_third_strike": false,
+          "event_text": "46(1)5(2)/GDP/G4-.3-H(NR);B-1",
+          "moves": [
+            {
+              "destination": "OUT",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "LOB",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "other_out",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "2900b8e41792393225e56ec460bc2c4bf28649684b599875f8c5209660c91ff8"
+    },
+    "reason": "source_runs_conflict_with_generated_third_out_type",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 157668,
+      "game_id": "retrosheet:game:WAS202308310",
+      "last_source_row": 157668,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "9/SF/DP/F9.3-H;2X3(95)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "0b2b5810b48bb082f1fbd9891dcf7344d29911972d045f6d24bf780c2e39ceb7"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 70353,
+      "game_id": "retrosheet:game:PIT202306050",
+      "last_source_row": 70353,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/F78.3-H;2X2(754)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "2e9b9658cb463bf7adf05566632ce23ef5a21e33f713c05ddd0638dfd2d9661c"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 157266,
+      "game_id": "retrosheet:game:ARI202408300",
+      "last_source_row": 157266,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "9/SF/DP/F89.3-H;2X3(935)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "44e65cab460dcd16c3281ebe43e71e82bc264698a28f990e90312de37443ef43"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 25385,
+      "game_id": "retrosheet:game:MIL202304230",
+      "last_source_row": 25385,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/F7D.3-H;2X3(764)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "4949ad2ce6ecd808bf439ff682564c4ce4c702570c96a6c31805c57ed51fa494"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 31427,
+      "game_id": "retrosheet:game:MIA202304290",
+      "last_source_row": 31427,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/F8D.3-H(UR);2X3(84)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "5783a4cc1b04a70d2ca6bcbc0a2b0b87367e170c630326527dce09a1c098d601"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 107759,
+      "game_id": "retrosheet:game:TOR202307140",
+      "last_source_row": 107759,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "8/SF/DP/L8D+.3-H;2X3(85)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "5d6183d6dbb86e8cba716338e09d605a5bf75d1d922b076e7d8f880c1d2c42db"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2024",
+      "first_source_row": 156597,
+      "game_id": "retrosheet:game:CIN202408290",
+      "last_source_row": 156597,
+      "sha256": "a3e8c08876ddf70e1ffb0b20486c2873cf4aae19e0acc8002096e9056107615b"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "9/SF/DP/L9L.3-H(UR);2X3(935)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "6affd0ff47da36b93d0231060cd26155455c0abb1a4c18c4b409c69bedff9b88"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 111541,
+      "game_id": "retrosheet:game:CIN202307180",
+      "last_source_row": 111541,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/F78.3-H;2X3(756)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "97717e89878bb1b762100b0db6f56dab3bd450c53e3f8e43bedeea6ac14263f9"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 160381,
+      "game_id": "retrosheet:game:CIN202309030",
+      "last_source_row": 160381,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/L78D.3-H;2X3(726)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "bdbac2432c5e03ef1c006194939a91db7d863999ce4efdbe13b0ad309fb7cb9c"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 109641,
+      "game_id": "retrosheet:game:COL202307160",
+      "last_source_row": 109641,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  },
+  {
+    "key": "15:sacrifice_fly:0",
+    "route": {
+      "actions": [
+        {
+          "batter_reached": 0,
+          "completed_pa": true,
+          "credit": {
+            "at_bat": false,
+            "ground_double_play": false,
+            "hit_bases": 0,
+            "rbi_roles": [
+              "3"
+            ],
+            "sacrifice_bunt": false,
+            "sacrifice_fly": true
+          },
+          "dropped_third_strike": false,
+          "event_text": "7/SF/DP/L78D+.3-H;2X2(74)",
+          "moves": [
+            {
+              "destination": "LOB",
+              "origin": 1,
+              "role": "1"
+            },
+            {
+              "destination": "OUT",
+              "origin": 2,
+              "role": "2"
+            },
+            {
+              "destination": "H",
+              "origin": 3,
+              "role": "3"
+            },
+            {
+              "destination": "OUT",
+              "origin": 0,
+              "role": "B"
+            }
+          ],
+          "outcome": "sacrifice_fly",
+          "responsibility_complete": true,
+          "third_out": "source_counted",
+          "transfer_role": null
+        }
+      ],
+      "n": 1,
+      "sha256": "f08720948b1634698866bb2e343c8bfa28d4f1eded47d50c11bf779b9bb241bf"
+    },
+    "reason": "cyclic_timeline_constraints",
+    "source": {
+      "artifact_id": "retro_plays_2023",
+      "first_source_row": 131454,
+      "game_id": "retrosheet:game:DET202308060",
+      "last_source_row": 131454,
+      "sha256": "0129befd7944f60a858e5fdc265a44ed20afaa568679b37fca1083e3c083b20e"
+    }
+  }
+]

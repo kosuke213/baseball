@@ -1,0 +1,434 @@
+{
+  "attempted_games": 1000,
+  "completed_games": 979,
+  "draws": 18,
+  "failed_games": 21,
+  "game_completion_rate": 0.979,
+  "attempted_halves": 17941,
+  "third_out_completed_halves": 17838,
+  "walkoff_ended_halves": 82,
+  "half_completion_rate": 0.9988294966835739,
+  "failure_causes": {
+    "walkoff_out_timing_unknown": 14,
+    "no_training_route:sacrifice_bunt": 1,
+    "no_training_route:fielders_choice": 6
+  },
+  "record_integrity_failures": 0,
+  "unresolved_priority_records": 0,
+  "blowout_10plus_rate_completed_only": 0.024514811031664963,
+  "extra_inning_rate_completed_only": 0.10010214504596528,
+  "walkoff_rate_completed_only": 0.08375893769152196,
+  "distributions_completed_only": {
+    "runs": {
+      "n": 979,
+      "mean": 8.82226762002043,
+      "sd": 4.125222255384872,
+      "min": 1,
+      "p50": 9.0,
+      "p90": 14.0,
+      "p95": 16.0,
+      "p99": 21.0,
+      "max": 25
+    },
+    "h": {
+      "n": 979,
+      "mean": 17.129724208375894,
+      "sd": 4.466934303423375,
+      "min": 6,
+      "p50": 17.0,
+      "p90": 23.0,
+      "p95": 25.0,
+      "p99": 29.0,
+      "max": 38
+    },
+    "hr": {
+      "n": 979,
+      "mean": 2.4341164453524002,
+      "sd": 1.5403570718236093,
+      "min": 0,
+      "p50": 2.0,
+      "p90": 4.0,
+      "p95": 5.0,
+      "p99": 6.220000000000027,
+      "max": 10
+    },
+    "bb": {
+      "n": 979,
+      "mean": 6.597548518896834,
+      "sd": 2.7413060409723173,
+      "min": 0,
+      "p50": 6.0,
+      "p90": 10.0,
+      "p95": 12.0,
+      "p99": 14.0,
+      "max": 17
+    },
+    "hbp": {
+      "n": 979,
+      "mean": 0.8426966292134831,
+      "sd": 0.8986329545555104,
+      "min": 0,
+      "p50": 1.0,
+      "p90": 2.0,
+      "p95": 2.0,
+      "p99": 3.2200000000000273,
+      "max": 6
+    },
+    "k": {
+      "n": 979,
+      "mean": 17.484167517875385,
+      "sd": 3.638931813159629,
+      "min": 7,
+      "p50": 17.0,
+      "p90": 22.0,
+      "p95": 24.0,
+      "p99": 26.220000000000027,
+      "max": 33
+    },
+    "pa": {
+      "n": 979,
+      "mean": 76.58835546475996,
+      "sd": 7.63609360968335,
+      "min": 58,
+      "p50": 76.0,
+      "p90": 86.0,
+      "p95": 93.0,
+      "p99": 100.22000000000003,
+      "max": 109
+    },
+    "windows": {
+      "n": 979,
+      "mean": 76.75689479060266,
+      "sd": 7.664497400949723,
+      "min": 58,
+      "p50": 76.0,
+      "p90": 86.0,
+      "p95": 93.0,
+      "p99": 101.0,
+      "max": 109
+    },
+    "margin": {
+      "n": 979,
+      "mean": 3.3248212461695608,
+      "sd": 2.5506538805815353,
+      "min": 0,
+      "p50": 3.0,
+      "p90": 7.0,
+      "p95": 8.0,
+      "p99": 12.0,
+      "max": 18
+    }
+  },
+  "elapsed_seconds": 24.205049921001773,
+  "games_per_second": 41.31369293861027,
+  "limitations": [
+    "completed-only distributions exclude failed games and may be selection-biased",
+    "all fictional actors use league fallback; not calibrated NPB abilities",
+    "headless benchmarks are not committed official game histories",
+    "full official scoring remains incomplete even when priority counts are known"
+  ],
+  "milestone": 1000,
+  "config": {
+    "milestones": [
+      100,
+      1000
+    ],
+    "strict_milestones": [
+      100,
+      1000
+    ],
+    "seed_start": 410000,
+    "strict_seed_start": 410000,
+    "league_seed_start": 510000,
+    "game_date": "2026-04-01",
+    "season_id": "stage10-integration-2026",
+    "allow_assumptions": false,
+    "probability_policy": "mle_baseline",
+    "auto_relief_inning": 7,
+    "sample_histories": 2,
+    "rules": {
+      "max_innings": 12,
+      "allow_draw": true,
+      "automatic_runner_start": null,
+      "max_windows": 1500
+    }
+  },
+  "checkpoints": [
+    {
+      "attempted_games": 100,
+      "completed_games": 97,
+      "draws": 2,
+      "failed_games": 3,
+      "game_completion_rate": 0.97,
+      "attempted_halves": 1788,
+      "third_out_completed_halves": 1779,
+      "walkoff_ended_halves": 6,
+      "half_completion_rate": 0.9983221476510067,
+      "failure_causes": {
+        "walkoff_out_timing_unknown": 2,
+        "no_training_route:sacrifice_bunt": 1
+      },
+      "record_integrity_failures": 0,
+      "unresolved_priority_records": 0,
+      "blowout_10plus_rate_completed_only": 0.020618556701030927,
+      "extra_inning_rate_completed_only": 0.09278350515463918,
+      "walkoff_rate_completed_only": 0.061855670103092786,
+      "distributions_completed_only": {
+        "runs": {
+          "n": 97,
+          "mean": 8.329896907216495,
+          "sd": 3.763092836696233,
+          "min": 1,
+          "p50": 8.0,
+          "p90": 13.0,
+          "p95": 15.0,
+          "p99": 18.039999999999992,
+          "max": 19
+        },
+        "h": {
+          "n": 97,
+          "mean": 16.927835051546392,
+          "sd": 4.238335519105182,
+          "min": 7,
+          "p50": 17.0,
+          "p90": 22.0,
+          "p95": 23.19999999999999,
+          "p99": 29.0,
+          "max": 29
+        },
+        "hr": {
+          "n": 97,
+          "mean": 2.3402061855670104,
+          "sd": 1.4852510866442774,
+          "min": 0,
+          "p50": 2.0,
+          "p90": 4.0,
+          "p95": 5.0,
+          "p99": 6.0,
+          "max": 6
+        },
+        "bb": {
+          "n": 97,
+          "mean": 6.515463917525773,
+          "sd": 2.773060140522619,
+          "min": 0,
+          "p50": 6.0,
+          "p90": 10.0,
+          "p95": 11.0,
+          "p99": 13.039999999999992,
+          "max": 14
+        },
+        "hbp": {
+          "n": 97,
+          "mean": 0.7835051546391752,
+          "sd": 0.9706827936615817,
+          "min": 0,
+          "p50": 1.0,
+          "p90": 2.0,
+          "p95": 2.1999999999999886,
+          "p99": 4.039999999999992,
+          "max": 5
+        },
+        "k": {
+          "n": 97,
+          "mean": 17.298969072164947,
+          "sd": 3.431365582308328,
+          "min": 10,
+          "p50": 17.0,
+          "p90": 21.0,
+          "p95": 23.19999999999999,
+          "p99": 27.119999999999976,
+          "max": 30
+        },
+        "pa": {
+          "n": 97,
+          "mean": 76.58762886597938,
+          "sd": 7.414446171326042,
+          "min": 58,
+          "p50": 75.0,
+          "p90": 85.4,
+          "p95": 89.79999999999995,
+          "p99": 101.03999999999999,
+          "max": 102
+        },
+        "windows": {
+          "n": 97,
+          "mean": 76.72164948453609,
+          "sd": 7.450870010778995,
+          "min": 58,
+          "p50": 76.0,
+          "p90": 85.4,
+          "p95": 90.59999999999997,
+          "p99": 101.03999999999999,
+          "max": 102
+        },
+        "margin": {
+          "n": 97,
+          "mean": 3.3608247422680413,
+          "sd": 2.4289296640114504,
+          "min": 0,
+          "p50": 3.0,
+          "p90": 7.0,
+          "p95": 8.0,
+          "p99": 11.039999999999992,
+          "max": 12
+        }
+      },
+      "elapsed_seconds": 2.6598047769948607,
+      "games_per_second": 37.596744266691424,
+      "limitations": [
+        "completed-only distributions exclude failed games and may be selection-biased",
+        "all fictional actors use league fallback; not calibrated NPB abilities",
+        "headless benchmarks are not committed official game histories",
+        "full official scoring remains incomplete even when priority counts are known"
+      ],
+      "milestone": 100
+    },
+    {
+      "attempted_games": 1000,
+      "completed_games": 979,
+      "draws": 18,
+      "failed_games": 21,
+      "game_completion_rate": 0.979,
+      "attempted_halves": 17941,
+      "third_out_completed_halves": 17838,
+      "walkoff_ended_halves": 82,
+      "half_completion_rate": 0.9988294966835739,
+      "failure_causes": {
+        "walkoff_out_timing_unknown": 14,
+        "no_training_route:sacrifice_bunt": 1,
+        "no_training_route:fielders_choice": 6
+      },
+      "record_integrity_failures": 0,
+      "unresolved_priority_records": 0,
+      "blowout_10plus_rate_completed_only": 0.024514811031664963,
+      "extra_inning_rate_completed_only": 0.10010214504596528,
+      "walkoff_rate_completed_only": 0.08375893769152196,
+      "distributions_completed_only": {
+        "runs": {
+          "n": 979,
+          "mean": 8.82226762002043,
+          "sd": 4.125222255384872,
+          "min": 1,
+          "p50": 9.0,
+          "p90": 14.0,
+          "p95": 16.0,
+          "p99": 21.0,
+          "max": 25
+        },
+        "h": {
+          "n": 979,
+          "mean": 17.129724208375894,
+          "sd": 4.466934303423375,
+          "min": 6,
+          "p50": 17.0,
+          "p90": 23.0,
+          "p95": 25.0,
+          "p99": 29.0,
+          "max": 38
+        },
+        "hr": {
+          "n": 979,
+          "mean": 2.4341164453524002,
+          "sd": 1.5403570718236093,
+          "min": 0,
+          "p50": 2.0,
+          "p90": 4.0,
+          "p95": 5.0,
+          "p99": 6.220000000000027,
+          "max": 10
+        },
+        "bb": {
+          "n": 979,
+          "mean": 6.597548518896834,
+          "sd": 2.7413060409723173,
+          "min": 0,
+          "p50": 6.0,
+          "p90": 10.0,
+          "p95": 12.0,
+          "p99": 14.0,
+          "max": 17
+        },
+        "hbp": {
+          "n": 979,
+          "mean": 0.8426966292134831,
+          "sd": 0.8986329545555104,
+          "min": 0,
+          "p50": 1.0,
+          "p90": 2.0,
+          "p95": 2.0,
+          "p99": 3.2200000000000273,
+          "max": 6
+        },
+        "k": {
+          "n": 979,
+          "mean": 17.484167517875385,
+          "sd": 3.638931813159629,
+          "min": 7,
+          "p50": 17.0,
+          "p90": 22.0,
+          "p95": 24.0,
+          "p99": 26.220000000000027,
+          "max": 33
+        },
+        "pa": {
+          "n": 979,
+          "mean": 76.58835546475996,
+          "sd": 7.63609360968335,
+          "min": 58,
+          "p50": 76.0,
+          "p90": 86.0,
+          "p95": 93.0,
+          "p99": 100.22000000000003,
+          "max": 109
+        },
+        "windows": {
+          "n": 979,
+          "mean": 76.75689479060266,
+          "sd": 7.664497400949723,
+          "min": 58,
+          "p50": 76.0,
+          "p90": 86.0,
+          "p95": 93.0,
+          "p99": 101.0,
+          "max": 109
+        },
+        "margin": {
+          "n": 979,
+          "mean": 3.3248212461695608,
+          "sd": 2.5506538805815353,
+          "min": 0,
+          "p50": 3.0,
+          "p90": 7.0,
+          "p95": 8.0,
+          "p99": 12.0,
+          "max": 18
+        }
+      },
+      "elapsed_seconds": 24.205049921001773,
+      "games_per_second": 41.31369293861027,
+      "limitations": [
+        "completed-only distributions exclude failed games and may be selection-biased",
+        "all fictional actors use league fallback; not calibrated NPB abilities",
+        "headless benchmarks are not committed official game histories",
+        "full official scoring remains incomplete even when priority counts are known"
+      ],
+      "milestone": 1000
+    }
+  ],
+  "sample_history_replays": [
+    {
+      "game_id": "322fcb4b08259dc43c1b705af5501b4a",
+      "seed": 410000,
+      "status": "completed",
+      "replay_verified": true
+    },
+    {
+      "game_id": "1a50d3621e3857682220f45e21535aec",
+      "seed": 410001,
+      "status": "completed",
+      "replay_verified": true
+    }
+  ],
+  "league_gate_passed": false
+}

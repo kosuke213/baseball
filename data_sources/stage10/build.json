@@ -1,0 +1,49 @@
+{
+  "snapshot_id": "75b7c55816cbb33e588c991c",
+  "code_sha256": "1b8a48922869021c57fd628956f15f54311ad3832b26d79bbf4e30d2bec2c716",
+  "config": {
+    "milestones": [
+      100,
+      1000,
+      10000
+    ],
+    "strict_milestones": [
+      100,
+      1000
+    ],
+    "seed_start": 310000,
+    "strict_seed_start": 410000,
+    "league_seed_start": 510000,
+    "game_date": "2026-04-01",
+    "season_id": "stage10-integration-2026",
+    "allow_assumptions": true,
+    "probability_policy": "posterior_support",
+    "auto_relief_inning": 7,
+    "sample_histories": 10,
+    "rules": {
+      "max_innings": 12,
+      "allow_draw": true,
+      "automatic_runner_start": null,
+      "max_windows": 1500
+    }
+  },
+  "frozen_database_sha256": {
+    "stage5": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+    "stage6": "22b9c8e637495dcbfef8c89d69539a1e83f63c8afb33bf644d6aa2944405c046"
+  },
+  "stage9_inputs": {
+    "routes.json.gz": "30211392c3ef09ef3ba36ccff2ddea76d555e73d6d073e2e4de05f81635b5e51",
+    "terminal_model.json": "43c88e81ac13ee36026f7371919e1fe88361fd77ddf6deb35e5657d47143b54b",
+    "model_manifest.json": "dcde2b599443abd77b22e7cc5874fba66562635dc10fa373e96729a0ec327827",
+    "failures.json": "f04db4bd5897feb6e0ff05f4eb6ff06e11d8f0126241ce920a7b991540ca3ba7"
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.41"
+  },
+  "model_version": "stability-model-1:ed6d5b54f6a6a061a326cde082da98372b93443c1a0296a4d15178d7be6021a6",
+  "rules_version": "stability-rules-1",
+  "engine_version": "stability-engine-1",
+  "parent_stage9_commit": "03a02714ab5779fd18d3fe5cdaad9a2f767dfec4"
+}

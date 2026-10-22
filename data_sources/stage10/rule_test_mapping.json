@@ -1,0 +1,28 @@
+{
+  "reference_url": "https://mktg.mlbstatic.com/mlb/official-information/2025-official-baseball-rules.pdf",
+  "pdf_sha256": "d1860de43bf3877177ed463a4b4145da51ee83f9d358ae93bdab4a9c67a55fe0",
+  "rules": {
+    "5.08(a)": [
+      "test_rule508_force_third_out_invalidates_prior_home",
+      "test_rule508_tag_after_winning_run_is_cancelled",
+      "test_rule508_preceding_vs_trailing_appeal"
+    ],
+    "5.08(b)": [
+      "test_generated_walkoff_forced_award_touches_first_and_credits_rbi"
+    ],
+    "9.04(b)": [
+      "test_rule904_planned_reverse_force_dp_cancelled_becomes_rbi"
+    ],
+    "9.06(f)(g)": [
+      "test_rule906_generated_walkoff_hit_value_and_home_run"
+    ],
+    "9.02(c), 9.16(g), 9.17": [
+      "existing Stage 8/9 pitching-outs, substitution, responsibility and pitcher-decision tests retained"
+    ]
+  },
+  "limits": [
+    "not all clauses/exceptions implemented",
+    "appeal on preceding/same/trailing runner is supported for a supplied chronology; fourth-out appeal unsupported",
+    "no claim of NPB official equivalence"
+  ]
+}

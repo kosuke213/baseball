@@ -1,0 +1,181 @@
+{
+  "snapshot_id": "75b7c55816cbb33e588c991c",
+  "zip_sha256": "abaa2d2d7492de80aa76d3fb6f8ddd73d536efd30f02a4172a53982163d67d71",
+  "zip_bytes": 35059697,
+  "zip_crc_passed": true,
+  "manifest_files_verified": 139,
+  "independent_directory": "/tmp/stage10-delivery-gfmii_rp",
+  "standalone": {
+    "game_id": "a1a102815b12ecf96dfde7f2e5064f34",
+    "mode": "generated_assumptions",
+    "status": "completed",
+    "score": [
+      6,
+      7
+    ],
+    "windows": 90,
+    "linescore": [
+      {
+        "inning": 1,
+        "away": 2,
+        "home": 0
+      },
+      {
+        "inning": 2,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 3,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 4,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 5,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 6,
+        "away": 1,
+        "home": 0
+      },
+      {
+        "inning": 7,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 8,
+        "away": 0,
+        "home": 2
+      },
+      {
+        "inning": 9,
+        "away": 1,
+        "home": 2
+      },
+      {
+        "inning": 10,
+        "away": 2,
+        "home": 3
+      }
+    ],
+    "team_totals": [
+      {
+        "team_id": "AWAY",
+        "r": 6,
+        "pa": 41,
+        "ab": 39,
+        "h": 10,
+        "double": 2,
+        "triple": 1,
+        "hr": 2,
+        "bb": 2,
+        "hbp": 0,
+        "k": 9,
+        "sh": 0,
+        "sf": 0,
+        "ci": 0
+      },
+      {
+        "team_id": "HOME",
+        "r": 7,
+        "pa": 49,
+        "ab": 39,
+        "h": 12,
+        "double": 3,
+        "triple": 0,
+        "hr": 0,
+        "bb": 8,
+        "hbp": 1,
+        "k": 6,
+        "sh": 0,
+        "sf": 1,
+        "ci": 0
+      }
+    ],
+    "pitcher_decisions": {
+      "status": "determined_within_supported_rules",
+      "winner": "HOME:P02",
+      "loser": "AWAY:P02"
+    },
+    "scoring_status": {
+      "basic_counts": "verified_event_counts",
+      "rbi_complete": true,
+      "run_responsibility_complete": true,
+      "earned_runs_saves_holds": "not_implemented",
+      "full_official_record": false,
+      "coverage_version": "stability-coverage-1",
+      "official_scope": "MLB OBR reference definitions; experimental counts, not NPB-certified records"
+    },
+    "timing_provenance": {
+      "actions": {
+        "generated_assumption": 94
+      },
+      "cancelled_outs_after_game_end": 0,
+      "actual_result_counts": {
+        "strikeout": 15,
+        "walk": 10,
+        "single": 14,
+        "double": 5,
+        "other_out": 41,
+        "home_run": 2,
+        "caught_stealing": 1,
+        "hit_by_pitch": 1,
+        "stolen_base": 2,
+        "sacrifice_fly": 1,
+        "wild_pitch": 1,
+        "triple": 1
+      }
+    },
+    "failure": null,
+    "model_version": "stability-model-1:ed6d5b54f6a6a061a326cde082da98372b93443c1a0296a4d15178d7be6021a6",
+    "rules_version": "stability-rules-1",
+    "journal_replay_equal": true
+  },
+  "same_seed_full_journal_equal": true,
+  "idempotent_same_game_save": true,
+  "all_inference_files_hidden_replays": {
+    "counts": {
+      "main/sample_history.sqlite3": 10,
+      "empirical_only/sample_history.sqlite3": 2,
+      "league/history.sqlite3": 858,
+      "user.sqlite3": 1
+    },
+    "season_standings_players_equal": true
+  },
+  "independent_replay_seconds": 27.86634911800502,
+  "previous_stage9_frozen_replays": {
+    "main/sample_history.sqlite3": 10,
+    "empirical_only/sample_history.sqlite3": 2
+  },
+  "sqlite_integrity_and_foreign_keys_passed": true,
+  "independent_posterior_rebuild_byte_equal": true,
+  "snapshot_reuse_verified": true,
+  "snapshot_files_verified": true,
+  "code_sha256": "1b8a48922869021c57fd628956f15f54311ad3832b26d79bbf4e30d2bec2c716",
+  "pytest": {
+    "passed": 520,
+    "previous_retained": 388,
+    "new": 132,
+    "elapsed_seconds": 20.73
+  },
+  "preserved_database_sha256": {
+    "stage5": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+    "stage6": "22b9c8e637495dcbfef8c89d69539a1e83f63c8afb33bf644d6aa2944405c046",
+    "stage7": "962122950d9cf4947bdd0850ecc89955b25fe3e370bb94889a06627a387039ee"
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1",
+    "os": "Linux-6.18.55-x86_64-with-glibc2.41"
+  },
+  "windows_native_tested": false,
+  "previous_stage9_snapshot_all_files_verified": true
+}

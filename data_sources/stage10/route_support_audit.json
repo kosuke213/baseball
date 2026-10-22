@@ -1,0 +1,11 @@
+{
+  "grouped_route_tests": 68644,
+  "counts": {
+    "ordinary:supported": 34322,
+    "walkoff_possible:supported": 34322
+  },
+  "failed": 0,
+  "failures": [],
+  "seed": 904,
+  "limit": "one generated linear extension per route/context; not every possible chronology"
+}

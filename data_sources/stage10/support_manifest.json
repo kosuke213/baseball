@@ -1,0 +1,5 @@
+{
+  "format": "stability-model-inputs-1",
+  "support_sha256": "bdf83fd3238ad76859842472ea072369c57aa0eb67caff137496358332cb3454",
+  "parent_stage9_model_version": "completion-model-1:22cc8e577ad14b4c8804e88b:8e835974854350fc3faf6a710097e17b43bb7d1851567d89e7b37e5ec0420c06"
+}

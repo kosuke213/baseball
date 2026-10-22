@@ -1,0 +1,304 @@
+{
+  "version": "terminal-posterior-1",
+  "training_seasons": [
+    2023,
+    2024
+  ],
+  "states": {
+    "0": {
+      "exposure": 89378,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "1": {
+      "exposure": 21444,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "2": {
+      "exposure": 6053,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "3": {
+      "exposure": 5373,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "4": {
+      "exposure": 582,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "5": {
+      "exposure": 1852,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "6": {
+      "exposure": 1089,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "7": {
+      "exposure": 1449,
+      "half_end_no_pa": 0,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.0003448275862068965,
+      "posterior_95": [
+        3.388197123298291e-07,
+        0.0017317697511947672
+      ]
+    },
+    "8": {
+      "exposure": 64900,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "9": {
+      "exposure": 26409,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "10": {
+      "exposure": 8911,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "11": {
+      "exposure": 9230,
+      "half_end_no_pa": 0,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 5.416531253385332e-05,
+      "posterior_95": [
+        5.3198401488551024e-08,
+        0.00027210544882255846
+      ]
+    },
+    "12": {
+      "exposure": 2784,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "13": {
+      "exposure": 4093,
+      "half_end_no_pa": 0,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.00012212994626282364,
+      "posterior_95": [
+        1.199620175220301e-07,
+        0.0006134911072965266
+      ]
+    },
+    "14": {
+      "exposure": 2521,
+      "half_end_no_pa": 0,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.00019825535289452815,
+      "posterior_95": [
+        1.94758357304476e-07,
+        0.0009958124505144413
+      ]
+    },
+    "15": {
+      "exposure": 3121,
+      "half_end_no_pa": 0,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.00016015374759769378,
+      "posterior_95": [
+        1.5731982967917134e-07,
+        0.0008044637734820881
+      ]
+    },
+    "16": {
+      "exposure": 51648,
+      "half_end_no_pa": 0,
+      "legal": false,
+      "prior_alpha": null,
+      "prior_beta": null,
+      "p": 0.0,
+      "posterior_95": [
+        0.0,
+        0.0
+      ]
+    },
+    "17": {
+      "exposure": 26958,
+      "half_end_no_pa": 633,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.023498646092214102,
+      "posterior_95": [
+        0.021724173466645742,
+        0.025340075647809934
+      ]
+    },
+    "18": {
+      "exposure": 11235,
+      "half_end_no_pa": 40,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.0036044855820576717,
+      "posterior_95": [
+        0.0025823566745716755,
+        0.004793695928899035
+      ]
+    },
+    "19": {
+      "exposure": 11142,
+      "half_end_no_pa": 43,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.003903796105178139,
+      "posterior_95": [
+        0.002832543945493267,
+        0.005143443629928865
+      ]
+    },
+    "20": {
+      "exposure": 4663,
+      "half_end_no_pa": 5,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.0011792452830188679,
+      "posterior_95": [
+        0.00040926542390297643,
+        0.0023487957530500345
+      ]
+    },
+    "21": {
+      "exposure": 5737,
+      "half_end_no_pa": 117,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.020477518299058906,
+      "posterior_95": [
+        0.01697426165010984,
+        0.024297208476682652
+      ]
+    },
+    "22": {
+      "exposure": 2784,
+      "half_end_no_pa": 3,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.0012567324955116697,
+      "posterior_95": [
+        0.0003035868795471918,
+        0.0028730129359382985
+      ]
+    },
+    "23": {
+      "exposure": 4042,
+      "half_end_no_pa": 4,
+      "legal": true,
+      "prior_alpha": 0.5,
+      "prior_beta": 0.5,
+      "p": 0.001113034875092753,
+      "posterior_95": [
+        0.00033413012800406663,
+        0.002351388727283299
+      ]
+    }
+  },
+  "selection": "Jeffreys Beta(.5,.5), opt-in coverage policy; predictive MLE baseline remains available",
+  "prior_is_assumption": true,
+  "legal_mask": "starting runner count >= outs needed; no completed PA or new batter-runner",
+  "limits": [
+    "support improvement, not established predictive accuracy improvement",
+    "multi-retirement routes may be generated, never labelled observed"
+  ]
+}

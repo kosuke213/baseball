@@ -1,0 +1,5070 @@
+{
+  "cohort": "complete PA windows + observed ordinary no-PA half ends; non-PA game-end censoring excluded",
+  "candidates_2023_to_2024": {
+    "0": {
+      "n": 182902,
+      "binary_log_loss": 0.012160877239267821,
+      "infinite_log_loss": false,
+      "zero_probability_observations": 0,
+      "brier": 0.0024219978079678883,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 44807,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44571,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 10876,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10568,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 3086,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2967,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 2695,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2678,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 286,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 296,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 939,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 913,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 560,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 529,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 747,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 702,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 32313,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32587,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 13284,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13125,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 4608,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4303,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 4731,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 4499,
+          "k_target": 0
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 1371,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1413,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 2093,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 2000,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 1282,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 1239,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 1618,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 1503,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 25665,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25983,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 13428,
+          "k_train": 292,
+          "p": 0.021745606196008342,
+          "n_target": 13530,
+          "k_target": 341
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 5675,
+          "k_train": 18,
+          "p": 0.003171806167400881,
+          "n_target": 5560,
+          "k_target": 22
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 5661,
+          "k_train": 23,
+          "p": 0.004062886415827592,
+          "n_target": 5481,
+          "k_target": 20
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 2318,
+          "k_train": 2,
+          "p": 0.0008628127696289905,
+          "n_target": 2345,
+          "k_target": 3
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 2915,
+          "k_train": 52,
+          "p": 0.01783876500857633,
+          "n_target": 2822,
+          "k_target": 65
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 1403,
+          "k_train": 2,
+          "p": 0.0014255167498218105,
+          "n_target": 1381,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 2135,
+          "k_train": 3,
+          "p": 0.001405152224824356,
+          "n_target": 1907,
+          "k_target": 1
+        }
+      ]
+    },
+    "0.1": {
+      "n": 182902,
+      "binary_log_loss": 0.012163490226367894,
+      "infinite_log_loss": false,
+      "zero_probability_observations": 0,
+      "brier": 0.0024219899123397023,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 44807,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44571,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 10876,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10568,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 3086,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2967,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 2695,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2678,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 286,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 296,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 939,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 913,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 560,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 529,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 747,
+          "k_train": 0,
+          "p": 0.00013383297644539615,
+          "n_target": 702,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 32313,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32587,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 13284,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13125,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 4608,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4303,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 4731,
+          "k_train": 0,
+          "p": 2.1136286777138995e-05,
+          "n_target": 4499,
+          "k_target": 0
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 1371,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1413,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 2093,
+          "k_train": 0,
+          "p": 4.7773743550544626e-05,
+          "n_target": 2000,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 1282,
+          "k_train": 0,
+          "p": 7.799095304944626e-05,
+          "n_target": 1239,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 1618,
+          "k_train": 0,
+          "p": 6.179705846001731e-05,
+          "n_target": 1503,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 25665,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25983,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 13428,
+          "k_train": 292,
+          "p": 0.02175272933081128,
+          "n_target": 13530,
+          "k_target": 341
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 5675,
+          "k_train": 18,
+          "p": 0.0031893149140118414,
+          "n_target": 5560,
+          "k_target": 22
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 5661,
+          "k_train": 23,
+          "p": 0.0040804069808521165,
+          "n_target": 5481,
+          "k_target": 20
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 2318,
+          "k_train": 2,
+          "p": 0.0009058752480372704,
+          "n_target": 2345,
+          "k_target": 3
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 2915,
+          "k_train": 52,
+          "p": 0.017871844127332604,
+          "n_target": 2822,
+          "k_target": 65
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 1403,
+          "k_train": 2,
+          "p": 0.0014965792474344356,
+          "n_target": 1381,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 2135,
+          "k_train": 3,
+          "p": 0.0014518546272011992,
+          "n_target": 1907,
+          "k_target": 1
+        }
+      ]
+    },
+    "0.5": {
+      "n": 182902,
+      "binary_log_loss": 0.012174513560936238,
+      "infinite_log_loss": false,
+      "zero_probability_observations": 0,
+      "brier": 0.0024219643484439148,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 44807,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44571,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 10876,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10568,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 3086,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2967,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 2695,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2678,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 286,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 296,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 939,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 913,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 560,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 529,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 747,
+          "k_train": 0,
+          "p": 0.0006684491978609625,
+          "n_target": 702,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 32313,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32587,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 13284,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13125,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 4608,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4303,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 4731,
+          "k_train": 0,
+          "p": 0.00010566356720202873,
+          "n_target": 4499,
+          "k_target": 0
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 1371,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1413,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 2093,
+          "k_train": 0,
+          "p": 0.0002387774594078319,
+          "n_target": 2000,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 1282,
+          "k_train": 0,
+          "p": 0.0003897116134060795,
+          "n_target": 1239,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 1618,
+          "k_train": 0,
+          "p": 0.00030883261272390367,
+          "n_target": 1503,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 25665,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25983,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 13428,
+          "k_train": 292,
+          "p": 0.021781219748305904,
+          "n_target": 13530,
+          "k_target": 341
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 5675,
+          "k_train": 18,
+          "p": 0.0032593375616631432,
+          "n_target": 5560,
+          "k_target": 22
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 5661,
+          "k_train": 23,
+          "p": 0.0041504768632991875,
+          "n_target": 5481,
+          "k_target": 20
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 2318,
+          "k_train": 2,
+          "p": 0.0010780508840017248,
+          "n_target": 2345,
+          "k_target": 3
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 2915,
+          "k_train": 52,
+          "p": 0.01800411522633745,
+          "n_target": 2822,
+          "k_target": 65
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 1403,
+          "k_train": 2,
+          "p": 0.0017806267806267807,
+          "n_target": 1381,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 2135,
+          "k_train": 3,
+          "p": 0.0016385767790262173,
+          "n_target": 1907,
+          "k_target": 1
+        }
+      ]
+    },
+    "1": {
+      "n": 182902,
+      "binary_log_loss": 0.012189307758101705,
+      "infinite_log_loss": false,
+      "zero_probability_observations": 0,
+      "brier": 0.0024219458968730984,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 44807,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44571,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 10876,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10568,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 3086,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2967,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 2695,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2678,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 286,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 296,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 939,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 913,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 560,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 529,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 747,
+          "k_train": 0,
+          "p": 0.0013351134846461949,
+          "n_target": 702,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 32313,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32587,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 13284,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13125,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 4608,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4303,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 4731,
+          "k_train": 0,
+          "p": 0.00021128248468201986,
+          "n_target": 4499,
+          "k_target": 0
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 1371,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1413,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 2093,
+          "k_train": 0,
+          "p": 0.00047732696897374703,
+          "n_target": 2000,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 1282,
+          "k_train": 0,
+          "p": 0.000778816199376947,
+          "n_target": 1239,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 1618,
+          "k_train": 0,
+          "p": 0.0006172839506172839,
+          "n_target": 1503,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 25665,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25983,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 13428,
+          "k_train": 292,
+          "p": 0.021816827997021594,
+          "n_target": 13530,
+          "k_target": 341
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 5675,
+          "k_train": 18,
+          "p": 0.0033468381187246785,
+          "n_target": 5560,
+          "k_target": 22
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 5661,
+          "k_train": 23,
+          "p": 0.004238036376478898,
+          "n_target": 5481,
+          "k_target": 20
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 2318,
+          "k_train": 2,
+          "p": 0.001293103448275862,
+          "n_target": 2345,
+          "k_target": 3
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 2915,
+          "k_train": 52,
+          "p": 0.01816935207404868,
+          "n_target": 2822,
+          "k_target": 65
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 1403,
+          "k_train": 2,
+          "p": 0.002135231316725979,
+          "n_target": 1381,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 2135,
+          "k_train": 3,
+          "p": 0.0018717828731867104,
+          "n_target": 1907,
+          "k_target": 1
+        }
+      ]
+    }
+  },
+  "known_reference_2023_2024_to_2025": {
+    "0": {
+      "n": 183380,
+      "binary_log_loss": null,
+      "infinite_log_loss": true,
+      "zero_probability_observations": 1,
+      "brier": 0.0024208568448629603,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 89378,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44691,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 21444,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10629,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 6053,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2994,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 5373,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2721,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 582,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 278,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 1852,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 917,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 1089,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 542,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 1449,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 735,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 64900,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32454,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 26409,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13143,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 8911,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4420,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 9230,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 4685,
+          "k_target": 1
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 2784,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1353,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 4093,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 2040,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 2521,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 1291,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 3121,
+          "k_train": 0,
+          "p": 0.0,
+          "n_target": 1577,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 51648,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25775,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 26958,
+          "k_train": 633,
+          "p": 0.023480970398397506,
+          "n_target": 13536,
+          "k_target": 346
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 11235,
+          "k_train": 40,
+          "p": 0.0035603026257231864,
+          "n_target": 5582,
+          "k_target": 15
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 11142,
+          "k_train": 43,
+          "p": 0.003859271225991743,
+          "n_target": 5527,
+          "k_target": 31
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 4663,
+          "k_train": 5,
+          "p": 0.001072271070126528,
+          "n_target": 2291,
+          "k_target": 1
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 5737,
+          "k_train": 117,
+          "p": 0.02039393411190518,
+          "n_target": 2894,
+          "k_target": 56
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 2784,
+          "k_train": 3,
+          "p": 0.0010775862068965517,
+          "n_target": 1377,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 4042,
+          "k_train": 4,
+          "p": 0.0009896091044037606,
+          "n_target": 1928,
+          "k_target": 3
+        }
+      ]
+    },
+    "0.1": {
+      "n": 183380,
+      "binary_log_loss": 0.01220320518658252,
+      "infinite_log_loss": false,
+      "zero_probability_observations": 0,
+      "brier": 0.0024208560375994026,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 89378,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44691,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 21444,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10629,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 6053,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2994,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 5373,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2721,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 582,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 278,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 1852,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 917,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 1089,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 542,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 1449,
+          "k_train": 0,
+          "p": 6.90035881865857e-05,
+          "n_target": 735,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 64900,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32454,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 26409,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13143,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 8911,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4420,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 9230,
+          "k_train": 0,
+          "p": 1.0834001430088188e-05,
+          "n_target": 4685,
+          "k_target": 1
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 2784,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1353,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 4093,
+          "k_train": 0,
+          "p": 2.44307632170429e-05,
+          "n_target": 2040,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 2521,
+          "k_train": 0,
+          "p": 3.966365222909726e-05,
+          "n_target": 1291,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 3121,
+          "k_train": 0,
+          "p": 3.203895937459952e-05,
+          "n_target": 1577,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 51648,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25775,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 26958,
+          "k_train": 633,
+          "p": 0.023484505642068092,
+          "n_target": 13536,
+          "k_target": 346
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 11235,
+          "k_train": 40,
+          "p": 0.0035691398461976643,
+          "n_target": 5582,
+          "k_target": 15
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 11142,
+          "k_train": 43,
+          "p": 0.003868176841198327,
+          "n_target": 5527,
+          "k_target": 31
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 4663,
+          "k_train": 5,
+          "p": 0.0010936695831188883,
+          "n_target": 2291,
+          "k_target": 1
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 5737,
+          "k_train": 117,
+          "p": 0.020410653280345813,
+          "n_target": 2894,
+          "k_target": 56
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 2784,
+          "k_train": 3,
+          "p": 0.0011134257596437038,
+          "n_target": 1377,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 4042,
+          "k_train": 4,
+          "p": 0.0010142991440304785,
+          "n_target": 1928,
+          "k_target": 3
+        }
+      ]
+    },
+    "0.5": {
+      "n": 183380,
+      "binary_log_loss": 0.012200296841432956,
+      "infinite_log_loss": false,
+      "zero_probability_observations": 0,
+      "brier": 0.002420854417120041,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 89378,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44691,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 21444,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10629,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 6053,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2994,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 5373,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2721,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 582,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 278,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 1852,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 917,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 1089,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 542,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 1449,
+          "k_train": 0,
+          "p": 0.0003448275862068965,
+          "n_target": 735,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 64900,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32454,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 26409,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13143,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 8911,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4420,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 9230,
+          "k_train": 0,
+          "p": 5.416531253385332e-05,
+          "n_target": 4685,
+          "k_target": 1
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 2784,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1353,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 4093,
+          "k_train": 0,
+          "p": 0.00012212994626282364,
+          "n_target": 2040,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 2521,
+          "k_train": 0,
+          "p": 0.00019825535289452815,
+          "n_target": 1291,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 3121,
+          "k_train": 0,
+          "p": 0.00016015374759769378,
+          "n_target": 1577,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 51648,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25775,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 26958,
+          "k_train": 633,
+          "p": 0.023498646092214102,
+          "n_target": 13536,
+          "k_target": 346
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 11235,
+          "k_train": 40,
+          "p": 0.0036044855820576717,
+          "n_target": 5582,
+          "k_target": 15
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 11142,
+          "k_train": 43,
+          "p": 0.003903796105178139,
+          "n_target": 5527,
+          "k_target": 31
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 4663,
+          "k_train": 5,
+          "p": 0.0011792452830188679,
+          "n_target": 2291,
+          "k_target": 1
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 5737,
+          "k_train": 117,
+          "p": 0.020477518299058906,
+          "n_target": 2894,
+          "k_target": 56
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 2784,
+          "k_train": 3,
+          "p": 0.0012567324955116697,
+          "n_target": 1377,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 4042,
+          "k_train": 4,
+          "p": 0.001113034875092753,
+          "n_target": 1928,
+          "k_target": 3
+        }
+      ]
+    },
+    "1": {
+      "n": 183380,
+      "binary_log_loss": 0.012204203337471683,
+      "infinite_log_loss": false,
+      "zero_probability_observations": 0,
+      "brier": 0.002420856005453893,
+      "structurally_impossible_mass": 0.0,
+      "states": [
+        {
+          "pre_state": 0,
+          "legal": false,
+          "n_train": 89378,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 44691,
+          "k_target": 0
+        },
+        {
+          "pre_state": 1,
+          "legal": false,
+          "n_train": 21444,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 10629,
+          "k_target": 0
+        },
+        {
+          "pre_state": 2,
+          "legal": false,
+          "n_train": 6053,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2994,
+          "k_target": 0
+        },
+        {
+          "pre_state": 3,
+          "legal": false,
+          "n_train": 5373,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 2721,
+          "k_target": 0
+        },
+        {
+          "pre_state": 4,
+          "legal": false,
+          "n_train": 582,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 278,
+          "k_target": 0
+        },
+        {
+          "pre_state": 5,
+          "legal": false,
+          "n_train": 1852,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 917,
+          "k_target": 0
+        },
+        {
+          "pre_state": 6,
+          "legal": false,
+          "n_train": 1089,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 542,
+          "k_target": 0
+        },
+        {
+          "pre_state": 7,
+          "legal": true,
+          "n_train": 1449,
+          "k_train": 0,
+          "p": 0.0006891798759476223,
+          "n_target": 735,
+          "k_target": 0
+        },
+        {
+          "pre_state": 8,
+          "legal": false,
+          "n_train": 64900,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 32454,
+          "k_target": 0
+        },
+        {
+          "pre_state": 9,
+          "legal": false,
+          "n_train": 26409,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 13143,
+          "k_target": 0
+        },
+        {
+          "pre_state": 10,
+          "legal": false,
+          "n_train": 8911,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 4420,
+          "k_target": 0
+        },
+        {
+          "pre_state": 11,
+          "legal": true,
+          "n_train": 9230,
+          "k_train": 0,
+          "p": 0.00010831889081455805,
+          "n_target": 4685,
+          "k_target": 1
+        },
+        {
+          "pre_state": 12,
+          "legal": false,
+          "n_train": 2784,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 1353,
+          "k_target": 0
+        },
+        {
+          "pre_state": 13,
+          "legal": true,
+          "n_train": 4093,
+          "k_train": 0,
+          "p": 0.0002442002442002442,
+          "n_target": 2040,
+          "k_target": 0
+        },
+        {
+          "pre_state": 14,
+          "legal": true,
+          "n_train": 2521,
+          "k_train": 0,
+          "p": 0.00039635354736424893,
+          "n_target": 1291,
+          "k_target": 0
+        },
+        {
+          "pre_state": 15,
+          "legal": true,
+          "n_train": 3121,
+          "k_train": 0,
+          "p": 0.0003202049311559398,
+          "n_target": 1577,
+          "k_target": 0
+        },
+        {
+          "pre_state": 16,
+          "legal": false,
+          "n_train": 51648,
+          "k_train": 0,
+          "p": 0,
+          "n_target": 25775,
+          "k_target": 0
+        },
+        {
+          "pre_state": 17,
+          "legal": true,
+          "n_train": 26958,
+          "k_train": 633,
+          "p": 0.023516320474777447,
+          "n_target": 13536,
+          "k_target": 346
+        },
+        {
+          "pre_state": 18,
+          "legal": true,
+          "n_train": 11235,
+          "k_train": 40,
+          "p": 0.003648660674557266,
+          "n_target": 5582,
+          "k_target": 15
+        },
+        {
+          "pre_state": 19,
+          "legal": true,
+          "n_train": 11142,
+          "k_train": 43,
+          "p": 0.003948312993539124,
+          "n_target": 5527,
+          "k_target": 31
+        },
+        {
+          "pre_state": 20,
+          "legal": true,
+          "n_train": 4663,
+          "k_train": 5,
+          "p": 0.0012861736334405145,
+          "n_target": 2291,
+          "k_target": 1
+        },
+        {
+          "pre_state": 21,
+          "legal": true,
+          "n_train": 5737,
+          "k_train": 117,
+          "p": 0.020561073357727826,
+          "n_target": 2894,
+          "k_target": 56
+        },
+        {
+          "pre_state": 22,
+          "legal": true,
+          "n_train": 2784,
+          "k_train": 3,
+          "p": 0.0014357501794687725,
+          "n_target": 1377,
+          "k_target": 1
+        },
+        {
+          "pre_state": 23,
+          "legal": true,
+          "n_train": 4042,
+          "k_train": 4,
+          "p": 0.0012363996043521265,
+          "n_target": 1928,
+          "k_target": 3
+        }
+      ]
+    }
+  },
+  "predictive_selection": "MLE retained: no log-loss improvement on 2024; Jeffreys is opt-in generative coverage, not an accuracy upgrade",
+  "posterior_support_policy": "Jeffreys Beta(.5,.5) on legal states; structural mask first; legal generated retirements supplied",
+  "pa_taxonomy": {
+    "other_pa_training_count": 0,
+    "observed_counts_by_year": {
+      "2023": {
+        "double": 8228,
+        "fielders_choice": 671,
+        "hit_by_pitch": 2112,
+        "home_run": 5868,
+        "interference": 96,
+        "other_out": 79999,
+        "reached_on_error": 1066,
+        "sacrifice_bunt": 429,
+        "sacrifice_fly": 1230,
+        "single": 26031,
+        "strikeout": 41843,
+        "triple": 712,
+        "walk": 15819
+      },
+      "2024": {
+        "double": 7771,
+        "fielders_choice": 702,
+        "hit_by_pitch": 2020,
+        "home_run": 5453,
+        "interference": 100,
+        "other_out": 80853,
+        "reached_on_error": 1112,
+        "sacrifice_bunt": 452,
+        "sacrifice_fly": 1261,
+        "single": 25902,
+        "strikeout": 41197,
+        "triple": 697,
+        "walk": 14929
+      },
+      "2025": {
+        "double": 7745,
+        "fielders_choice": 720,
+        "hit_by_pitch": 1928,
+        "home_run": 5650,
+        "interference": 88,
+        "other_out": 81153,
+        "reached_on_error": 1008,
+        "sacrifice_bunt": 560,
+        "sacrifice_fly": 1307,
+        "single": 26115,
+        "strikeout": 40645,
+        "triple": 628,
+        "walk": 15379
+      }
+    },
+    "policy": "retire nonsemantic placeholder; unknown future labels quarantined, never mapped to out"
+  },
+  "distribution_changes": [
+    {
+      "pre_state": 0,
+      "total_variation": 1.3819274294779664e-06,
+      "retired_placeholder_mass": 1.3819274294629693e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 1,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 2,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 3,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 4,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 5,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 6,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 7,
+      "total_variation": 0.0003448275862068933,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0003448275862068965
+    },
+    {
+      "pre_state": 8,
+      "total_variation": 1.3819274294779664e-06,
+      "retired_placeholder_mass": 1.3819274294629693e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 9,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 10,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 11,
+      "total_variation": 5.416531253385442e-05,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 5.416531253385332e-05
+    },
+    {
+      "pre_state": 12,
+      "total_variation": 1.364033173308918e-06,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 13,
+      "total_variation": 0.00012212994626277997,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.00012212994626282364
+    },
+    {
+      "pre_state": 14,
+      "total_variation": 0.00019825535289451406,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.00019825535289452815
+    },
+    {
+      "pre_state": 15,
+      "total_variation": 0.00016015374759766114,
+      "retired_placeholder_mass": 1.3640331732867742e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.00016015374759769378
+    },
+    {
+      "pre_state": 16,
+      "total_variation": 1.3819274294779664e-06,
+      "retired_placeholder_mass": 1.3819274294629693e-06,
+      "old_terminal": 0.0,
+      "new_terminal": 0.0
+    },
+    {
+      "pre_state": 17,
+      "total_variation": 1.7675693816603172e-05,
+      "retired_placeholder_mass": 1.3443749770801301e-06,
+      "old_terminal": 0.023480970398397506,
+      "new_terminal": 0.023498646092214102
+    },
+    {
+      "pre_state": 18,
+      "total_variation": 4.418295633449883e-05,
+      "retired_placeholder_mass": 1.3717997854745306e-06,
+      "old_terminal": 0.0035603026257231864,
+      "new_terminal": 0.0036044855820576717
+    },
+    {
+      "pre_state": 19,
+      "total_variation": 4.452487918639111e-05,
+      "retired_placeholder_mass": 1.371388195026265e-06,
+      "old_terminal": 0.003859271225991743,
+      "new_terminal": 0.003903796105178139
+    },
+    {
+      "pre_state": 20,
+      "total_variation": 0.00010697421289231154,
+      "retired_placeholder_mass": 1.375225061648508e-06,
+      "old_terminal": 0.001072271070126528,
+      "new_terminal": 0.0011792452830188679
+    },
+    {
+      "pre_state": 21,
+      "total_variation": 8.358418715374165e-05,
+      "retired_placeholder_mass": 1.348624903821027e-06,
+      "old_terminal": 0.02039393411190518,
+      "new_terminal": 0.020477518299058906
+    },
+    {
+      "pre_state": 22,
+      "total_variation": 0.00017914628861509014,
+      "retired_placeholder_mass": 1.3752177442930272e-06,
+      "old_terminal": 0.0010775862068965517,
+      "new_terminal": 0.0012567324955116697
+    },
+    {
+      "pre_state": 23,
+      "total_variation": 0.00012342577068901668,
+      "retired_placeholder_mass": 1.3753388624807553e-06,
+      "old_terminal": 0.0009896091044037606,
+      "new_terminal": 0.001113034875092753
+    }
+  ],
+  "support_grid": [
+    {
+      "pre_state": 0,
+      "outcome": "single",
+      "probability": 0.14353685467354682,
+      "empirical_n": 12668,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "double",
+      "probability": 0.04422035692470973,
+      "empirical_n": 3946,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "triple",
+      "probability": 0.0038956588071738718,
+      "empirical_n": 376,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "home_run",
+      "probability": 0.031291026027257175,
+      "empirical_n": 2929,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 0,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 0,
+      "outcome": "hit_by_pitch",
+      "probability": 0.01142164598839732,
+      "empirical_n": 928,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "walk",
+      "probability": 0.08498450857210768,
+      "empirical_n": 6901,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "strikeout",
+      "probability": 0.2295122065818531,
+      "empirical_n": 20108,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "interference",
+      "probability": 0.0005430982303012882,
+      "empirical_n": 36,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "reached_on_error",
+      "probability": 0.006021066130846599,
+      "empirical_n": 646,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "fielders_choice",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 0,
+      "outcome": "other_out",
+      "probability": 0.4445735780638065,
+      "empirical_n": 40785,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 0,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 1,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 3306,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 997,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 77,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 675,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 308,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 18,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 280,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 1617,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 4428,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 17,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 65,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 145,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 9429,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 1,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 2,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 747,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 216,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 18,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 133,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 128,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 11,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 55,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 402,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 925,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 2,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 31,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 71,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 2109,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 2,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 3,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 739,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 229,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 20,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 158,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 220,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 8,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 63,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 394,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 1098,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 4,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 16,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 60,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 2167,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 3,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 4,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 105,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 24,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 3,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 20,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 73,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 9,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 49,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 113,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 1,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 4,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 4,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 169,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 4,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 5,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 319,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 92,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 7,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 63,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 10,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 227,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 21,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 126,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 341,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 4,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 63,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 455,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 5,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 6,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 160,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 55,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 1,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 34,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 146,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 8,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 95,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 204,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 2,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 8,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 24,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 337,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 6,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 7,
+      "outcome": "single",
+      "probability": 0.14162937230259134,
+      "empirical_n": 197,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "double",
+      "probability": 0.04363270609828549,
+      "empirical_n": 58,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "triple",
+      "probability": 0.0038438888243715994,
+      "empirical_n": 6,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "home_run",
+      "probability": 0.030875194980576847,
+      "empirical_n": 39,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024039645254938383,
+      "empirical_n": 1,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006794642785329436,
+      "empirical_n": 191,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011269862055137024,
+      "empirical_n": 13,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "walk",
+      "probability": 0.08385513693947508,
+      "empirical_n": 73,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "strikeout",
+      "probability": 0.22646218511545219,
+      "empirical_n": 290,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "interference",
+      "probability": 0.0005358809180482578,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "reached_on_error",
+      "probability": 0.005941051297547733,
+      "empirical_n": 3,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "fielders_choice",
+      "probability": 0.0037457121676299342,
+      "empirical_n": 15,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "other_out",
+      "probability": 0.43866557440385434,
+      "empirical_n": 475,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 7,
+      "outcome": "runner_only_end",
+      "probability": 0.0003448275862068965,
+      "empirical_n": 0,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "single",
+      "probability": 0.14353685467354682,
+      "empirical_n": 8915,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "double",
+      "probability": 0.04422035692470973,
+      "empirical_n": 2785,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "triple",
+      "probability": 0.0038956588071738718,
+      "empirical_n": 255,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "home_run",
+      "probability": 0.031291026027257175,
+      "empirical_n": 2006,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 8,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 8,
+      "outcome": "hit_by_pitch",
+      "probability": 0.01142164598839732,
+      "empirical_n": 646,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "walk",
+      "probability": 0.08498450857210768,
+      "empirical_n": 5073,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "strikeout",
+      "probability": 0.2295122065818531,
+      "empirical_n": 15359,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "interference",
+      "probability": 0.0005430982303012882,
+      "empirical_n": 17,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "reached_on_error",
+      "probability": 0.006021066130846599,
+      "empirical_n": 460,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "fielders_choice",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 8,
+      "outcome": "other_out",
+      "probability": 0.4445735780638065,
+      "empirical_n": 29324,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 8,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 9,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 3982,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 1112,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 107,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 858,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 51,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 16,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 320,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 2189,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 5739,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 23,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 89,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 177,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 11593,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 9,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 10,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 1233,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 343,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 30,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 247,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 1,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 41,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 120,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 785,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 1783,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 5,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 50,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 108,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 3625,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 10,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 11,
+      "outcome": "single",
+      "probability": 0.14167055281814148,
+      "empirical_n": 1225,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "double",
+      "probability": 0.04364539285459008,
+      "empirical_n": 425,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "triple",
+      "probability": 0.003845006483236646,
+      "empirical_n": 32,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "home_run",
+      "probability": 0.030884172330587933,
+      "empirical_n": 272,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024046635083172074,
+      "empirical_n": 9,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796618412901103,
+      "empirical_n": 31,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273138908815495,
+      "empirical_n": 134,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "walk",
+      "probability": 0.08387951887179994,
+      "empirical_n": 705,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "strikeout",
+      "probability": 0.2265280318348441,
+      "empirical_n": 1989,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "interference",
+      "probability": 0.000536036732143314,
+      "empirical_n": 9,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "reached_on_error",
+      "probability": 0.005942778732693178,
+      "empirical_n": 29,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "fielders_choice",
+      "probability": 0.00374680128040123,
+      "empirical_n": 95,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "other_out",
+      "probability": 0.43879312191899444,
+      "empirical_n": 4056,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 11,
+      "outcome": "runner_only_end",
+      "probability": 5.416531253385332e-05,
+      "empirical_n": 0,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "single",
+      "probability": 0.14167822686357878,
+      "empirical_n": 447,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "double",
+      "probability": 0.04364775704899204,
+      "empirical_n": 121,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "triple",
+      "probability": 0.0038452147604959084,
+      "empirical_n": 7,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "home_run",
+      "probability": 0.030885845272049968,
+      "empirical_n": 60,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024047937647230532,
+      "empirical_n": 8,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796986573803162,
+      "empirical_n": 323,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011273749554983569,
+      "empirical_n": 31,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "walk",
+      "probability": 0.08388406247826069,
+      "empirical_n": 237,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "strikeout",
+      "probability": 0.22654030246112844,
+      "empirical_n": 503,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "interference",
+      "probability": 0.0005360657683131934,
+      "empirical_n": 1,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "reached_on_error",
+      "probability": 0.005943100642596904,
+      "empirical_n": 17,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "fielders_choice",
+      "probability": 0.0037470042380568502,
+      "empirical_n": 113,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "other_out",
+      "probability": 0.4388168905730175,
+      "empirical_n": 597,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 12,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 13,
+      "outcome": "single",
+      "probability": 0.14166092370934533,
+      "empirical_n": 656,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "double",
+      "probability": 0.043642426350769155,
+      "empirical_n": 187,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "triple",
+      "probability": 0.00384474514462384,
+      "empirical_n": 14,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "home_run",
+      "probability": 0.03088207318542661,
+      "empirical_n": 94,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024045000673897947,
+      "empirical_n": 35,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006796156458198154,
+      "empirical_n": 532,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011272372692556239,
+      "empirical_n": 46,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "walk",
+      "probability": 0.08387381772221791,
+      "empirical_n": 306,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "strikeout",
+      "probability": 0.2265126351061625,
+      "empirical_n": 794,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "interference",
+      "probability": 0.000536000298629716,
+      "empirical_n": 3,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "reached_on_error",
+      "probability": 0.0059423748120347895,
+      "empirical_n": 9,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "fielders_choice",
+      "probability": 0.0037465466166306098,
+      "empirical_n": 128,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "other_out",
+      "probability": 0.4387632978897526,
+      "empirical_n": 1130,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 13,
+      "outcome": "runner_only_end",
+      "probability": 0.00012212994626282364,
+      "empirical_n": 0,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "single",
+      "probability": 0.14165013839671448,
+      "empirical_n": 391,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "double",
+      "probability": 0.04363910364751524,
+      "empirical_n": 124,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "triple",
+      "probability": 0.0038444524260866112,
+      "empirical_n": 13,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "home_run",
+      "probability": 0.03087972198789611,
+      "empirical_n": 54,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024043170014865895,
+      "empirical_n": 2,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "sacrifice_fly",
+      "probability": 0.006795639034831353,
+      "empirical_n": 320,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011271514473787101,
+      "empirical_n": 37,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "walk",
+      "probability": 0.08386743201385184,
+      "empirical_n": 318,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "strikeout",
+      "probability": 0.22649538963351917,
+      "empirical_n": 440,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "interference",
+      "probability": 0.0005359594904051218,
+      "empirical_n": 1,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "reached_on_error",
+      "probability": 0.005941922391081719,
+      "empirical_n": 13,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "fielders_choice",
+      "probability": 0.003746261374409337,
+      "empirical_n": 155,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "other_out",
+      "probability": 0.4387298927755208,
+      "empirical_n": 593,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 14,
+      "outcome": "runner_only_end",
+      "probability": 0.00019825535289452815,
+      "empirical_n": 0,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "single",
+      "probability": 0.1416555365645936,
+      "empirical_n": 406,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "double",
+      "probability": 0.04364076669712641,
+      "empirical_n": 148,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "triple",
+      "probability": 0.003844598934941697,
+      "empirical_n": 17,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "home_run",
+      "probability": 0.030880898788181926,
+      "empirical_n": 85,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0024044086279894333,
+      "empirical_n": 2,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0067958980109309956,
+      "empirical_n": 433,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "hit_by_pitch",
+      "probability": 0.01127194402174286,
+      "empirical_n": 61,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "walk",
+      "probability": 0.08387062813129108,
+      "empirical_n": 176,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "strikeout",
+      "probability": 0.22650402118270738,
+      "empirical_n": 668,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "interference",
+      "probability": 0.0005359799153714393,
+      "empirical_n": 2,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "reached_on_error",
+      "probability": 0.005942148832756642,
+      "empirical_n": 4,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "fielders_choice",
+      "probability": 0.003746404141285861,
+      "empirical_n": 35,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "other_out",
+      "probability": 0.43874661240348306,
+      "empirical_n": 950,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 15,
+      "outcome": "runner_only_end",
+      "probability": 0.00016015374759769378,
+      "empirical_n": 0,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "single",
+      "probability": 0.14353685467354682,
+      "empirical_n": 6838,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "double",
+      "probability": 0.04422035692470973,
+      "empirical_n": 2180,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "triple",
+      "probability": 0.0038956588071738718,
+      "empirical_n": 156,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "home_run",
+      "probability": 0.031291026027257175,
+      "empirical_n": 1489,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 16,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 16,
+      "outcome": "hit_by_pitch",
+      "probability": 0.01142164598839732,
+      "empirical_n": 538,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "walk",
+      "probability": 0.08498450857210768,
+      "empirical_n": 4353,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "strikeout",
+      "probability": 0.2295122065818531,
+      "empirical_n": 12578,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "interference",
+      "probability": 0.0005430982303012882,
+      "empirical_n": 22,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "reached_on_error",
+      "probability": 0.006021066130846599,
+      "empirical_n": 346,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "fielders_choice",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 16,
+      "outcome": "other_out",
+      "probability": 0.4445735780638065,
+      "empirical_n": 23013,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 16,
+      "outcome": "runner_only_end",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 17,
+      "outcome": "single",
+      "probability": 0.13963386046334322,
+      "empirical_n": 3797,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "double",
+      "probability": 0.043017935445969546,
+      "empirical_n": 1150,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "triple",
+      "probability": 0.003789729679745872,
+      "empirical_n": 100,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "home_run",
+      "probability": 0.030440173514893858,
+      "empirical_n": 801,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 17,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 17,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011111073360446836,
+      "empirical_n": 262,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "walk",
+      "probability": 0.08267364530519046,
+      "empirical_n": 2253,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "strikeout",
+      "probability": 0.223271406506518,
+      "empirical_n": 5945,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "interference",
+      "probability": 0.0005283305300248769,
+      "empirical_n": 19,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "reached_on_error",
+      "probability": 0.005857343815059511,
+      "empirical_n": 117,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "fielders_choice",
+      "probability": 0.00369293630019933,
+      "empirical_n": 38,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "other_out",
+      "probability": 0.4324849189863944,
+      "empirical_n": 11657,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 17,
+      "outcome": "runner_only_end",
+      "probability": 0.023498646092214102,
+      "empirical_n": 625,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "single",
+      "probability": 0.14247860657822967,
+      "empirical_n": 1406,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "double",
+      "probability": 0.043894335370201994,
+      "empirical_n": 455,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "triple",
+      "probability": 0.003866937448313992,
+      "empirical_n": 42,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "home_run",
+      "probability": 0.03106032800360898,
+      "empirical_n": 326,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 18,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 18,
+      "outcome": "hit_by_pitch",
+      "probability": 0.01133743810227568,
+      "empirical_n": 132,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "walk",
+      "probability": 0.08435794688150605,
+      "empirical_n": 1295,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "strikeout",
+      "probability": 0.22782009164719266,
+      "empirical_n": 2423,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "interference",
+      "probability": 0.0005390941529575732,
+      "empirical_n": 7,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "reached_on_error",
+      "probability": 0.005976674871338794,
+      "empirical_n": 83,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "fielders_choice",
+      "probability": 0.0037681721073141313,
+      "empirical_n": 20,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "other_out",
+      "probability": 0.4412958892550028,
+      "empirical_n": 4704,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 18,
+      "outcome": "runner_only_end",
+      "probability": 0.0036044855820576717,
+      "empirical_n": 40,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "single",
+      "probability": 0.14243580696135932,
+      "empirical_n": 1450,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "double",
+      "probability": 0.04388114980654623,
+      "empirical_n": 489,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "triple",
+      "probability": 0.0038657758462656276,
+      "empirical_n": 43,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "home_run",
+      "probability": 0.03105099768960362,
+      "empirical_n": 314,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 19,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 19,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011334032411984893,
+      "empirical_n": 150,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "walk",
+      "probability": 0.08433260632060918,
+      "empirical_n": 1003,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "strikeout",
+      "probability": 0.22775165602115705,
+      "empirical_n": 2589,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "interference",
+      "probability": 0.0005389322126932926,
+      "empirical_n": 9,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "reached_on_error",
+      "probability": 0.005974879518332507,
+      "empirical_n": 49,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "fielders_choice",
+      "probability": 0.0037670401737111316,
+      "empirical_n": 20,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "other_out",
+      "probability": 0.441163326932559,
+      "empirical_n": 4744,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 19,
+      "outcome": "runner_only_end",
+      "probability": 0.003903796105178139,
+      "empirical_n": 43,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "single",
+      "probability": 0.14282540145378295,
+      "empirical_n": 555,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "double",
+      "probability": 0.04400117478236206,
+      "empirical_n": 182,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "triple",
+      "probability": 0.003876349626909549,
+      "empirical_n": 16,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "home_run",
+      "probability": 0.031135929266446583,
+      "empirical_n": 115,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 20,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 20,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011365033581556374,
+      "empirical_n": 45,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "walk",
+      "probability": 0.08456327527706865,
+      "empirical_n": 527,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "strikeout",
+      "probability": 0.22837460886369806,
+      "empirical_n": 1021,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "interference",
+      "probability": 0.0005404063154932433,
+      "empirical_n": 4,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "reached_on_error",
+      "probability": 0.005991222179654098,
+      "empirical_n": 26,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "fielders_choice",
+      "probability": 0.0037773438897199473,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "other_out",
+      "probability": 0.44237000948028965,
+      "empirical_n": 1927,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 20,
+      "outcome": "runner_only_end",
+      "probability": 0.0011792452830188679,
+      "empirical_n": 5,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "single",
+      "probability": 0.14006586369101226,
+      "empirical_n": 787,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "double",
+      "probability": 0.04315102556392984,
+      "empirical_n": 242,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "triple",
+      "probability": 0.003801454453724124,
+      "empirical_n": 12,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "home_run",
+      "probability": 0.030534350193570533,
+      "empirical_n": 164,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 21,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 21,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011145449116718652,
+      "empirical_n": 67,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "walk",
+      "probability": 0.08292942339151203,
+      "empirical_n": 534,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "strikeout",
+      "probability": 0.22396216996415616,
+      "empirical_n": 1226,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "interference",
+      "probability": 0.0005299650941162046,
+      "empirical_n": 2,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "reached_on_error",
+      "probability": 0.005875465432733595,
+      "empirical_n": 31,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "fielders_choice",
+      "probability": 0.0037043616120539797,
+      "empirical_n": 4,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "other_out",
+      "probability": 0.4338229531874137,
+      "empirical_n": 2398,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 21,
+      "outcome": "runner_only_end",
+      "probability": 0.020477518299058906,
+      "empirical_n": 116,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "single",
+      "probability": 0.1428143212452675,
+      "empirical_n": 361,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "double",
+      "probability": 0.04399776122856455,
+      "empirical_n": 99,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "triple",
+      "probability": 0.0038760489047571325,
+      "empirical_n": 16,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "home_run",
+      "probability": 0.031133513781630276,
+      "empirical_n": 72,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 22,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 22,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011364151897061973,
+      "empirical_n": 36,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "walk",
+      "probability": 0.0845567149683751,
+      "empirical_n": 373,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "strikeout",
+      "probability": 0.22835689185915906,
+      "empirical_n": 603,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "interference",
+      "probability": 0.0005403643914755421,
+      "empirical_n": 3,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "reached_on_error",
+      "probability": 0.005990757388445131,
+      "empirical_n": 14,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "fielders_choice",
+      "probability": 0.0037770508483035985,
+      "empirical_n": 6,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "other_out",
+      "probability": 0.44233569099144854,
+      "empirical_n": 1141,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 22,
+      "outcome": "runner_only_end",
+      "probability": 0.0012567324955116697,
+      "empirical_n": 3,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "single",
+      "probability": 0.1428348691466075,
+      "empirical_n": 506,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "double",
+      "probability": 0.04400409155768717,
+      "empirical_n": 163,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "triple",
+      "probability": 0.0038766065846157736,
+      "empirical_n": 23,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "home_run",
+      "probability": 0.031137993222935426,
+      "empirical_n": 129,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "sacrifice_bunt",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 23,
+      "outcome": "sacrifice_fly",
+      "probability": 0.0,
+      "empirical_n": 0,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": false
+    },
+    {
+      "pre_state": 23,
+      "outcome": "hit_by_pitch",
+      "probability": 0.011365786953476186,
+      "empirical_n": 60,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "walk",
+      "probability": 0.08456888085637326,
+      "empirical_n": 330,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "strikeout",
+      "probability": 0.22838974749186675,
+      "empirical_n": 878,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "interference",
+      "probability": 0.0005404421382596662,
+      "empirical_n": 5,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "reached_on_error",
+      "probability": 0.005991619329255383,
+      "empirical_n": 29,
+      "generated_terminal_available": false,
+      "declared_assumption": false,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "fielders_choice",
+      "probability": 0.0037775942844765985,
+      "empirical_n": 11,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "other_out",
+      "probability": 0.4423993335593535,
+      "empirical_n": 1771,
+      "generated_terminal_available": false,
+      "declared_assumption": true,
+      "supported": true
+    },
+    {
+      "pre_state": 23,
+      "outcome": "runner_only_end",
+      "probability": 0.001113034875092753,
+      "empirical_n": 4,
+      "generated_terminal_available": true,
+      "declared_assumption": false,
+      "supported": true
+    }
+  ],
+  "limits": [
+    "2025 known reference, never training or untouched test",
+    "Brier tiny improvement does not establish predictive superiority",
+    "generator coverage is distinct from observed empirical support",
+    "structural no-PA support excludes introducing a new batter-runner"
+  ]
+}

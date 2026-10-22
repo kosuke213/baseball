@@ -125,3 +125,5 @@ Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sour
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。
+
+第10段階では [生成順序・確率支持・858試合の統合検証](docs/data-stage10/README.md) を追加しました。原本の終点に、規則と区別した時系列の生成仮定を組み合わせる独立版です。主生成モードと原本限定モードの結果、全試合保存・再生とシーズン集計の検証はレポートを参照してください。[配布ZIP](https://raw.githubusercontent.com/kosuke213/baseball/refs/heads/codex/stage10-season-stability/data_sources/stage10/stage10_bundle.zip)、[実行方法](data_sources/stage10/README.md)、[第11段階への接続](data_sources/stage10/STAGE11.md)があります。

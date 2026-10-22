@@ -1,0 +1,18 @@
+{
+  "original_chronologies_unknown": 61,
+  "strict_mode_failure_causes": {
+    "walkoff_out_timing_unknown": 14,
+    "no_training_route:sacrifice_bunt": 1,
+    "no_training_route:fielders_choice": 6
+  },
+  "remaining": [
+    "no recovery of unknown original within-play times",
+    "generated chronological/out-type distributions not empirically calibrated",
+    "fourth-out appeals, full appeal/running-HR exceptions",
+    "full earned-run reconstruction, saves, holds, discretionary relief wins",
+    "complex mid-count substitutions, roster/eligibility/rotation/fatigue",
+    "standalone no-PA walkoff hazard",
+    "NPB calibration and individual abilities"
+  ],
+  "policy": "unknown records remain null/manual; unknown PA taxonomy quarantined; no silent approximation or resampling"
+}

@@ -1,0 +1,70 @@
+{
+  "version": "stability-coverage-1",
+  "items": {
+    "pa_ab": {
+      "level": "B",
+      "condition": "complete windows; no mid-count batter replacement; OBR 9.02(a)",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "h_double_triple_hr": {
+      "level": "B",
+      "condition": "source scorer credit or declared fixed advancement; limited walkoff 9.06(f)",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "bb_hbp_k": {
+      "level": "B",
+      "condition": "complete PA credit; no mid-count attribution; OBR 9.14, 9.15",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "runs": {
+      "level": "B",
+      "condition": "identified scorers and adjudicated/known timing; OBR 5.08, 9.02(a)",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "rbi": {
+      "level": "B",
+      "condition": "per-scorer source flags or explicit unambiguous assumption; errors never inferred; OBR 9.04; generated chronology may cancel planned GDP; ambiguous error judgment remains null",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "pitching_outs_ip": {
+      "level": "A",
+      "condition": "integer outs are authoritative; .1 means 1/3 inning; OBR 9.02(c)",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "hits_allowed": {
+      "level": "B",
+      "condition": "verified hitter credits; OBR 9.02(c)",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "runs_allowed": {
+      "level": "B",
+      "condition": "known inherited-runner responsibility, simple FC transfer; OBR 9.16(g)",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "earned_runs": {
+      "level": "C",
+      "condition": "error-free inning reconstruction unimplemented",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "pitcher_win_loss": {
+      "level": "B",
+      "condition": "starter five-inning rule, one reliever; discretionary relief cases remain manual; OBR 9.17",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "save_hold": {
+      "level": "C",
+      "condition": "not implemented; hold is not a uniform OBR statistic",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "baserunning_stats": {
+      "level": "C",
+      "condition": "runner identities tracked; full SB/CS/advancement official credits not implemented",
+      "scope": "experimental generated-event counts; OBR reference, not NPB-certified"
+    },
+    "timing": {
+      "level": "B",
+      "condition": "known constraints + explicit generative linear extension; not recovered empirical chronology"
+    }
+  },
+  "full_official_record": false
+}
