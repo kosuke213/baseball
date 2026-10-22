@@ -1,0 +1,171 @@
+{
+  "zip_sha256": "73bb3bf6fdf2a9e7d3143980d1c83dc80f53457f09aedf6f0aa7cc4c44e08e9f",
+  "zip_bytes": 6162147,
+  "zip_crc_passed": true,
+  "manifest_files_verified": 113,
+  "independent_directory": "/tmp/stage9-delivery-3f9q0gvg",
+  "command": "python -S example.py --model-dir . --seed 90000 --db user.sqlite3 --journal user.jsonl",
+  "standalone": {
+    "game_id": "742d7c8fc7d778c68d83aa4dcbd023b1",
+    "status": "completed",
+    "score": [
+      1,
+      0
+    ],
+    "windows": 72,
+    "model_version": "completion-model-1:22cc8e577ad14b4c8804e88b:8e835974854350fc3faf6a710097e17b43bb7d1851567d89e7b37e5ec0420c06",
+    "rules_version": "completion-rules-1",
+    "linescore": [
+      {
+        "inning": 1,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 2,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 3,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 4,
+        "away": 1,
+        "home": 0
+      },
+      {
+        "inning": 5,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 6,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 7,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 8,
+        "away": 0,
+        "home": 0
+      },
+      {
+        "inning": 9,
+        "away": 0,
+        "home": 0
+      }
+    ],
+    "team_totals": [
+      {
+        "team_id": "AWAY",
+        "r": 1,
+        "pa": 41,
+        "ab": 33,
+        "h": 9,
+        "double": 3,
+        "triple": 0,
+        "hr": 0,
+        "bb": 8,
+        "hbp": 0,
+        "k": 4,
+        "sh": 0,
+        "sf": 0,
+        "ci": 0
+      },
+      {
+        "team_id": "HOME",
+        "r": 0,
+        "pa": 31,
+        "ab": 29,
+        "h": 2,
+        "double": 0,
+        "triple": 0,
+        "hr": 0,
+        "bb": 2,
+        "hbp": 0,
+        "k": 5,
+        "sh": 0,
+        "sf": 0,
+        "ci": 0
+      }
+    ],
+    "pitcher_decisions": {
+      "status": "determined_within_supported_rules",
+      "winner": "AWAY:P01",
+      "loser": "HOME:P01"
+    },
+    "scoring_status": {
+      "basic_counts": "verified_event_counts",
+      "rbi_complete": true,
+      "run_responsibility_complete": true,
+      "earned_runs_saves_holds": "not_implemented",
+      "full_official_record": false,
+      "coverage_version": "scoring-coverage-1",
+      "official_scope": "MLB OBR reference definitions; experimental counts, not NPB-certified records"
+    },
+    "source_actions": {
+      "empirical": 78
+    },
+    "failure": null,
+    "journal_replay_equal": true
+  },
+  "same_seed_full_journal_equal": true,
+  "idempotent_same_game_save": true,
+  "replay_with_all_inference_files_hidden": {
+    "sample_history.sqlite3": 10,
+    "empirical_only/sample_history.sqlite3": 2,
+    "user.sqlite3": 1
+  },
+  "old_stage8_frozen_api_replays": {
+    "sample_history.sqlite3": 10,
+    "empirical_only/sample_history.sqlite3": 2
+  },
+  "sqlite_integrity_and_foreign_keys_passed": true,
+  "windows_native_tested": false,
+  "pytest": {
+    "passed": 388,
+    "existing_retained": 187,
+    "new": 201,
+    "elapsed_seconds": 18.23,
+    "command": ".venv/bin/python -m pytest -q"
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1",
+    "os": "Linux-6.18.55-x86_64-with-glibc2.41"
+  },
+  "independent_raw_rebuild": {
+    "routes.json.gz": {
+      "sha256": "30211392c3ef09ef3ba36ccff2ddea76d555e73d6d073e2e4de05f81635b5e51",
+      "byte_equal": true
+    },
+    "terminal_model.json": {
+      "sha256": "43c88e81ac13ee36026f7371919e1fe88361fd77ddf6deb35e5657d47143b54b",
+      "byte_equal": true
+    },
+    "model_manifest.json": {
+      "sha256": "dcde2b599443abd77b22e7cc5874fba66562635dc10fa373e96729a0ec327827",
+      "byte_equal": true
+    },
+    "source_audit.json": {
+      "sha256": "0dd45c25b90cef5913ece9d042f4f5cc7bc704987627f540217a07b93760b858",
+      "byte_equal": true
+    }
+  },
+  "snapshot_reuse_verified": true,
+  "snapshot_id": "6ea0dda4110c1b707db91389",
+  "snapshot_code_sha256": "1929e6fe3981792180f40f34ab231e1ad3920e4940fef1377e4fa63753cc293d",
+  "snapshot_all_files_verified": true,
+  "preserved_database_sha256": {
+    "stage5": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+    "stage6": "22b9c8e637495dcbfef8c89d69539a1e83f63c8afb33bf644d6aa2944405c046",
+    "stage7": "962122950d9cf4947bdd0850ecc89955b25fe3e370bb94889a06627a387039ee"
+  }
+}

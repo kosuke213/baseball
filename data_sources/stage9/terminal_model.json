@@ -1,0 +1,257 @@
+{
+  "version": "terminal-risk-1",
+  "training_seasons": [
+    2023,
+    2024
+  ],
+  "states": {
+    "0": {
+      "pa_complete": 89378,
+      "half_end_no_pa": 0,
+      "exposure": 89378,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        4.2978067558206805e-05
+      ]
+    },
+    "1": {
+      "pa_complete": 21444,
+      "half_end_no_pa": 0,
+      "exposure": 21444,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.00017910701307959718
+      ]
+    },
+    "2": {
+      "pa_complete": 6053,
+      "half_end_no_pa": 0,
+      "exposure": 6053,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.000634234666172372
+      ]
+    },
+    "3": {
+      "pa_complete": 5373,
+      "half_end_no_pa": 0,
+      "exposure": 5373,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.0007144452463615461
+      ]
+    },
+    "4": {
+      "pa_complete": 582,
+      "half_end_no_pa": 0,
+      "exposure": 582,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        4.336808689942018e-19,
+        0.006557164507317437
+      ]
+    },
+    "5": {
+      "pa_complete": 1852,
+      "half_end_no_pa": 0,
+      "exposure": 1852,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.0020699283348994714
+      ]
+    },
+    "6": {
+      "pa_complete": 1089,
+      "half_end_no_pa": 0,
+      "exposure": 1089,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.003515110805587039
+      ]
+    },
+    "7": {
+      "pa_complete": 1449,
+      "half_end_no_pa": 0,
+      "exposure": 1449,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.0026441004951857088
+      ]
+    },
+    "8": {
+      "pa_complete": 64900,
+      "half_end_no_pa": 0,
+      "exposure": 64900,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        5.918692537068706e-05
+      ]
+    },
+    "9": {
+      "pa_complete": 26409,
+      "half_end_no_pa": 0,
+      "exposure": 26409,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.00014543905950759614
+      ]
+    },
+    "10": {
+      "pa_complete": 8911,
+      "half_end_no_pa": 0,
+      "exposure": 8911,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.00043090601649379136
+      ]
+    },
+    "11": {
+      "pa_complete": 9230,
+      "half_end_no_pa": 0,
+      "exposure": 9230,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        2.710505431213761e-20,
+        0.00041601957731519684
+      ]
+    },
+    "12": {
+      "pa_complete": 2784,
+      "half_end_no_pa": 0,
+      "exposure": 2784,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.0013779330271955744
+      ]
+    },
+    "13": {
+      "pa_complete": 4093,
+      "half_end_no_pa": 0,
+      "exposure": 4093,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.0009376635291617844
+      ]
+    },
+    "14": {
+      "pa_complete": 2521,
+      "half_end_no_pa": 0,
+      "exposure": 2521,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.0015214653606363062
+      ]
+    },
+    "15": {
+      "pa_complete": 3121,
+      "half_end_no_pa": 0,
+      "exposure": 3121,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        0.0012293291903979922
+      ]
+    },
+    "16": {
+      "pa_complete": 51648,
+      "half_end_no_pa": 0,
+      "exposure": 51648,
+      "p_half_end_no_pa": 0.0,
+      "wilson_95": [
+        0,
+        7.437215619421274e-05
+      ]
+    },
+    "17": {
+      "pa_complete": 26325,
+      "half_end_no_pa": 633,
+      "exposure": 26958,
+      "p_half_end_no_pa": 0.023480970398397506,
+      "wilson_95": [
+        0.0217401165468922,
+        0.025357610837943367
+      ]
+    },
+    "18": {
+      "pa_complete": 11195,
+      "half_end_no_pa": 40,
+      "exposure": 11235,
+      "p_half_end_no_pa": 0.0035603026257231864,
+      "wilson_95": [
+        0.002615814941044289,
+        0.004844158502650121
+      ]
+    },
+    "19": {
+      "pa_complete": 11099,
+      "half_end_no_pa": 43,
+      "exposure": 11142,
+      "p_half_end_no_pa": 0.003859271225991743,
+      "wilson_95": [
+        0.0028665585583099026,
+        0.005193977665233328
+      ]
+    },
+    "20": {
+      "pa_complete": 4658,
+      "half_end_no_pa": 5,
+      "exposure": 4663,
+      "p_half_end_no_pa": 0.001072271070126528,
+      "wilson_95": [
+        0.0004580943471077302,
+        0.0025078214532957077
+      ]
+    },
+    "21": {
+      "pa_complete": 5620,
+      "half_end_no_pa": 117,
+      "exposure": 5737,
+      "p_half_end_no_pa": 0.02039393411190518,
+      "wilson_95": [
+        0.01704454720393184,
+        0.024385173600368588
+      ]
+    },
+    "22": {
+      "pa_complete": 2781,
+      "half_end_no_pa": 3,
+      "exposure": 2784,
+      "p_half_end_no_pa": 0.0010775862068965517,
+      "wilson_95": [
+        0.000366542716930221,
+        0.0031635930408101904
+      ]
+    },
+    "23": {
+      "pa_complete": 4038,
+      "half_end_no_pa": 4,
+      "exposure": 4042,
+      "p_half_end_no_pa": 0.0009896091044037606,
+      "wilson_95": [
+        0.00038490484458228837,
+        0.0025419174101250783
+      ]
+    }
+  },
+  "estimator": "state-stratified binomial MLE; conditional PA probabilities remain frozen Stage 7",
+  "denominator": "completed PA windows (including recorded walkoff PAs) + observed normal no-PA half endings",
+  "exclusions": "no-PA game-ending and shortened windows are censored, not normal half endings",
+  "limits": [
+    "zero empirical hazard is not proof of impossibility; intervals retain positive upper bounds",
+    "no cross-state pseudocount for terminal events; sparse identities cannot be fabricated",
+    "standalone runner-only walkoff hazard not separately estimated; incomplete game-context model"
+  ]
+}

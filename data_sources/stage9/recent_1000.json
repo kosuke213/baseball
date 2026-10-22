@@ -1,0 +1,116 @@
+{
+  "attempted_games": 1000,
+  "completed_games": 995,
+  "draws": 23,
+  "failed_games": 5,
+  "game_completion_rate": 0.995,
+  "attempted_halves": 18037,
+  "third_out_completed_halves": 17941,
+  "walkoff_ended_halves": 91,
+  "half_completion_rate": 0.9997227920385874,
+  "failure_causes": {
+    "walkoff_out_timing_unknown": 5
+  },
+  "record_integrity_failures": 0,
+  "unresolved_priority_records": 0,
+  "extra_inning_rate_completed_only": 0.10552763819095477,
+  "walkoff_rate_completed_only": 0.0914572864321608,
+  "distributions_completed_only": {
+    "runs": {
+      "n": 995,
+      "mean": 8.82110552763819,
+      "sd": 4.210286911743043,
+      "min": 1,
+      "p50": 8.0,
+      "p90": 14.0,
+      "p95": 17.0,
+      "p99": 21.0,
+      "max": 25
+    },
+    "h": {
+      "n": 995,
+      "mean": 17.110552763819097,
+      "sd": 4.721396904344094,
+      "min": 4,
+      "p50": 17.0,
+      "p90": 23.0,
+      "p95": 25.0,
+      "p99": 30.0,
+      "max": 35
+    },
+    "hr": {
+      "n": 995,
+      "mean": 2.4442211055276384,
+      "sd": 1.5813469640407412,
+      "min": 0,
+      "p50": 2.0,
+      "p90": 5.0,
+      "p95": 5.0,
+      "p99": 7.0,
+      "max": 8
+    },
+    "bb": {
+      "n": 995,
+      "mean": 6.538693467336683,
+      "sd": 2.7404967131739166,
+      "min": 0,
+      "p50": 6.0,
+      "p90": 10.0,
+      "p95": 11.0,
+      "p99": 13.0,
+      "max": 17
+    },
+    "hbp": {
+      "n": 995,
+      "mean": 0.8291457286432161,
+      "sd": 0.9110073436313498,
+      "min": 0,
+      "p50": 1.0,
+      "p90": 2.0,
+      "p95": 3.0,
+      "p99": 3.0,
+      "max": 5
+    },
+    "k": {
+      "n": 995,
+      "mean": 17.474371859296483,
+      "sd": 3.795594248150296,
+      "min": 8,
+      "p50": 17.0,
+      "p90": 22.0,
+      "p95": 24.0,
+      "p99": 26.059999999999945,
+      "max": 31
+    },
+    "pa": {
+      "n": 995,
+      "mean": 76.678391959799,
+      "sd": 8.363057443660871,
+      "min": 57,
+      "p50": 75.0,
+      "p90": 87.60000000000002,
+      "p95": 93.0,
+      "p99": 104.0,
+      "max": 116
+    },
+    "windows": {
+      "n": 995,
+      "mean": 76.83417085427136,
+      "sd": 8.3599624414882,
+      "min": 57,
+      "p50": 76.0,
+      "p90": 88.0,
+      "p95": 93.0,
+      "p99": 104.0,
+      "max": 116
+    }
+  },
+  "elapsed_seconds": 0,
+  "games_per_second": null,
+  "limitations": [
+    "completed-only distributions exclude failed games and may be selection-biased",
+    "all fictional actors use league fallback; not calibrated NPB abilities",
+    "headless benchmarks are not committed official game histories",
+    "full official scoring remains incomplete even when priority counts are known"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "snapshot_id": "6ea0dda4110c1b707db91389",
+  "code_sha256": "1929e6fe3981792180f40f34ab231e1ad3920e4940fef1377e4fa63753cc293d",
+  "config": {
+    "milestones": [
+      100,
+      1000,
+      10000
+    ],
+    "strict_milestones": [
+      100,
+      1000
+    ],
+    "seed_start": 90000,
+    "strict_seed_start": 190000,
+    "game_date": "2026-04-01",
+    "season_id": "stage9-integration-2026",
+    "allow_assumptions": true,
+    "auto_relief_inning": 7,
+    "sample_histories": 10,
+    "rules": {
+      "max_innings": 12,
+      "allow_draw": true,
+      "automatic_runner_start": null,
+      "max_windows": 1500
+    }
+  },
+  "parent_stage8_sha256": "43d0003eb5bda989053c069af6cea78b88cd3b31eed24d6e8acf502b6f86b1e8",
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.41"
+  },
+  "model_version": "completion-model-1:22cc8e577ad14b4c8804e88b:8e835974854350fc3faf6a710097e17b43bb7d1851567d89e7b37e5ec0420c06",
+  "new_play_data_requests": 0,
+  "main_completed": 9938
+}

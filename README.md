@@ -120,6 +120,8 @@ Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sour
 
 第8段階では [独立した実験用フルゲームと保存・再生](docs/data-stage8/README.md) を実装しました。打席窓単位で9回制の試合を進め、延長・引き分け・自動走者を設定でき、選手別成績と変更しない試合履歴をSQLiteへ保存します。100→1,000→10,000試合の完走性、未対応による停止、成績の整合性を検証します。完全な公式記録・NPB本番リーグへの適合は未完です。[モデル・コード・評価・再生サンプルのZIP](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage8-game-engine/data_sources/stage8/stage8_bundle.zip)、[起動とAPI](data_sources/stage8/README.md)、[第9段階への接続](data_sources/stage8/STAGE9.md) を参照してください。
 
+第9段階では [完走性・公式記録・リーグ開始条件の検証](docs/data-stage9/README.md) を実施しました。旧155停止と打点未確定54試合を再現し、終了確率の母集団と限定的なサヨナラ処理を改善しています。全試合の完走保証と858試合リーグは未達です。[配布ZIP](https://raw.githubusercontent.com/kosuke213/baseball/codex/stage9-game-completion/data_sources/stage9/stage9_bundle.zip)、[起動方法](data_sources/stage9/README.md)、[第10段階への接続](data_sources/stage9/STAGE10.md) を参照してください。
+
 [検証記録](docs/validation.md) に実行済みコマンド・試合例・1,000試合の測定値を記載しています。Linux / Python 3.12でテストしました。**Windows実機での起動は未検証**です。Windows/Linux × Python 3.11/3.12のGitHub Actions設定を用意していますが、まだ実行されていません。
 
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。

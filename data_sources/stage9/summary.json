@@ -1,0 +1,61 @@
+{
+  "snapshot_id": "6ea0dda4110c1b707db91389",
+  "model_version": "completion-model-1:22cc8e577ad14b4c8804e88b:8e835974854350fc3faf6a710097e17b43bb7d1851567d89e7b37e5ec0420c06",
+  "rules_version": "completion-rules-1",
+  "engine_version": "completion-engine-1",
+  "main": {
+    "attempted_games": 10000,
+    "completed_games": 9938,
+    "draws": 218,
+    "failed_games": 62,
+    "game_completion_rate": 0.9938,
+    "failure_causes": {
+      "walkoff_out_timing_unknown": 61,
+      "no_training_route:other_pa": 1
+    },
+    "record_integrity_failures": 0,
+    "unresolved_priority_records": 0
+  },
+  "empirical_only": {
+    "attempted_games": 1000,
+    "completed_games": 986,
+    "failed_games": 14,
+    "failure_causes": {
+      "no_training_route:sacrifice_bunt": 4,
+      "walkoff_out_timing_unknown": 7,
+      "no_training_route:fielders_choice": 3
+    },
+    "record_integrity_failures": 0,
+    "unresolved_priority_records": 0
+  },
+  "league": {
+    "status": "not_run",
+    "scheduled_games": 858,
+    "schedule_validated": true,
+    "executed_games": 0,
+    "reason": "stability/priority-record gate failed; no fabricated season or standings"
+  },
+  "old155": {
+    "old_exact_reproduced": 155,
+    "old_causes": {
+      "walkoff_out_timing_unknown": 74,
+      "no_training_route:runner_only_end": 81
+    },
+    "same_walkoff_action_resolved": 3,
+    "same_walkoff_action_retained": 71,
+    "old_terminal_draws_population_redefined": 81,
+    "new_full_seed_games": {
+      "completed": 102,
+      "failed": 51,
+      "draw": 2
+    },
+    "comparison_limit": "New model probabilities/route prior differ; same seed full games need not encounter the old action. Same-action results are reported separately."
+  },
+  "old54": {
+    "old_cases_reproduced": 54,
+    "new_unknown_rbi_games": 0,
+    "old_causes": {
+      "reached_on_error:assumption": 54
+    }
+  }
+}

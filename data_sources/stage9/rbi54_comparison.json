@@ -1,0 +1,3087 @@
+{
+  "old_cases_reproduced": 54,
+  "new_unknown_rbi_games": 0,
+  "old_causes": {
+    "reached_on_error:assumption": 54
+  },
+  "cases": [
+    {
+      "seed": 8036,
+      "old_unknown_batters": [
+        "LAB_H:B08"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B06",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 8059,
+      "old_unknown_batters": [
+        "LAB_A:B03"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 8103,
+      "old_unknown_batters": [
+        "LAB_A:B08"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 8364,
+      "old_unknown_batters": [
+        "LAB_A:B04"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 8604,
+      "old_unknown_batters": [
+        "LAB_A:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 8831,
+      "old_unknown_batters": [
+        "LAB_H:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 9021,
+      "old_unknown_batters": [
+        "LAB_A:B08"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 9094,
+      "old_unknown_batters": [
+        "LAB_H:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 9277,
+      "old_unknown_batters": [
+        "LAB_A:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 9374,
+      "old_unknown_batters": [
+        "LAB_A:B04"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 9563,
+      "old_unknown_batters": [
+        "LAB_A:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 9841,
+      "old_unknown_batters": [
+        "LAB_A:B01"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10006,
+      "old_unknown_batters": [
+        "LAB_H:B03"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10337,
+      "old_unknown_batters": [
+        "LAB_H:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B06",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10372,
+      "old_unknown_batters": [
+        "LAB_H:B03"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10532,
+      "old_unknown_batters": [
+        "LAB_H:B03"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10569,
+      "old_unknown_batters": [
+        "LAB_A:B08"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10600,
+      "old_unknown_batters": [
+        "LAB_A:B04"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10840,
+      "old_unknown_batters": [
+        "LAB_H:B06"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B06",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 10958,
+      "old_unknown_batters": [
+        "LAB_H:B01"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 11486,
+      "old_unknown_batters": [
+        "LAB_H:B01"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B06",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 11664,
+      "old_unknown_batters": [
+        "LAB_A:B02"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 12035,
+      "old_unknown_batters": [
+        "LAB_H:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B06",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 12199,
+      "old_unknown_batters": [
+        "LAB_A:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 12915,
+      "old_unknown_batters": [
+        "LAB_H:B08"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 12957,
+      "old_unknown_batters": [
+        "LAB_A:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 13023,
+      "old_unknown_batters": [
+        "LAB_H:B02"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 13112,
+      "old_unknown_batters": [
+        "LAB_A:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "draw",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 13308,
+      "old_unknown_batters": [
+        "LAB_A:B04"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 13393,
+      "old_unknown_batters": [
+        "LAB_H:B02"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 13634,
+      "old_unknown_batters": [
+        "LAB_H:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 13930,
+      "old_unknown_batters": [
+        "LAB_A:B06"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 14284,
+      "old_unknown_batters": [
+        "LAB_H:B01"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 14379,
+      "old_unknown_batters": [
+        "LAB_H:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 14613,
+      "old_unknown_batters": [
+        "LAB_H:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 14633,
+      "old_unknown_batters": [
+        "LAB_A:B02"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 14742,
+      "old_unknown_batters": [
+        "LAB_A:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 15238,
+      "old_unknown_batters": [
+        "LAB_A:B04"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 15439,
+      "old_unknown_batters": [
+        "LAB_A:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 15911,
+      "old_unknown_batters": [
+        "LAB_H:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 15962,
+      "old_unknown_batters": [
+        "LAB_H:B03"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 16054,
+      "old_unknown_batters": [
+        "LAB_H:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B06",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 16343,
+      "old_unknown_batters": [
+        "LAB_A:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B03",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B02",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 16535,
+      "old_unknown_batters": [
+        "LAB_H:B01"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 16677,
+      "old_unknown_batters": [
+        "LAB_H:B02"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 16779,
+      "old_unknown_batters": [
+        "LAB_H:B05"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 16912,
+      "old_unknown_batters": [
+        "LAB_H:B08"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B06",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 17002,
+      "old_unknown_batters": [
+        "LAB_A:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 17191,
+      "old_unknown_batters": [
+        "LAB_A:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 17420,
+      "old_unknown_batters": [
+        "LAB_H:B09"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 17470,
+      "old_unknown_batters": [
+        "LAB_H:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B05",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B04",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 17737,
+      "old_unknown_batters": [
+        "LAB_H:B03"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B03",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 17749,
+      "old_unknown_batters": [
+        "LAB_H:B02"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_H:B01",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_H:B09",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_H:B08",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_H:B02",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    },
+    {
+      "seed": 17823,
+      "old_unknown_batters": [
+        "LAB_A:B07"
+      ],
+      "old_unknown_events": [
+        {
+          "plan": {
+            "outcome": "reached_on_error",
+            "moves": [
+              {
+                "player_id": "LAB_A:B06",
+                "origin": 1,
+                "destination": "2"
+              },
+              {
+                "player_id": "LAB_A:B05",
+                "origin": 2,
+                "destination": "3"
+              },
+              {
+                "player_id": "LAB_A:B04",
+                "origin": 3,
+                "destination": "H"
+              },
+              {
+                "player_id": "LAB_A:B07",
+                "origin": 0,
+                "destination": "1"
+              }
+            ],
+            "completed_pa": true,
+            "source": "assumption",
+            "source_ref": "conservative-fixed-advance-1",
+            "dropped_third_strike": false
+          },
+          "credit": {
+            "at_bat": true,
+            "hit_bases": 0,
+            "rbi_ids": null,
+            "sacrifice_bunt": false,
+            "sacrifice_fly": false,
+            "ground_double_play": false,
+            "source": "assumption"
+          },
+          "batter_reached": 1,
+          "third_out": "unspecified",
+          "certified": false,
+          "responsibility_transfer": null,
+          "responsibility_complete": true,
+          "event_text": ""
+        }
+      ],
+      "new_status": "completed",
+      "new_rbi_complete": true,
+      "comparison_limit": "new draws differ; no source-only judgment assigned to the old assumed error play"
+    }
+  ]
+}

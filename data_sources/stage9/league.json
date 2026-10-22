@@ -1,0 +1,7 @@
+{
+  "status": "not_run",
+  "scheduled_games": 858,
+  "schedule_validated": true,
+  "executed_games": 0,
+  "reason": "stability/priority-record gate failed; no fabricated season or standings"
+}

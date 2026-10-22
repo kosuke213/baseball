@@ -1,0 +1,61 @@
+{
+  "main_failure_causes": {
+    "walkoff_out_timing_unknown": 61,
+    "no_training_route:other_pa": 1
+  },
+  "empirical_only_failure_causes": {
+    "no_training_route:sacrifice_bunt": 4,
+    "walkoff_out_timing_unknown": 7,
+    "no_training_route:fielders_choice": 3
+  },
+  "old_walkoff_same_action_unresolved": 71,
+  "raw_excluded": 668,
+  "rules": [
+    {
+      "issue": "walkoff out/run chronological ambiguity",
+      "categories": [
+        3,
+        4
+      ],
+      "policy": "stop; no resampling"
+    },
+    {
+      "issue": "other_pa positive unsupported PA mass",
+      "categories": [
+        5
+      ],
+      "policy": "retain frozen PA probability; stop when drawn"
+    },
+    {
+      "issue": "unseen no-PA double retirement",
+      "categories": [
+        5
+      ],
+      "policy": "zero MLE with positive uncertainty interval; 2025 reference exposes missing support"
+    },
+    {
+      "issue": "mid-window participants/count attribution",
+      "categories": [
+        2,
+        4
+      ],
+      "windows": 42
+    },
+    {
+      "issue": "censored source game endings",
+      "categories": [
+        2,
+        3,
+        4
+      ],
+      "windows": 626
+    },
+    {
+      "issue": "earned runs, saves, holds, discretionary relief wins, appeals/fourth out, interrupted games",
+      "categories": [
+        4
+      ],
+      "policy": "null/manual/unsupported"
+    }
+  ]
+}

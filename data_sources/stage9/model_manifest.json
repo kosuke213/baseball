@@ -1,0 +1,7 @@
+{
+  "model_version": "completion-model-1:22cc8e577ad14b4c8804e88b:8e835974854350fc3faf6a710097e17b43bb7d1851567d89e7b37e5ec0420c06",
+  "files": {
+    "routes.json.gz": "30211392c3ef09ef3ba36ccff2ddea76d555e73d6d073e2e4de05f81635b5e51",
+    "terminal_model.json": "43c88e81ac13ee36026f7371919e1fe88361fd77ddf6deb35e5657d47143b54b"
+  }
+}
