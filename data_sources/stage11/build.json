@@ -1,0 +1,30 @@
+{
+  "snapshot_id": "43b33331491d69d608bf9d2a",
+  "code_sha256": "bde44f6b5208692782a6e492adf4c12d1ca3cd7b2d1b40e40687e5cde24a311e",
+  "config": {
+    "start_date": "2026-04-01",
+    "world_id": "stage11-integrated",
+    "world_seed": 110026,
+    "benchmark_world_seed": 110027,
+    "benchmark_games": 1000,
+    "integrated_seasons": 2,
+    "development_environment": 1.0,
+    "cohort_seed": 110020,
+    "cohort_players": 1200,
+    "cohort_years": 20,
+    "contrast_pa_trials": 100000,
+    "fixture_seeds_are_public_research_inputs": true,
+    "operational_world_seeds_must_remain_private": true
+  },
+  "parent_model_version": "stability-model-1:ed6d5b54f6a6a061a326cde082da98372b93443c1a0296a4d15178d7be6021a6",
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1",
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.41"
+  },
+  "frozen_game_gate": true,
+  "integrated_status": "completed",
+  "cohort_years": 20,
+  "private_databases_are_admin_only": true,
+  "published_player_data_is_scouting_only": true
+}

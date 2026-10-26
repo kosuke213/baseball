@@ -1,0 +1,38 @@
+{
+  "correlations_are_generated_assumptions": true,
+  "initial_trait_correlations": {
+    "batter": {
+      "n": 336,
+      "correlations": {
+        "contact:power": 0.2709143619312404,
+        "contact:k_avoid": 0.2092003469636241,
+        "power:k_avoid": 0.1266533290594388
+      }
+    },
+    "pitcher": {
+      "n": 384,
+      "correlations": {
+        "strikeouts:control": 0.16100533541845163,
+        "stamina:starter_aptitude": 0.31281466262789903,
+        "starter_aptitude:relief_aptitude": -0.10328378897697252
+      }
+    }
+  },
+  "private_game_count": 1716,
+  "distinct_players_injured_in_actual_integration": 165,
+  "pregame_rows": 99613,
+  "after_world_events": 141639,
+  "annual_skill_changes": {
+    "n": 227897,
+    "mean": -0.047088075812153934,
+    "sd": 0.1882600805560116,
+    "min": -0.8759860203262873,
+    "p50": -0.028015762156310187,
+    "p90": 0.18404201433261885,
+    "p95": 0.2506803010765046,
+    "p99": 0.38070351352907955,
+    "max": 0.9071338252576191
+  },
+  "absolute_change_over_1": 0,
+  "interpretation": "anonymous synthetic internal-coordinate changes; not measured aging curves"
+}

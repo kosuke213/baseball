@@ -1,0 +1,16 @@
+{
+  "npb_registration_reference": {
+    "url": "https://npb.jp/announcement/2025/pn_registered.html",
+    "http_status": 200,
+    "sha256": "db515dc4fab6648143828c5253e688b62a68a9eae08ac34ef666214cbb761efe"
+  },
+  "source_use": "reference to registration categories only; no page/list reuse or diagnosis inference",
+  "roster_size": {
+    "batters": 28,
+    "pitchers": 32,
+    "total": 60,
+    "status": "experimental finite roster, not an NPB registration-rule implementation"
+  },
+  "new_play_datasets_collected": 0,
+  "ability_growth_health_fitted_to_real_career_data": false
+}

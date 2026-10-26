@@ -1,0 +1,112 @@
+{
+  "snapshot_id": "43b33331491d69d608bf9d2a",
+  "code_sha256": "bde44f6b5208692782a6e492adf4c12d1ca3cd7b2d1b40e40687e5cde24a311e",
+  "zip_sha256": "ccfdc0f4680183bf5ca8c064e116dbca00923c0e4eaa7376eaf876e01c296bf6",
+  "zip_bytes": 4908288,
+  "zip_crc_and_manifest_passed": true,
+  "manifest_files_verified": 131,
+  "private_databases_in_zip": false,
+  "independent_directory": "/tmp/stage11-public-delivery-gtfdummc",
+  "standalone_command": "python -S example.py --model-dir . --admin-db private_demo.sqlite3 --seed 110026",
+  "standalone_public_output": {
+    "game_id": "dcdab4e9c585c1393e1d456987e4498c",
+    "date": "2026-04-01",
+    "status": "completed",
+    "score": [
+      3,
+      2
+    ],
+    "public_player_example": {
+      "player_id": "P0394618002145c75ba4a02b",
+      "name": "木村 翔太",
+      "team_id": "T01",
+      "age": 34,
+      "role": "pitcher",
+      "position": "RP",
+      "throws": "R",
+      "bats": "R",
+      "entry_year": 2011,
+      "nationality": "JPN",
+      "ratings": {
+        "control": 72,
+        "durability": 33,
+        "hit_suppression": 51,
+        "hr_suppression": 42,
+        "recovery": 59,
+        "relief_aptitude": 64,
+        "stamina": 58,
+        "starter_aptitude": 46,
+        "strikeouts": 44
+      },
+      "rating_uncertainty": 6.3,
+      "rating_observed_on": "2026-04-01",
+      "availability": "available",
+      "injury_history_count": 0,
+      "current_injury_severity": null,
+      "career_status": "active",
+      "season_stats": [],
+      "career_stats": {},
+      "as_of": "2026-04-01"
+    },
+    "private_information_in_output": false
+  },
+  "same_command_uses_immutable_saved_game": true,
+  "all_probability_files_hidden": {
+    "integrated": {
+      "games_replayed": 1716,
+      "world_players": 720,
+      "career_events_verified": 141639,
+      "seasons_rebuilt": 2,
+      "same_rankings_and_player_totals": true,
+      "model_files_required": false
+    },
+    "annual_only": {
+      "games_replayed": 0,
+      "world_players": 1200,
+      "career_events_verified": 105735,
+      "seasons_rebuilt": 0,
+      "same_rankings_and_player_totals": true,
+      "model_files_required": false
+    },
+    "local_demo": {
+      "games_replayed": 1,
+      "world_players": 120,
+      "career_events_verified": 143,
+      "seasons_rebuilt": 0,
+      "same_rankings_and_player_totals": true,
+      "model_files_required": false
+    }
+  },
+  "independent_replay_elapsed_seconds": 93.9405017439858,
+  "public_schema_check": {
+    "public_players_validated": 720,
+    "private_fields_exported": false
+  },
+  "snapshot_reuse_verified": true,
+  "previous_stage10_snapshot_all_files_verified": true,
+  "preserved_database_sha256": {
+    "stage5": "64c9ed903efa996ecc00fcbba6388f1cec9a79fb7b4a9b3ea195ae6868b19125",
+    "stage6": "22b9c8e637495dcbfef8c89d69539a1e83f63c8afb33bf644d6aa2944405c046",
+    "stage7": "962122950d9cf4947bdd0850ecc89955b25fe3e370bb94889a06627a387039ee"
+  },
+  "tests": {
+    "passed": 567,
+    "previous_retained": 520,
+    "new": 47,
+    "elapsed_seconds": 18.25
+  },
+  "old_fixture_timestamp_diagnosis": {
+    "original_test_unchanged": true,
+    "timestamp_delta_seconds_reproducing_expected_hash": [
+      -2
+    ],
+    "expected": "d141f70df2319a17bbe094afd65ff8f70fa9502c0644d8d2b5bae4aa3ab7090d",
+    "actual": "134bdef5007b52d8d2e24135d5db30ff7684bbf708945566f5ca18e13961ac8f"
+  },
+  "runtime": {
+    "python": "3.12.14",
+    "sqlite": "3.53.1",
+    "os": "Linux-6.18.55-x86_64-with-glibc2.41"
+  },
+  "windows_native_tested": false
+}

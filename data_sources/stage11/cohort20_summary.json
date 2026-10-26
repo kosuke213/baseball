@@ -1,0 +1,35 @@
+{
+  "players": 1200,
+  "annual_steps": 20,
+  "actual_games": 0,
+  "events": {
+    "enrolment": 1200,
+    "clock_advanced": 60,
+    "workload": 23989,
+    "injury_started": 8349,
+    "calendar_recovery": 23057,
+    "rehabilitation_started": 8349,
+    "return_cleared": 8349,
+    "restriction_ended": 8349,
+    "annual_development": 23989,
+    "development_completed": 20,
+    "retired": 24
+  },
+  "diversity_counts_overlapping": {
+    "improved_at_some_point": 940,
+    "stalled_first_ten": 63,
+    "peak_at_25_or_younger": 312,
+    "late_jump_29plus": 45,
+    "above_average_35plus": 75,
+    "declined_from_peak": 1161
+  },
+  "criterion_units": "continuous internal z; display ratings are a separate noisy estimate",
+  "exposure": "500 PA or 500 pitching outs/700 BF annual proxy, not measured game records",
+  "limits": [
+    "annual-only state validation, not 20 years of league games",
+    "injury/growth/retirement priors are game assumptions, not medical/NPB predictions"
+  ],
+  "all_internal_values_in_bounds": true,
+  "no_future_profiles_precomputed": true,
+  "career_state_replay_equal": true
+}

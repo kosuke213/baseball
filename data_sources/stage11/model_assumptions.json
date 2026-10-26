@@ -1,0 +1,94 @@
+{
+  "status": "game-design assumptions; not fitted NPB, medical, or latent-career estimates",
+  "internal_bounds": [
+    -3,
+    3
+  ],
+  "display_scale": "50+15*z, clipped 0..100; public ratings add committed observation noise",
+  "adapter_version": "career-odds-adapter-1",
+  "adapter_log_weight_cap": [
+    -1.25,
+    1.25
+  ],
+  "coefficients": {
+    "single": {
+      "contact": 0.24,
+      "pitcher_hit_suppression": -0.22
+    },
+    "double": {
+      "contact": 0.16,
+      "power": 0.2,
+      "pitcher_hit_suppression": -0.15
+    },
+    "triple": {
+      "contact": 0.15,
+      "power": 0.15,
+      "speed": 0.1,
+      "pitcher_hit_suppression": -0.16
+    },
+    "home_run": {
+      "power": 0.38,
+      "pitcher_hr_suppression": -0.34
+    },
+    "walk": {
+      "discipline": 0.35,
+      "pitcher_control": -0.35
+    },
+    "strikeout": {
+      "k_avoid": -0.28,
+      "contact": -0.12,
+      "pitcher_strikeouts": 0.38
+    }
+  },
+  "fatigue_effective_penalty": ".55*fatigue + .20 during return-ready restriction; frozen within a game",
+  "development_trait_peak_age_centers": {
+    "contact": 28,
+    "power": 29,
+    "discipline": 30,
+    "k_avoid": 27,
+    "speed": 25,
+    "fielding": 27,
+    "throwing": 28,
+    "endurance": 27,
+    "recovery": 26,
+    "durability": 27,
+    "strikeouts": 27,
+    "control": 30,
+    "hr_suppression": 29,
+    "hit_suppression": 28,
+    "starter_aptitude": 29,
+    "relief_aptitude": 28,
+    "stamina": 27
+  },
+  "individual_maturation_offset": "normal(0,2.5 years), private",
+  "growth_rate_prior": "lognormal(-2.05,.35), private per player; not a guaranteed ceiling",
+  "scouting_error_before_clipping_points": 6.3,
+  "injury_severity_weights": [
+    0.7,
+    0.25,
+    0.05
+  ],
+  "injury_rest_days": {
+    "1": [
+      3,
+      14
+    ],
+    "2": [
+      15,
+      45
+    ],
+    "3": [
+      46,
+      120
+    ]
+  },
+  "injury_probability_max_per_exposure": 0.35,
+  "roster": {
+    "batters_per_team": 28,
+    "pitchers_per_team": 32,
+    "teams": 12,
+    "npb_registration_rules_implemented": false
+  },
+  "medical_predictions": false,
+  "future_events_materialized_at_enrolment": false
+}

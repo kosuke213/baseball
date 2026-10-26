@@ -127,3 +127,5 @@ Phase 2の第1段階で [データ・情報源の収集先台帳](docs/data-sour
 Phase 2では、出典・期間・利用条件を確認した投球・打席・打球・走者進塁データを取得し、定義と対象リーグを揃えて較正します。詳細は [アーキテクチャとPhase 2](docs/architecture.md) を参照してください。
 
 第10段階では [生成順序・確率支持・858試合の統合検証](docs/data-stage10/README.md) を追加しました。原本の終点に、規則と区別した時系列の生成仮定を組み合わせる独立版です。主生成モードと原本限定モードの結果、全試合保存・再生とシーズン集計の検証はレポートを参照してください。[配布ZIP](https://raw.githubusercontent.com/kosuke213/baseball/refs/heads/codex/stage10-season-stability/data_sources/stage10/stage10_bundle.zip)、[実行方法](data_sources/stage10/README.md)、[第11段階への接続](data_sources/stage10/STAGE11.md)があります。
+
+第11段階では [架空選手の能力・成長・疲労・故障とキャリア](docs/data-stage11/README.md) を実装しました。720人の有限ロスターで2シーズンを継続し、別の1,200人について20年次の状態更新を検証しています。内部の真値・潜在才能と、公開する誤差付き評価を分離しました。[公開用ZIP](https://raw.githubusercontent.com/kosuke213/baseball/refs/heads/codex/stage11-player-careers/data_sources/stage11/stage11_bundle.zip)、[起動方法](data_sources/stage11/README.md)、[第12段階への接続](data_sources/stage11/STAGE12.md) を参照してください。

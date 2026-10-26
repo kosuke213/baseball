@@ -1,0 +1,15 @@
+{
+  "start_date": "2026-04-01",
+  "world_id": "stage11-integrated",
+  "world_seed": 110026,
+  "benchmark_world_seed": 110027,
+  "benchmark_games": 1000,
+  "integrated_seasons": 2,
+  "development_environment": 1.0,
+  "cohort_seed": 110020,
+  "cohort_players": 1200,
+  "cohort_years": 20,
+  "contrast_pa_trials": 100000,
+  "fixture_seeds_are_public_research_inputs": true,
+  "operational_world_seeds_must_remain_private": true
+}
