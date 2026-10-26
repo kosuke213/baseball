@@ -1,0 +1,17 @@
+name: NPB sampled physical profiles
+on: [push, pull_request]
+permissions:
+  contents: read
+jobs:
+  test-with-research-dependencies:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: python -m pip install --require-hashes -r requirements.txt
+      - run: python -m pip install -r data_sources/stage11_5/requirements-research.txt
+      - name: All previous and physical-profile tests, without live acquisition
+        run: python -m pytest -q

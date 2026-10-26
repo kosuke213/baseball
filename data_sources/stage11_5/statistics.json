@@ -1,0 +1,4183 @@
+{
+  "scope": "Wikipedia-listed 2021–2025 season members, stratified profile sample observed at retrieval; not official NPB census",
+  "primary_player_year_sample": {
+    "rows": 948,
+    "unique_people": 310,
+    "estimated_population_weight": 4001.2614561747564,
+    "height_cm": {
+      "n": 948,
+      "weight_sum": 4001.2614561747564,
+      "effective_n": 584.5207767135215,
+      "mean": 180.7759479615734,
+      "median": 180.0,
+      "sd_population": 6.091986236943098,
+      "min": 167.0,
+      "max": 201.0,
+      "p5": 171.0,
+      "p25": 176.0,
+      "p75": 184.0,
+      "p95": 193.0,
+      "missing": 0
+    },
+    "weight_kg": {
+      "n": 948,
+      "weight_sum": 4001.2614561747564,
+      "effective_n": 584.5207767135215,
+      "mean": 87.64113834386649,
+      "median": 87.0,
+      "sd_population": 9.059325424920136,
+      "min": 68.0,
+      "max": 125.0,
+      "p5": 74.0,
+      "p25": 82.0,
+      "p75": 92.0,
+      "p95": 104.3,
+      "missing": 0
+    },
+    "age": {
+      "n": 948,
+      "weight_sum": 4001.2614561747564,
+      "effective_n": 584.5207767135215,
+      "mean": 26.469893054335397,
+      "median": 26.0,
+      "sd_population": 4.662750034769223,
+      "min": 16,
+      "max": 40,
+      "p5": 19.0,
+      "p25": 23.0,
+      "p75": 30.0,
+      "p95": 34.0,
+      "missing": 0
+    },
+    "pearson_height_weight": 0.7011182627110707,
+    "spearman_height_weight": 0.6894315633858705,
+    "age_adjusted_pearson": 0.6990503267231561,
+    "handedness": {
+      "RR": {
+        "observed_rows": 572,
+        "weighted_count": 2382.0733305258705,
+        "weighted_share": 0.5953305867702923
+      },
+      "RL": {
+        "observed_rows": 267,
+        "weighted_count": 858.4411130991059,
+        "weighted_share": 0.21454261924682727
+      },
+      "RS": {
+        "observed_rows": 11,
+        "weighted_count": 59.52051282051283,
+        "weighted_share": 0.01487543702715569
+      },
+      "LL": {
+        "observed_rows": 95,
+        "weighted_count": 665.8751039985588,
+        "weighted_share": 0.1664162942841386
+      },
+      "LR": {
+        "observed_rows": 1,
+        "weighted_count": 7.68472906403941,
+        "weighted_share": 0.0019205765852117267
+      },
+      "LS": {
+        "observed_rows": 2,
+        "weighted_count": 27.666666666666664,
+        "weighted_share": 0.006914486086374439
+      },
+      "unclassified": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      }
+    },
+    "unclassified_hand_rows": 0
+  },
+  "development_player_year_sample": {
+    "rows": 216,
+    "unique_people": 117,
+    "estimated_population_weight": 870.0086793452375,
+    "height_cm": {
+      "n": 216,
+      "weight_sum": 870.0086793452375,
+      "effective_n": 115.53944582763437,
+      "mean": 180.41083103607312,
+      "median": 180.0,
+      "sd_population": 5.600589107147218,
+      "min": 167.0,
+      "max": 197.0,
+      "p5": 172.0,
+      "p25": 178.0,
+      "p75": 183.0,
+      "p95": 193.0,
+      "missing": 0
+    },
+    "weight_kg": {
+      "n": 216,
+      "weight_sum": 870.0086793452375,
+      "effective_n": 115.53944582763437,
+      "mean": 82.62195291701862,
+      "median": 82.0,
+      "sd_population": 9.123484813919292,
+      "min": 66.0,
+      "max": 108.0,
+      "p5": 68.0,
+      "p25": 79.0,
+      "p75": 87.0,
+      "p95": 100.0,
+      "missing": 0
+    },
+    "age": {
+      "n": 216,
+      "weight_sum": 870.0086793452375,
+      "effective_n": 115.53944582763437,
+      "mean": 21.629499775511164,
+      "median": 21.0,
+      "sd_population": 2.8263039432242274,
+      "min": 17,
+      "max": 33,
+      "p5": 18.0,
+      "p25": 19.0,
+      "p75": 24.0,
+      "p95": 27.0,
+      "missing": 0
+    },
+    "pearson_height_weight": 0.6980109294524566,
+    "spearman_height_weight": 0.6327357389987869,
+    "age_adjusted_pearson": 0.7313637918653226,
+    "handedness": {
+      "RR": {
+        "observed_rows": 133,
+        "weighted_count": 449.43138919660095,
+        "weighted_share": 0.5165826501119963
+      },
+      "RL": {
+        "observed_rows": 39,
+        "weighted_count": 124.50838079232969,
+        "weighted_share": 0.14311165365158632
+      },
+      "RS": {
+        "observed_rows": 1,
+        "weighted_count": 3.5,
+        "weighted_share": 0.004022948371772653
+      },
+      "LL": {
+        "observed_rows": 41,
+        "weighted_count": 277.1994512282283,
+        "weighted_share": 0.3186168802785354
+      },
+      "LR": {
+        "observed_rows": 2,
+        "weighted_count": 15.36945812807882,
+        "weighted_share": 0.01766586758610933
+      },
+      "LS": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      },
+      "unclassified": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      }
+    },
+    "unclassified_hand_rows": 0
+  },
+  "unique_player_sample": {
+    "rows": 364,
+    "unique_people": 364,
+    "estimated_population_weight": 1672.4653149892547,
+    "height_cm": {
+      "n": 364,
+      "weight_sum": 1672.4653149892547,
+      "effective_n": 221.64935453106432,
+      "mean": 181.51818485223046,
+      "median": 181.0,
+      "sd_population": 6.242366479115237,
+      "min": 167.0,
+      "max": 201.0,
+      "p5": 172.0,
+      "p25": 177.0,
+      "p75": 185.0,
+      "p95": 193.0,
+      "missing": 0
+    },
+    "weight_kg": {
+      "n": 364,
+      "weight_sum": 1672.4653149892547,
+      "effective_n": 221.64935453106432,
+      "mean": 87.26252006395302,
+      "median": 86.0,
+      "sd_population": 9.844936527269335,
+      "min": 66.0,
+      "max": 125.0,
+      "p5": 72.0,
+      "p25": 80.0,
+      "p75": 93.0,
+      "p95": 104.3,
+      "missing": 0
+    },
+    "age": {
+      "n": 364,
+      "weight_sum": 1672.4653149892547,
+      "effective_n": 221.64935453106432,
+      "mean": 26.658176754130427,
+      "median": 26.0,
+      "sd_population": 5.060205157555379,
+      "min": 18,
+      "max": 40,
+      "p5": 19.0,
+      "p25": 23.0,
+      "p75": 30.0,
+      "p95": 36.0,
+      "missing": 0
+    },
+    "pearson_height_weight": 0.6891211301723357,
+    "spearman_height_weight": 0.6630843816750792,
+    "age_adjusted_pearson": 0.6878296542226082,
+    "handedness": {
+      "RR": {
+        "observed_rows": 220,
+        "weighted_count": 976.7161045400279,
+        "weighted_share": 0.5839978239227659
+      },
+      "RL": {
+        "observed_rows": 92,
+        "weighted_count": 316.4785843587942,
+        "weighted_share": 0.18922878789915445
+      },
+      "RS": {
+        "observed_rows": 6,
+        "weighted_count": 36.59358974358974,
+        "weighted_share": 0.021880029089766117
+      },
+      "LL": {
+        "observed_rows": 44,
+        "weighted_count": 321.1589739494698,
+        "weighted_share": 0.19202728515271675
+      },
+      "LR": {
+        "observed_rows": 1,
+        "weighted_count": 7.68472906403941,
+        "weighted_share": 0.004594851083108282
+      },
+      "LS": {
+        "observed_rows": 1,
+        "weighted_count": 13.833333333333332,
+        "weighted_share": 0.008271222852488401
+      },
+      "unclassified": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      }
+    },
+    "unclassified_hand_rows": 0
+  },
+  "strata": {
+    "year": {
+      "2021": {
+        "rows": 203,
+        "unique_people": 203,
+        "estimated_population_weight": 875.4209251706054,
+        "height_cm": {
+          "n": 203,
+          "weight_sum": 875.4209251706054,
+          "effective_n": 125.70754563048366,
+          "mean": 180.76600127916944,
+          "median": 180.0,
+          "sd_population": 6.247338816876548,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 176.0,
+          "p75": 184.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 203,
+          "weight_sum": 875.4209251706054,
+          "effective_n": 125.70754563048366,
+          "mean": 87.08208213380175,
+          "median": 86.0,
+          "sd_population": 9.080485824971426,
+          "min": 68.0,
+          "max": 114.0,
+          "p5": 74.0,
+          "p25": 80.0,
+          "p75": 90.0,
+          "p95": 104.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 203,
+          "weight_sum": 875.4209251706054,
+          "effective_n": 125.70754563048366,
+          "mean": 26.158504807633165,
+          "median": 25.0,
+          "sd_population": 4.979177226771079,
+          "min": 16,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 30.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.7501130815634071,
+        "spearman_height_weight": 0.7111824603953584,
+        "age_adjusted_pearson": 0.7461183205383904,
+        "handedness": {
+          "RR": {
+            "observed_rows": 124,
+            "weighted_count": 522.7398189504311,
+            "weighted_share": 0.5971296823280269
+          },
+          "RL": {
+            "observed_rows": 59,
+            "weighted_count": 194.6148979006043,
+            "weighted_share": 0.22231008227576576
+          },
+          "RS": {
+            "observed_rows": 2,
+            "weighted_count": 17.666666666666664,
+            "weighted_share": 0.02018076808390628
+          },
+          "LL": {
+            "observed_rows": 17,
+            "weighted_count": 126.56620831957018,
+            "weighted_share": 0.14457754513339335
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 1,
+            "weighted_count": 13.833333333333332,
+            "weighted_share": 0.01580192217890775
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "2022": {
+        "rows": 193,
+        "unique_people": 193,
+        "estimated_population_weight": 803.376594430463,
+        "height_cm": {
+          "n": 193,
+          "weight_sum": 803.376594430463,
+          "effective_n": 118.57526759983715,
+          "mean": 180.71511829908474,
+          "median": 181.0,
+          "sd_population": 6.104460622959623,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 176.0,
+          "p75": 184.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 193,
+          "weight_sum": 803.376594430463,
+          "effective_n": 118.57526759983715,
+          "mean": 87.58721168089428,
+          "median": 86.2,
+          "sd_population": 9.130495497166383,
+          "min": 68.0,
+          "max": 114.0,
+          "p5": 74.0,
+          "p25": 82.0,
+          "p75": 93.0,
+          "p95": 104.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 193,
+          "weight_sum": 803.376594430463,
+          "effective_n": 118.57526759983715,
+          "mean": 26.439523256107993,
+          "median": 26.0,
+          "sd_population": 4.284956755408058,
+          "min": 18,
+          "max": 39,
+          "p5": 20.0,
+          "p25": 24.0,
+          "p75": 30.0,
+          "p95": 33.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.733823559152705,
+        "spearman_height_weight": 0.7124420848682556,
+        "age_adjusted_pearson": 0.733418139521443,
+        "handedness": {
+          "RR": {
+            "observed_rows": 115,
+            "weighted_count": 458.5751917152886,
+            "weighted_share": 0.5708097483725995
+          },
+          "RL": {
+            "observed_rows": 53,
+            "weighted_count": 165.45687919904475,
+            "weighted_share": 0.2059518292493222
+          },
+          "RS": {
+            "observed_rows": 3,
+            "weighted_count": 13.333333333333329,
+            "weighted_share": 0.01659661661264318
+          },
+          "LL": {
+            "observed_rows": 21,
+            "weighted_count": 152.17785684946315,
+            "weighted_share": 0.18942281602981775
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 1,
+            "weighted_count": 13.833333333333332,
+            "weighted_share": 0.017218989735617304
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "2023": {
+        "rows": 182,
+        "unique_people": 182,
+        "estimated_population_weight": 747.72738330683,
+        "height_cm": {
+          "n": 182,
+          "weight_sum": 747.72738330683,
+          "effective_n": 113.06429640675248,
+          "mean": 180.34252848696872,
+          "median": 180.0,
+          "sd_population": 6.065019732895509,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 176.0,
+          "p75": 183.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 182,
+          "weight_sum": 747.72738330683,
+          "effective_n": 113.06429640675248,
+          "mean": 87.64732363155386,
+          "median": 87.0,
+          "sd_population": 8.71539252017075,
+          "min": 68.0,
+          "max": 114.0,
+          "p5": 74.0,
+          "p25": 82.0,
+          "p75": 93.0,
+          "p95": 104.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 182,
+          "weight_sum": 747.72738330683,
+          "effective_n": 113.06429640675248,
+          "mean": 26.187468407497857,
+          "median": 26.0,
+          "sd_population": 4.598308487819488,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 22.0,
+          "p75": 29.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6898635002034174,
+        "spearman_height_weight": 0.7035562241155525,
+        "age_adjusted_pearson": 0.6939008133277508,
+        "handedness": {
+          "RR": {
+            "observed_rows": 108,
+            "weighted_count": 435.9456566898649,
+            "weighted_share": 0.5830275397456918
+          },
+          "RL": {
+            "observed_rows": 52,
+            "weighted_count": 167.10411438941716,
+            "weighted_share": 0.22348267312399067
+          },
+          "RS": {
+            "observed_rows": 2,
+            "weighted_count": 8.999999999999998,
+            "weighted_share": 0.012036472384089279
+          },
+          "LL": {
+            "observed_rows": 20,
+            "weighted_count": 135.67761222754794,
+            "weighted_share": 0.18145331474622833
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "2024": {
+        "rows": 176,
+        "unique_people": 176,
+        "estimated_population_weight": 743.8200144567837,
+        "height_cm": {
+          "n": 176,
+          "weight_sum": 743.8200144567837,
+          "effective_n": 107.08437117392461,
+          "mean": 181.00506785038021,
+          "median": 180.0,
+          "sd_population": 6.094235757726257,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 177.0,
+          "p75": 184.0,
+          "p95": 190.5,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 176,
+          "weight_sum": 743.8200144567837,
+          "effective_n": 107.08437117392461,
+          "mean": 88.5962613803458,
+          "median": 88.0,
+          "sd_population": 9.422323486720483,
+          "min": 68.0,
+          "max": 125.0,
+          "p5": 75.0,
+          "p25": 82.0,
+          "p75": 93.0,
+          "p95": 105.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 176,
+          "weight_sum": 743.8200144567837,
+          "effective_n": 107.08437117392461,
+          "mean": 27.018919114867234,
+          "median": 27.0,
+          "sd_population": 4.728424920531848,
+          "min": 18,
+          "max": 38,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 30.0,
+          "p95": 36.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6866633188129135,
+        "spearman_height_weight": 0.7141689062166331,
+        "age_adjusted_pearson": 0.6837691898130392,
+        "handedness": {
+          "RR": {
+            "observed_rows": 106,
+            "weighted_count": 448.5006081522783,
+            "weighted_share": 0.6029692659988732
+          },
+          "RL": {
+            "observed_rows": 49,
+            "weighted_count": 150.3499256067805,
+            "weighted_share": 0.2021321323500308
+          },
+          "RS": {
+            "observed_rows": 2,
+            "weighted_count": 9.760256410256408,
+            "weighted_share": 0.013121798581051062
+          },
+          "LL": {
+            "observed_rows": 19,
+            "weighted_count": 135.20922428746871,
+            "weighted_share": 0.18177680307004482
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "2025": {
+        "rows": 194,
+        "unique_people": 194,
+        "estimated_population_weight": 830.9165388100743,
+        "height_cm": {
+          "n": 194,
+          "weight_sum": 830.9165388100743,
+          "effective_n": 120.30232879163286,
+          "mean": 181.03016400103405,
+          "median": 180.0,
+          "sd_population": 5.910304686082641,
+          "min": 170.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 177.0,
+          "p75": 184.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 194,
+          "weight_sum": 830.9165388100743,
+          "effective_n": 120.30232879163286,
+          "mean": 87.42170401108046,
+          "median": 87.0,
+          "sd_population": 8.872094746998965,
+          "min": 68.0,
+          "max": 124.7,
+          "p5": 74.0,
+          "p25": 81.0,
+          "p75": 92.0,
+          "p95": 104.3,
+          "missing": 0
+        },
+        "age": {
+          "n": 194,
+          "weight_sum": 830.9165388100743,
+          "effective_n": 120.30232879163286,
+          "mean": 26.589994457192233,
+          "median": 26.0,
+          "sd_population": 4.617472277491297,
+          "min": 18,
+          "max": 39,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 29.0,
+          "p95": 35.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6425973087013593,
+        "spearman_height_weight": 0.6096707506932539,
+        "age_adjusted_pearson": 0.6586023913710487,
+        "handedness": {
+          "RR": {
+            "observed_rows": 119,
+            "weighted_count": 516.3120550180104,
+            "weighted_share": 0.621376553362871
+          },
+          "RL": {
+            "observed_rows": 54,
+            "weighted_count": 180.91529600325984,
+            "weighted_share": 0.21772980504436953
+          },
+          "RS": {
+            "observed_rows": 2,
+            "weighted_count": 9.760256410256408,
+            "weighted_share": 0.011746373979068607
+          },
+          "LL": {
+            "observed_rows": 18,
+            "weighted_count": 116.24420231450851,
+            "weighted_share": 0.13989877067674886
+          },
+          "LR": {
+            "observed_rows": 1,
+            "weighted_count": 7.68472906403941,
+            "weighted_share": 0.009248496936941986
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "position": {
+      "C": {
+        "rows": 260,
+        "unique_people": 72,
+        "estimated_population_weight": 417.20769732528373,
+        "height_cm": {
+          "n": 260,
+          "weight_sum": 417.20769732528373,
+          "effective_n": 252.2104318477489,
+          "mean": 178.04363934619874,
+          "median": 178.0,
+          "sd_population": 3.8093736512048704,
+          "min": 169.0,
+          "max": 190.0,
+          "p5": 173.0,
+          "p25": 175.0,
+          "p75": 180.0,
+          "p95": 185.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 260,
+          "weight_sum": 417.20769732528373,
+          "effective_n": 252.2104318477489,
+          "mean": 86.58423631303361,
+          "median": 86.0,
+          "sd_population": 5.051202249449345,
+          "min": 75.0,
+          "max": 99.0,
+          "p5": 79.0,
+          "p25": 83.0,
+          "p75": 90.0,
+          "p95": 96.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 260,
+          "weight_sum": 417.20769732528373,
+          "effective_n": 252.2104318477489,
+          "mean": 26.69636431598336,
+          "median": 26.0,
+          "sd_population": 4.49511370547428,
+          "min": 18,
+          "max": 37,
+          "p5": 19.0,
+          "p25": 24.0,
+          "p75": 30.0,
+          "p95": 35.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.4492624143158634,
+        "spearman_height_weight": 0.5053627127885169,
+        "age_adjusted_pearson": 0.44875578121974447,
+        "handedness": {
+          "RR": {
+            "observed_rows": 197,
+            "weighted_count": 316.358856443151,
+            "weighted_share": 0.7582766532624543
+          },
+          "RL": {
+            "observed_rows": 63,
+            "weighted_count": 100.84884088213254,
+            "weighted_share": 0.2417233467375457
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "IF": {
+        "rows": 234,
+        "unique_people": 84,
+        "estimated_population_weight": 864.8768007499006,
+        "height_cm": {
+          "n": 234,
+          "weight_sum": 864.8768007499006,
+          "effective_n": 208.09774056293915,
+          "mean": 179.01501768153602,
+          "median": 179.0,
+          "sd_population": 6.06719344004251,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 170.0,
+          "p25": 175.0,
+          "p75": 182.0,
+          "p95": 189.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 234,
+          "weight_sum": 864.8768007499006,
+          "effective_n": 208.09774056293915,
+          "mean": 85.72067048823354,
+          "median": 84.0,
+          "sd_population": 11.265717005354547,
+          "min": 68.0,
+          "max": 125.0,
+          "p5": 70.0,
+          "p25": 77.1,
+          "p75": 90.0,
+          "p95": 108.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 234,
+          "weight_sum": 864.8768007499006,
+          "effective_n": 208.09774056293915,
+          "mean": 27.36261440125626,
+          "median": 28.0,
+          "sd_population": 5.250530355570374,
+          "min": 16,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 32.0,
+          "p95": 35.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6805252448004344,
+        "spearman_height_weight": 0.703453372516511,
+        "age_adjusted_pearson": 0.685357145015142,
+        "handedness": {
+          "RR": {
+            "observed_rows": 123,
+            "weighted_count": 451.18384569826463,
+            "weighted_share": 0.5216741220334047
+          },
+          "RL": {
+            "observed_rows": 100,
+            "weighted_count": 371.76528209566175,
+            "weighted_share": 0.42984767515248234
+          },
+          "RS": {
+            "observed_rows": 8,
+            "weighted_count": 33.83333333333333,
+            "weighted_share": 0.03911925178707274
+          },
+          "LL": {
+            "observed_rows": 3,
+            "weighted_count": 8.094339622641506,
+            "weighted_share": 0.009358951027040171
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "OF": {
+        "rows": 238,
+        "unique_people": 81,
+        "estimated_population_weight": 720.5428953929598,
+        "height_cm": {
+          "n": 238,
+          "weight_sum": 720.5428953929598,
+          "effective_n": 214.58199262820955,
+          "mean": 181.40069163020826,
+          "median": 181.0,
+          "sd_population": 5.995204851794995,
+          "min": 170.0,
+          "max": 196.0,
+          "p5": 172.0,
+          "p25": 177.0,
+          "p75": 185.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 238,
+          "weight_sum": 720.5428953929598,
+          "effective_n": 214.58199262820955,
+          "mean": 86.85288589405015,
+          "median": 86.0,
+          "sd_population": 9.750036973460652,
+          "min": 70.0,
+          "max": 124.7,
+          "p5": 73.0,
+          "p25": 81.0,
+          "p75": 90.0,
+          "p95": 104.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 238,
+          "weight_sum": 720.5428953929598,
+          "effective_n": 214.58199262820955,
+          "mean": 26.779197061798126,
+          "median": 27.0,
+          "sd_population": 4.486654016239683,
+          "min": 16,
+          "max": 39,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 30.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.8202032627599829,
+        "spearman_height_weight": 0.8136523260910099,
+        "age_adjusted_pearson": 0.8220797878368407,
+        "handedness": {
+          "RR": {
+            "observed_rows": 117,
+            "weighted_count": 349.22718289429883,
+            "weighted_share": 0.4846723007432365
+          },
+          "RL": {
+            "observed_rows": 86,
+            "weighted_count": 265.03701816079297,
+            "weighted_share": 0.3678296182717211
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 35,
+            "weighted_count": 106.27869433786772,
+            "weighted_share": 0.14749808098504247
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "P": {
+        "rows": 216,
+        "unique_people": 81,
+        "estimated_population_weight": 1998.6340627066122,
+        "height_cm": {
+          "n": 216,
+          "weight_sum": 1998.6340627066122,
+          "effective_n": 193.10396928566806,
+          "mean": 181.88309076583025,
+          "median": 182.0,
+          "sd_population": 6.173785632192647,
+          "min": 170.0,
+          "max": 198.1,
+          "p5": 172.0,
+          "p25": 177.0,
+          "p75": 185.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 216,
+          "weight_sum": 1998.6340627066122,
+          "effective_n": 193.10396928566806,
+          "mean": 88.97699342099887,
+          "median": 88.0,
+          "sd_population": 8.12095735928888,
+          "min": 70.0,
+          "max": 113.0,
+          "p5": 78.0,
+          "p25": 83.0,
+          "p75": 94.0,
+          "p95": 104.3,
+          "missing": 0
+        },
+        "age": {
+          "n": 216,
+          "weight_sum": 1998.6340627066122,
+          "effective_n": 193.10396928566806,
+          "mean": 25.924797600649878,
+          "median": 25.0,
+          "sd_population": 4.408389570577771,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 28.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6957018216379067,
+        "spearman_height_weight": 0.664691489083361,
+        "age_adjusted_pearson": 0.6598975159887567,
+        "handedness": {
+          "RR": {
+            "observed_rows": 135,
+            "weighted_count": 1265.303445490159,
+            "weighted_share": 0.6330840993356458
+          },
+          "RL": {
+            "observed_rows": 18,
+            "weighted_count": 120.78997196051942,
+            "weighted_share": 0.06043626205236481
+          },
+          "RS": {
+            "observed_rows": 3,
+            "weighted_count": 25.687179487179485,
+            "weighted_share": 0.012852367507633234
+          },
+          "LL": {
+            "observed_rows": 57,
+            "weighted_count": 551.5020700380496,
+            "weighted_share": 0.27593949304115634
+          },
+          "LR": {
+            "observed_rows": 1,
+            "weighted_count": 7.68472906403941,
+            "weighted_share": 0.0038449905400053607
+          },
+          "LS": {
+            "observed_rows": 2,
+            "weighted_count": 27.666666666666664,
+            "weighted_share": 0.01384278752319451
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "role": {
+      "batter": {
+        "rows": 732,
+        "unique_people": 229,
+        "estimated_population_weight": 2002.6273934681442,
+        "height_cm": {
+          "n": 732,
+          "weight_sum": 2002.6273934681442,
+          "effective_n": 598.211944766173,
+          "mean": 179.67101285078567,
+          "median": 180.0,
+          "sd_population": 5.8023065866271715,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 176.0,
+          "p75": 183.0,
+          "p95": 190.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 732,
+          "weight_sum": 2002.6273934681442,
+          "effective_n": 598.211944766173,
+          "mean": 86.3079470229525,
+          "median": 85.0,
+          "sd_population": 9.726371857863706,
+          "min": 68.0,
+          "max": 125.0,
+          "p5": 72.0,
+          "p25": 80.0,
+          "p75": 90.0,
+          "p95": 104.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 732,
+          "weight_sum": 2002.6273934681442,
+          "effective_n": 598.211944766173,
+          "mean": 27.013901562715827,
+          "median": 27.0,
+          "sd_population": 4.842674303048241,
+          "min": 16,
+          "max": 40,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 31.0,
+          "p95": 35.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.7008238353491847,
+        "spearman_height_weight": 0.7032598327703476,
+        "age_adjusted_pearson": 0.7049973694590924,
+        "handedness": {
+          "RR": {
+            "observed_rows": 437,
+            "weighted_count": 1116.7698850357147,
+            "weighted_share": 0.5576523564384566
+          },
+          "RL": {
+            "observed_rows": 249,
+            "weighted_count": 737.6511411385868,
+            "weighted_share": 0.36834168130553974
+          },
+          "RS": {
+            "observed_rows": 8,
+            "weighted_count": 33.83333333333333,
+            "weighted_share": 0.01689447245338079
+          },
+          "LL": {
+            "observed_rows": 38,
+            "weighted_count": 114.37303396050922,
+            "weighted_share": 0.05711148980262292
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "pitcher": {
+        "rows": 216,
+        "unique_people": 81,
+        "estimated_population_weight": 1998.6340627066122,
+        "height_cm": {
+          "n": 216,
+          "weight_sum": 1998.6340627066122,
+          "effective_n": 193.10396928566806,
+          "mean": 181.88309076583025,
+          "median": 182.0,
+          "sd_population": 6.173785632192647,
+          "min": 170.0,
+          "max": 198.1,
+          "p5": 172.0,
+          "p25": 177.0,
+          "p75": 185.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 216,
+          "weight_sum": 1998.6340627066122,
+          "effective_n": 193.10396928566806,
+          "mean": 88.97699342099887,
+          "median": 88.0,
+          "sd_population": 8.12095735928888,
+          "min": 70.0,
+          "max": 113.0,
+          "p5": 78.0,
+          "p25": 83.0,
+          "p75": 94.0,
+          "p95": 104.3,
+          "missing": 0
+        },
+        "age": {
+          "n": 216,
+          "weight_sum": 1998.6340627066122,
+          "effective_n": 193.10396928566806,
+          "mean": 25.924797600649878,
+          "median": 25.0,
+          "sd_population": 4.408389570577771,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 28.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6957018216379067,
+        "spearman_height_weight": 0.664691489083361,
+        "age_adjusted_pearson": 0.6598975159887567,
+        "handedness": {
+          "RR": {
+            "observed_rows": 135,
+            "weighted_count": 1265.303445490159,
+            "weighted_share": 0.6330840993356458
+          },
+          "RL": {
+            "observed_rows": 18,
+            "weighted_count": 120.78997196051942,
+            "weighted_share": 0.06043626205236481
+          },
+          "RS": {
+            "observed_rows": 3,
+            "weighted_count": 25.687179487179485,
+            "weighted_share": 0.012852367507633234
+          },
+          "LL": {
+            "observed_rows": 57,
+            "weighted_count": 551.5020700380496,
+            "weighted_share": 0.27593949304115634
+          },
+          "LR": {
+            "observed_rows": 1,
+            "weighted_count": 7.68472906403941,
+            "weighted_share": 0.0038449905400053607
+          },
+          "LS": {
+            "observed_rows": 2,
+            "weighted_count": 27.666666666666664,
+            "weighted_share": 0.01384278752319451
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "age_band": {
+      "15": {
+        "rows": 47,
+        "unique_people": 33,
+        "estimated_population_weight": 228.71231040237086,
+        "height_cm": {
+          "n": 47,
+          "weight_sum": 228.71231040237086,
+          "effective_n": 29.741338613126054,
+          "mean": 181.48285830665094,
+          "median": 180.0,
+          "sd_population": 5.772331555463488,
+          "min": 168.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 178.0,
+          "p75": 186.0,
+          "p95": 189.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 47,
+          "weight_sum": 228.71231040237086,
+          "effective_n": 29.741338613126054,
+          "mean": 87.7266235899027,
+          "median": 85.0,
+          "sd_population": 9.23725245817283,
+          "min": 72.0,
+          "max": 107.0,
+          "p5": 74.0,
+          "p25": 80.0,
+          "p75": 94.0,
+          "p95": 105.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 47,
+          "weight_sum": 228.71231040237086,
+          "effective_n": 29.741338613126054,
+          "mean": 18.537038181603428,
+          "median": 19.0,
+          "sd_population": 0.6446568093940843,
+          "min": 16,
+          "max": 19,
+          "p5": 18.0,
+          "p25": 18.0,
+          "p75": 19.0,
+          "p95": 19.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.5920508651029519,
+        "spearman_height_weight": 0.5836416888639466,
+        "age_adjusted_pearson": 0.6235963056999716,
+        "handedness": {
+          "RR": {
+            "observed_rows": 29,
+            "weighted_count": 113.97765891762893,
+            "weighted_share": 0.49834509877106914
+          },
+          "RL": {
+            "observed_rows": 12,
+            "weighted_count": 49.224327000966134,
+            "weighted_share": 0.2152237757310324
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 6,
+            "weighted_count": 65.5103244837758,
+            "weighted_share": 0.2864311254978985
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "20": {
+        "rows": 300,
+        "unique_people": 148,
+        "estimated_population_weight": 1254.2068691430147,
+        "height_cm": {
+          "n": 300,
+          "weight_sum": 1254.2068691430147,
+          "effective_n": 182.7776366482203,
+          "mean": 180.1986892727809,
+          "median": 180.0,
+          "sd_population": 5.824543055527323,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 176.0,
+          "p75": 183.0,
+          "p95": 190.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 300,
+          "weight_sum": 1254.2068691430147,
+          "effective_n": 182.7776366482203,
+          "mean": 86.48548559083575,
+          "median": 86.0,
+          "sd_population": 7.195128583338231,
+          "min": 69.0,
+          "max": 107.0,
+          "p5": 75.0,
+          "p25": 82.0,
+          "p75": 90.0,
+          "p95": 99.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 300,
+          "weight_sum": 1254.2068691430147,
+          "effective_n": 182.7776366482203,
+          "mean": 22.338112698351004,
+          "median": 23.0,
+          "sd_population": 1.3904734371253595,
+          "min": 20,
+          "max": 24,
+          "p5": 20.0,
+          "p25": 21.0,
+          "p75": 24.0,
+          "p95": 24.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.5932415323535845,
+        "spearman_height_weight": 0.593646183402761,
+        "age_adjusted_pearson": 0.5904203202661326,
+        "handedness": {
+          "RR": {
+            "observed_rows": 185,
+            "weighted_count": 754.7774011154091,
+            "weighted_share": 0.6017965773310906
+          },
+          "RL": {
+            "observed_rows": 84,
+            "weighted_count": 268.7205955292498,
+            "weighted_share": 0.2142554008756654
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 31,
+            "weighted_count": 230.7088724983555,
+            "weighted_share": 0.18394802179324396
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "25": {
+        "rows": 343,
+        "unique_people": 147,
+        "estimated_population_weight": 1473.2905084264394,
+        "height_cm": {
+          "n": 343,
+          "weight_sum": 1473.2905084264394,
+          "effective_n": 203.84977532880455,
+          "mean": 180.4712235136748,
+          "median": 180.0,
+          "sd_population": 5.53435191392499,
+          "min": 167.0,
+          "max": 195.6,
+          "p5": 173.0,
+          "p25": 176.0,
+          "p75": 183.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 343,
+          "weight_sum": 1473.2905084264394,
+          "effective_n": 203.84977532880455,
+          "mean": 87.03082227131662,
+          "median": 87.0,
+          "sd_population": 8.668998699727977,
+          "min": 68.0,
+          "max": 124.7,
+          "p5": 74.0,
+          "p25": 82.0,
+          "p75": 90.0,
+          "p95": 100.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 343,
+          "weight_sum": 1473.2905084264394,
+          "effective_n": 203.84977532880455,
+          "mean": 26.81457528294485,
+          "median": 27.0,
+          "sd_population": 1.3891988661440076,
+          "min": 25,
+          "max": 29,
+          "p5": 25.0,
+          "p25": 26.0,
+          "p75": 28.0,
+          "p95": 29.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.7170676610004392,
+        "spearman_height_weight": 0.6244836345927233,
+        "age_adjusted_pearson": 0.7083506922050002,
+        "handedness": {
+          "RR": {
+            "observed_rows": 187,
+            "weighted_count": 845.3997260411015,
+            "weighted_share": 0.5738173979984699
+          },
+          "RL": {
+            "observed_rows": 114,
+            "weighted_count": 331.4189804668276,
+            "weighted_share": 0.224951547961035
+          },
+          "RS": {
+            "observed_rows": 7,
+            "weighted_count": 31.020512820512813,
+            "weighted_share": 0.021055258717199342
+          },
+          "LL": {
+            "observed_rows": 32,
+            "weighted_count": 230.09989336729026,
+            "weighted_share": 0.15618093787426257
+          },
+          "LR": {
+            "observed_rows": 1,
+            "weighted_count": 7.68472906403941,
+            "weighted_share": 0.0052160310679304905
+          },
+          "LS": {
+            "observed_rows": 2,
+            "weighted_count": 27.666666666666664,
+            "weighted_share": 0.018778826381102738
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "30": {
+        "rows": 208,
+        "unique_people": 88,
+        "estimated_population_weight": 845.275449646407,
+        "height_cm": {
+          "n": 208,
+          "weight_sum": 845.275449646407,
+          "effective_n": 140.1900233527041,
+          "mean": 181.82309502503477,
+          "median": 181.0,
+          "sd_population": 6.966536407043351,
+          "min": 170.0,
+          "max": 198.1,
+          "p5": 171.0,
+          "p25": 177.0,
+          "p75": 185.0,
+          "p95": 196.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 208,
+          "weight_sum": 845.275449646407,
+          "effective_n": 140.1900233527041,
+          "mean": 89.69781609869936,
+          "median": 88.0,
+          "sd_population": 10.861076768576073,
+          "min": 70.0,
+          "max": 125.0,
+          "p5": 71.0,
+          "p25": 82.0,
+          "p75": 98.0,
+          "p95": 104.3,
+          "missing": 0
+        },
+        "age": {
+          "n": 208,
+          "weight_sum": 845.275449646407,
+          "effective_n": 140.1900233527041,
+          "mean": 31.81471240092528,
+          "median": 32.0,
+          "sd_population": 1.3738103297104631,
+          "min": 30,
+          "max": 34,
+          "p5": 30.0,
+          "p25": 31.0,
+          "p75": 33.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.7803000127693319,
+        "spearman_height_weight": 0.8243518320669868,
+        "age_adjusted_pearson": 0.7810964143627993,
+        "handedness": {
+          "RR": {
+            "observed_rows": 136,
+            "weighted_count": 541.3988925618733,
+            "weighted_share": 0.6404999610344173
+          },
+          "RL": {
+            "observed_rows": 45,
+            "weighted_count": 156.90387676873013,
+            "weighted_share": 0.1856245521319301
+          },
+          "RS": {
+            "observed_rows": 4,
+            "weighted_count": 28.499999999999996,
+            "weighted_share": 0.033716819779779514
+          },
+          "LL": {
+            "observed_rows": 23,
+            "weighted_count": 118.47268031580354,
+            "weighted_share": 0.140158667053873
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "35": {
+        "rows": 47,
+        "unique_people": 27,
+        "estimated_population_weight": 181.66298522319127,
+        "height_cm": {
+          "n": 47,
+          "weight_sum": 181.66298522319127,
+          "effective_n": 29.200117359935188,
+          "mean": 180.82052308740097,
+          "median": 181.0,
+          "sd_population": 6.968841580028884,
+          "min": 171.0,
+          "max": 193.0,
+          "p5": 171.0,
+          "p25": 175.0,
+          "p75": 185.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 47,
+          "weight_sum": 181.66298522319127,
+          "effective_n": 29.200117359935188,
+          "mean": 90.36873256361949,
+          "median": 90.0,
+          "sd_population": 11.35867824392311,
+          "min": 71.0,
+          "max": 108.0,
+          "p5": 74.0,
+          "p25": 80.0,
+          "p75": 104.0,
+          "p95": 105.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 47,
+          "weight_sum": 181.66298522319127,
+          "effective_n": 29.200117359935188,
+          "mean": 35.96941712486185,
+          "median": 36.0,
+          "sd_population": 1.0443976525798413,
+          "min": 35,
+          "max": 39,
+          "p5": 35.0,
+          "p25": 35.0,
+          "p75": 37.0,
+          "p95": 38.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.7451996006607172,
+        "spearman_height_weight": 0.7344559917966433,
+        "age_adjusted_pearson": 0.7464430309629227,
+        "handedness": {
+          "RR": {
+            "observed_rows": 34,
+            "weighted_count": 115.35298522319125,
+            "weighted_share": 0.6349834286905971
+          },
+          "RL": {
+            "observed_rows": 10,
+            "weighted_count": 45.22666666666665,
+            "weighted_share": 0.24895917355481714
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 3,
+            "weighted_count": 21.083333333333332,
+            "weighted_share": 0.1160573977545857
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "40": {
+        "rows": 3,
+        "unique_people": 3,
+        "estimated_population_weight": 18.11333333333333,
+        "height_cm": {
+          "n": 3,
+          "weight_sum": 18.11333333333333,
+          "effective_n": 2.182894615837949,
+          "mean": 187.29297018770703,
+          "median": 193.0,
+          "sd_population": 7.389594583495293,
+          "min": 175.0,
+          "max": 193.0,
+          "p5": 175.0,
+          "p25": 180.0,
+          "p75": 193.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 3,
+          "weight_sum": 18.11333333333333,
+          "effective_n": 2.182894615837949,
+          "mean": 92.8906882591093,
+          "median": 102.0,
+          "sd_population": 11.564966426260952,
+          "min": 77.0,
+          "max": 102.0,
+          "p5": 77.0,
+          "p25": 79.0,
+          "p75": 102.0,
+          "p95": 102.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 3,
+          "weight_sum": 18.11333333333333,
+          "effective_n": 2.182894615837949,
+          "mean": 39.99999999999999,
+          "median": 40.0,
+          "sd_population": 7.105427357601002e-15,
+          "min": 40,
+          "max": 40,
+          "p5": 40.0,
+          "p25": 40.0,
+          "p75": 40.0,
+          "p95": 40.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.9883937218984248,
+        "spearman_height_weight": 1.0000000000000002,
+        "age_adjusted_pearson": 0.9883937218984246,
+        "handedness": {
+          "RR": {
+            "observed_rows": 1,
+            "weighted_count": 11.166666666666663,
+            "weighted_share": 0.6164887743835111
+          },
+          "RL": {
+            "observed_rows": 2,
+            "weighted_count": 6.946666666666665,
+            "weighted_share": 0.38351122561648876
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "height_band": {
+      "165": {
+        "rows": 9,
+        "unique_people": 4,
+        "estimated_population_weight": 20.042471326714484,
+        "height_cm": {
+          "n": 9,
+          "weight_sum": 20.042471326714484,
+          "effective_n": 8.090803725423706,
+          "mean": 167.7402844881271,
+          "median": 168.0,
+          "sd_population": 0.6125424088174773,
+          "min": 167.0,
+          "max": 169.0,
+          "p5": 167.0,
+          "p25": 167.0,
+          "p75": 168.0,
+          "p95": 169.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 9,
+          "weight_sum": 20.042471326714484,
+          "effective_n": 8.090803725423706,
+          "mean": 73.14297012967732,
+          "median": 72.0,
+          "sd_population": 5.293873455625598,
+          "min": 70.0,
+          "max": 91.0,
+          "p5": 70.0,
+          "p25": 70.0,
+          "p75": 72.0,
+          "p95": 91.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 9,
+          "weight_sum": 20.042471326714484,
+          "effective_n": 8.090803725423706,
+          "mean": 22.461834205205857,
+          "median": 22.0,
+          "sd_population": 2.978639209977545,
+          "min": 19,
+          "max": 29,
+          "p5": 19.0,
+          "p25": 20.0,
+          "p75": 24.0,
+          "p95": 29.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.4773944384044938,
+        "spearman_height_weight": 0.9361649738332968,
+        "age_adjusted_pearson": 0.4769551941148223,
+        "handedness": {
+          "RR": {
+            "observed_rows": 8,
+            "weighted_count": 18.209137993381148,
+            "weighted_share": 0.9085275810827932
+          },
+          "RL": {
+            "observed_rows": 1,
+            "weighted_count": 1.8333333333333335,
+            "weighted_share": 0.09147241891720685
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "170": {
+        "rows": 144,
+        "unique_people": 39,
+        "estimated_population_weight": 565.5856328452073,
+        "height_cm": {
+          "n": 144,
+          "weight_sum": 565.5856328452073,
+          "effective_n": 93.68449742215974,
+          "mean": 172.16805717029058,
+          "median": 172.0,
+          "sd_population": 1.4163987465989982,
+          "min": 170.0,
+          "max": 174.0,
+          "p5": 170.0,
+          "p25": 171.0,
+          "p75": 174.0,
+          "p95": 174.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 144,
+          "weight_sum": 565.5856328452073,
+          "effective_n": 93.68449742215974,
+          "mean": 79.41041596863968,
+          "median": 80.0,
+          "sd_population": 5.993013570810825,
+          "min": 68.0,
+          "max": 96.0,
+          "p5": 70.0,
+          "p25": 74.0,
+          "p75": 85.0,
+          "p95": 88.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 144,
+          "weight_sum": 565.5856328452073,
+          "effective_n": 93.68449742215974,
+          "mean": 27.218892959057325,
+          "median": 27.0,
+          "sd_population": 4.784634456877883,
+          "min": 18,
+          "max": 39,
+          "p5": 20.0,
+          "p25": 24.0,
+          "p75": 31.0,
+          "p95": 35.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.2363363659442334,
+        "spearman_height_weight": 0.24120843944221082,
+        "age_adjusted_pearson": 0.2846242327068883,
+        "handedness": {
+          "RR": {
+            "observed_rows": 87,
+            "weighted_count": 307.4138365400539,
+            "weighted_share": 0.5435319051397981
+          },
+          "RL": {
+            "observed_rows": 31,
+            "weighted_count": 114.4166666666667,
+            "weighted_share": 0.20229768937214304
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 25,
+            "weighted_count": 136.07040057444732,
+            "weighted_share": 0.24058319849805632
+          },
+          "LR": {
+            "observed_rows": 1,
+            "weighted_count": 7.68472906403941,
+            "weighted_share": 0.013587206990002538
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "175": {
+        "rows": 284,
+        "unique_people": 90,
+        "estimated_population_weight": 1105.3354795786297,
+        "height_cm": {
+          "n": 284,
+          "weight_sum": 1105.3354795786297,
+          "effective_n": 168.27298258299274,
+          "mean": 176.9978866461931,
+          "median": 177.0,
+          "sd_population": 1.3168080542228455,
+          "min": 175.0,
+          "max": 179.0,
+          "p5": 175.0,
+          "p25": 176.0,
+          "p75": 178.0,
+          "p95": 179.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 284,
+          "weight_sum": 1105.3354795786297,
+          "effective_n": 168.27298258299274,
+          "mean": 82.55353558563667,
+          "median": 82.0,
+          "sd_population": 5.456244681934859,
+          "min": 69.0,
+          "max": 102.1,
+          "p5": 75.0,
+          "p25": 80.0,
+          "p75": 87.0,
+          "p95": 90.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 284,
+          "weight_sum": 1105.3354795786297,
+          "effective_n": 168.27298258299274,
+          "mean": 25.843101592585658,
+          "median": 25.0,
+          "sd_population": 4.151816408736286,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 28.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": -0.03752280945758552,
+        "spearman_height_weight": -0.08132685424906565,
+        "age_adjusted_pearson": -0.03407685947986248,
+        "handedness": {
+          "RR": {
+            "observed_rows": 152,
+            "weighted_count": 552.9264182014324,
+            "weighted_share": 0.5002340270595641
+          },
+          "RL": {
+            "observed_rows": 91,
+            "weighted_count": 255.2523310302495,
+            "weighted_share": 0.23092747473152272
+          },
+          "RS": {
+            "observed_rows": 7,
+            "weighted_count": 29.499999999999993,
+            "weighted_share": 0.026688729842677117
+          },
+          "LL": {
+            "observed_rows": 34,
+            "weighted_count": 267.6567303469476,
+            "weighted_share": 0.24214976836623608
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "180": {
+        "rows": 338,
+        "unique_people": 106,
+        "estimated_population_weight": 1440.972140592244,
+        "height_cm": {
+          "n": 338,
+          "weight_sum": 1440.972140592244,
+          "effective_n": 201.0857498850813,
+          "mean": 181.9325742001463,
+          "median": 182.0,
+          "sd_population": 1.4032170435160023,
+          "min": 180.0,
+          "max": 184.0,
+          "p5": 180.0,
+          "p25": 180.0,
+          "p75": 183.0,
+          "p95": 184.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 338,
+          "weight_sum": 1440.972140592244,
+          "effective_n": 201.0857498850813,
+          "mean": 89.92131150639513,
+          "median": 88.0,
+          "sd_population": 6.621619605975755,
+          "min": 74.0,
+          "max": 114.0,
+          "p5": 82.0,
+          "p25": 86.0,
+          "p75": 94.0,
+          "p95": 102.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 338,
+          "weight_sum": 1440.972140592244,
+          "effective_n": 201.0857498850813,
+          "mean": 26.18335442775579,
+          "median": 26.0,
+          "sd_population": 4.541790348954483,
+          "min": 16,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 29.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.3129133221008432,
+        "spearman_height_weight": 0.34463924988900274,
+        "age_adjusted_pearson": 0.31611401200299855,
+        "handedness": {
+          "RR": {
+            "observed_rows": 220,
+            "weighted_count": 968.7286547109758,
+            "weighted_share": 0.672274381594099
+          },
+          "RL": {
+            "observed_rows": 99,
+            "weighted_count": 292.2227208932815,
+            "weighted_share": 0.20279553827680327
+          },
+          "RS": {
+            "observed_rows": 1,
+            "weighted_count": 4.333333333333332,
+            "weighted_share": 0.0030072290860198862
+          },
+          "LL": {
+            "observed_rows": 18,
+            "weighted_count": 175.68743165465312,
+            "weighted_share": 0.12192285104307782
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "185": {
+        "rows": 107,
+        "unique_people": 43,
+        "estimated_population_weight": 494.481199120552,
+        "height_cm": {
+          "n": 107,
+          "weight_sum": 494.481199120552,
+          "effective_n": 75.35841665195132,
+          "mean": 186.93846489912212,
+          "median": 187.0,
+          "sd_population": 1.600088608723242,
+          "min": 185.0,
+          "max": 189.0,
+          "p5": 185.0,
+          "p25": 185.0,
+          "p75": 188.0,
+          "p95": 189.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 107,
+          "weight_sum": 494.481199120552,
+          "effective_n": 75.35841665195132,
+          "mean": 91.49523646646864,
+          "median": 90.0,
+          "sd_population": 7.2057289771418045,
+          "min": 74.0,
+          "max": 108.0,
+          "p5": 82.0,
+          "p25": 86.0,
+          "p75": 97.0,
+          "p95": 105.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 107,
+          "weight_sum": 494.481199120552,
+          "effective_n": 75.35841665195132,
+          "mean": 26.123785442131453,
+          "median": 26.0,
+          "sd_population": 4.951219666010223,
+          "min": 18,
+          "max": 37,
+          "p5": 19.0,
+          "p25": 22.0,
+          "p75": 31.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.07758053616644185,
+        "spearman_height_weight": 0.09408699765599712,
+        "age_adjusted_pearson": 0.1366103156598511,
+        "handedness": {
+          "RR": {
+            "observed_rows": 61,
+            "weighted_count": 258.5535854182798,
+            "weighted_share": 0.5228784954374894
+          },
+          "RL": {
+            "observed_rows": 36,
+            "weighted_count": 155.2763466932915,
+            "weighted_share": 0.3140187068172756
+          },
+          "RS": {
+            "observed_rows": 3,
+            "weighted_count": 25.687179487179485,
+            "weighted_share": 0.051947737412190435
+          },
+          "LL": {
+            "observed_rows": 5,
+            "weighted_count": 27.297420855134504,
+            "weighted_share": 0.055204163279986576
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 2,
+            "weighted_count": 27.666666666666664,
+            "weighted_share": 0.05595089705305798
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "190": {
+        "rows": 48,
+        "unique_people": 22,
+        "estimated_population_weight": 288.1987774402254,
+        "height_cm": {
+          "n": 48,
+          "weight_sum": 288.1987774402254,
+          "effective_n": 33.26834660494804,
+          "mean": 191.68448832943255,
+          "median": 193.0,
+          "sd_population": 1.5750481441886555,
+          "min": 190.0,
+          "max": 194.0,
+          "p5": 190.0,
+          "p25": 190.0,
+          "p75": 193.0,
+          "p95": 194.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 48,
+          "weight_sum": 288.1987774402254,
+          "effective_n": 33.26834660494804,
+          "mean": 100.66643409686291,
+          "median": 99.0,
+          "sd_population": 7.859276665237751,
+          "min": 81.0,
+          "max": 125.0,
+          "p5": 90.0,
+          "p25": 98.0,
+          "p75": 104.0,
+          "p95": 113.4,
+          "missing": 0
+        },
+        "age": {
+          "n": 48,
+          "weight_sum": 288.1987774402254,
+          "effective_n": 33.26834660494804,
+          "mean": 28.874827368147802,
+          "median": 29.0,
+          "sd_population": 5.139645487449957,
+          "min": 16,
+          "max": 40,
+          "p5": 21.0,
+          "p25": 25.0,
+          "p75": 32.0,
+          "p95": 37.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.20043587282196304,
+        "spearman_height_weight": 0.12370490869156843,
+        "age_adjusted_pearson": 0.18657996402722749,
+        "handedness": {
+          "RR": {
+            "observed_rows": 35,
+            "weighted_count": 213.17426763630385,
+            "weighted_share": 0.7396779040137247
+          },
+          "RL": {
+            "observed_rows": 4,
+            "weighted_count": 25.02450980392157,
+            "weighted_share": 0.08683072852074067
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 9,
+            "weighted_count": 49.999999999999986,
+            "weighted_share": 0.17349136746553467
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "195": {
+        "rows": 13,
+        "unique_people": 5,
+        "estimated_population_weight": 72.23055059282116,
+        "height_cm": {
+          "n": 13,
+          "weight_sum": 72.23055059282116,
+          "effective_n": 9.374221591258767,
+          "mean": 196.78738189759108,
+          "median": 196.0,
+          "sd_population": 1.2555794245436374,
+          "min": 195.0,
+          "max": 198.1,
+          "p5": 195.0,
+          "p25": 195.6,
+          "p75": 198.1,
+          "p95": 198.1,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 13,
+          "weight_sum": 72.23055059282116,
+          "effective_n": 9.374221591258767,
+          "mean": 106.2604613128532,
+          "median": 104.3,
+          "sd_population": 6.041413604177932,
+          "min": 102.1,
+          "max": 124.7,
+          "p5": 102.1,
+          "p25": 104.3,
+          "p75": 108.0,
+          "p95": 124.7,
+          "missing": 0
+        },
+        "age": {
+          "n": 13,
+          "weight_sum": 72.23055059282116,
+          "effective_n": 9.374221591258767,
+          "mean": 31.090185249936198,
+          "median": 30.0,
+          "sd_population": 1.9051162790509317,
+          "min": 28,
+          "max": 34,
+          "p5": 29.0,
+          "p25": 30.0,
+          "p75": 33.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": -0.3017103944749319,
+        "spearman_height_weight": 0.011239882037326173,
+        "age_adjusted_pearson": -0.0761618170287758,
+        "handedness": {
+          "RR": {
+            "observed_rows": 9,
+            "weighted_count": 63.06743002544527,
+            "weighted_share": 0.8731406518132426
+          },
+          "RL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 4,
+            "weighted_count": 9.163120567375886,
+            "weighted_share": 0.12685934818675726
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "200": {
+        "rows": 5,
+        "unique_people": 1,
+        "estimated_population_weight": 14.415204678362574,
+        "height_cm": {
+          "n": 5,
+          "weight_sum": 14.415204678362574,
+          "effective_n": 5.000000000000001,
+          "mean": 201.0,
+          "median": 201.0,
+          "sd_population": 0.0,
+          "min": 201.0,
+          "max": 201.0,
+          "p5": 201.0,
+          "p25": 201.0,
+          "p75": 201.0,
+          "p95": 201.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 5,
+          "weight_sum": 14.415204678362574,
+          "effective_n": 5.000000000000001,
+          "mean": 107.0,
+          "median": 107.0,
+          "sd_population": 0.0,
+          "min": 107.0,
+          "max": 107.0,
+          "p5": 107.0,
+          "p25": 107.0,
+          "p75": 107.0,
+          "p95": 107.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 5,
+          "weight_sum": 14.415204678362574,
+          "effective_n": 5.000000000000001,
+          "mean": 20.0,
+          "median": 20.0,
+          "sd_population": 1.4142135623730951,
+          "min": 18,
+          "max": 22,
+          "p5": 18.0,
+          "p25": 19.0,
+          "p75": 21.0,
+          "p95": 22.0,
+          "missing": 0
+        },
+        "pearson_height_weight": null,
+        "spearman_height_weight": 1.0,
+        "age_adjusted_pearson": null,
+        "handedness": {
+          "RR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "RL": {
+            "observed_rows": 5,
+            "weighted_count": 14.415204678362574,
+            "weighted_share": 1.0
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "citizenship": {
+      "japan": {
+        "rows": 860,
+        "unique_people": 258,
+        "estimated_population_weight": 3492.876711719559,
+        "height_cm": {
+          "n": 860,
+          "weight_sum": 3492.876711719559,
+          "effective_n": 526.2377221600229,
+          "mean": 179.6650645944309,
+          "median": 180.0,
+          "sd_population": 5.30604382042838,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 171.0,
+          "p25": 176.0,
+          "p75": 183.0,
+          "p95": 189.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 860,
+          "weight_sum": 3492.876711719559,
+          "effective_n": 526.2377221600229,
+          "mean": 86.11711067718952,
+          "median": 86.0,
+          "sd_population": 7.809992278998705,
+          "min": 68.0,
+          "max": 114.0,
+          "p5": 74.0,
+          "p25": 80.0,
+          "p75": 90.0,
+          "p95": 99.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 860,
+          "weight_sum": 3492.876711719559,
+          "effective_n": 526.2377221600229,
+          "mean": 25.974804898734625,
+          "median": 25.0,
+          "sd_population": 4.5231418229228355,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 29.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6412208295633013,
+        "spearman_height_weight": 0.6496133977817014,
+        "age_adjusted_pearson": 0.6444777625929634,
+        "handedness": {
+          "RR": {
+            "observed_rows": 514,
+            "weighted_count": 2077.769799474181,
+            "weighted_share": 0.5948591865560816
+          },
+          "RL": {
+            "observed_rows": 260,
+            "weighted_count": 823.7101997501604,
+            "weighted_share": 0.23582572983076835
+          },
+          "RS": {
+            "observed_rows": 5,
+            "weighted_count": 19.166666666666664,
+            "weighted_share": 0.005487358486589927
+          },
+          "LL": {
+            "observed_rows": 80,
+            "weighted_count": 564.5453167645164,
+            "weighted_share": 0.16162761052238442
+          },
+          "LR": {
+            "observed_rows": 1,
+            "weighted_count": 7.68472906403941,
+            "weighted_share": 0.0022001146041757003
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "non_japan": {
+        "rows": 85,
+        "unique_people": 51,
+        "estimated_population_weight": 495.3847444551975,
+        "height_cm": {
+          "n": 85,
+          "weight_sum": 495.3847444551975,
+          "effective_n": 59.1341361008549,
+          "mean": 188.6289672754957,
+          "median": 188.0,
+          "sd_population": 5.555366144048343,
+          "min": 175.0,
+          "max": 198.1,
+          "p5": 178.0,
+          "p25": 185.0,
+          "p75": 193.0,
+          "p95": 198.1,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 85,
+          "weight_sum": 495.3847444551975,
+          "effective_n": 59.1341361008549,
+          "mean": 97.9837570877223,
+          "median": 99.8,
+          "sd_population": 10.163042376290257,
+          "min": 76.0,
+          "max": 125.0,
+          "p5": 82.0,
+          "p25": 89.0,
+          "p75": 104.0,
+          "p95": 113.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 85,
+          "weight_sum": 495.3847444551975,
+          "effective_n": 59.1341361008549,
+          "mean": 30.156705212148353,
+          "median": 30.0,
+          "sd_population": 3.8146203433656423,
+          "min": 16,
+          "max": 40,
+          "p5": 23.0,
+          "p25": 28.0,
+          "p75": 32.0,
+          "p95": 36.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.5726962497230487,
+        "spearman_height_weight": 0.6358287857224675,
+        "age_adjusted_pearson": 0.5374953166406348,
+        "handedness": {
+          "RR": {
+            "observed_rows": 55,
+            "weighted_count": 291.3035310516962,
+            "weighted_share": 0.5880349249996768
+          },
+          "RL": {
+            "observed_rows": 7,
+            "weighted_count": 34.73091334894614,
+            "weighted_share": 0.07010896830733386
+          },
+          "RS": {
+            "observed_rows": 6,
+            "weighted_count": 40.35384615384615,
+            "weighted_share": 0.08145960610520118
+          },
+          "LL": {
+            "observed_rows": 15,
+            "weighted_count": 101.32978723404251,
+            "weighted_share": 0.20454765385534945
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 2,
+            "weighted_count": 27.666666666666664,
+            "weighted_share": 0.055848846732438735
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "unknown": {
+        "rows": 3,
+        "unique_people": 1,
+        "estimated_population_weight": 12.999999999999996,
+        "height_cm": {
+          "n": 3,
+          "weight_sum": 12.999999999999996,
+          "effective_n": 3.0000000000000004,
+          "mean": 179.99999999999997,
+          "median": 180.0,
+          "sd_population": 2.842170943040401e-14,
+          "min": 180.0,
+          "max": 180.0,
+          "p5": 180.0,
+          "p25": 180.0,
+          "p75": 180.0,
+          "p95": 180.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 3,
+          "weight_sum": 12.999999999999996,
+          "effective_n": 3.0000000000000004,
+          "mean": 103.0,
+          "median": 103.0,
+          "sd_population": 0.0,
+          "min": 103.0,
+          "max": 103.0,
+          "p5": 103.0,
+          "p25": 103.0,
+          "p75": 103.0,
+          "p95": 103.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 3,
+          "weight_sum": 12.999999999999996,
+          "effective_n": 3.0000000000000004,
+          "mean": 19.0,
+          "median": 19.0,
+          "sd_population": 0.816496580927726,
+          "min": 18,
+          "max": 20,
+          "p5": 18.0,
+          "p25": 18.0,
+          "p75": 20.0,
+          "p95": 20.0,
+          "missing": 0
+        },
+        "pearson_height_weight": null,
+        "spearman_height_weight": 1.0,
+        "age_adjusted_pearson": 0.9819805060619657,
+        "handedness": {
+          "RR": {
+            "observed_rows": 3,
+            "weighted_count": 12.999999999999996,
+            "weighted_share": 1.0
+          },
+          "RL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    }
+  },
+  "listed_frame": {
+    "player_years": 4948,
+    "unique_article_identities": 1642,
+    "multi_team_player_years": 39,
+    "both_registration_player_years": 0
+  },
+  "quarantined_rows": 0,
+  "coverage": [
+    {
+      "year": 2021,
+      "team": "読売ジャイアンツ",
+      "rows": 95,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "primary",
+      "listed_player_years": 95,
+      "sampled_profile_rows": 25,
+      "body_complete_rows": 25
+    },
+    {
+      "year": 2021,
+      "team": "読売ジャイアンツ",
+      "rows": 95,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "development",
+      "listed_player_years": 0,
+      "sampled_profile_rows": 0,
+      "body_complete_rows": 0
+    },
+    {
+      "year": 2021,
+      "team": "阪神タイガース",
+      "rows": 71,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2021,
+      "team": "阪神タイガース",
+      "rows": 71,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 0,
+      "sampled_profile_rows": 0,
+      "body_complete_rows": 0
+    },
+    {
+      "year": 2021,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 15,
+      "body_complete_rows": 15
+    },
+    {
+      "year": 2021,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 7,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2021,
+      "team": "広島東洋カープ",
+      "rows": 75,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2021,
+      "team": "広島東洋カープ",
+      "rows": 75,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "development",
+      "listed_player_years": 6,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2021,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 74,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 68,
+      "sampled_profile_rows": 15,
+      "body_complete_rows": 15
+    },
+    {
+      "year": 2021,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 74,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 6,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2021,
+      "team": "中日ドラゴンズ",
+      "rows": 71,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2021,
+      "team": "中日ドラゴンズ",
+      "rows": 71,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 0,
+      "sampled_profile_rows": 0,
+      "body_complete_rows": 0
+    },
+    {
+      "year": 2021,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 91,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2021,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 91,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 20,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2021,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 77,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2021,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 77,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 6,
+      "sampled_profile_rows": 0,
+      "body_complete_rows": 0
+    },
+    {
+      "year": 2021,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 82,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 73,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2021,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 82,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 9,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2021,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2021,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 10,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2021,
+      "team": "オリックス・バファローズ",
+      "rows": 87,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2021,
+      "team": "オリックス・バファローズ",
+      "rows": 87,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 18,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2021,
+      "team": "埼玉西武ライオンズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2021,
+      "team": "埼玉西武ライオンズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 9,
+      "sampled_profile_rows": 1,
+      "body_complete_rows": 1
+    },
+    {
+      "year": 2022,
+      "team": "読売ジャイアンツ",
+      "rows": 103,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 13,
+      "body_complete_rows": 13
+    },
+    {
+      "year": 2022,
+      "team": "読売ジャイアンツ",
+      "rows": 103,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "development",
+      "listed_player_years": 33,
+      "sampled_profile_rows": 11,
+      "body_complete_rows": 11
+    },
+    {
+      "year": 2022,
+      "team": "阪神タイガース",
+      "rows": 75,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 20,
+      "body_complete_rows": 20
+    },
+    {
+      "year": 2022,
+      "team": "阪神タイガース",
+      "rows": 75,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 4,
+      "sampled_profile_rows": 1,
+      "body_complete_rows": 1
+    },
+    {
+      "year": 2022,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2022,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 8,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2022,
+      "team": "広島東洋カープ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "primary",
+      "listed_player_years": 68,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2022,
+      "team": "広島東洋カープ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "development",
+      "listed_player_years": 8,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    },
+    {
+      "year": 2022,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2022,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 5,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2022,
+      "team": "中日ドラゴンズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 19,
+      "body_complete_rows": 19
+    },
+    {
+      "year": 2022,
+      "team": "中日ドラゴンズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 8,
+      "sampled_profile_rows": 1,
+      "body_complete_rows": 1
+    },
+    {
+      "year": 2022,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 104,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 13,
+      "body_complete_rows": 13
+    },
+    {
+      "year": 2022,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 104,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 33,
+      "sampled_profile_rows": 6,
+      "body_complete_rows": 6
+    },
+    {
+      "year": 2022,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 14,
+      "body_complete_rows": 14
+    },
+    {
+      "year": 2022,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 11,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2022,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 78,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 15,
+      "body_complete_rows": 15
+    },
+    {
+      "year": 2022,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 78,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 7,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2022,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 85,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2022,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 85,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 14,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2022,
+      "team": "オリックス・バファローズ",
+      "rows": 85,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2022,
+      "team": "オリックス・バファローズ",
+      "rows": 85,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 14,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    },
+    {
+      "year": 2022,
+      "team": "埼玉西武ライオンズ",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 67,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2022,
+      "team": "埼玉西武ライオンズ",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 13,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    },
+    {
+      "year": 2023,
+      "team": "読売ジャイアンツ",
+      "rows": 109,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 10,
+      "body_complete_rows": 10
+    },
+    {
+      "year": 2023,
+      "team": "読売ジャイアンツ",
+      "rows": 109,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "development",
+      "listed_player_years": 39,
+      "sampled_profile_rows": 8,
+      "body_complete_rows": 8
+    },
+    {
+      "year": 2023,
+      "team": "阪神タイガース",
+      "rows": 74,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2023,
+      "team": "阪神タイガース",
+      "rows": 74,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 5,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2023,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 81,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2023,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 81,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 12,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2023,
+      "team": "広島東洋カープ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "primary",
+      "listed_player_years": 68,
+      "sampled_profile_rows": 19,
+      "body_complete_rows": 19
+    },
+    {
+      "year": 2023,
+      "team": "広島東洋カープ",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "development",
+      "listed_player_years": 8,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2023,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 78,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2023,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 78,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 8,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2023,
+      "team": "中日ドラゴンズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 72,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2023,
+      "team": "中日ドラゴンズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 11,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2023,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 122,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 16,
+      "body_complete_rows": 16
+    },
+    {
+      "year": 2023,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 122,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 52,
+      "sampled_profile_rows": 9,
+      "body_complete_rows": 9
+    },
+    {
+      "year": 2023,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 84,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 73,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2023,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 84,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 11,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2023,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 82,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 11,
+      "body_complete_rows": 11
+    },
+    {
+      "year": 2023,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 82,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 12,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    },
+    {
+      "year": 2023,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 68,
+      "sampled_profile_rows": 15,
+      "body_complete_rows": 15
+    },
+    {
+      "year": 2023,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 14,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    },
+    {
+      "year": 2023,
+      "team": "オリックス・バファローズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 68,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2023,
+      "team": "オリックス・バファローズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 15,
+      "sampled_profile_rows": 1,
+      "body_complete_rows": 1
+    },
+    {
+      "year": 2023,
+      "team": "埼玉西武ライオンズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 68,
+      "sampled_profile_rows": 15,
+      "body_complete_rows": 15
+    },
+    {
+      "year": 2023,
+      "team": "埼玉西武ライオンズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 15,
+      "sampled_profile_rows": 6,
+      "body_complete_rows": 6
+    },
+    {
+      "year": 2024,
+      "team": "読売ジャイアンツ",
+      "rows": 109,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 13,
+      "body_complete_rows": 13
+    },
+    {
+      "year": 2024,
+      "team": "読売ジャイアンツ",
+      "rows": 109,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "development",
+      "listed_player_years": 38,
+      "sampled_profile_rows": 6,
+      "body_complete_rows": 6
+    },
+    {
+      "year": 2024,
+      "team": "阪神タイガース",
+      "rows": 74,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 68,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2024,
+      "team": "阪神タイガース",
+      "rows": 74,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 6,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2024,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2024,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 14,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2024,
+      "team": "広島東洋カープ",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2024,
+      "team": "広島東洋カープ",
+      "rows": 80,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "development",
+      "listed_player_years": 10,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2024,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 77,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 19,
+      "body_complete_rows": 19
+    },
+    {
+      "year": 2024,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 77,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 8,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2024,
+      "team": "中日ドラゴンズ",
+      "rows": 85,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 15,
+      "body_complete_rows": 15
+    },
+    {
+      "year": 2024,
+      "team": "中日ドラゴンズ",
+      "rows": 85,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 15,
+      "sampled_profile_rows": 6,
+      "body_complete_rows": 6
+    },
+    {
+      "year": 2024,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 0,
+      "status": "unavailable",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "error": "No classified roster players",
+      "registration": "primary",
+      "listed_player_years": 0,
+      "sampled_profile_rows": 0,
+      "body_complete_rows": 0
+    },
+    {
+      "year": 2024,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 0,
+      "status": "unavailable",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "error": "No classified roster players",
+      "registration": "development",
+      "listed_player_years": 0,
+      "sampled_profile_rows": 0,
+      "body_complete_rows": 0
+    },
+    {
+      "year": 2024,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2024,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 13,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    },
+    {
+      "year": 2024,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 87,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 72,
+      "sampled_profile_rows": 14,
+      "body_complete_rows": 14
+    },
+    {
+      "year": 2024,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 87,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 15,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2024,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 65,
+      "sampled_profile_rows": 11,
+      "body_complete_rows": 11
+    },
+    {
+      "year": 2024,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 76,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 11,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2024,
+      "team": "オリックス・バファローズ",
+      "rows": 84,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2024,
+      "team": "オリックス・バファローズ",
+      "rows": 84,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 14,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2024,
+      "team": "埼玉西武ライオンズ",
+      "rows": 91,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2024,
+      "team": "埼玉西武ライオンズ",
+      "rows": 91,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 22,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2025,
+      "team": "読売ジャイアンツ",
+      "rows": 103,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 13,
+      "body_complete_rows": 13
+    },
+    {
+      "year": 2025,
+      "team": "読売ジャイアンツ",
+      "rows": 103,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "registration": "development",
+      "listed_player_years": 32,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2025,
+      "team": "阪神タイガース",
+      "rows": 82,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2025,
+      "team": "阪神タイガース",
+      "rows": 82,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 12,
+      "sampled_profile_rows": 6,
+      "body_complete_rows": 6
+    },
+    {
+      "year": 2025,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 86,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 17,
+      "body_complete_rows": 17
+    },
+    {
+      "year": 2025,
+      "team": "横浜DeNAベイスターズ",
+      "rows": 86,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 15,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2025,
+      "team": "広島東洋カープ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 20,
+      "body_complete_rows": 20
+    },
+    {
+      "year": 2025,
+      "team": "広島東洋カープ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "registration": "development",
+      "listed_player_years": 9,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2025,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2025,
+      "team": "東京ヤクルトスワローズ",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 10,
+      "sampled_profile_rows": 2,
+      "body_complete_rows": 2
+    },
+    {
+      "year": 2025,
+      "team": "中日ドラゴンズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 13,
+      "body_complete_rows": 13
+    },
+    {
+      "year": 2025,
+      "team": "中日ドラゴンズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 13,
+      "sampled_profile_rows": 6,
+      "body_complete_rows": 6
+    },
+    {
+      "year": 2025,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 118,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 14,
+      "body_complete_rows": 14
+    },
+    {
+      "year": 2025,
+      "team": "福岡ソフトバンクホークス",
+      "rows": 118,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 48,
+      "sampled_profile_rows": 8,
+      "body_complete_rows": 8
+    },
+    {
+      "year": 2025,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 18,
+      "body_complete_rows": 18
+    },
+    {
+      "year": 2025,
+      "team": "北海道日本ハムファイターズ",
+      "rows": 83,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 14,
+      "sampled_profile_rows": 3,
+      "body_complete_rows": 3
+    },
+    {
+      "year": 2025,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 87,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 70,
+      "sampled_profile_rows": 14,
+      "body_complete_rows": 14
+    },
+    {
+      "year": 2025,
+      "team": "千葉ロッテマリーンズ",
+      "rows": 87,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 17,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2025,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "primary",
+      "listed_player_years": 71,
+      "sampled_profile_rows": 12,
+      "body_complete_rows": 12
+    },
+    {
+      "year": 2025,
+      "team": "東北楽天ゴールデンイーグルス",
+      "rows": 79,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "registration": "development",
+      "listed_player_years": 8,
+      "sampled_profile_rows": 5,
+      "body_complete_rows": 5
+    },
+    {
+      "year": 2025,
+      "team": "オリックス・バファローズ",
+      "rows": 89,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 69,
+      "sampled_profile_rows": 20,
+      "body_complete_rows": 20
+    },
+    {
+      "year": 2025,
+      "team": "オリックス・バファローズ",
+      "rows": 89,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 20,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    },
+    {
+      "year": 2025,
+      "team": "埼玉西武ライオンズ",
+      "rows": 95,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "primary",
+      "listed_player_years": 72,
+      "sampled_profile_rows": 20,
+      "body_complete_rows": 20
+    },
+    {
+      "year": 2025,
+      "team": "埼玉西武ライオンズ",
+      "rows": 95,
+      "status": "parsed",
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "registration": "development",
+      "listed_player_years": 23,
+      "sampled_profile_rows": 4,
+      "body_complete_rows": 4
+    }
+  ],
+  "measurement_timing": "retrieval-time article body values; annual changes are not observed",
+  "weights": "inverse probability of selection from independent fixed team/position/registration union strata; no nonresponse imputation",
+  "new_entrants": {
+    "status": "not_calibrated",
+    "reason": "first listed year is not verified first NPB entry"
+  },
+  "ability_effect": {
+    "enabled": false,
+    "reason": "body/outcome causal effect not established"
+  },
+  "platoon_effect": {
+    "enabled": false,
+    "reason": "roster handedness is not matchup outcome data"
+  }
+}

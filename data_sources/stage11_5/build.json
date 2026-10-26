@@ -1,0 +1,31 @@
+{
+  "base_commit": "522aa7507d0d6330a0ab45eba84959f7baf5128c",
+  "implementation_sha256": "1c2b1c953130858ce4773eba32d4954d68a09ede4da7e5baf0b3228886e734e9",
+  "parameter_sha256": "4f4de8468f6b8022dcc0388fda9b31991b089699dab71d4c7aa3abda174261c5",
+  "private_manifest_sha256": "b2aad85d56bd2bbd0bbe075c0dba81cc3de0df46b173e51fb0f88dd25c63c70b",
+  "public_artifact_sha256": {
+    "MODEL.md": "1dd985235e9a66c22021f8068380b772741055a2ea7c3a4685f10f4cdbc2a6a1",
+    "README.md": "fb2abd26cd58276d642c682aee0c34ca39a22c0fef2a9c42b1993ef592338ff8",
+    "RIGHTS.md": "cb3ae9b31e57b67f87491a88fc95ef0a5652f3a6582fd8d125b06673cc5c27c0",
+    "STAGE12.md": "2c1c2ffb89c10d88c6eaa06bf842d9b9930edd65c2bfd0a52f96fba7f8e3edd0",
+    "aggregate_provenance.json": "d1a00e89e56846423e6502e6be58b651a1164e77bab99359ff9b147d0de9b7fe",
+    "body_statistics.csv": "48b4a123b07c4ff5016bf7481e982cbc7a1e55d26f1ecc291f1aea2a8cab4dec",
+    "compatibility.json": "e4389a2d4731db823e5f084e5080b32d4c400656cb01193889355fd99bcc8373",
+    "config.json": "c4ee1f9614f834012cccd29b8c094e91aa50137d760d6d90160a33177fd72b44",
+    "coverage.csv": "b419c36ae1c5624eb37075a34428a41607ce409f602963eaca5cdff9f3b6b1e6",
+    "fictional_players.csv": "3ef028274c2626f937b6a7d973edfa9321bbe6f5697e0a454ac2d01ef1a957d0",
+    "fictional_players.json": "3d1d990abbe330de494ef697e883419738ef92b5d2ea228891a48806124ff8b1",
+    "generation_by_seed.csv": "4554d06387a453a143ab13683b728ad9810108d5161385cd4c6d1df54a661c95",
+    "generation_validation.json": "fa9da287c6442ede25a0e23adcf3907bd815c1e63f7e969d96275004f062849a",
+    "handedness.csv": "4929e7e092cd2c72cfce12ec0272eb941398261bb205084ae850db4f4af78503",
+    "legacy_replay.json": "fb044a4ac13e700b6d8eaa41c4807d2b85403cd8ca7dda328e3605fd1ae78d66",
+    "method_comparison.json": "9ded3d77a047a237ed9cdac56f7201fb3c9fbb204fe864830e4885a688468bc4",
+    "parameters.json": "64a94807b259e85bd19b40e5a7ab81ad9f160c77acc54c062c22848c0ff61351",
+    "quality.json": "bad90b70ed4a3c111b5cfb8c2d270ac316797f85ccd20282fe35d50bc7b65df2",
+    "requirements-research.txt": "ced14fbda6130b57860e5167b813ac086b8cecfe9ffd25ea735be0bcba926bdb",
+    "source_decisions.json": "c4b156bcbe6ca6af38964c187f65ae8546d2b5521b3e18554788a549426b3422",
+    "sources.json": "e5cf25b66dadf731d1cdf598ed19d6088343ed0def04caa175adaac7025d25b4",
+    "statistics.json": "06fdb423cdbbea807ea67c7cf6064cb218be974f5a1983644abedcc71614263e",
+    "verification.json": "0a24c03971cc3d23f19f7bc5278f646c56993a3149274fe16864e04c442a372d"
+  }
+}

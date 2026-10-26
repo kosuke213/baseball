@@ -1,0 +1,14 @@
+{
+  "players": 720,
+  "frozen_initial_roster_games": 100,
+  "completed_games": 100,
+  "failed_games": 0,
+  "record_error_games": 0,
+  "unknown_priority_games": 0,
+  "game_journal_replays_equal": true,
+  "new_profile_career_roundtrip_equal": true,
+  "physical_weight_roundtrip_equal": true,
+  "past_weight_view_unchanged": true,
+  "attributes_only_no_new_ability_or_platoon_adjustment": true,
+  "elapsed_seconds": 46.988429062999785
+}

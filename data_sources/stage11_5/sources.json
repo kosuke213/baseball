@@ -1,0 +1,3423 @@
+{
+  "license": "Wikipedia contributors, CC BY-SA 4.0; aggregate transformations by this project",
+  "raw_html_and_real_player_rows_redistributed": false,
+  "requests": [
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A2%E3%83%B3%E3%83%BB%E3%83%98%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9_%28%E5%86%85%E9%87%8E%E6%89%8B%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:39.004827+00:00",
+      "sha256": "ce7c5c7387d86df91e423514889ea766fb714b68b46e03066722e9e8da86312e",
+      "bytes": 174274,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E4%B8%8A%E6%99%B4%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:40.648033+00:00",
+      "sha256": "c55dac24b3fa90a39f714d7a7dd84bf44cabac72dd8628a239dfc5607dd1774d",
+      "bytes": 400809,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E4%BA%95%E5%A4%A7%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:07.894865+00:00",
+      "sha256": "45672bceabeb4c76a70d92195def9f78c38b4f89f1db7ddf57a1da2311d5fc69",
+      "bytes": 337231,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:48.128460+00:00",
+      "sha256": "ca8cac2fc0963ea53ed5776be69e17141ff5aaff076b07fd14f9354e305d8cfa",
+      "bytes": 357891,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%A3%AE%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:33.378246+00:00",
+      "sha256": "047f1bddaf41c1c9ff7eb9c0c089d9e998b17dde5cc52489b2e538a158e22eb1",
+      "bytes": 120784,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%95%AD%E9%BD%8A",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:01.743463+00:00",
+      "sha256": "03d183a4074bcd713dacb132175f16af12565e830cd3f46af1e38e8f06c8b883",
+      "bytes": 146017,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%AC%BC%E9%9A%86%E5%B9%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:36.281809+00:00",
+      "sha256": "e65d0dce2d8c1ddfc5c54fd51e419b13eef9a60fd9c0985b60f0c85229d64246",
+      "bytes": 324469,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E5%8F%A3%E6%81%AD%E4%BD%91",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:03.430555+00:00",
+      "sha256": "c32f1c27efe6398b836ba53044d1a5a290c48a652ea50197c788de67c16a07d1",
+      "bytes": 228108,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B6%8B%E6%9D%91%E9%BA%9F%E5%A3%AB%E6%9C%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:11.130055+00:00",
+      "sha256": "545bf74c60d5a35070709a7909c605acaa7a9c7e9ddb94ddedafbdf8a2345ea1",
+      "bytes": 250541,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%A2%E3%83%BB%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2_%28%E5%A4%96%E9%87%8E%E6%89%8B%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:19.041620+00:00",
+      "sha256": "f9e9be7a8b3142423cb5480d30203d46e2b412cfb61df15ea821b554fa456486",
+      "bytes": 170658,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%83%E8%AC%99%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:13.680551+00:00",
+      "sha256": "fd4db63ef13da91756620b22b06280c3fa08dfac4f6432a45307a43170deae3f",
+      "bytes": 206043,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%8A%E5%A5%8F%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:32.716535+00:00",
+      "sha256": "4071daed28c490a7ee8af48cfccbc14ed90ccdeefe0c3ef594c105e1a853dec0",
+      "bytes": 303098,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%89%E6%9C%AC%E8%A3%95%E5%A4%AA%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:23.100395+00:00",
+      "sha256": "e6731217e4c60c3c7129716fe0ccd921494090b9c0f3c55ad9b39e601dcf6908",
+      "bytes": 638781,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B2%E3%83%AB%E3%83%BB%E3%83%A4%E3%83%95%E3%83%BC%E3%83%AC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:36.849962+00:00",
+      "sha256": "8d3b4507141b424715f338387406dc7bb3992b064c8e9c8b4edcd9f9b3960d5d",
+      "bytes": 215400,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%EF%A8%91%E6%95%8F%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:14.313710+00:00",
+      "sha256": "b45c6f9c8451f36747f07d587c1394cfa174d9aeb4afe3a2ce8425391d968d2e",
+      "bytes": 654251,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%87%E3%83%AB%E3%83%AA%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:50:48.052171+00:00",
+      "sha256": "f49ed898ec8c4c19e2bb28d9552569db554fcd45b219b26890cb6ef063528386",
+      "bytes": 189265,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%83%A1%E6%8B%93%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:54.639568+00:00",
+      "sha256": "ce43ca35a879402191965f80a259a484ef9b1f21d705db2d3f08bd1f6a82daa5",
+      "bytes": 255987,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9C%A8%E5%84%AA%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:54.579787+00:00",
+      "sha256": "59028699fb5ee33f645988980de2e45385dcbc6d4e2a1fde953f89b2992a484b",
+      "bytes": 518242,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%9D%91%E5%AD%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:37.203072+00:00",
+      "sha256": "bd4ae70a69e62bd2e8e1a81bc7d64b96f856ceb3d98c7cf0a23b2b0ea2276542",
+      "bytes": 149574,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E8%93%AE_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:07.114093+00:00",
+      "sha256": "ca0c28ce1ff28efa499261839a09e656e93ee43241330f033d85682727e806cf",
+      "bytes": 249163,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E5%B7%9D%E5%A4%A7%E8%BC%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:57.023193+00:00",
+      "sha256": "10f1718143f20517fe3b04bb1fb2fb614918d6f985bc9e446b99ae152ea6c6fc",
+      "bytes": 168771,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%BF%91%E6%9C%AC%E5%85%89%E5%8F%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:45.790989+00:00",
+      "sha256": "f33b2f25950c12e4c90eaeab3607f512efc4d840fb3f689c7ac5d0fae9be5a21",
+      "bytes": 850882,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%A5%9E%E6%8B%93%E9%83%BD",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:25.355566+00:00",
+      "sha256": "d54bf56d6cbb49517f57ec6d7ffcc11eca08867afa6c3d711b5970d8275c9cf9",
+      "bytes": 111378,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:56.317795+00:00",
+      "sha256": "a1946f3e814b5164fd6553092db995c56ad40510fc94625802b6afc4a7801ec3",
+      "bytes": 412546,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%B1%E5%A6%BB%E7%B4%94%E5%B9%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:31.870227+00:00",
+      "sha256": "141b414e964a10c45dbb7d1786e85134366b3b004be04dc225e95f16084a903f",
+      "bytes": 241898,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%AC%B9%E5%8E%9F%E6%93%8D%E5%B8%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:35.579551+00:00",
+      "sha256": "83f05819466373beae4a19d9bc307abdfd69d08ee0443afa334e20c1adb0bbe7",
+      "bytes": 235095,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E6%B0%B8%E5%A5%A8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:26.987287+00:00",
+      "sha256": "285d6007a2ad55fc240e201465e3d047c6846fc77180d66178d60b7a2e875847",
+      "bytes": 249087,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%A8%E5%A3%AB%E5%A4%A7%E5%92%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:20.304476+00:00",
+      "sha256": "2c8fa605fbf1d81d74f92580c40758607109c17362ce896533cfb1a0b5bd099c",
+      "bytes": 217607,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%85%E9%87%8E%E9%9A%86%E5%A4%AA%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:56.380597+00:00",
+      "sha256": "d15d275834b16f032cccb975ecb68cbba68012bc1d1e698cc58d0c6d8fa74468",
+      "bytes": 592412,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%A2%E3%83%AC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:03.558933+00:00",
+      "sha256": "93504460157af4b652dca9966278ee2207f8118e062b8b498192b8c3428d8d4a",
+      "bytes": 160562,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%86%85%E8%AC%99%E4%BC%8D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:19.422688+00:00",
+      "sha256": "950de01215e203559c2929d19daca95556d9a1c268f90d99ee3947a59d3da545",
+      "bytes": 238329,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E9%9A%88%E3%83%A2%E3%83%B3%E3%83%86%E3%83%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:10.095440+00:00",
+      "sha256": "78bdf4ecae5b33718d2884168d1b6a4e8c68723f122b129c2c5484343250992a",
+      "bytes": 428305,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%9B%E5%B3%B6%E7%A8%9C%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:50.080337+00:00",
+      "sha256": "66dc3733af656c37bb15d644f796f2fb11dd3b2c6cb0ede8df81010b008d37d2",
+      "bytes": 172172,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E6%A4%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:46.082032+00:00",
+      "sha256": "fa01030738acbe67eb18e7905dca39a57b67cc9735b996311aa5ac7dc63fc2df",
+      "bytes": 333774,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B7%BB%E8%B3%A2%E4%BA%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:21.378575+00:00",
+      "sha256": "b6bb379c484cca2e1bfa8d56d74e71ce34f267af8e43e9c21c28df4c0b9537bb",
+      "bytes": 304381,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%A4%AA%E9%99%BD",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:02.715622+00:00",
+      "sha256": "2706dbb8ed388de3311e2ac584111c0e87e039d704737628fa1a3bd684882fbb",
+      "bytes": 208060,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%89%E3%83%AD%E3%83%BB%E3%83%AC%E3%83%93%E3%83%BC%E3%83%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:26.140926+00:00",
+      "sha256": "f8432d5e0a20c0f9b44a42008c64d95e941b013b6a730b638367d0310ddee78f",
+      "bytes": 186382,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%AC%E7%94%B0%E9%99%BD%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:45.332410+00:00",
+      "sha256": "d59c5c31c95df6c98199dde71261020205fd1f05fd463c8c73d20bd059dff777",
+      "bytes": 513449,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%82%AD%E8%B0%B7%E9%8A%80%E4%BB%81%E6%9C%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:23.991002+00:00",
+      "sha256": "941fc86ecd758099665eab1107f9e757a391b36b61919f1c2738dc3c2d59861f",
+      "bytes": 542423,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%83%BD%E5%BF%97%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:09.326176+00:00",
+      "sha256": "e7cab5ac7211b2824d07b2b4100e802c23d69364fd1c944dcf1eb876bc702fbb",
+      "bytes": 420136,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E6%9D%91%E5%89%9B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:34.528159+00:00",
+      "sha256": "2fe0ff812fe65e8416fb5eee17bedd29f034a346ab4ffb55c1bfc5f7a17bdc9f",
+      "bytes": 143412,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%A9%8B%E6%AD%A6%E5%B0%8A",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:39.433445+00:00",
+      "sha256": "84e6b9ecb29191ed985916970eaefc8cdc3e51c1ba5b26ee228cb5a86a80050f",
+      "bytes": 194414,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:57.219061+00:00",
+      "sha256": "9273e7385d7e6cf918834b768abef93fe023f6a6b9e53a722a1b75c1486406e8",
+      "bytes": 470613,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:59.295882+00:00",
+      "sha256": "551f353c7bf08f794603ea91a251ebfa5fa72ca858457702895b7c57478d615e",
+      "bytes": 507244,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E9%82%89%E6%82%A0%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:08.698609+00:00",
+      "sha256": "3fb9ff60777e20ed113851b47971a1c1cf01accb9c395b4339cc6014febd65aa",
+      "bytes": 180355,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E4%BE%91%E5%B9%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:30.327822+00:00",
+      "sha256": "6750237277cf144f2ef33bb27a7539a6d3e56d508d75cefe005a0c4616d9a14e",
+      "bytes": 125663,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/robots.txt",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:39.307360+00:00",
+      "sha256": "26081e6cb8c852dcb80296456cb4b359574016e78c6726816e41d0b850fa717d",
+      "bytes": 23884,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%95%E9%A0%98%E9%9B%85%E8%B2%B4",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:42.805873+00:00",
+      "sha256": "2c23eee5fc38cc7f117b55e36afb87690ad07b431aef91458658aea20a9f34e1",
+      "bytes": 167614,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8E%9F%E8%B2%B4%E8%A6%8F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:00.948894+00:00",
+      "sha256": "1e0af4678d350563a8ac2d967fea060996ae220527b5b048c731dc514125014b",
+      "bytes": 224796,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%B3%80%E6%82%A0%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:53.298558+00:00",
+      "sha256": "a798897ee5129550435999981c6746a21137aa1ab9d784dd2b3bfda3e0ec9fde",
+      "bytes": 283338,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%BA%90%E7%94%B0%E5%A3%AE%E4%BA%AE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:15.201717+00:00",
+      "sha256": "c029f2d41a6b47a331bbdce212e57340d6493c1396875f140c67f6cdb1093b98",
+      "bytes": 754474,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%84%AA_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:16.450132+00:00",
+      "sha256": "e515578d292d0753970194972d60d088b9740587987c3b1f972294410638f639",
+      "bytes": 281449,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%9C%E5%85%83%E8%B1%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:12.114208+00:00",
+      "sha256": "56c6e8c47ef3d28d427429af2dc78f236ef8bc35b5df4d4f8ba5de1917b31396",
+      "bytes": 256885,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%B7%E9%87%8E%E9%9A%86%E5%8F%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:57.870954+00:00",
+      "sha256": "3923b0fcf23521d24e80f5ddf08c063c351ef7ecac3e9aa87da630130e7d6f54",
+      "bytes": 324400,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:05.742849+00:00",
+      "sha256": "c3e6c547fc6fa1851f1bc7121fe61053abaa2038b5284967edacd6f689a10999",
+      "bytes": 416196,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E4%BD%91%E5%9B%B2%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:22.427747+00:00",
+      "sha256": "46a44f977f325cc0579ed922ea1a79b54569d50af04b309a02a1267cf2405281",
+      "bytes": 226644,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%B1%B1%E5%A3%AE%E7%A3%A8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:50.475703+00:00",
+      "sha256": "0bb17db2e42d92f5f6232e50d68aa52a2a088ceb370234d03bbbf6dbf60ed369",
+      "bytes": 244079,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E5%89%9B_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:36.452476+00:00",
+      "sha256": "a89fdc0dea1cc7ca73cf08692b25000f7c64c3c6b08cb379f490b3db00585a26",
+      "bytes": 541443,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%85%83%E6%82%A0%E7%9C%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:18.328352+00:00",
+      "sha256": "3791e55750933c659696bc7128271d48f5816349797a2d74bda86c86e4e39e31",
+      "bytes": 236432,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E8%B0%B7%E5%84%AA%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:51.116872+00:00",
+      "sha256": "9e9d52271c271fb7726d862cc94ff22d59af9f044ed06f06c2ada7c9c8607289",
+      "bytes": 204678,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E5%B0%86%E8%B2%B4",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:02.440122+00:00",
+      "sha256": "858217794ce8f1e6f0b6fe22c3dd740657d4744f9465d4110d87e5b5db2dcbfd",
+      "bytes": 312525,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:41.152064+00:00",
+      "sha256": "0698c1fa5be765428a9e9ce9d191a04f02dcfe87f7a5c5611d7b13affae2a45f",
+      "bytes": 356666,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%BA%83%E5%84%AA%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:33.424003+00:00",
+      "sha256": "dcc7fe67c31cf84ed12fbc5faa8dffd1a13b5f765dea9a3a36264baedf007382",
+      "bytes": 393702,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E8%81%96",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:03.932117+00:00",
+      "sha256": "d04a882d929d3deba72d35e7748661de9669c5b49a7b3bfb1b12190740abb60f",
+      "bytes": 394750,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%B4%94%E7%9F%A2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:25.706336+00:00",
+      "sha256": "439f31da81d01c5e582d4af2d9b010d405d75c16f4c418aad2d6e67f8a0854dd",
+      "bytes": 405127,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E4%BF%A3%E7%BF%94%E8%B2%B4",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:37.741544+00:00",
+      "sha256": "2c91fa8cb40f5a480e9f70259beeb91595dca6cb5540eafcae9708c622dda14a",
+      "bytes": 196639,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E5%B0%86%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:43.461065+00:00",
+      "sha256": "d05834066b7e429c1db9b32906d9ab493d123629bc0fa7c69eb1d0cff0e6fbfb",
+      "bytes": 1650863,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E4%B8%8A%E4%BA%AE%E7%A3%A8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:59.061743+00:00",
+      "sha256": "b66f1a3b90553a7231b325aa4b7afc16ed5fb6c7b2f138e761729a36938d1084",
+      "bytes": 324633,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:28.222548+00:00",
+      "sha256": "07ad3e75961de4e362ecdc97425eed68662e2283b1a4c0e1252e1891ffba7832",
+      "bytes": 502903,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%80%E3%83%B3%E3%83%BB%E3%83%87%E3%82%A3%E3%82%A2%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:39.146718+00:00",
+      "sha256": "5cd6834681c223ae70818c815727f81c65a96a4a2db659de7bf5cce6055ec901",
+      "bytes": 187959,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%B2%E5%9C%B0%E7%A4%BC%E4%BA%9C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:49.650750+00:00",
+      "sha256": "2d68f6663d620dfcb5308c98eb0a504aed42e7c0074e402480d4872cb31b2ff9",
+      "bytes": 213705,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:47.985494+00:00",
+      "sha256": "22b94f5c5b0571e3419e2493ff98f2e6e2bb4edbdd8c2ccdfe9301816febbddc",
+      "bytes": 407923,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E8%88%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:43.126078+00:00",
+      "sha256": "557956b11d1e603fdce9a7d9d6071fb63e983b48f0e30fa3a0363f85e9a15f02",
+      "bytes": 624594,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%8F%A3%E6%9C%9D%E9%99%BD",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:30.212356+00:00",
+      "sha256": "c0879daa73a84254245db08ca882e80a64a17d5855485733c32beec024298984",
+      "bytes": 159194,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%81%A0%E8%97%A4%E6%88%90",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:50.151772+00:00",
+      "sha256": "036d371059b347a1adce93d589e338abc4f7f901f444e71b2debdfb5b8828a05",
+      "bytes": 241432,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%98%E5%8F%B8%E5%BA%B7%E8%AA%A0",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:53.132482+00:00",
+      "sha256": "93136c79c5566a4c3d4065333263e4c36236deaf3cfe785b6a07e446098edffb",
+      "bytes": 344484,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:01.347337+00:00",
+      "sha256": "099acd3ab1916f2bde0a81dd7c35728dc95e2d05b4d8ea9705ee770660187ca3",
+      "bytes": 122503,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E9%82%89%E8%AB%92",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:10.876099+00:00",
+      "sha256": "fd03f6c8b55602244cba829d7cc93273f1e34bb2ab91fb103eb67625c1e6cc02",
+      "bytes": 282223,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E7%BF%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:09.648385+00:00",
+      "sha256": "41f1fa62dd2b3412e0df00e9cadeabc52f81c2e1638cabbf7eeb8480d645dbcd",
+      "bytes": 263980,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E6%82%A0%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:55.517892+00:00",
+      "sha256": "f258d67c1da9d8447be6f6a46948f62d94d9c88d5ef6835b79719d1e4b6cb47a",
+      "bytes": 190197,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9C%88%E5%81%A5%E7%9F%A2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:42.151884+00:00",
+      "sha256": "f9655240b4b60d1e5214f989369fa82353f66bf2984474d324cda0ac7a59c6eb",
+      "bytes": 503045,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9B%8A%E7%94%B0%E6%AD%A6%E5%B0%9A",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:47.861975+00:00",
+      "sha256": "db45d6e4660ae7135e1b1c49ba4f4049b94c40954182abfe6bc576d5481907b7",
+      "bytes": 198239,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%82%A4%E3%83%93%E3%83%83%E3%82%AF%E3%83%BB%E3%83%90%E3%83%AC%E3%83%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:21.792199+00:00",
+      "sha256": "9100ead33957022fa6ba3496abff2d0c4256da61d42b965962cf021535754f88",
+      "bytes": 204555,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%8B%A9%E7%94%9F%E8%81%96%E7%9C%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:30.523482+00:00",
+      "sha256": "d38c5906b545e1279946ba1cb100161d361922ff1270df9080d219b4e40c5149",
+      "bytes": 180383,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:10.391968+00:00",
+      "sha256": "987da5318b60b80064dda8669930318cdae76ce05a35db5578dd478de0e308a0",
+      "bytes": 491994,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%EF%A8%91%E4%BF%8A%E5%93%B2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:26.511259+00:00",
+      "sha256": "13230cf1654d0bd246522a5d652d914294b136a1cd28d2413f50197e94b87762",
+      "bytes": 155815,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E5%9F%8E%E4%BF%8A%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:37.168329+00:00",
+      "sha256": "786bf06aacd73e0aa36e2eefb9ffaa7cd46991d3d64c70382c93f640d30679f6",
+      "bytes": 226733,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B0%BE%E6%B1%90%E6%81%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:34.005753+00:00",
+      "sha256": "adaabb18d058a4f43c9396ad6a23df79387c9f995ba8d6991bd796f299a8bc76",
+      "bytes": 452309,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A0%82%E5%8B%87%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:52.269133+00:00",
+      "sha256": "5fc0975e3c54ebf4a44490e7e8cff8463107edf022c0051b3cd11437f27328a8",
+      "bytes": 315358,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%98%9F%E9%87%8E%E6%81%92%E5%A4%AA%E6%9C%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:12.188514+00:00",
+      "sha256": "85aa7e9a253288dc8287bf650ddf3c11daa3ce145657da93565c9768aeec0f13",
+      "bytes": 132172,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%B8%E6%9F%B1%E6%81%AD%E5%AD%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:59.227424+00:00",
+      "sha256": "023e9fec30ae26f048e3574ce348777d23ec6ca6d4f600ea97c8f5e66c9d4504",
+      "bytes": 347351,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E9%82%89%E5%A4%A7%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:06.532492+00:00",
+      "sha256": "f5a80a6d2c06a66ab596917c5f238c78968f58f304b61038e6a2c388f9df2983",
+      "bytes": 187208,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%83%E6%BE%A4%E7%BF%BC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:14.360542+00:00",
+      "sha256": "015c29f83509b111158445abb23d5f1e6b5459fe42bcb924124290b17c791cc0",
+      "bytes": 401524,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E8%88%AA%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:40.260107+00:00",
+      "sha256": "9084c36aa680e9d3557c2cab1645ec28ac3462e18f7918c9600145614e34a60a",
+      "bytes": 358318,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%B8%A1%E9%A8%B0%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:07.847160+00:00",
+      "sha256": "45ee44fef2f0f8cd5f8ae36a420d33788d1f868f831c38d1a16a6a5b24dac65b",
+      "bytes": 152441,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:45.803167+00:00",
+      "sha256": "821c6b7ef934c919451aa4d34634c12a0cc4169b89c649b22d1fb8facfe6e38f",
+      "bytes": 456102,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%87%8E%E7%9C%9F%E4%BB%81%E6%9C%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:01.278205+00:00",
+      "sha256": "0d4f60d09dce5fb4f9c3f0f5cf98fc742d9e71f0a40be26ed64a6d5ac2efef4a",
+      "bytes": 171331,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:58.485288+00:00",
+      "sha256": "c67abb6ce8a38bfe3ffc57476cf96c2129e65bdc072e4649ddfbb8c7df9c64d7",
+      "bytes": 402894,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B8%E4%BA%95%E6%95%A6%E5%A3%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:40.127059+00:00",
+      "sha256": "e147a6d85a1bc791b07de16671816f0b06f2650ea192dc4de694f8afee0c1a80",
+      "bytes": 124888,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%A9%8B%E5%BA%B7%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:11.843248+00:00",
+      "sha256": "bc24de58baf6891804052facddfdb9591b1801226b37bf111d57ccd3e6a66e40",
+      "bytes": 318700,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%BE%A4%E5%B0%9A%E6%96%87",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:20.855756+00:00",
+      "sha256": "6a4b0b1144d201c5f4838530f49fb4fe9804ff8d4cfb5602201b82951e5f0515",
+      "bytes": 236905,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E5%8B%87%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:18.632323+00:00",
+      "sha256": "767a39282c13102398ee011c883560632a488197bc418923ad1aa534ad18c24a",
+      "bytes": 197910,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E4%B8%AD%E5%A4%A9%E7%BF%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:01.221510+00:00",
+      "sha256": "f746fe0b1676570c0d8a3fc9dd57fc68bdc2994f121c74629c69727b8ee99f2d",
+      "bytes": 124393,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%A1%E9%82%8A%E4%BD%91%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:13.047670+00:00",
+      "sha256": "1644c2fb3fbe3b33ae3826cb05c8c4c2d21b3e9ffa06310f94bb15eb1104bd67",
+      "bytes": 220088,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%99%83_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:21.046928+00:00",
+      "sha256": "3a40f011209fc768816ce23b63afc451709acbed5a61e2b2b48ef7067274cb2e",
+      "bytes": 657760,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:49.763051+00:00",
+      "sha256": "c93647c89b3d560f124e0445d0f9043af707beb1035e4dddbab6d93f39ee1dbc",
+      "bytes": 382748,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E6%9C%AC%E9%A7%BF",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:53.786004+00:00",
+      "sha256": "b49dbf6aadff6528d591458636e2e99bb0cf0a640bedc46a6559f8a12194847f",
+      "bytes": 370144,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%BB%E3%83%80%E3%82%A6%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:43.519401+00:00",
+      "sha256": "aba192713f3e1dd8c4b2e04758c693ceffba307b01626521c92778cc4ef8f5d1",
+      "bytes": 287198,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E7%94%B0%E5%A4%A7%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:32.911688+00:00",
+      "sha256": "3b1763bc9df32bc0b513d4469786f2988ad7a78f4b1af7be02cbb5dcdffe7695",
+      "bytes": 102996,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E5%B7%9D%E8%AA%A0%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:24.655106+00:00",
+      "sha256": "8a160c7abcc44f64186e9ce92bdc6178a952f776f8e86127023ee8deef0ccb1c",
+      "bytes": 237462,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%AA%E7%94%B0%E8%B3%A2%E5%90%BE_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:48.220297+00:00",
+      "sha256": "89eab342076ed56fa1d908c0453a6dfb508f546336b6593be979b67977197b84",
+      "bytes": 266025,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E7%94%B0%E5%81%A5%E4%BA%BA%E3%83%9E%E3%83%AB%E3%82%AF",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:14.012012+00:00",
+      "sha256": "ead3fe436d7ee42931fa25abb3e46ddff8598cca502ef9b64f26c3987cb9797b",
+      "bytes": 166812,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%BB%E3%82%AC%E3%83%B3%E3%82%B1%E3%83%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:41.290126+00:00",
+      "sha256": "e49357e3f60ac715c8d1ac974541c956ed97e776717a7d2a6e52771cbab647a1",
+      "bytes": 174257,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%9F%E3%83%AB%E3%83%BB%E3%83%AC%E3%82%A4%E3%82%A8%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:16.744429+00:00",
+      "sha256": "df65ab73475824e96aad358fab68b2d4ed956678dc38b0abc898a89ab39487d1",
+      "bytes": 412838,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%B6%B3%E7%AB%8B%E7%A5%90%E4%B8%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:38.919073+00:00",
+      "sha256": "a47906184214a66d49c62b8bdfe1492501a05e95536f0cf77fa83e608de1472a",
+      "bytes": 163534,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%BA%E6%9C%AC%E8%81%96%E4%B8%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:18.661695+00:00",
+      "sha256": "f78f13d94ab03834af207eae05dc0c099a9d84356e092fc5a3a8a50b00ebfa8f",
+      "bytes": 124410,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A6%AE%E6%9E%9D%E8%A3%95%E8%B2%B4",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:15.993898+00:00",
+      "sha256": "86b6bde3dfda746976e8368bdc6d2923ceb6556e3cd0f1e924c7014d9c1a830b",
+      "bytes": 287049,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:34.807367+00:00",
+      "sha256": "2549a2aba9e05a2c0a6800adffaa6337ad80fcb3ff469ec3e8cfdf738b0fc945",
+      "bytes": 451503,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:03.576484+00:00",
+      "sha256": "9e581a4585f02b510362f9d6ff2d190bb163b2e525a66876001299f425a6b58f",
+      "bytes": 551005,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E4%BA%95%E9%81%BC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:08.528116+00:00",
+      "sha256": "71b0a21eacee8835cee6137b442191b8fa4af186f8265997ee82cf3e7cd071c9",
+      "bytes": 202163,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8F%8A%E7%94%B0%E6%8B%A1%E5%92%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:59.576810+00:00",
+      "sha256": "c1a2de1c3aa32b7e356fd1187ec6aa21d9df9694d88ff875d6e62753ceded97d",
+      "bytes": 159690,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%88%90%E7%94%B0%E7%BF%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:54.847317+00:00",
+      "sha256": "42d47fdfb071d824e470e303ccb91a1d0ec0965ab66ec047fe4385dd08fe3022",
+      "bytes": 233027,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%88%B4%E6%9C%A8%E8%AA%A0%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:20.918452+00:00",
+      "sha256": "6ad06ac71dda28f0f19ff7ae8f88d0747321d27bedfb3876611afbb7ce477004",
+      "bytes": 1092157,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%BA%9D%E8%84%87%E9%9A%BC%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:17.375243+00:00",
+      "sha256": "cec51dbb3c064a8605aefab94fff59a4f6d8f8358066c3111678a957e0d3e195",
+      "bytes": 229688,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%B4%8E%E6%99%83%E5%A4%A7%E6%9C%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:42.462541+00:00",
+      "sha256": "456d43e608d3f20df1a7cbffe51bae9d3fa075ed54c1c89346fb95aab6c82929",
+      "bytes": 260182,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%BC%B5%E5%A5%95",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:46.117949+00:00",
+      "sha256": "ec9f37c7cf0865948f0093ad9b23ed8acec14851798545a9d157dc58f198526e",
+      "bytes": 300034,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E5%8E%9F%E9%99%B5%E7%9F%A2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:49.955921+00:00",
+      "sha256": "82426ecc8fb70e2dc0bd1ae7f25001daea6de8f84f7da40b721ea2421b8df854",
+      "bytes": 742695,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%83%90%E3%83%BC%E3%83%98%E3%82%A4%E3%82%B2%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:03.561572+00:00",
+      "sha256": "3bd24d7890536622d30e1a149e76276696e5dc464d7a355f719a0ac88e47cfb6",
+      "bytes": 240194,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%8F%8B%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:02.895713+00:00",
+      "sha256": "c98c635800072460bdee42407fa7c87ee35bf0886c16c7d7e5ec54173434fbf1",
+      "bytes": 745901,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E8%8D%89%E5%AD%94%E5%9F%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:56.986137+00:00",
+      "sha256": "85ae49789510dedc0b2d4b7d80dcfe59c2bf46db2f83fe0c3f7b3f1f340fefd6",
+      "bytes": 227941,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:25.729392+00:00",
+      "sha256": "267d16d1872abf736ddfbb87c59ea85409903a5ad9f61cb1f4a452a79f6ab026",
+      "bytes": 370394,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E5%B7%9D%E4%BF%8A%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:08.304195+00:00",
+      "sha256": "3d85482eef9328a3525dd72cc9fdbd05d661e32aaa061c94ba911e7046dc6293",
+      "bytes": 268803,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E5%8E%9F%E6%98%82%E5%B8%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:58.572899+00:00",
+      "sha256": "5ac5d40ff791c9de15ef1471fb2c064f0c851dc9004c2b1565baaf874d472421",
+      "bytes": 291057,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A4%8E%E8%91%89%E5%89%9B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:11.599761+00:00",
+      "sha256": "f7337f4b0f88aba4bc929f6bb3284c0a9e72d0b281aade1cab02c3fac3b6dcd1",
+      "bytes": 206799,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E7%9B%B4%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:40.889378+00:00",
+      "sha256": "2955f6b626abb67ab8a01b509e0ef19c5ac5034887f27079edd2b74a907861d8",
+      "bytes": 207080,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A2%97%E7%94%B0%E7%8F%A0",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:30.585126+00:00",
+      "sha256": "0e95706ab36649bdcb2c6e2e55ec8fb5e4c74c0ba568e566d08e7126f202abb5",
+      "bytes": 362657,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E9%BB%8E%E4%BE%86",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:06.104242+00:00",
+      "sha256": "624602e1a293bacf07dd3c0a12e3919419c0165b6ccee3f046f0d5d111d38a4c",
+      "bytes": 151632,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E9%96%93%E6%B0%B8%E9%81%A0",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:59.154942+00:00",
+      "sha256": "cf8d23fdb7906bf4f49a4b033dd063c1e7b02d0f0bf2695584497f268a0e4375",
+      "bytes": 267316,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:52.562375+00:00",
+      "sha256": "0f720359e1945c2595197fdecd365f899c7a7ae7cf215ae6c6cefdba3cb58c99",
+      "bytes": 542407,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%BE%8C%E8%97%A4%E9%A7%BF%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:48.308191+00:00",
+      "sha256": "2c3e8fa9520d08d41e7e29bbb4d29e7734586f2b19bbd0dbe44c04d90f806d76",
+      "bytes": 367056,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E9%9B%84%E5%A4%A7_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:48.935180+00:00",
+      "sha256": "a263e7214bbce1b7f81676b5cbe91d88adc57188d647c17e5ce90932854fd386",
+      "bytes": 187192,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%AB%E3%83%B3%E3%82%BF%E3%83%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:50:54.700764+00:00",
+      "sha256": "601051a9ab74b646e139f8bf94f90547bc0fe9e8dee12013e402e0b46703047f",
+      "bytes": 210680,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%AD%E3%83%96%E3%83%AB%E3%83%8F%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:10.279029+00:00",
+      "sha256": "8aca1bfbdab672547245107a8ecf8ef6c495630df8f37e19480791a95608a746",
+      "bytes": 253405,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%99%BD%E6%BF%B1%E8%A3%95%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:45.673250+00:00",
+      "sha256": "cf939935104afa31b94c5523be882b1cadcc3b89d3d972fd68f5627e2868ad45",
+      "bytes": 203040,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:39.175216+00:00",
+      "sha256": "ee90c9cc51cf022d865d2801ed7a38458aee5525ad7595b2fdb4bcafe56f9c01",
+      "bytes": 828126,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:30.150487+00:00",
+      "sha256": "3bf1b5e1a913ab870d387bd1d01edb512b2a546e12939043b84c3285948e99c4",
+      "bytes": 371857,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B3%B6%E6%85%B6%E4%B8%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:17.675284+00:00",
+      "sha256": "5350e0a0e15c1113e41ef9cb700c793dd2239ff248344d013d8ac930bad58fb4",
+      "bytes": 413676,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8C%A8%E6%9C%A8%E4%BD%91%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:46.623001+00:00",
+      "sha256": "0e07869441c97d18871b45c1141a1ff57a7ffd752cca72d098093a2b280b534b",
+      "bytes": 190983,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%83%87%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%AD%E3%83%BC%E3%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:50:52.580273+00:00",
+      "sha256": "68345c89be090fb32f472cf81ed3aea011c804dea687f718f0b64cd906cbd2ea",
+      "bytes": 217428,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%87%E3%82%A3%E3%82%AB%E3%83%BC%E3%82%BD%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:50:56.899840+00:00",
+      "sha256": "8e67f3743e3efa3a27d23aed930be16a75dbca23061cafd4ae9a7da2cb5d4b72",
+      "bytes": 248897,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A2%E3%82%B4%E3%83%BB%E3%83%93%E3%82%A8%E3%82%A4%E3%83%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:59.130664+00:00",
+      "sha256": "7d602211f188b1a494e1345784dbfd82dbb1f71d459b2c0529da2118b0d4c022",
+      "bytes": 338096,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E5%B2%A1%E9%9A%BC%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:21.674517+00:00",
+      "sha256": "1f764c5e19f3cc938477b21be06edd29596f6f3265cbf00059551d664d8ccfce",
+      "bytes": 338124,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E9%8A%80%E6%B2%BB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:28.988852+00:00",
+      "sha256": "15d247a3af52f471d4750e80aff721923cdf293e23478f29ff8bce3094f05b86",
+      "bytes": 197360,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:16.994768+00:00",
+      "sha256": "298a1965f6b11bf62a2592f1fa6e6bdcfd7d15f2ab80718fb632df9670107d90",
+      "bytes": 384861,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E7%94%B0%E6%B5%B7%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:07.781439+00:00",
+      "sha256": "c1be65d9e0af53bfa6d7cfade4abce1d1f21e87f669422e00b49848dce8795c3",
+      "bytes": 164104,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%A8%E4%B8%8B%E5%85%83%E7%A7%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:18.672513+00:00",
+      "sha256": "d0a4dd2032bbda5678dc283f5458ddbaf0e1173758af6aa331628ad0ec88d9b4",
+      "bytes": 145526,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%B5%A4%E7%BE%BD%E7%94%B1%E7%B4%98",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:36.740183+00:00",
+      "sha256": "0a273d65c09d39b02f2e17769b26f9f515748162c1a893929246d2524972f77c",
+      "bytes": 311605,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E7%94%B2%E5%87%8C%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:56.960215+00:00",
+      "sha256": "935ab573600afc416164248f3d8a4c24eb68c5926d5ec5e101ed590b3cb02bbb",
+      "bytes": 194959,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%89%A7%E9%87%8E%E7%BF%94%E7%9F%A2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:28.341693+00:00",
+      "sha256": "d596a967f36c211f5d859339d2589033b3995cbd11350c0af16744f396c4916d",
+      "bytes": 207298,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%B7%9D%E5%94%AF%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:32.381962+00:00",
+      "sha256": "b8e4063cb488f3224c31dc76bcf9bbd20d0f16c0e586828adc046ad345b5bf91",
+      "bytes": 197794,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:43.315352+00:00",
+      "sha256": "679ceb583ac73d013d0d1dfa9645602beb42c743825afe2e94aed96b59d20cdc",
+      "bytes": 441664,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%9D%E5%A4%A7%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:31.652629+00:00",
+      "sha256": "91d5a201de57158d6a8956f18cd915bcbb370d3ce055f3b439ff247ca6e242ab",
+      "bytes": 138414,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E9%81%94%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:17.127224+00:00",
+      "sha256": "065b1eabc252827d75a847445e8bf32200aa1e1bb12307c8ad70bcdf10aad1b9",
+      "bytes": 154190,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%BB%E9%87%8E%E8%B2%B4%E5%8F%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:55.207898+00:00",
+      "sha256": "3b061e37a7381b1fa3370385f7fdfab03125a977775e89bffc2d8354a3947cde",
+      "bytes": 584984,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%BB%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%96%E3%83%B3%E3%82%BD%E3%83%B3_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:05.744207+00:00",
+      "sha256": "84bdf2b296e4c03759b74c933a4e6fdef7e38ff776b888d0e435df2d2195ad68",
+      "bytes": 228803,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%83%E3%82%AF%E3%83%BB%E3%83%8B%E3%83%BC%E3%83%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:30.265069+00:00",
+      "sha256": "9f8fc8914d36dc5e877219eea7cebf07c775ec3d8ec1ad96237b788e199d7e85",
+      "bytes": 275540,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8F%8A%E6%B1%A0%E6%B6%BC%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:57.408146+00:00",
+      "sha256": "5e82fd122b8dc79c8c2c846a806321887444783ff47bd95fb0cf86cddf67714c",
+      "bytes": 725880,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%8A%80%E6%AC%A1",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:23.178722+00:00",
+      "sha256": "54923914577eefc5e69c0113cd3e731d56d8303df9af573908baf45730f61427",
+      "bytes": 387654,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/Wikipedia:%E8%91%97%E4%BD%9C%E6%A8%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:41.426021+00:00",
+      "sha256": "ad6e56180f5a1874fc754eba245105b1f69db2f5bfafbb9d6450c2366e016a9c",
+      "bytes": 340499,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%8F%A3%E6%96%87%E4%BB%81",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:44.539589+00:00",
+      "sha256": "85355cbad0b6ceb2e96adf4920b4aaba5703c0327c741444a21d53124fab576d",
+      "bytes": 667745,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%89%8D%E7%94%B0%E7%A0%94%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:26.825520+00:00",
+      "sha256": "c5cec738eed2a2292774712c12bdea4f2b6e7ac881129c22ab173ef2aaeaa068",
+      "bytes": 133356,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E8%B0%B7%E6%B5%A9%E5%8F%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:31.230309+00:00",
+      "sha256": "863061b220ab2a32b5dbd35a70b33da59fe3d0f4967190d59bbd4f36b6cc1007",
+      "bytes": 417799,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%88%87%E5%BA%A7%E6%B5%B7%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:39.987120+00:00",
+      "sha256": "6f7c112d084c85faee34f29783e7907f9c7bd3163bd5f6048a8886ba571185f7",
+      "bytes": 527792,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:34.389789+00:00",
+      "sha256": "8fdc9f3c65924a88a707d75c0e88562719d59f106e3720c78994540f0799e628",
+      "bytes": 463768,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:45.509493+00:00",
+      "sha256": "673c42d9fde7ae6eb50fbb3bcdaf4e4beb20d3a4e7389e49c254df73d1b4485a",
+      "bytes": 407966,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:03.862516+00:00",
+      "sha256": "308b0c800f44bfbf4875d8cb2baeb892a90b8f7105edba8c8c1a1206f81e01ed",
+      "bytes": 429829,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:59.452757+00:00",
+      "sha256": "a69bc485de16638f1fac3e602755bbc86a576bc6c43c175123c567b030e5ce63",
+      "bytes": 419088,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:12.485060+00:00",
+      "sha256": "4d4da9d197bb2a55abe1d1e57cab00dc4bdadf91211795400db05b7071a0e020",
+      "bytes": 516425,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%BD%E5%AE%AE%E8%91%B5%E6%98%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:59.127480+00:00",
+      "sha256": "5eb8f8de5850f9a46e1937532cb384603ac6e192c1cc3c1c30bf4002741ad7a2",
+      "bytes": 190531,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A2%B6%E8%B0%B7%E9%9A%86%E5%B9%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:00.781321+00:00",
+      "sha256": "3924d4be8aa6364b128764f01dbd700be29885efb000be9956899afea08c893d",
+      "bytes": 410743,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%82%E6%9E%97%E7%BF%94%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:26.148452+00:00",
+      "sha256": "b536d823eb599f42deb144c9f05a5d1f1a3ca95e600d9eb1c83e914c04b6bcf4",
+      "bytes": 331940,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%BE%A4%E6%9D%91%E6%8B%93%E4%B8%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:19.575604+00:00",
+      "sha256": "668d597f5578e8e71d23329db0aa93432431b1b1430f2ec5789d8014039040d8",
+      "bytes": 655846,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%A5%E7%94%B0%E6%B6%BC%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:29.659019+00:00",
+      "sha256": "a4f9a1007589e266a244a94823cd112182e7aaa94ba943f7afedaba287d97a5f",
+      "bytes": 286844,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%85%83%E5%B1%B1%E9%A3%9B%E5%84%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:11.512539+00:00",
+      "sha256": "1452997a4fad0f968f50e675cf23436b545ed709d259452828e577fd4dfad99a",
+      "bytes": 353552,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%BC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:05.920194+00:00",
+      "sha256": "b57bc7e7fd92340939e1e3362066ccf455eba9857f2c66cd2d4baa2e21c84fc1",
+      "bytes": 274318,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A1%82%E4%BE%9D%E5%A4%AE%E5%88%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:54.248746+00:00",
+      "sha256": "1b8b6b0d3ccd2b3e9799d0ef56db749c84e49b6b945029eb1ccbdec7568c4e77",
+      "bytes": 168178,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E9%87%8E%E9%A2%AF%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:48.039312+00:00",
+      "sha256": "6721195bedfcb8845d4ccad092fc4e8e50ac140d3c0bbdf44b4fa130c1c2f07f",
+      "bytes": 142612,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E5%A1%9A%E7%90%89%E7%94%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:48.247037+00:00",
+      "sha256": "84247c50ff878012f3a6acae70a690c279c4eb46b2ef4736a52dab1a84cd8ed1",
+      "bytes": 232356,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%A9%E3%82%B9%E3%83%BB%E3%82%AB%E3%82%A4%E3%82%B1%E3%83%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:56.916735+00:00",
+      "sha256": "d3a746bfd3409adee63372e617a2316ace8e8f509e31b7793a652241f869dafe",
+      "bytes": 451686,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:08.294293+00:00",
+      "sha256": "792e10db92dd9e1402bf6765caba6daa2bb9f4426fe347ae5d294e55bf1ccf47",
+      "bytes": 436821,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%96%9C%E5%A4%9A%E9%9A%86%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:06.388614+00:00",
+      "sha256": "b300768fa5227101840f36f3adbe41178b99fb1faf7d4dbef572117906226db6",
+      "bytes": 227439,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%BB%E3%83%8F%E3%82%A4%E3%83%8D%E3%83%9E%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:47.922448+00:00",
+      "sha256": "f5fe76b9c7f43e8a8286dda8cec6c1abd68289e24d907bb5fceac7d0d01bd836",
+      "bytes": 144799,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%BE%B0%E5%B7%B1%E6%B6%BC%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:41.372283+00:00",
+      "sha256": "63ff2367c7595122428d60dd1cb809efd148ff19d28581cb38507cd108ecdecc",
+      "bytes": 526631,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%95%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9E%E3%83%AB%E3%83%86",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:32.426806+00:00",
+      "sha256": "f1189950c880d95ebf07e649b247aea97b6664bdd30f223807ef42dab95c3881",
+      "bytes": 319323,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BA%95%E5%A4%A7%E6%99%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:54.396976+00:00",
+      "sha256": "2604ccf4adc31d1740dcac429d9ecfbec938f28662aabb15ded7771991938e65",
+      "bytes": 464147,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:55.012112+00:00",
+      "sha256": "18c9b101eae6d9f82f43a9ea2c886ba7d717c48929fe55bfc4745ebc55c26484",
+      "bytes": 398792,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AB%E4%B8%8E%E9%82%A3%E5%B6%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:30.470198+00:00",
+      "sha256": "339a7d4591b6fe49b90828ab6464ce159adc4042a96fa373473e24bd753a478e",
+      "bytes": 117130,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E3%83%A9%E3%83%BC%E3%83%BB%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:52.309881+00:00",
+      "sha256": "4265c1c42e802eb951e208e9d2907a2db1a68b512f9fdc65fb6669ed4c42b84d",
+      "bytes": 617768,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E6%82%A0%E5%B9%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:18.870469+00:00",
+      "sha256": "f064e5f49a5e614f63bb530747f6417b152b8a9a3daa1fb526c69db2b9adcc8c",
+      "bytes": 690146,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%BD%8A%E8%97%A4%E8%AA%A0%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:04:03.283301+00:00",
+      "sha256": "5f4c09da059e75f7f4cba46c2ad0df483a8e46c1ca5b64e44606b56d77830196",
+      "bytes": 201820,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%82%B5%E3%83%95%E3%82%A1%E3%83%86",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:01.324742+00:00",
+      "sha256": "97e0b76bacaa46f1903a86247915403cf6f01bb133e67add4952883f8adab089",
+      "bytes": 349372,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E8%B6%8A%E8%AA%A0%E5%8F%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:24.310480+00:00",
+      "sha256": "3080227a4c783706797386c54402da3fb5cd07fce8818f9a3447a8b5eee945d2",
+      "bytes": 332678,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%95%E3%82%A7%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%A1%E3%83%AD",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:50.127208+00:00",
+      "sha256": "658d8b16cb11a93715afb5e99fa5621d7b1882770804ea8db3678193814b6210",
+      "bytes": 242048,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%A3%E5%AF%BF%E7%94%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:14.306284+00:00",
+      "sha256": "0d4e49afe622ae3fa4366f10135fcf0836faed8273a508f7c9f036bed9907bb8",
+      "bytes": 154259,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%B0%E5%AE%B6%E9%A2%AF",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:05.670339+00:00",
+      "sha256": "70b8e5fa3ff195a4bb2dee177bd7f4379e0dfa1769ca79179f50e0f05634d559",
+      "bytes": 119514,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:25.972513+00:00",
+      "sha256": "460a3d4134491ce331c98b1dc730e676609451c73a9567c804607e807d88a36c",
+      "bytes": 450780,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B1%B1%E7%BF%94%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:10.080295+00:00",
+      "sha256": "886e95c1fe140505314547a2d89c3f0455da38471f61046548ef83a12422e36d",
+      "bytes": 250178,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E7%AB%AF%E6%85%8E%E5%90%BE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:22.130078+00:00",
+      "sha256": "8acfcfe6ca75a7f22745d93a749d215ca1c3f0efce945181559e6c396053bf93",
+      "bytes": 486651,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E5%8F%88%E7%90%89%E5%81%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:39.907427+00:00",
+      "sha256": "d80f818046916ce527809dc3d72fa38104830215a85ce9ca09ed815e7f7b4a67",
+      "bytes": 158282,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%B3%B6%E6%85%8E%E4%BA%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:39.199937+00:00",
+      "sha256": "4a768a9f5405c314874b27c3212aeb0846efd8a88c8fc65922e69edf0b872439",
+      "bytes": 316724,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%8E%9F%E5%BD%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:58.754089+00:00",
+      "sha256": "6b41324195eba5c4ed8642d6e8bbd1698077c1b934a678c790cd7b36eaa87eb1",
+      "bytes": 228487,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AA%AA%E5%93%B2%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:25.169683+00:00",
+      "sha256": "e5c7e7bf98aa21c52ee5b1e7905541801ff90e335bccc6a500f01f852acc87ea",
+      "bytes": 323124,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%8F%8B%E5%AE%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:32.803969+00:00",
+      "sha256": "3c3108b47c9a0b9e8c99044c18c9570db6ab6c0c2096ecc248929ef66960f13a",
+      "bytes": 176140,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%96%89%E8%97%A4%E5%84%AA%E6%B1%B0",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:03.485575+00:00",
+      "sha256": "a611640785e575cfca713168bb7de42f5585396408fc403bcc75a48dd3e99884",
+      "bytes": 198087,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E5%AE%AE%E8%A3%95%E6%B6%BC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:37.017973+00:00",
+      "sha256": "6947af85fa6bb817ebaeaf11c5bead1b9cc3c5b85288f24967767b4f3faab4d1",
+      "bytes": 401834,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E7%A8%9C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:58.408720+00:00",
+      "sha256": "a0ba73c2f9cfe49677b34589797775abae92b03f15d0e07c0874e2e95c3572c4",
+      "bytes": 179982,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A0%97%E6%9E%97%E8%89%AF%E5%90%8F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:52.051667+00:00",
+      "sha256": "527abe63a84fc17c890a33c8b0e5f64a7552d3dafdb7d70ed05b1fddcacfd27f",
+      "bytes": 479953,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9C%AC%E5%B4%87%E5%8F%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:52.613965+00:00",
+      "sha256": "0141a65ae6a4e0182a3cc6a0a36730844647873fd73b4239441faa9887e4c0bb",
+      "bytes": 298297,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8D%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:50:50.321006+00:00",
+      "sha256": "067c7cea68cbf42843a7c20b3d7da75ecb9c1e692e8fa2c50f6aeb8d3f18ce64",
+      "bytes": 478680,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E6%AD%A9%E7%9C%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:14.916695+00:00",
+      "sha256": "cc53197fa19aed7a55524032b43eb5bc9e3d8c3d4f664e1078d15da87dc08906",
+      "bytes": 169811,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%A4%E3%83%B3%E3%83%BB%E3%83%93%E3%82%B7%E3%82%A8%E3%83%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:54.511550+00:00",
+      "sha256": "9941c00ea0e23b8935c1f217b94d516f44b3f8b3d316c94e6625b4588bca325d",
+      "bytes": 687700,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%AC%B9%E5%B7%9D%E5%90%89%E5%BA%B7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:37.822923+00:00",
+      "sha256": "7bf389f58305316a1aabe22ffde3c2a6e23ad45ee76fc7ae40b0822d17e63832",
+      "bytes": 253722,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:36.820269+00:00",
+      "sha256": "e4ffeb8d0b9e165a7ad9c9668027f63acf00417c7132ef39b608effbd0ca13fd",
+      "bytes": 541817,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:38.985854+00:00",
+      "sha256": "449df0dcdc510c1ecf209307f1207aba79a73ffe80f79b904082708fbbee9f5c",
+      "bytes": 435667,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:57.096421+00:00",
+      "sha256": "803a9baf551cd1be20281b9bf7fc44ce4cd12b85baf4a9a048acc6b9c12955c6",
+      "bytes": 447485,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%A8%AA%E6%B5%9CDeNA%E3%83%99%E3%82%A4%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:14.754968+00:00",
+      "sha256": "6ba3960d2703728a55e224a4dcb947384ffbc06101681177e4243d709230eb34",
+      "bytes": 432153,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E5%B7%9D%E4%BE%91%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:42.313228+00:00",
+      "sha256": "a98eac5e156184c39f597c5123f071e33e994d681f6a8a259d357d8b4422989c",
+      "bytes": 144642,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:45.891682+00:00",
+      "sha256": "8845b8de853250d7aff8cc8f0347c7e5023b9722e6e0d84a67fcae27385040cd",
+      "bytes": 514943,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%8C%97%E6%B5%B7%E9%81%93%E6%97%A5%E6%9C%AC%E3%83%8F%E3%83%A0%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:23.572944+00:00",
+      "sha256": "fcca4d5574c02600fdd725543769351a71f242495e2fb9fd65f09d399c257459",
+      "bytes": 373376,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A9%8B%E6%9C%AC%E6%98%9F%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:22.591893+00:00",
+      "sha256": "00ef6251d52383f9fcfea2a766fda80693e3c04cf7df02c08d808684044eceb6",
+      "bytes": 189959,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:07.921407+00:00",
+      "sha256": "0957147cc8d70ddbf367cd0052a5778757c1eded16c741da7bbefead4be565c4",
+      "bytes": 201442,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A3%AE%E5%B1%B1%E6%9A%81%E7%94%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:05.057886+00:00",
+      "sha256": "90445b0a7b472ebeaeb43b8dfffdacc7195cf3ce13b4db71f25c8c3e45bca63b",
+      "bytes": 150795,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%BD%8A%E8%97%A4%E4%BC%B8%E6%B2%BB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:58.908678+00:00",
+      "sha256": "72d4360dec3a5a446bfb6c81d45852cae27f00887138ef905676bbdfbf2afbf4",
+      "bytes": 144249,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A1%B9%E6%B1%9F%E6%95%A6%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:28.383052+00:00",
+      "sha256": "4d6957bc936857b666354b171642f394ebdd4722aa3c914286bd32b845a1a481",
+      "bytes": 276427,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%85%E6%9D%91%E6%A0%84%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:55.698371+00:00",
+      "sha256": "679191a83dc5c161f2661987f1f79a7e66f4086cd0123d6fc7792646c8d201e7",
+      "bytes": 846691,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%BB%E3%82%AE%E3%83%83%E3%83%86%E3%83%B3%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:25.836047+00:00",
+      "sha256": "9bc4d7b5e306be1b8f1e5f659ee9cc0fecc647fe6bc27a3dfd7ea46e479135a2",
+      "bytes": 162003,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E6%8C%81%E4%BA%AE%E6%B1%B0",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:57.578397+00:00",
+      "sha256": "6b64dd1307412e25d9af111fa7558aa018761a8f8b15f06dacb15dd76d0682cb",
+      "bytes": 228792,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E8%B3%A2%E5%90%BE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:01.986221+00:00",
+      "sha256": "9a5d8659aec087e605ff642b4a36ace8199436d489961c9e149282a900c2c172",
+      "bytes": 251757,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E6%9D%BE%E6%B8%A1",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:41.471876+00:00",
+      "sha256": "b8eeac25d889391c429e9fae148f3ddc2431cdcff7444084d68f3ca38aad98e8",
+      "bytes": 271417,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9E%97%E8%AA%A0%E7%9F%A5",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:54.766978+00:00",
+      "sha256": "4e64eb936e496b1fbe658ecc405321c6f3a63087629401944c3c224a1516bddb",
+      "bytes": 436379,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E6%9D%91%E5%8F%8B%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:19.869780+00:00",
+      "sha256": "ea164ffddf9d09d5d7e5f7779349677d91a1afa8054a08d6be27741246622ee5",
+      "bytes": 271465,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:19.218104+00:00",
+      "sha256": "5b69407fa444c9fe79112727650c376a414abc9a5a74f8a717c12808ceeaba0e",
+      "bytes": 507969,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%BA%E7%94%B0%E9%9A%BC%E4%B9%99",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:43.484672+00:00",
+      "sha256": "92173ada852e9bfd0cc181aa96a639dbe40d1c920b85eb242bc522bb12924d64",
+      "bytes": 200764,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%BB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:32.530668+00:00",
+      "sha256": "e633a99933a7473b39bbbd29fceb0a6d8064ca57cba12f6b66132cc0c64755da",
+      "bytes": 312343,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E4%B8%8A%E6%A1%82",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:33.551196+00:00",
+      "sha256": "aa60fcbb36061902426e33387d40bb8f16e404b5b0545f03fa50badad9cab97a",
+      "bytes": 193796,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%B2%B3%E5%8E%9F%E7%BF%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:41.633904+00:00",
+      "sha256": "26baea39ae208c5a3e7e2e73f42ad625e5a909e09163aa7063f29447316d57ae",
+      "bytes": 117279,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E9%81%94%E4%BA%86%E4%B8%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:05.667729+00:00",
+      "sha256": "397cc4ac4734ffb89ac5f7095a9643c8b0ad93ee5e6884f72b6566b0ba8131db",
+      "bytes": 349937,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E9%9A%A8%E5%84%AA%E5%BC%A5",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:26.920982+00:00",
+      "sha256": "a50703a7eadd1a83f10523f37131d051a6278c5804600ed44524d1c85509ed25",
+      "bytes": 227801,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A3%E6%9C%A8%E6%99%BA%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:24.696072+00:00",
+      "sha256": "db27315b23d7d89bf83829ab262561bce548f4741f7537f487fbc0324d0cf060",
+      "bytes": 337282,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%9E%97%E6%A5%BD%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:44.481761+00:00",
+      "sha256": "beacc31668da53194e2fb45d59e37a54a30c26014c701f5d65d08ad2b6189bee",
+      "bytes": 409062,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E8%97%A4%E6%95%A6%E8%B2%B4",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:31.377704+00:00",
+      "sha256": "e5dc3e9e1f143a09a5f6d87e7b2b2741bf48fa921f4a657f18b073c9d4bb772a",
+      "bytes": 200539,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%B6%B4%E8%A6%8B%E5%87%8C%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:52.475527+00:00",
+      "sha256": "43f58a9a1fb4d71e398da139ad89ec2a0e645ed3045dc086a75e5307e3e54ccf",
+      "bytes": 111759,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B4%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%9D%E3%83%A9%E3%83%B3%E3%82%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:28.021709+00:00",
+      "sha256": "63c52241f528efe2acdc48740287012a81e47be9199de1e8ac6a3c9fcc2feaa5",
+      "bytes": 438592,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%BE%E6%9C%AC%E5%8F%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:38.655136+00:00",
+      "sha256": "b75dc21d5a2f6864ebaf2ef6f47ea547e369c581ead096c64508204d1f713a31",
+      "bytes": 187195,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E5%B3%B6%E8%B1%AA%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:51.599007+00:00",
+      "sha256": "c38f742ff3234b57b560299686972c4ac64355267e764bbc3df057c467cc6466",
+      "bytes": 311083,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E7%9A%93%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:14.452820+00:00",
+      "sha256": "eaed95423a4589f63ef91899b7f8159dc678e28dfcc4e4a7cb84cc4019e97dfa",
+      "bytes": 331364,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E8%AA%A0%E5%8F%B8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:22.968794+00:00",
+      "sha256": "6a01c0ddce642125f0d4302152ccb8dce00fd892be6400ca154d8264c7542817",
+      "bytes": 752438,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:01.655687+00:00",
+      "sha256": "c97bcc747c63e6b713ad6aa44c1e987180d43a3613482a1e82667a96d348efd0",
+      "bytes": 872240,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%9F%E8%B6%8A%E5%A4%A7%E8%B3%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:44.466616+00:00",
+      "sha256": "a18978df5edb11b67105e1caa7440c7be97a9e08ebb258dbfd69dd779ff3bfb7",
+      "bytes": 282640,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%8B%E5%B9%B8%E8%BC%9D_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:33.805481+00:00",
+      "sha256": "4d90a593a1e4beda94abdfc66199c4ddc0157bafcb53720e8b297f0334ddb5ad",
+      "bytes": 233429,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%BF%E6%B2%BC%E5%8F%8B%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:47.563004+00:00",
+      "sha256": "f72036d8b2b8d27b89c174450fc0b5d40c25dc8e8a9f5568ec690538d19c3265",
+      "bytes": 290330,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B7%BA%E9%96%93%E5%A4%A7%E5%9F%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:00.078050+00:00",
+      "sha256": "b905e36c3a457845d7202c49794e2221168be7f5981c6c4f8c86bfb5bd7f9f0e",
+      "bytes": 398702,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E5%8B%87%E4%BA%BA_%28%E6%8D%95%E6%89%8B%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:10.691689+00:00",
+      "sha256": "93ad40e786de5aa599de2f00388486223fe22d0bf1e8e3bfaa5da3726f7d4166",
+      "bytes": 174350,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E4%BC%8A%E9%9B%84%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:56.578285+00:00",
+      "sha256": "fc00e6884c262e03747d4827c4fb54bfa855c02dc432ad7ff7b0cc99bad525b2",
+      "bytes": 205218,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E4%BD%90%E8%A6%8B%E7%9C%9F%E5%90%BE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:54.778774+00:00",
+      "sha256": "af23a0e059048ebff164faafe971e01414cc6d6eb1b5a86675258e5c94ea69f3",
+      "bytes": 399455,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%B7%9D%E9%9A%BC%E4%BD%91",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:03.497330+00:00",
+      "sha256": "744d35564a0d45afb9b9d336a34adfbad69bfe41d226bb7395c6db2eda01691a",
+      "bytes": 245351,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%9D%91%E5%81%A5%E4%BA%BA_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:16.634944+00:00",
+      "sha256": "7d1fe4f742dc47a310f5481a1bc52ae4b00d156d619ceea4210781b0224586ce",
+      "bytes": 221854,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%BB%E3%83%AD%E3%83%89%E3%83%AA%E3%82%B2%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:21.283276+00:00",
+      "sha256": "836883211bd13f190af944a222b4ff7a5bb61c798fd47d5480e9293da66114b1",
+      "bytes": 210180,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E5%91%A8%E5%B9%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:34.928682+00:00",
+      "sha256": "a01acf0e76aa5125bb6594bf953ad2ae9e52bfe6e32e93e13d6ba1740dfb1672",
+      "bytes": 423937,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E4%B8%8B%E5%A4%A7%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:58.156261+00:00",
+      "sha256": "20a1ccaf2afad9224e3268c0208d54b354f4b0bb0509b278d1a75ec76942aab0",
+      "bytes": 376325,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%92%E5%B7%BB%E6%82%A0",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:48.769078+00:00",
+      "sha256": "b64081527fa321705e0b6229ec7e2e025df3c94a2cb344e52f3721f854e0c606",
+      "bytes": 180687,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%A4%A7_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:35.570389+00:00",
+      "sha256": "cecdb11cec84e3a8ff4fd1b30799ce10ca8a8239249047bfde83237c9b45ae75",
+      "bytes": 186300,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E9%87%8E%E9%81%94%E7%A8%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:37.908989+00:00",
+      "sha256": "4f18011a434a7acf85aaf5ef5414ec888b979c8180435be6f9477cbf83ce73ab",
+      "bytes": 273502,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%AD%A6%E5%B2%A1%E9%BE%8D%E4%B8%96",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:29.168920+00:00",
+      "sha256": "7c14df2d59896e3e92c8a303073075f1c05611a75c06af75cb0f77ad80147e18",
+      "bytes": 267001,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%BD%8B%E8%97%A4%E5%A4%A7%E7%BF%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:04:05.395695+00:00",
+      "sha256": "69998df153aa76599092b56491f8e4c7f2955a28f745da0e57bf46ff5c38c831",
+      "bytes": 184976,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%9D%E9%87%8C%E4%BA%9C%E8%93%AE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:34.086417+00:00",
+      "sha256": "a754840a5f5cea44e4014c6320045362e3b70233aee83b0d4259a1174f9a144c",
+      "bytes": 737998,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E6%8B%93%E5%A4%A2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:27.553511+00:00",
+      "sha256": "9ef6c7d8d73f658b2b21806b39b39daad14e4a5a9d566080d4acdffdfcb98f45",
+      "bytes": 580733,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8D%E4%BF%A1%E6%85%8E%E4%B9%8B%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:56.835349+00:00",
+      "sha256": "e079152f507e7d82b7c69de77fd355440fa5161de12cef57cf7a57d7db7dcb2b",
+      "bytes": 270892,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%8D%92%E6%9C%A8%E7%BF%94%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:50.917819+00:00",
+      "sha256": "e79182e49f34819330bd54bab1057929ba8ca783fa465bd7cfcfe3500481f816",
+      "bytes": 130527,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A0%80%E6%9F%8A%E9%82%A3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:23.872266+00:00",
+      "sha256": "db7115e4293a1753981eb1934e29349021a8eb49187fd68bbbb16681f778fb6f",
+      "bytes": 165923,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B1%B1%E5%8D%9A%E4%B9%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:20.478766+00:00",
+      "sha256": "2abd41b5f4c453299eee53fef252278309a98e759d9cb0e20a77cae8d3adf2a9",
+      "bytes": 239004,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B3%89%E5%8F%A3%E5%8F%8B%E6%B1%B0",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:51.055719+00:00",
+      "sha256": "da21eb0bdebde511614fe3d4d3db74390cf594635a581c07ff02a6a0eb324dbc",
+      "bytes": 332971,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%BF%E8%B3%80%E5%BC%98%E9%83%BD",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:20.762199+00:00",
+      "sha256": "2c9513ee3c7d3364ca3de665cf8ab2544003c1d998371413e0778e15e8ff8fe9",
+      "bytes": 165686,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B7%9D%E4%BA%AE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:07.464164+00:00",
+      "sha256": "541ae77b88ff6c1b3cf1f909f205e844a813bc79f4c3f18e7039c1372d146f1a",
+      "bytes": 220252,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E8%97%A4%E9%B5%AC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:17.974913+00:00",
+      "sha256": "ba33fb88009fd7f36819b16c014d9bd376888b065c685a80a1411fa2004530e3",
+      "bytes": 195390,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%9E%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:12.431522+00:00",
+      "sha256": "c1077b3a8b79c8c12bf2b2114ed7fd12e8bae161002d61af0fc600443b029ec5",
+      "bytes": 263506,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%BE%BB%E5%A4%A7%E9%9B%85",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:43.529128+00:00",
+      "sha256": "d7f2278102bd65f1c06830d6e8a3dbec2d71992c436ac3d8477e9ad669abb814",
+      "bytes": 245683,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A4%8D%E7%94%B0%E6%B5%B7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:09.429978+00:00",
+      "sha256": "3f2a732b9ffb1eae33c7fa064cab31c9fcc25dc25fd213ca4a500eccba79d87e",
+      "bytes": 356043,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%99%E3%83%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:34.737495+00:00",
+      "sha256": "70e9d3d9f81dcf670c7afef33d66e4873909b9e2668be5dc153f6be307255db7",
+      "bytes": 151000,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%A6%E6%9C%A8%E7%A7%80%E5%B0%8A",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:05.697324+00:00",
+      "sha256": "2413ad8a938aebf94f741270b44c6356520058e087a7cc4cc3e1d3c3b2371e12",
+      "bytes": 227761,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%9F%8E%E5%A4%A7%E5%BC%A5",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:07.793265+00:00",
+      "sha256": "569ee49a79b2b40e3ee20f38c9dc1359aba3c587f68869e4bb4e2f2a3593c6ae",
+      "bytes": 650008,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E5%B4%8E%E7%AB%9C%E6%88%90",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:09.968605+00:00",
+      "sha256": "29cf43be6a6cb476d708bcb02ee7c73499c9da2044829a10da689512a8f3b585",
+      "bytes": 219794,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%84%AA%E5%BF%83",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:02.178418+00:00",
+      "sha256": "f0dfa733ab426e001b6cc364f4f368b4f8f52ead24f86337da365632813447b5",
+      "bytes": 238515,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%8E%9F%E7%94%B0%E7%B4%94%E5%B9%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:15.510809+00:00",
+      "sha256": "b28c67c74b77b83e8055ad27bb5870630a40cdfbd627a35c020c75e01f8bf2de",
+      "bytes": 196447,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%89%87%E5%B1%B1%E9%9B%84%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:26.155414+00:00",
+      "sha256": "1dce99a20726857c6239b093c15c07dc57bd0afc1daa80b209efd50534fc15e3",
+      "bytes": 164018,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%B2%BC%E7%BF%94%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:30.747967+00:00",
+      "sha256": "d41e374d7ea4ff062aa9e60f3b7b0ecbac59a3a083580c8975e2ae49f1dafa16",
+      "bytes": 279628,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%BB%E3%82%B9%E3%83%9F%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:08.123036+00:00",
+      "sha256": "3f53fd182ce18499adf25608a6c6d93e33a790ff0888975e64d7e164a2026b3a",
+      "bytes": 292255,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E5%9C%AD%E9%9F%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:22.659838+00:00",
+      "sha256": "0e2c70edd109c7ed8074b36b9e517ab3e512f8f2974fbbd352b211a12e659aa5",
+      "bytes": 257934,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%B7%9D%E6%8B%93%E7%9C%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:12.251044+00:00",
+      "sha256": "0cf303d0797e7029691e46ea2bbaaad73748629da59047de5709e3eb130c1ddb",
+      "bytes": 200395,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:30.459309+00:00",
+      "sha256": "b06ae106b2494eb8a471469c3da0456c6d4d58a248989dd327ca59a92ed9e227",
+      "bytes": 444241,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%BB%A3%E6%BE%A4%E4%BC%B8%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:41.700935+00:00",
+      "sha256": "9332344cd07d2c8e97578947df1f7711e9353617f0c2daa203b117b779126203",
+      "bytes": 158426,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E7%94%B0%E7%90%A2%E7%99%BB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:43.665624+00:00",
+      "sha256": "b14783fbaa8a28512d1730479b6cae77173448cb377be43b02b610794afc286e",
+      "bytes": 189965,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%BD%8A%E8%97%A4%E5%A4%A7%E5%B0%86",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:04:01.093912+00:00",
+      "sha256": "d2c8374f8ec8b18f6e22914b99daac3976d6d757e788fc6daa80b9f598f060ac",
+      "bytes": 220639,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%85%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:56.211636+00:00",
+      "sha256": "f2011da3cdfa94b54950228146bd35496af98990ebc3363426e6bdfb30aaf07c",
+      "bytes": 473055,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A4%8D%E7%94%B0%E5%B0%86%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:07.237665+00:00",
+      "sha256": "f61d71e4cfe1db12ba4ef7a4af0156f4147a808a34615a4a1aef351e890d5c04",
+      "bytes": 214306,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E4%B8%80%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:10.593683+00:00",
+      "sha256": "e870aa4a71ed5fb0d3650b5d488005261312c22c72823c53423eccbaf9d68f6b",
+      "bytes": 405026,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:19.174066+00:00",
+      "sha256": "fe21bc95c154e53f3674a2e0783bf71db676043599b6e9b7c8cd341fa1b18631",
+      "bytes": 366278,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:27.958148+00:00",
+      "sha256": "a8e2a7d5d3ba659b22c19506dfafb9fbf42e0db8eb6a3ea56c3c838724b8394c",
+      "bytes": 345463,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A8%8B%E5%8F%A3%E9%BE%8D%E4%B9%8B%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:18.115090+00:00",
+      "sha256": "836d08f69ef01ecdb8cbb20343f394de2dfb4a5245ae871a6d8c6afa58486382",
+      "bytes": 298001,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%83%A1%E5%8F%B8%E8%A3%95%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:52.463800+00:00",
+      "sha256": "d29794ec5ee41b828d03b177e644fa6c4a4446cd8be7788e8e74964d7113e9e9",
+      "bytes": 380790,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E7%94%B0%E5%B9%B8%E5%AE%8F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:04.624937+00:00",
+      "sha256": "d4ee5d9b39eef0681a6ec6759e169d787f2d51a2a68fb4b166a0314635221719",
+      "bytes": 252304,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AF%BA%E5%9C%B0%E9%9A%86%E6%88%90",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:16.549221+00:00",
+      "sha256": "58191f290363f0595792ebb577e77a75415d8b08a19d40df996580bc08f79ca6",
+      "bytes": 243426,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A8%A9%E7%94%B0%E7%90%89%E6%88%90",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:20.416240+00:00",
+      "sha256": "b49688344f50551e0d88215c2c0615ccf7fddb9e0e387d0c1f1df8f0107a9475",
+      "bytes": 205608,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:50.342364+00:00",
+      "sha256": "9226791ff94c5e71e4525156922258db17dfc9865501a0cf0b4e3f47d04484a9",
+      "bytes": 438598,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%AB%E3%83%8A%E3%82%A8%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:45.682258+00:00",
+      "sha256": "ed0cf62b43ee91d4a057255b18672172dcc569bc3d598eb8afc71c05a3238135",
+      "bytes": 150197,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:50.334243+00:00",
+      "sha256": "77043032bd2a2ace453ce2eac2d1a28fb0e77c3bf0bcebc1214286c885ac7ef9",
+      "bytes": 354002,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%95%B7%E8%B0%B7%E5%B7%9D%E4%BF%A1%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:25.445854+00:00",
+      "sha256": "915f877f0ce711f5574d35a21c4d9480e65db77ed9f325e3f1225cecc69a5a2f",
+      "bytes": 309499,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B7%9D%E9%BE%8D%E9%A6%AC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:19.163050+00:00",
+      "sha256": "d78e342e2f118bbbe127095e022543dd17bd4cea4072cd8465ab0e9edd783f84",
+      "bytes": 537671,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:07.940187+00:00",
+      "sha256": "1a843ee11b981062e18a78498caa6f1dd6da56432de4f4d386b0e384d5798259",
+      "bytes": 483833,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:14.426571+00:00",
+      "sha256": "4a939dc62f43f79d4c4a80fda932d8718a3ec19991004a0591ef2bd19d5e5cbb",
+      "bytes": 193208,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%8E%E6%9D%91%E5%A4%A7%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:05.634114+00:00",
+      "sha256": "ae36daf98b5e8905b40e7ed351a9343d7dc494bfcb204c218dc9595cb04bc591",
+      "bytes": 312085,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BA%8C%E4%BF%A3%E7%BF%94%E4%B8%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:38.446019+00:00",
+      "sha256": "a22cccd40e5e325f914692cb0ca51b512a870e7454fea6ac3275c908f3ff2b6e",
+      "bytes": 256321,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%82%AA%E3%83%AA%E3%83%90%E3%83%AC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:12.270085+00:00",
+      "sha256": "8bf4e77cf8532d0d87b375f8e808b7f383c605e36fdce7fd21f738682daf1be1",
+      "bytes": 178857,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%A6%E4%BC%9A%E9%9A%86%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:39.500552+00:00",
+      "sha256": "d3863d45c56d1d939e2c48e40935a7c9c9fddf1a46b5b688bfc265dc839cd465",
+      "bytes": 481997,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:23.754951+00:00",
+      "sha256": "37fc4086f67e08da473d31597275a46b28acf04fd5a344f1cc193c269eb2766a",
+      "bytes": 553572,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%86%E3%82%A3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:36.942632+00:00",
+      "sha256": "4c3444d4f43e37ba83003f8d7428e0db81de049503afe22cf6dc7a2e05d206e1",
+      "bytes": 164471,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%B2%A1%E8%AB%92%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:05.294126+00:00",
+      "sha256": "ba62c1a234936fd6eb642dfd014e49eee565fd5ba5d7a9ca89c94ef0dd21bc0d",
+      "bytes": 191288,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E5%A4%AA%E5%97%A3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:15.859439+00:00",
+      "sha256": "f62dcf3b4de1154e932b6659fb0c188b9180ceb436d47a881d9ef753f36cd9fc",
+      "bytes": 151806,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:32.602632+00:00",
+      "sha256": "f1150c5800f1d4e303db105c2b674e165fae00208c3fedf8917be18c2dc79588",
+      "bytes": 639454,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E5%B1%B1%E4%BF%8A",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:39.299302+00:00",
+      "sha256": "ec8bc9801296342b29b24d24bbe3979611e50cd3d3ac77f60dd18385e5ce2151",
+      "bytes": 322981,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%BB%E3%82%B4%E3%83%B3%E3%82%B6%E3%83%AC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:16.731720+00:00",
+      "sha256": "af7f451a02f8bfdabc2eac909a07819819d1c857864b139b89662146de9cadbc",
+      "bytes": 214032,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%B2%E7%94%B0%E4%BE%91%E4%BB%81",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:51.813027+00:00",
+      "sha256": "195bd9e621e7013aa7b4f7eae30ba1b3d716b3d40bf9f3a95b2408e9d2ef670b",
+      "bytes": 156033,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E4%B8%AD%E6%97%A5%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:21.620492+00:00",
+      "sha256": "4009bc856b61e2e767caf5b3bce6863532b7d8ed7bd9c90098dac3c207f916b2",
+      "bytes": 458539,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B0%B4%E8%B0%B7%E7%9E%AC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:35.719128+00:00",
+      "sha256": "e78b040076f2dc9d783021941ffb9336c747141220be2773d364547c86490ee1",
+      "bytes": 400046,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E5%B1%B1%E4%BA%AE%E4%BB%8B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:27.536700+00:00",
+      "sha256": "96f3b98e760e778b7316d8688f89315c68b99111b3575fb4baa5e0d343f94c57",
+      "bytes": 117752,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A3%AF%E6%9D%91%E5%98%89%E5%AD%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:16.183787+00:00",
+      "sha256": "4fc6d3e0c827b6c074e09378875b7394c1354be921b322fb55fae735815e8c3e",
+      "bytes": 227495,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%89%E7%AB%B9%E4%BF%8A%E5%96%9C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:03.481643+00:00",
+      "sha256": "43703199d94cf786083835bb5f5d5481385289b2c6c7c6175983c5193824b5c5",
+      "bytes": 149620,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B2%E6%96%90%E7%94%9F%E6%B5%B7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:41.418307+00:00",
+      "sha256": "57d124fb4377ee2112ec56468d8d06393a35ab81d4302b6abcf28580584f85ff",
+      "bytes": 239498,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E8%B1%8A%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:34.907911+00:00",
+      "sha256": "7f7cfab75bf69f4c3efe71c4277199c331215dc0271aaf74aab6f76999726329",
+      "bytes": 209474,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E5%B1%B1%E5%87%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:35.027291+00:00",
+      "sha256": "0954ff5dded7aa15f492e5c6364ea615fbe269c89ee8f79896a502db03b0fe8d",
+      "bytes": 219284,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E5%B3%B6%E8%93%AE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:24.900628+00:00",
+      "sha256": "0ed360564371f2c96bf5b116245e94338b53b02cfdf8e58189a570ff159921b1",
+      "bytes": 218583,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BD%E3%83%8B%E3%83%BC%E3%83%BB%E3%82%B1%E3%82%A4",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:50:59.142595+00:00",
+      "sha256": "2869ff73d17c6e1a23539de83165ea1e2b53a70c31b1511d1ee88d419962d7f7",
+      "bytes": 354292,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E7%94%B0%E8%A1%8C%E5%80%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:09.010830+00:00",
+      "sha256": "3a60b0fb51035778dbc74ecce62168305109aa552e784807e8b17d6bf3d66f7b",
+      "bytes": 364084,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E6%9D%B1%E4%BA%AC%E3%83%A4%E3%82%AF%E3%83%AB%E3%83%88%E3%82%B9%E3%83%AF%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:52.778072+00:00",
+      "sha256": "fe3d75e78ff238cfcdb5259e0d947700c8390695305f90583ea84f5bd19b4ed8",
+      "bytes": 496543,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%B9%E3%83%88%E3%82%A5%E3%83%87%E3%82%A3%E3%83%BC%E3%83%A8",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:10.138392+00:00",
+      "sha256": "dc31e1a501e05b9e2ea1c8571935d2a50d7ca7b3ce5251a5fdaf254493499f1d",
+      "bytes": 205483,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E7%A5%90%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:47.030819+00:00",
+      "sha256": "f4e8eedb84b76c31268adaf3fab9443d52fcc7e1a0afa431fafb2ac58453797e",
+      "bytes": 594562,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%A7%92%E6%9C%88%E4%BB%81%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:32.499480+00:00",
+      "sha256": "4b48f20944630b0444258dfdc8c084953871f787da4633be729fd0006cf9c501",
+      "bytes": 149830,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%BB%E3%83%BB%E3%83%87%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:28.299087+00:00",
+      "sha256": "5880a87d9ae06415e98fbfcf824dc28f86649a7ae3e0f14bdc19c007ec2cadf3",
+      "bytes": 101090,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:10.492518+00:00",
+      "sha256": "1f8e857d5174a8bc62a388bfe34fb4cd84dd93e86d3655a476952d8483a70048",
+      "bytes": 500536,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E3%82%AA%E3%83%AA%E3%83%83%E3%82%AF%E3%82%B9%E3%83%BB%E3%83%90%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:06.092450+00:00",
+      "sha256": "78ac8b5db147bfa65f24a46778786fa9e491ee1634d14135b0bd172b86af3988",
+      "bytes": 468841,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E5%8F%A3%E3%82%A2%E3%82%BF%E3%83%AB",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:38.040742+00:00",
+      "sha256": "c721c1df140048764f6233269823359b8239018f7ed157849962b88435375f29",
+      "bytes": 199141,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B9%99%E5%9D%82%E6%99%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:31.967370+00:00",
+      "sha256": "5ff3996a60fcde8c1b0d43b796dbb2227bbb53a6b9f28dcba0422b6ae11be1d6",
+      "bytes": 327732,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E8%89%AF%E7%AB%9C%E5%93%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:35.105245+00:00",
+      "sha256": "c623ce5138ec1f5291b4fd7b1a8e839c88f27cfdcab4422aea462e7d03a944b4",
+      "bytes": 193569,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%AD%E7%94%B0%E6%AD%A9%E5%A4%A2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:23.212809+00:00",
+      "sha256": "ec7a4157bd23034b47e1dc99daabbb89635636dd8eea3e7295bd65f41e0b9001",
+      "bytes": 181986,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%80%9F%E6%B0%B4%E9%9A%86%E6%88%90",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:47.943249+00:00",
+      "sha256": "f678384509fb3c083ae08800be8745e3907d82bad1058088e74d02c791991c16",
+      "bytes": 148886,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:54.121477+00:00",
+      "sha256": "823220d7961713265d43df76c08431a9f30b12acf2d128fdf4fd116959ce0ba1",
+      "bytes": 378993,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E7%AC%A0%E5%8E%9F%E8%92%BC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:27.346276+00:00",
+      "sha256": "e0b13345f11179452c97d973fcffee965cedafcd336a9bf26dbeac35164f3e5d",
+      "bytes": 163262,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%99%BD%E5%B2%B1%E9%8B%BC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:27.974992+00:00",
+      "sha256": "97a4e000760d99a6438030428236b254b8bde1cfe98bd2877e336c8635301e30",
+      "bytes": 588066,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%9F%BC%E7%8E%89%E8%A5%BF%E6%AD%A6%E3%83%A9%E3%82%A4%E3%82%AA%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:32.315941+00:00",
+      "sha256": "fed22b374bf636975464676513851f2a6f94fbc27a9c8b8db8f45f9b2ac31b1d",
+      "bytes": 465691,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E9%9F%BF%E7%94%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:56.727422+00:00",
+      "sha256": "0ba8fb0c3acf70eb6a3d4a6eba2d215636368bdb2e33ede7f7b92ac524fc393b",
+      "bytes": 114480,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9C%89%E5%90%89%E5%84%AA%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:16.505913+00:00",
+      "sha256": "b529ce92241778d88da590cbfcef7cd4548abc5405a1753fbc15087c5033f857",
+      "bytes": 194477,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A5%A5%E6%9D%91%E5%85%89%E4%B8%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:50.388524+00:00",
+      "sha256": "44bafd10641649e4641e1b1b503b02727bd41d7b2b0405e9c3e92a8a05f4a9e6",
+      "bytes": 248763,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AD%AB%E6%98%93%E7%A3%8A",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:52.576698+00:00",
+      "sha256": "4da12a71395312cf26205ecaf50cf4d1976e3c7b2591eeed9c302a9d86c67350",
+      "bytes": 217165,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%BB%E3%83%87%E3%83%A9%E3%83%AD%E3%82%B5",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:14.579245+00:00",
+      "sha256": "3d2bc4e2feb507d6df22793571435d9eceeda374dc86c22b868ef9c90a5f4517",
+      "bytes": 140229,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B8%85%E6%B0%B4%E5%8F%B6%E4%BA%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:04.357179+00:00",
+      "sha256": "ed5608bf8e5f7ca42693b35fac322731258342d81ce1933d9c528d0dd9fd93f5",
+      "bytes": 196193,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E6%9C%AC%E5%A4%A7%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:44.616385+00:00",
+      "sha256": "445404a76a3e3c0b8c55eb21fd7d58b313c87b48b2928390b373b41754359596",
+      "bytes": 261270,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%B2%A2%E5%A4%A7%E6%B2%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:28.584624+00:00",
+      "sha256": "91e75f653cfa747cd3b9ade6f7efb2c682db67684582ac797c746771ea5ae28a",
+      "bytes": 314850,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%EF%A8%91%E9%A2%AF%E4%B8%80%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:49.394365+00:00",
+      "sha256": "c1f3b9ac165bac4d1d47b37afbdec7c6139f66fc8df3f8fef3a8485ff281ab38",
+      "bytes": 446227,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B1%B1%E4%B8%AD%E7%A8%9C%E7%9C%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:35.894812+00:00",
+      "sha256": "43e761e3ea14f94727c45316ce77c4aec4aff7d42a8259c92f8c37ba574452ee",
+      "bytes": 186234,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A9%E5%B5%9C%E7%BF%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:00.274861+00:00",
+      "sha256": "12c254cd431f90be8f7d935514059a51260a795d2db6e65ca0fd2e9aa6502474",
+      "bytes": 414606,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%B8%E5%B1%B1%E7%BF%94%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:29.759237+00:00",
+      "sha256": "a509b03f7e31f7107af5daf2e2c9b4db70e536a42308f3b39c0983146d2f80bd",
+      "bytes": 214040,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:54.730351+00:00",
+      "sha256": "888d907f01d33f0a5d9e1178956e7f7e68a3db54005110ad8d20bb3a90348d75",
+      "bytes": 528282,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E8%AA%A0%E5%BF%97%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:15.038185+00:00",
+      "sha256": "3f66dc0e01f243da7c1486816751319d9fd85d654552f686bd1803d2f1fe8782",
+      "bytes": 488755,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%8D%E5%8E%9F%E5%85%B8%E5%BD%A6",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:04.217605+00:00",
+      "sha256": "4174565d966deb868b42a6cf339e4989ce72dc2fbf5cf189d8a570552ba505a9",
+      "bytes": 216307,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%90%89%E7%94%B0%E8%A3%95%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:59.761917+00:00",
+      "sha256": "8ce5d05fd3d76266f28c845e92b84a17401c326120505895e1a0321290ed6fd4",
+      "bytes": 204422,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:21.395435+00:00",
+      "sha256": "d00522c4d91c9b73fc2743a63e0f8afc265abe56b0f1d2ccf4548a34d5784a3e",
+      "bytes": 443067,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9F%98%E6%A4%8D%E4%B8%96%E9%82%A3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:45.357454+00:00",
+      "sha256": "034b8886ec4e41d1cd93d6dbc4c5f01d32f68317c6e3a020f8696acca3814dc0",
+      "bytes": 216345,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%A5%A0%E6%9C%AC%E6%B3%B0%E5%8F%B2",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:13.824581+00:00",
+      "sha256": "c5417700132b91afdc4ff5d5c0185df03b5485bce4523f5f88e404b9744d50e0",
+      "bytes": 357930,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B0%8F%E9%87%8E%E5%AF%BA%E6%9A%96",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:29.509584+00:00",
+      "sha256": "0f58b14e8bcb15f0915c7a70dfb6a8f4f35eaf8fd95cb521e9f32910b0f773a2",
+      "bytes": 327358,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%8C%A0%E9%A6%AC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:31.226008+00:00",
+      "sha256": "0be0ebd1c42036fe905368b9ab9a692db6579f18cae4cd003435362376be7988",
+      "bytes": 253397,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E5%8D%83%E8%91%89%E3%83%AD%E3%83%83%E3%83%86%E3%83%9E%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%BA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:52.012737+00:00",
+      "sha256": "b4cab4544cce8bb570c2d9ef67d92f4add2d8e6100665abf55c9211d996f76e3",
+      "bytes": 372871,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8A%E3%83%BC%E3%83%88%E3%83%BB%E3%83%8C%E3%83%8B%E3%82%A7%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:43.412779+00:00",
+      "sha256": "c2b94fc77755fcf837680a16f1e33b64576272dd19bc83748027b88e7853afef",
+      "bytes": 259635,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%9D%82%E6%9C%AC%E6%8B%93%E5%B7%B1",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:12.868121+00:00",
+      "sha256": "92ab045514be40818ce834ea7470668d2092050e027f151692fd96451e73f728",
+      "bytes": 177410,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%B3%A5%E8%B0%B7%E6%95%AC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:50.298903+00:00",
+      "sha256": "6e6650a563866efc82cfb50466098bf9e73c3cb96b9a6ce34fe50ea184873eba",
+      "bytes": 712667,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%8C%81%E4%B8%B8%E6%B3%B0%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:01.318262+00:00",
+      "sha256": "1470cb367a85513b729e6e487394fbc446e5c320ef5a307f815557dfacb2a42a",
+      "bytes": 240455,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AA%E3%83%8D%E3%82%B9%E3%83%BB%E3%83%9E%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:41.226587+00:00",
+      "sha256": "e309c13a8864c8f5cbefee4086c89c02b130b5ba8eefb8ce46b17852966d3f38",
+      "bytes": 428491,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8B%9D%E9%87%8E%E6%98%8C%E6%85%B6",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:42.092482+00:00",
+      "sha256": "e8285a28709d90490319694efdcdfc034b4b8387e6192ac93826c08d34004883",
+      "bytes": 268396,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8F%E8%A6%8B%E5%AF%85%E5%A8%81",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:00.537710+00:00",
+      "sha256": "a8ee1f7c025f52a496383bc9cc9f19461a8e0963de5f6e09f0f1e4135c2268b4",
+      "bytes": 363344,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%83%86%E3%82%A3%E3%83%9E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:18.915368+00:00",
+      "sha256": "5c2e68ecfd53e1728ad6c00ae3455c96e7594e35e5b50c015ca303fc02dc7691",
+      "bytes": 141594,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%87%91%E6%B8%95%E5%85%89%E5%B8%8C",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:09.955183+00:00",
+      "sha256": "7b7b657d05113f0391a56b7cd6ed0598bed5c4abe574234a9a17d755ea5ad810",
+      "bytes": 118322,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%8F%A4%E5%B7%9D%E8%A3%95%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:46.734605+00:00",
+      "sha256": "d12321f944340eb46da3a5d5e8dad1f64fe206276254f5aa9377e1e19d26d72c",
+      "bytes": 210374,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%84%9B%E6%96%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:52.659930+00:00",
+      "sha256": "e15235bf823e954999227842d198f83958089cb1e3ea08c09bc2013e2e401095",
+      "bytes": 299063,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B2%BC%E7%94%B0%E7%BF%94%E5%B9%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:48.863862+00:00",
+      "sha256": "7e1b3e094be008d900313e95bbdbdb7b27073ac4b1449b9248b6ecbfedfe9db0",
+      "bytes": 239537,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%BB%A3%E6%BE%A4%E5%84%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:43.916887+00:00",
+      "sha256": "02432eaedfe81a441789ca6bbe152e50f0d464432ca88b9d530fc8d1737baca0",
+      "bytes": 187708,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BB%8A%E5%B7%9D%E5%84%AA%E9%A6%AC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:47.510464+00:00",
+      "sha256": "46b8e15d449b3132140e7dbd9e831dd88208a723ae87f14e7f30d41d94d8355f",
+      "bytes": 276261,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%B9%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%AE%E3%83%A9%E3%83%BC",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:23.967255+00:00",
+      "sha256": "160fdcea5ba7a441986c28dae4dd1ff3ce28153407bcb59e1a836f7830b176d3",
+      "bytes": 225019,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%BF%B1%E7%94%B0%E5%A4%AA%E8%B2%B4",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:00:21.794033+00:00",
+      "sha256": "dd2c4b30ed047437afb96d7fb978b9937de2aab37c9732e1956303f77cb497bb",
+      "bytes": 275296,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E7%94%B0%E6%98%8E%E5%A4%AE",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:23.587954+00:00",
+      "sha256": "0d1b23b4f8a619891bd7d46f6a05205b94da1259f885dfded9870f87a047f242",
+      "bytes": 188215,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%9F%B3%E5%A1%9A%E7%B6%9C%E4%B8%80%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:03.103301+00:00",
+      "sha256": "8c17f9f4684b3f804df778f5a620ca28bad7e8186a35047f263f14b0de8fb582",
+      "bytes": 232016,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%99%BA%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:54:04.920732+00:00",
+      "sha256": "c5a71870abae7dac1d025d8f201339cf6f770eacced9640462661ec47fd55a58",
+      "bytes": 140297,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E6%9D%B1%E5%8C%97%E6%A5%BD%E5%A4%A9%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%87%E3%83%B3%E3%82%A4%E3%83%BC%E3%82%B0%E3%83%AB%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:01.461980+00:00",
+      "sha256": "88f3b16916b59c20d1b9b0fb1c9c99a1ecaa201c2014aed25a902b9144d93ffe",
+      "bytes": 407067,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E9%9B%85%E5%88%A9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:55.998210+00:00",
+      "sha256": "ed0a7f2f0809042d71f2d08465eaf7072db33d2476dc3bcec4ed255305e287b8",
+      "bytes": 295061,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%8B%E5%A6%BB%E8%B2%B4%E5%AF%9B",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:01.323294+00:00",
+      "sha256": "26ecb3a4a7d22db1414c9a727c618c8709e7576698ff8073ba8988d8b97c4170",
+      "bytes": 205938,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%9E%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%89%E3%83%A9%E3%83%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:46.077726+00:00",
+      "sha256": "e64c96dce91e39562a0424e0eb508844789ba4117519744d99a6866b0176b6bc",
+      "bytes": 124963,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B1%A0%E8%B0%B7%E8%92%BC%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:46.652754+00:00",
+      "sha256": "38fbfda73c629cf50a452594458ef009bdd62289c4ef7e1c32f57942c30cb023",
+      "bytes": 192342,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B2%B8%E6%9C%AC%E4%BD%91%E4%B9%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:06.845522+00:00",
+      "sha256": "690277f1e391dd3f3ceb53b9f189d3deb1a9c6b3853a6f97ddc46b4f4a3629fd",
+      "bytes": 133009,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%BA%84%E5%AD%90%E9%9B%84%E5%A4%A7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:37.273463+00:00",
+      "sha256": "484b63d6ef9e7eff7c0af0d7d7f5dc61016ebb267e001844267a8bba66374c79",
+      "bytes": 254283,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E5%84%AA%E8%BC%94",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:53:54.001616+00:00",
+      "sha256": "120762f643da72359aa38113dd26535c9aa1a26c17678650aac840bd1e5b95f2",
+      "bytes": 257367,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E9%AB%99%E9%87%8E%E5%85%89%E6%B5%B7",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:03:45.875399+00:00",
+      "sha256": "a97312e17f7a1a13d5b723971bce3d1f2d2205df0be0737b07b2729f2949dd56",
+      "bytes": 150363,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2025%E5%B9%B4%E3%81%AE%E7%A6%8F%E5%B2%A1%E3%82%BD%E3%83%95%E3%83%88%E3%83%90%E3%83%B3%E3%82%AF%E3%83%9B%E3%83%BC%E3%82%AF%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:47.629946+00:00",
+      "sha256": "f26f8899be79fdf8a8bd43247568b1f63575a8d766c65ab93b2df89143dddd3e",
+      "bytes": 727494,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%AE%AE%E6%9C%AC%E7%A7%80%E6%98%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:56:12.111377+00:00",
+      "sha256": "3b0d83488487164517a1ee2dd7c980bf96111298d7e94e300b2c14aa81ed2be7",
+      "bytes": 148274,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B7%9D%E9%81%A5%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:16.989551+00:00",
+      "sha256": "827199234ea3cb98a2e3f5c7b6547fc2354511d00154c22d07bca2e5bf491ca9",
+      "bytes": 636447,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:17.034677+00:00",
+      "sha256": "73107b5b5330c1b93bf294f3c6015cacfabd17dd7e3b7305e7e98a65cc1dd89e",
+      "bytes": 373737,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2023%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:36.998543+00:00",
+      "sha256": "93609645072990e5905836c28147a54a93f7a02f3f56c3a1519add31a540c7d5",
+      "bytes": 491428,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%BB%E3%82%B7%E3%83%A2%E3%83%B3",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:34.704626+00:00",
+      "sha256": "24d9bd935da658a76676b2cd738a2b0cf6aa741b856d97932ab0bc5e32416bb1",
+      "bytes": 123062,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2022%E5%B9%B4%E3%81%AE%E9%98%AA%E7%A5%9E%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:47:12.595432+00:00",
+      "sha256": "c3ceaddad45e0cd868501a6e13b2d446a8b548f93c084d16c0ff81c03f50a3d6",
+      "bytes": 537808,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%87%8C%E6%98%82%E7%94%9F",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:55:43.819221+00:00",
+      "sha256": "f6892357c3555e9abcb8cae0d9c83ce0acb0a1f8a65d4d9e3934ebfc9f74ffc8",
+      "bytes": 228162,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E4%B8%89%E6%B5%A6%E7%91%9E%E6%A8%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:52:50.432369+00:00",
+      "sha256": "de084a90a5835d27998df9c96ea4129070ab2acf03bf72ae0c1a9378d7d4efed",
+      "bytes": 283007,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%9D%91%E4%B8%8A%E8%88%9C_%28%E9%87%8E%E7%90%83%29",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:58:25.310846+00:00",
+      "sha256": "3e1861e819054d451f0ae78a05c2d19b9068ae5299a17c681d6db0c37e3a1f00",
+      "bytes": 150749,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2021%E5%B9%B4%E3%81%AE%E8%AA%AD%E5%A3%B2%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%84",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:46:43.632798+00:00",
+      "sha256": "6a45cbc69be23267065676853ed007e29864f4db1422b6dae69c611f5971f615",
+      "bytes": 423421,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%88%E3%83%95%E3%82%A1%E3%83%BC%E3%83%BB%E3%82%AF%E3%83%AA%E3%82%BD%E3%82%B9%E3%83%88%E3%83%A2%E3%83%BB%E3%83%A1%E3%83%AB%E3%82%BB%E3%83%87%E3%82%B9",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:51:23.562658+00:00",
+      "sha256": "3538a83457a7d02aeffa7eae766f4e5e0ae3724c85f67a0f7eaaf8406245da82",
+      "bytes": 648797,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%B0%B7%E5%86%85%E4%BA%AE%E5%A4%AA",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:27.946495+00:00",
+      "sha256": "11d37bfc296d5d741c2d8691164a82ea0cf3231b5309cd07118a2e37d73218b7",
+      "bytes": 230183,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/2024%E5%B9%B4%E3%81%AE%E5%BA%83%E5%B3%B6%E6%9D%B1%E6%B4%8B%E3%82%AB%E3%83%BC%E3%83%97",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:48:14.642116+00:00",
+      "sha256": "51b5c9b1ff7e50ad9173946fab0ef4045b1190b8b3545d5686dd0601315e9af7",
+      "bytes": 349115,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%94%B0%E5%85%89%E8%BC%9D",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:01:29.127336+00:00",
+      "sha256": "3c87087585b49901ba04fa1126a7ae3df6ec68822bcd94675d6e26a788ec4266",
+      "bytes": 214551,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E6%B5%85%E5%88%A9%E5%A4%AA%E9%96%80",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:59:53.234398+00:00",
+      "sha256": "9869f45d9e18e0c82ef4d93f33f5dbda5417011e0375bff25c7c5b66a6669ee1",
+      "bytes": 175738,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E5%B7%9D%E4%B8%8A%E7%90%86%E5%81%89",
+      "status": 200,
+      "retrieved_at": "2026-10-26T11:57:13.311962+00:00",
+      "sha256": "be1f55c0ce7e9177ee6ec746cd8ec80b14885cba4e78e83eaa3a117f1f2b5c14",
+      "bytes": 161488,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    },
+    {
+      "url": "https://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E6%82%A0%E5%A4%AA%E9%83%8E",
+      "status": 200,
+      "retrieved_at": "2026-10-26T12:02:12.766198+00:00",
+      "sha256": "4ede65f7d3282f5a03af5bd75b8ab41a9ea6023ddd20b013c26dadf038186ce6",
+      "bytes": 176141,
+      "license": "CC BY-SA 4.0; Wikipedia contributors"
+    }
+  ],
+  "all_aggregate_provenance": "statistics/parameters use sampled profile URLs and corresponding roster article URLs listed here; see private memberships/profile linkage for per-row joins"
+}

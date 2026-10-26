@@ -1,0 +1,68 @@
+{
+  "candidate_results": [
+    {
+      "height_bin_cm": 5,
+      "weight_bin_kg": 10,
+      "n": 14400,
+      "height_mean_cm": 180.68026388888887,
+      "weight_mean_kg": 87.70001388888889,
+      "height_sd": 6.329466423652189,
+      "weight_sd": 9.751278691070121,
+      "pearson": 0.607158566524148,
+      "reference_pearson": 0.7158455683525169,
+      "absolute_correlation_error": 0.10868700182836888,
+      "body_cells": 793
+    },
+    {
+      "height_bin_cm": 2.5,
+      "weight_bin_kg": 5,
+      "n": 14400,
+      "height_mean_cm": 180.6697986111111,
+      "weight_mean_kg": 87.5254861111111,
+      "height_sd": 6.255953805375969,
+      "weight_sd": 9.133491812026913,
+      "pearson": 0.6809957075757138,
+      "reference_pearson": 0.7158455683525169,
+      "absolute_correlation_error": 0.03484986077680308,
+      "body_cells": 1232
+    }
+  ],
+  "chosen": {
+    "height_bin_cm": 2.5,
+    "weight_bin_kg": 5,
+    "n": 14400,
+    "height_mean_cm": 180.6697986111111,
+    "weight_mean_kg": 87.5254861111111,
+    "height_sd": 6.255953805375969,
+    "weight_sd": 9.133491812026913,
+    "pearson": 0.6809957075757138,
+    "reference_pearson": 0.7158455683525169,
+    "absolute_correlation_error": 0.03484986077680308,
+    "body_cells": 1232
+  },
+  "seeds_unchanged": [
+    115100,
+    115101,
+    115102,
+    115103,
+    115104,
+    115105,
+    115106,
+    115107,
+    115108,
+    115109,
+    115110,
+    115111,
+    115112,
+    115113,
+    115114,
+    115115,
+    115116,
+    115117,
+    115118,
+    115119
+  ],
+  "status": "exploratory calibration-data comparison, not independent validation",
+  "selection": "smaller absolute height/weight correlation distortion; all seeds retained",
+  "tradeoff": "finer cells retain correlation better but have smaller cell support and greater overfit risk; no source person rows published"
+}

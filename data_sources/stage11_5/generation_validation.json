@@ -1,0 +1,3005 @@
+{
+  "generated_players": 14400,
+  "fixed_seeds": [
+    115100,
+    115101,
+    115102,
+    115103,
+    115104,
+    115105,
+    115106,
+    115107,
+    115108,
+    115109,
+    115110,
+    115111,
+    115112,
+    115113,
+    115114,
+    115115,
+    115116,
+    115117,
+    115118,
+    115119
+  ],
+  "players_per_seed": 720,
+  "training_target": {
+    "rows": 754,
+    "unique_people": 277,
+    "estimated_population_weight": 3274.0000000000005,
+    "height_cm": {
+      "n": 754,
+      "weight_sum": 3274.0000000000005,
+      "effective_n": 448.17898951704615,
+      "mean": 180.7305346567915,
+      "median": 180.0,
+      "sd_population": 6.15227382109919,
+      "min": 167.0,
+      "max": 201.0,
+      "p5": 171.0,
+      "p25": 176.0,
+      "p75": 184.0,
+      "p95": 193.0,
+      "missing": 0
+    },
+    "weight_kg": {
+      "n": 754,
+      "weight_sum": 3274.0000000000005,
+      "effective_n": 448.17898951704615,
+      "mean": 87.72972857359461,
+      "median": 87.0,
+      "sd_population": 9.120484506726397,
+      "min": 68.0,
+      "max": 125.0,
+      "p5": 74.0,
+      "p25": 82.0,
+      "p75": 93.0,
+      "p95": 104.3,
+      "missing": 0
+    },
+    "age": {
+      "n": 754,
+      "weight_sum": 3274.0000000000005,
+      "effective_n": 448.17898951704615,
+      "mean": 26.431120106779247,
+      "median": 26.0,
+      "sd_population": 4.677113478929113,
+      "min": 16,
+      "max": 40,
+      "p5": 19.0,
+      "p25": 23.0,
+      "p75": 30.0,
+      "p95": 34.0,
+      "missing": 0
+    },
+    "pearson_height_weight": 0.7158455683525169,
+    "spearman_height_weight": 0.7096699074384073,
+    "age_adjusted_pearson": 0.712294988261522,
+    "handedness": {
+      "RR": {
+        "observed_rows": 453,
+        "weighted_count": 1928.3550291569004,
+        "weighted_share": 0.5889905403655774
+      },
+      "RL": {
+        "observed_rows": 213,
+        "weighted_count": 687.4410676521132,
+        "weighted_share": 0.2099697824227591
+      },
+      "RS": {
+        "observed_rows": 9,
+        "weighted_count": 52.54602543305509,
+        "weighted_share": 0.016049488525673516
+      },
+      "LL": {
+        "observed_rows": 77,
+        "weighted_count": 576.2295893410701,
+        "weighted_share": 0.17600170719030853
+      },
+      "LR": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      },
+      "LS": {
+        "observed_rows": 2,
+        "weighted_count": 29.428288416861367,
+        "weighted_share": 0.008988481495681542
+      },
+      "unclassified": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      }
+    },
+    "unclassified_hand_rows": 0
+  },
+  "generated": {
+    "rows": 14400,
+    "unique_people": 14400,
+    "estimated_population_weight": 14400.0,
+    "height_cm": {
+      "n": 14400,
+      "weight_sum": 14400.0,
+      "effective_n": 14400.0,
+      "mean": 180.6697986111111,
+      "median": 180.4,
+      "sd_population": 6.255953805375969,
+      "min": 164.9,
+      "max": 202.3,
+      "p5": 171.0,
+      "p25": 176.1,
+      "p75": 184.0,
+      "p95": 192.5,
+      "missing": 0
+    },
+    "weight_kg": {
+      "n": 14400,
+      "weight_sum": 14400.0,
+      "effective_n": 14400.0,
+      "mean": 87.5254861111111,
+      "median": 86.8,
+      "sd_population": 9.133491812026913,
+      "min": 64.2,
+      "max": 129.2,
+      "p5": 73.4,
+      "p25": 81.5,
+      "p75": 92.8,
+      "p95": 104.1,
+      "missing": 0
+    },
+    "age": {
+      "n": 14400,
+      "weight_sum": 14400.0,
+      "effective_n": 14400.0,
+      "mean": 26.505416666666665,
+      "median": 26.0,
+      "sd_population": 4.882519681219934,
+      "min": 16,
+      "max": 40,
+      "p5": 19.0,
+      "p25": 23.0,
+      "p75": 30.0,
+      "p95": 34.0,
+      "missing": 0
+    },
+    "pearson_height_weight": 0.6809957075757138,
+    "spearman_height_weight": 0.6717496194766749,
+    "age_adjusted_pearson": 0.6761350085047272,
+    "handedness": {
+      "RR": {
+        "observed_rows": 8468,
+        "weighted_count": 8468.0,
+        "weighted_share": 0.5880555555555556
+      },
+      "RL": {
+        "observed_rows": 3138,
+        "weighted_count": 3138.0,
+        "weighted_share": 0.21791666666666668
+      },
+      "RS": {
+        "observed_rows": 181,
+        "weighted_count": 181.0,
+        "weighted_share": 0.012569444444444444
+      },
+      "LL": {
+        "observed_rows": 2512,
+        "weighted_count": 2512.0,
+        "weighted_share": 0.17444444444444446
+      },
+      "LR": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      },
+      "LS": {
+        "observed_rows": 101,
+        "weighted_count": 101.0,
+        "weighted_share": 0.007013888888888889
+      },
+      "unclassified": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      }
+    },
+    "unclassified_hand_rows": 0
+  },
+  "per_seed": [
+    {
+      "seed": 115100,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.70680555555555,
+        "median": 180.6,
+        "sd_population": 6.26299722496898,
+        "min": 164.9,
+        "max": 202.3,
+        "p5": 171.0,
+        "p25": 176.4,
+        "p75": 183.7,
+        "p95": 192.8,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.68875,
+        "median": 87.0,
+        "sd_population": 9.385868431598526,
+        "min": 64.9,
+        "max": 127.4,
+        "p5": 72.9,
+        "p25": 81.7,
+        "p75": 92.8,
+        "p95": 106.0,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.46527777777778,
+        "median": 26.0,
+        "sd_population": 4.954673992028533,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6569182228021656,
+      "spearman_height_weight": 0.6419965326994364,
+      "age_adjusted_pearson": 0.6542371674123996,
+      "handedness": {
+        "RR": {
+          "observed_rows": 422,
+          "weighted_count": 422.0,
+          "weighted_share": 0.5861111111111111
+        },
+        "RL": {
+          "observed_rows": 158,
+          "weighted_count": 158.0,
+          "weighted_share": 0.21944444444444444
+        },
+        "RS": {
+          "observed_rows": 9,
+          "weighted_count": 9.0,
+          "weighted_share": 0.0125
+        },
+        "LL": {
+          "observed_rows": 127,
+          "weighted_count": 127.0,
+          "weighted_share": 0.1763888888888889
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 4,
+          "weighted_count": 4.0,
+          "weighted_share": 0.005555555555555556
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115101,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 181.24208333333334,
+        "median": 180.7,
+        "sd_population": 6.572583509781793,
+        "min": 165.8,
+        "max": 200.9,
+        "p5": 171.1,
+        "p25": 176.7,
+        "p75": 184.4,
+        "p95": 193.3,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.98722222222223,
+        "median": 87.5,
+        "sd_population": 8.985194801298631,
+        "min": 64.6,
+        "max": 114.8,
+        "p5": 73.6,
+        "p25": 81.8,
+        "p75": 93.3,
+        "p95": 103.5,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.155555555555555,
+        "median": 26.0,
+        "sd_population": 4.7156032042832985,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 29.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.7147325421120533,
+      "spearman_height_weight": 0.6929111850205377,
+      "age_adjusted_pearson": 0.7073736732803763,
+      "handedness": {
+        "RR": {
+          "observed_rows": 403,
+          "weighted_count": 403.0,
+          "weighted_share": 0.5597222222222222
+        },
+        "RL": {
+          "observed_rows": 157,
+          "weighted_count": 157.0,
+          "weighted_share": 0.21805555555555556
+        },
+        "RS": {
+          "observed_rows": 14,
+          "weighted_count": 14.0,
+          "weighted_share": 0.019444444444444445
+        },
+        "LL": {
+          "observed_rows": 141,
+          "weighted_count": 141.0,
+          "weighted_share": 0.19583333333333333
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 5,
+          "weighted_count": 5.0,
+          "weighted_share": 0.006944444444444444
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115102,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.64333333333332,
+        "median": 180.3,
+        "sd_population": 6.23188574991551,
+        "min": 168.1,
+        "max": 200.7,
+        "p5": 171.1,
+        "p25": 175.9,
+        "p75": 184.1,
+        "p95": 192.4,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.18736111111112,
+        "median": 85.9,
+        "sd_population": 9.35300716541292,
+        "min": 65.0,
+        "max": 124.7,
+        "p5": 73.3,
+        "p25": 81.1,
+        "p75": 92.3,
+        "p95": 104.1,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.555555555555557,
+        "median": 26.0,
+        "sd_population": 4.951960579431839,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.7119173683245186,
+      "spearman_height_weight": 0.6962248971390151,
+      "age_adjusted_pearson": 0.7077378124226152,
+      "handedness": {
+        "RR": {
+          "observed_rows": 419,
+          "weighted_count": 419.0,
+          "weighted_share": 0.5819444444444445
+        },
+        "RL": {
+          "observed_rows": 163,
+          "weighted_count": 163.0,
+          "weighted_share": 0.2263888888888889
+        },
+        "RS": {
+          "observed_rows": 7,
+          "weighted_count": 7.0,
+          "weighted_share": 0.009722222222222222
+        },
+        "LL": {
+          "observed_rows": 125,
+          "weighted_count": 125.0,
+          "weighted_share": 0.1736111111111111
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 6,
+          "weighted_count": 6.0,
+          "weighted_share": 0.008333333333333333
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115103,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.92569444444445,
+        "median": 180.6,
+        "sd_population": 6.398838290048543,
+        "min": 165.0,
+        "max": 201.8,
+        "p5": 171.0,
+        "p25": 176.1,
+        "p75": 184.2,
+        "p95": 192.7,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.96861111111112,
+        "median": 87.0,
+        "sd_population": 9.056422721772217,
+        "min": 64.4,
+        "max": 128.5,
+        "p5": 73.6,
+        "p25": 81.7,
+        "p75": 93.5,
+        "p95": 103.6,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.434722222222224,
+        "median": 26.0,
+        "sd_population": 4.793359403099663,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6839342554873077,
+      "spearman_height_weight": 0.6861940391810227,
+      "age_adjusted_pearson": 0.6775322237741497,
+      "handedness": {
+        "RR": {
+          "observed_rows": 408,
+          "weighted_count": 408.0,
+          "weighted_share": 0.5666666666666667
+        },
+        "RL": {
+          "observed_rows": 165,
+          "weighted_count": 165.0,
+          "weighted_share": 0.22916666666666666
+        },
+        "RS": {
+          "observed_rows": 15,
+          "weighted_count": 15.0,
+          "weighted_share": 0.020833333333333332
+        },
+        "LL": {
+          "observed_rows": 125,
+          "weighted_count": 125.0,
+          "weighted_share": 0.1736111111111111
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 7,
+          "weighted_count": 7.0,
+          "weighted_share": 0.009722222222222222
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115104,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.32902777777778,
+        "median": 180.2,
+        "sd_population": 6.013256572801422,
+        "min": 165.0,
+        "max": 200.7,
+        "p5": 171.1,
+        "p25": 176.0,
+        "p75": 183.9,
+        "p95": 191.5,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.39111111111112,
+        "median": 86.8,
+        "sd_population": 8.913018187453481,
+        "min": 64.6,
+        "max": 126.5,
+        "p5": 73.9,
+        "p25": 81.5,
+        "p75": 92.2,
+        "p95": 104.0,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.32777777777778,
+        "median": 26.0,
+        "sd_population": 4.916051436711689,
+        "min": 17,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6715848286529859,
+      "spearman_height_weight": 0.6444219008601791,
+      "age_adjusted_pearson": 0.6695969905623623,
+      "handedness": {
+        "RR": {
+          "observed_rows": 407,
+          "weighted_count": 407.0,
+          "weighted_share": 0.5652777777777778
+        },
+        "RL": {
+          "observed_rows": 181,
+          "weighted_count": 181.0,
+          "weighted_share": 0.2513888888888889
+        },
+        "RS": {
+          "observed_rows": 10,
+          "weighted_count": 10.0,
+          "weighted_share": 0.013888888888888888
+        },
+        "LL": {
+          "observed_rows": 117,
+          "weighted_count": 117.0,
+          "weighted_share": 0.1625
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 5,
+          "weighted_count": 5.0,
+          "weighted_share": 0.006944444444444444
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115105,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.45138888888889,
+        "median": 180.3,
+        "sd_population": 6.340752081565447,
+        "min": 165.1,
+        "max": 202.2,
+        "p5": 170.9,
+        "p25": 176.0,
+        "p75": 183.7,
+        "p95": 192.7,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 86.93611111111112,
+        "median": 86.3,
+        "sd_population": 9.40310979226724,
+        "min": 64.2,
+        "max": 125.5,
+        "p5": 72.2,
+        "p25": 80.8,
+        "p75": 92.3,
+        "p95": 104.2,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.76388888888889,
+        "median": 27.0,
+        "sd_population": 4.9413028408945046,
+        "min": 16,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.7059349684369584,
+      "spearman_height_weight": 0.6962451923886805,
+      "age_adjusted_pearson": 0.7031852996704316,
+      "handedness": {
+        "RR": {
+          "observed_rows": 405,
+          "weighted_count": 405.0,
+          "weighted_share": 0.5625
+        },
+        "RL": {
+          "observed_rows": 158,
+          "weighted_count": 158.0,
+          "weighted_share": 0.21944444444444444
+        },
+        "RS": {
+          "observed_rows": 6,
+          "weighted_count": 6.0,
+          "weighted_share": 0.008333333333333333
+        },
+        "LL": {
+          "observed_rows": 146,
+          "weighted_count": 146.0,
+          "weighted_share": 0.20277777777777778
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 5,
+          "weighted_count": 5.0,
+          "weighted_share": 0.006944444444444444
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115106,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.65458333333333,
+        "median": 180.6,
+        "sd_population": 6.135154267167571,
+        "min": 167.6,
+        "max": 201.7,
+        "p5": 170.8,
+        "p25": 176.3,
+        "p75": 183.9,
+        "p95": 192.1,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.36763888888889,
+        "median": 87.1,
+        "sd_population": 8.666408328370133,
+        "min": 65.5,
+        "max": 115.0,
+        "p5": 73.7,
+        "p25": 81.4,
+        "p75": 92.9,
+        "p95": 102.4,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.508333333333333,
+        "median": 26.0,
+        "sd_population": 4.855688245072302,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6769772181152032,
+      "spearman_height_weight": 0.6684765185906731,
+      "age_adjusted_pearson": 0.6735198300525433,
+      "handedness": {
+        "RR": {
+          "observed_rows": 427,
+          "weighted_count": 427.0,
+          "weighted_share": 0.5930555555555556
+        },
+        "RL": {
+          "observed_rows": 153,
+          "weighted_count": 153.0,
+          "weighted_share": 0.2125
+        },
+        "RS": {
+          "observed_rows": 10,
+          "weighted_count": 10.0,
+          "weighted_share": 0.013888888888888888
+        },
+        "LL": {
+          "observed_rows": 126,
+          "weighted_count": 126.0,
+          "weighted_share": 0.175
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 4,
+          "weighted_count": 4.0,
+          "weighted_share": 0.005555555555555556
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115107,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.44472222222223,
+        "median": 180.1,
+        "sd_population": 6.188926035944771,
+        "min": 166.1,
+        "max": 201.4,
+        "p5": 170.9,
+        "p25": 176.0,
+        "p75": 183.8,
+        "p95": 192.3,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.83583333333334,
+        "median": 86.6,
+        "sd_population": 8.859497062161285,
+        "min": 65.2,
+        "max": 125.0,
+        "p5": 74.9,
+        "p25": 82.2,
+        "p75": 92.9,
+        "p95": 104.6,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.4,
+        "median": 26.0,
+        "sd_population": 4.830286395925884,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 29.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6658344492380751,
+      "spearman_height_weight": 0.6599654410615801,
+      "age_adjusted_pearson": 0.6597506342851268,
+      "handedness": {
+        "RR": {
+          "observed_rows": 438,
+          "weighted_count": 438.0,
+          "weighted_share": 0.6083333333333333
+        },
+        "RL": {
+          "observed_rows": 151,
+          "weighted_count": 151.0,
+          "weighted_share": 0.20972222222222223
+        },
+        "RS": {
+          "observed_rows": 3,
+          "weighted_count": 3.0,
+          "weighted_share": 0.004166666666666667
+        },
+        "LL": {
+          "observed_rows": 125,
+          "weighted_count": 125.0,
+          "weighted_share": 0.1736111111111111
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 3,
+          "weighted_count": 3.0,
+          "weighted_share": 0.004166666666666667
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115108,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.78236111111113,
+        "median": 180.6,
+        "sd_population": 6.126271521773064,
+        "min": 165.7,
+        "max": 201.7,
+        "p5": 170.8,
+        "p25": 176.3,
+        "p75": 184.3,
+        "p95": 191.8,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.46694444444444,
+        "median": 86.9,
+        "sd_population": 9.280208426611873,
+        "min": 64.3,
+        "max": 127.7,
+        "p5": 73.2,
+        "p25": 80.8,
+        "p75": 93.4,
+        "p95": 104.0,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.46527777777778,
+        "median": 26.0,
+        "sd_population": 4.8501334380905385,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6694785790481046,
+      "spearman_height_weight": 0.6793305773414567,
+      "age_adjusted_pearson": 0.6635948054983493,
+      "handedness": {
+        "RR": {
+          "observed_rows": 417,
+          "weighted_count": 417.0,
+          "weighted_share": 0.5791666666666667
+        },
+        "RL": {
+          "observed_rows": 176,
+          "weighted_count": 176.0,
+          "weighted_share": 0.24444444444444444
+        },
+        "RS": {
+          "observed_rows": 10,
+          "weighted_count": 10.0,
+          "weighted_share": 0.013888888888888888
+        },
+        "LL": {
+          "observed_rows": 114,
+          "weighted_count": 114.0,
+          "weighted_share": 0.15833333333333333
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 3,
+          "weighted_count": 3.0,
+          "weighted_share": 0.004166666666666667
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115109,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.885,
+        "median": 180.7,
+        "sd_population": 6.361983225029405,
+        "min": 166.4,
+        "max": 200.6,
+        "p5": 170.9,
+        "p25": 176.3,
+        "p75": 184.4,
+        "p95": 192.8,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 88.25486111111111,
+        "median": 87.3,
+        "sd_population": 9.228607619344372,
+        "min": 64.3,
+        "max": 129.2,
+        "p5": 74.0,
+        "p25": 82.1,
+        "p75": 93.5,
+        "p95": 104.5,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.822222222222223,
+        "median": 27.0,
+        "sd_population": 5.1244572130514525,
+        "min": 17,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 31.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6824435663526788,
+      "spearman_height_weight": 0.6831524673261709,
+      "age_adjusted_pearson": 0.6746974127569629,
+      "handedness": {
+        "RR": {
+          "observed_rows": 434,
+          "weighted_count": 434.0,
+          "weighted_share": 0.6027777777777777
+        },
+        "RL": {
+          "observed_rows": 148,
+          "weighted_count": 148.0,
+          "weighted_share": 0.20555555555555555
+        },
+        "RS": {
+          "observed_rows": 11,
+          "weighted_count": 11.0,
+          "weighted_share": 0.015277777777777777
+        },
+        "LL": {
+          "observed_rows": 119,
+          "weighted_count": 119.0,
+          "weighted_share": 0.16527777777777777
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 8,
+          "weighted_count": 8.0,
+          "weighted_share": 0.011111111111111112
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115110,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.4626388888889,
+        "median": 180.1,
+        "sd_population": 6.1986204766902135,
+        "min": 166.6,
+        "max": 202.2,
+        "p5": 171.0,
+        "p25": 176.0,
+        "p75": 183.7,
+        "p95": 192.5,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 86.94555555555556,
+        "median": 86.4,
+        "sd_population": 8.680105428329403,
+        "min": 64.2,
+        "max": 127.3,
+        "p5": 73.7,
+        "p25": 81.3,
+        "p75": 92.0,
+        "p95": 103.2,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.55,
+        "median": 27.0,
+        "sd_population": 4.937132546101814,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6940992096144288,
+      "spearman_height_weight": 0.6847450477230408,
+      "age_adjusted_pearson": 0.6915542443107909,
+      "handedness": {
+        "RR": {
+          "observed_rows": 428,
+          "weighted_count": 428.0,
+          "weighted_share": 0.5944444444444444
+        },
+        "RL": {
+          "observed_rows": 137,
+          "weighted_count": 137.0,
+          "weighted_share": 0.19027777777777777
+        },
+        "RS": {
+          "observed_rows": 6,
+          "weighted_count": 6.0,
+          "weighted_share": 0.008333333333333333
+        },
+        "LL": {
+          "observed_rows": 145,
+          "weighted_count": 145.0,
+          "weighted_share": 0.2013888888888889
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 4,
+          "weighted_count": 4.0,
+          "weighted_share": 0.005555555555555556
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115111,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.38194444444446,
+        "median": 180.2,
+        "sd_population": 6.328658941427763,
+        "min": 167.4,
+        "max": 202.0,
+        "p5": 170.9,
+        "p25": 175.6,
+        "p75": 183.9,
+        "p95": 192.4,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.48777777777778,
+        "median": 86.8,
+        "sd_population": 9.087403709137144,
+        "min": 64.6,
+        "max": 114.2,
+        "p5": 71.8,
+        "p25": 81.5,
+        "p75": 93.1,
+        "p95": 104.0,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.543055555555554,
+        "median": 26.0,
+        "sd_population": 4.946753323277605,
+        "min": 16,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6567266329797082,
+      "spearman_height_weight": 0.6469081541750383,
+      "age_adjusted_pearson": 0.6506347771360108,
+      "handedness": {
+        "RR": {
+          "observed_rows": 446,
+          "weighted_count": 446.0,
+          "weighted_share": 0.6194444444444445
+        },
+        "RL": {
+          "observed_rows": 144,
+          "weighted_count": 144.0,
+          "weighted_share": 0.2
+        },
+        "RS": {
+          "observed_rows": 13,
+          "weighted_count": 13.0,
+          "weighted_share": 0.018055555555555554
+        },
+        "LL": {
+          "observed_rows": 113,
+          "weighted_count": 113.0,
+          "weighted_share": 0.15694444444444444
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 4,
+          "weighted_count": 4.0,
+          "weighted_share": 0.005555555555555556
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115112,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.48902777777778,
+        "median": 180.2,
+        "sd_population": 6.286460684969949,
+        "min": 165.1,
+        "max": 201.4,
+        "p5": 170.8,
+        "p25": 175.9,
+        "p75": 183.9,
+        "p95": 192.2,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.11791666666667,
+        "median": 86.2,
+        "sd_population": 9.391713167217032,
+        "min": 64.5,
+        "max": 128.3,
+        "p5": 71.6,
+        "p25": 80.8,
+        "p75": 92.4,
+        "p95": 104.0,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.851388888888888,
+        "median": 27.0,
+        "sd_population": 4.968106420390066,
+        "min": 18,
+        "max": 40,
+        "p5": 20.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6785075334914816,
+      "spearman_height_weight": 0.6750660662726987,
+      "age_adjusted_pearson": 0.6767520512604087,
+      "handedness": {
+        "RR": {
+          "observed_rows": 445,
+          "weighted_count": 445.0,
+          "weighted_share": 0.6180555555555556
+        },
+        "RL": {
+          "observed_rows": 149,
+          "weighted_count": 149.0,
+          "weighted_share": 0.20694444444444443
+        },
+        "RS": {
+          "observed_rows": 10,
+          "weighted_count": 10.0,
+          "weighted_share": 0.013888888888888888
+        },
+        "LL": {
+          "observed_rows": 112,
+          "weighted_count": 112.0,
+          "weighted_share": 0.15555555555555556
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 4,
+          "weighted_count": 4.0,
+          "weighted_share": 0.005555555555555556
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115113,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.7098611111111,
+        "median": 180.4,
+        "sd_population": 6.186245943187093,
+        "min": 165.1,
+        "max": 201.4,
+        "p5": 171.0,
+        "p25": 176.4,
+        "p75": 183.8,
+        "p95": 192.4,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 88.01291666666667,
+        "median": 86.9,
+        "sd_population": 9.408485374841751,
+        "min": 64.8,
+        "max": 129.1,
+        "p5": 74.9,
+        "p25": 81.7,
+        "p75": 92.7,
+        "p95": 105.7,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.53611111111111,
+        "median": 26.0,
+        "sd_population": 4.837219861413612,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6876110112906108,
+      "spearman_height_weight": 0.6851368544875973,
+      "age_adjusted_pearson": 0.6835119357670245,
+      "handedness": {
+        "RR": {
+          "observed_rows": 425,
+          "weighted_count": 425.0,
+          "weighted_share": 0.5902777777777778
+        },
+        "RL": {
+          "observed_rows": 158,
+          "weighted_count": 158.0,
+          "weighted_share": 0.21944444444444444
+        },
+        "RS": {
+          "observed_rows": 9,
+          "weighted_count": 9.0,
+          "weighted_share": 0.0125
+        },
+        "LL": {
+          "observed_rows": 127,
+          "weighted_count": 127.0,
+          "weighted_share": 0.1763888888888889
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 1,
+          "weighted_count": 1.0,
+          "weighted_share": 0.001388888888888889
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115114,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.77152777777778,
+        "median": 180.4,
+        "sd_population": 6.198427927870597,
+        "min": 167.5,
+        "max": 201.9,
+        "p5": 171.1,
+        "p25": 176.4,
+        "p75": 184.2,
+        "p95": 192.5,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.30805555555555,
+        "median": 86.1,
+        "sd_population": 9.3683816103377,
+        "min": 64.2,
+        "max": 127.7,
+        "p5": 73.5,
+        "p25": 81.2,
+        "p75": 92.7,
+        "p95": 104.4,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.406944444444445,
+        "median": 26.0,
+        "sd_population": 4.6803022928513,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6912431901347317,
+      "spearman_height_weight": 0.6704295634636755,
+      "age_adjusted_pearson": 0.6863236362579777,
+      "handedness": {
+        "RR": {
+          "observed_rows": 422,
+          "weighted_count": 422.0,
+          "weighted_share": 0.5861111111111111
+        },
+        "RL": {
+          "observed_rows": 148,
+          "weighted_count": 148.0,
+          "weighted_share": 0.20555555555555555
+        },
+        "RS": {
+          "observed_rows": 5,
+          "weighted_count": 5.0,
+          "weighted_share": 0.006944444444444444
+        },
+        "LL": {
+          "observed_rows": 138,
+          "weighted_count": 138.0,
+          "weighted_share": 0.19166666666666668
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 7,
+          "weighted_count": 7.0,
+          "weighted_share": 0.009722222222222222
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115115,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.69333333333333,
+        "median": 180.5,
+        "sd_population": 6.424228012419513,
+        "min": 166.2,
+        "max": 201.7,
+        "p5": 171.0,
+        "p25": 175.9,
+        "p75": 184.2,
+        "p95": 192.3,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.56722222222223,
+        "median": 86.9,
+        "sd_population": 9.044285062068235,
+        "min": 65.0,
+        "max": 128.5,
+        "p5": 72.7,
+        "p25": 81.8,
+        "p75": 92.8,
+        "p95": 103.6,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.22222222222222,
+        "median": 26.0,
+        "sd_population": 4.769178307465036,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 29.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.7175211699881995,
+      "spearman_height_weight": 0.70275274868862,
+      "age_adjusted_pearson": 0.7165029001493484,
+      "handedness": {
+        "RR": {
+          "observed_rows": 440,
+          "weighted_count": 440.0,
+          "weighted_share": 0.6111111111111112
+        },
+        "RL": {
+          "observed_rows": 146,
+          "weighted_count": 146.0,
+          "weighted_share": 0.20277777777777778
+        },
+        "RS": {
+          "observed_rows": 13,
+          "weighted_count": 13.0,
+          "weighted_share": 0.018055555555555554
+        },
+        "LL": {
+          "observed_rows": 116,
+          "weighted_count": 116.0,
+          "weighted_share": 0.16111111111111112
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 5,
+          "weighted_count": 5.0,
+          "weighted_share": 0.006944444444444444
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115116,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.51055555555556,
+        "median": 180.6,
+        "sd_population": 6.116410051131321,
+        "min": 165.5,
+        "max": 201.7,
+        "p5": 171.0,
+        "p25": 175.9,
+        "p75": 183.7,
+        "p95": 192.0,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.63763888888889,
+        "median": 86.8,
+        "sd_population": 9.005923204118924,
+        "min": 64.5,
+        "max": 126.6,
+        "p5": 73.0,
+        "p25": 81.6,
+        "p75": 93.0,
+        "p95": 103.6,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.330555555555556,
+        "median": 26.0,
+        "sd_population": 4.751801964895028,
+        "min": 18,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 29.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.657587658992333,
+      "spearman_height_weight": 0.6520955140168567,
+      "age_adjusted_pearson": 0.6499474168446322,
+      "handedness": {
+        "RR": {
+          "observed_rows": 429,
+          "weighted_count": 429.0,
+          "weighted_share": 0.5958333333333333
+        },
+        "RL": {
+          "observed_rows": 157,
+          "weighted_count": 157.0,
+          "weighted_share": 0.21805555555555556
+        },
+        "RS": {
+          "observed_rows": 5,
+          "weighted_count": 5.0,
+          "weighted_share": 0.006944444444444444
+        },
+        "LL": {
+          "observed_rows": 122,
+          "weighted_count": 122.0,
+          "weighted_share": 0.16944444444444445
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 7,
+          "weighted_count": 7.0,
+          "weighted_share": 0.009722222222222222
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115117,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.7938888888889,
+        "median": 180.7,
+        "sd_population": 6.172842978085444,
+        "min": 168.2,
+        "max": 201.8,
+        "p5": 171.3,
+        "p25": 176.1,
+        "p75": 184.2,
+        "p95": 192.4,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.41583333333334,
+        "median": 86.6,
+        "sd_population": 9.062880605034534,
+        "min": 64.3,
+        "max": 128.9,
+        "p5": 73.8,
+        "p25": 81.5,
+        "p75": 92.7,
+        "p95": 103.9,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.469444444444445,
+        "median": 26.0,
+        "sd_population": 4.890087447777757,
+        "min": 17,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6517798104198694,
+      "spearman_height_weight": 0.6331846993401675,
+      "age_adjusted_pearson": 0.6448272228398865,
+      "handedness": {
+        "RR": {
+          "observed_rows": 410,
+          "weighted_count": 410.0,
+          "weighted_share": 0.5694444444444444
+        },
+        "RL": {
+          "observed_rows": 169,
+          "weighted_count": 169.0,
+          "weighted_share": 0.23472222222222222
+        },
+        "RS": {
+          "observed_rows": 12,
+          "weighted_count": 12.0,
+          "weighted_share": 0.016666666666666666
+        },
+        "LL": {
+          "observed_rows": 126,
+          "weighted_count": 126.0,
+          "weighted_share": 0.175
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 3,
+          "weighted_count": 3.0,
+          "weighted_share": 0.004166666666666667
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115118,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.76180555555555,
+        "median": 180.6,
+        "sd_population": 6.2607595888085354,
+        "min": 165.0,
+        "max": 202.1,
+        "p5": 171.1,
+        "p25": 176.1,
+        "p75": 184.0,
+        "p95": 192.7,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.70708333333333,
+        "median": 86.7,
+        "sd_population": 9.14947584070925,
+        "min": 66.3,
+        "max": 126.8,
+        "p5": 73.9,
+        "p25": 81.3,
+        "p75": 92.8,
+        "p95": 104.3,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.504166666666666,
+        "median": 26.0,
+        "sd_population": 5.028804184672314,
+        "min": 16,
+        "max": 40,
+        "p5": 19.0,
+        "p25": 22.0,
+        "p75": 30.0,
+        "p95": 35.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.6654377188047723,
+      "spearman_height_weight": 0.652348031978946,
+      "age_adjusted_pearson": 0.656413080719216,
+      "handedness": {
+        "RR": {
+          "observed_rows": 399,
+          "weighted_count": 399.0,
+          "weighted_share": 0.5541666666666667
+        },
+        "RL": {
+          "observed_rows": 168,
+          "weighted_count": 168.0,
+          "weighted_share": 0.23333333333333334
+        },
+        "RS": {
+          "observed_rows": 7,
+          "weighted_count": 7.0,
+          "weighted_share": 0.009722222222222222
+        },
+        "LL": {
+          "observed_rows": 136,
+          "weighted_count": 136.0,
+          "weighted_share": 0.18888888888888888
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 10,
+          "weighted_count": 10.0,
+          "weighted_share": 0.013888888888888888
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    },
+    {
+      "seed": 115119,
+      "rows": 720,
+      "unique_people": 720,
+      "estimated_population_weight": 720.0,
+      "height_cm": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 180.7563888888889,
+        "median": 180.3,
+        "sd_population": 6.217476557065119,
+        "min": 168.3,
+        "max": 201.5,
+        "p5": 171.1,
+        "p25": 176.3,
+        "p75": 184.0,
+        "p95": 192.6,
+        "missing": 0
+      },
+      "weight_kg": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 87.22527777777778,
+        "median": 86.8,
+        "sd_population": 9.14656735432938,
+        "min": 64.8,
+        "max": 126.3,
+        "p5": 73.1,
+        "p25": 80.9,
+        "p75": 92.8,
+        "p95": 103.5,
+        "missing": 0
+      },
+      "age": {
+        "n": 720,
+        "weight_sum": 720.0,
+        "effective_n": 720.0,
+        "mean": 26.795833333333334,
+        "median": 27.0,
+        "sd_population": 4.815338268376261,
+        "min": 16,
+        "max": 40,
+        "p5": 20.0,
+        "p25": 23.0,
+        "p75": 30.0,
+        "p95": 34.0,
+        "missing": 0
+      },
+      "pearson_height_weight": 0.684227163730535,
+      "spearman_height_weight": 0.6744321765638758,
+      "age_adjusted_pearson": 0.6788444897339811,
+      "handedness": {
+        "RR": {
+          "observed_rows": 444,
+          "weighted_count": 444.0,
+          "weighted_share": 0.6166666666666667
+        },
+        "RL": {
+          "observed_rows": 152,
+          "weighted_count": 152.0,
+          "weighted_share": 0.2111111111111111
+        },
+        "RS": {
+          "observed_rows": 6,
+          "weighted_count": 6.0,
+          "weighted_share": 0.008333333333333333
+        },
+        "LL": {
+          "observed_rows": 112,
+          "weighted_count": 112.0,
+          "weighted_share": 0.15555555555555556
+        },
+        "LR": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        },
+        "LS": {
+          "observed_rows": 6,
+          "weighted_count": 6.0,
+          "weighted_share": 0.008333333333333333
+        },
+        "unclassified": {
+          "observed_rows": 0,
+          "weighted_count": 0,
+          "weighted_share": 0.0
+        }
+      },
+      "unclassified_hand_rows": 0
+    }
+  ],
+  "errors": {
+    "height_mean_error_cm": 0.06073604568038604,
+    "weight_mean_error_kg": 0.20424246248350642,
+    "maximum_sd_relative_error": 0.016852303277076208,
+    "height_weight_correlation_error": 0.03484986077680308,
+    "hand_total_variation": 0.007946884243907612,
+    "position_total_variation": 0.009940524672503871,
+    "age_wasserstein_years": 0.285
+  },
+  "gates": {
+    "height_mean_error_cm": 1.5,
+    "weight_mean_error_kg": 3.0,
+    "maximum_sd_relative_error": 0.35,
+    "height_weight_correlation_error": 0.15,
+    "hand_total_variation": 0.12,
+    "position_total_variation": 0.03,
+    "age_wasserstein_years": 1.5
+  },
+  "gates_passed": {
+    "height_mean_error_cm": true,
+    "weight_mean_error_kg": true,
+    "maximum_sd_relative_error": true,
+    "height_weight_correlation_error": true,
+    "hand_total_variation": true,
+    "position_total_variation": true,
+    "age_wasserstein_years": true
+  },
+  "same_data_fit_check_not_independent": true,
+  "reference_2025": {
+    "rows": 194,
+    "unique_people": 194,
+    "estimated_population_weight": 830.9165388100743,
+    "height_cm": {
+      "n": 194,
+      "weight_sum": 830.9165388100743,
+      "effective_n": 120.30232879163286,
+      "mean": 181.03016400103405,
+      "median": 180.0,
+      "sd_population": 5.910304686082641,
+      "min": 170.0,
+      "max": 201.0,
+      "p5": 171.0,
+      "p25": 177.0,
+      "p75": 184.0,
+      "p95": 193.0,
+      "missing": 0
+    },
+    "weight_kg": {
+      "n": 194,
+      "weight_sum": 830.9165388100743,
+      "effective_n": 120.30232879163286,
+      "mean": 87.42170401108046,
+      "median": 87.0,
+      "sd_population": 8.872094746998965,
+      "min": 68.0,
+      "max": 124.7,
+      "p5": 74.0,
+      "p25": 81.0,
+      "p75": 92.0,
+      "p95": 104.3,
+      "missing": 0
+    },
+    "age": {
+      "n": 194,
+      "weight_sum": 830.9165388100743,
+      "effective_n": 120.30232879163286,
+      "mean": 26.589994457192233,
+      "median": 26.0,
+      "sd_population": 4.617472277491297,
+      "min": 18,
+      "max": 39,
+      "p5": 20.0,
+      "p25": 23.0,
+      "p75": 29.0,
+      "p95": 35.0,
+      "missing": 0
+    },
+    "pearson_height_weight": 0.6425973087013593,
+    "spearman_height_weight": 0.6096707506932539,
+    "age_adjusted_pearson": 0.6586023913710487,
+    "handedness": {
+      "RR": {
+        "observed_rows": 119,
+        "weighted_count": 516.3120550180104,
+        "weighted_share": 0.621376553362871
+      },
+      "RL": {
+        "observed_rows": 54,
+        "weighted_count": 180.91529600325984,
+        "weighted_share": 0.21772980504436953
+      },
+      "RS": {
+        "observed_rows": 2,
+        "weighted_count": 9.760256410256408,
+        "weighted_share": 0.011746373979068607
+      },
+      "LL": {
+        "observed_rows": 18,
+        "weighted_count": 116.24420231450851,
+        "weighted_share": 0.13989877067674886
+      },
+      "LR": {
+        "observed_rows": 1,
+        "weighted_count": 7.68472906403941,
+        "weighted_share": 0.009248496936941986
+      },
+      "LS": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      },
+      "unclassified": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      }
+    },
+    "unclassified_hand_rows": 0
+  },
+  "disjoint_person_2025": {
+    "rows": 33,
+    "unique_people": 33,
+    "estimated_population_weight": 170.17685426061965,
+    "height_cm": {
+      "n": 33,
+      "weight_sum": 170.17685426061965,
+      "effective_n": 23.963435861017853,
+      "mean": 181.07059200761324,
+      "median": 181.0,
+      "sd_population": 4.896287189799362,
+      "min": 170.0,
+      "max": 193.0,
+      "p5": 174.0,
+      "p25": 178.0,
+      "p75": 186.0,
+      "p95": 188.0,
+      "missing": 0
+    },
+    "weight_kg": {
+      "n": 33,
+      "weight_sum": 170.17685426061965,
+      "effective_n": 23.963435861017853,
+      "mean": 83.85806611576173,
+      "median": 82.0,
+      "sd_population": 8.330408439939955,
+      "min": 69.0,
+      "max": 108.9,
+      "p5": 74.0,
+      "p25": 77.0,
+      "p75": 88.0,
+      "p95": 100.0,
+      "missing": 0
+    },
+    "age": {
+      "n": 33,
+      "weight_sum": 170.17685426061965,
+      "effective_n": 23.963435861017853,
+      "mean": 22.39530272931925,
+      "median": 22.0,
+      "sd_population": 2.8442381938252654,
+      "min": 18,
+      "max": 29,
+      "p5": 18.0,
+      "p25": 20.0,
+      "p75": 25.0,
+      "p95": 27.0,
+      "missing": 0
+    },
+    "pearson_height_weight": 0.4450342077380342,
+    "spearman_height_weight": 0.30306025757463295,
+    "age_adjusted_pearson": 0.46328859208067086,
+    "handedness": {
+      "RR": {
+        "observed_rows": 21,
+        "weighted_count": 108.98097117945538,
+        "weighted_share": 0.6403983176969237
+      },
+      "RL": {
+        "observed_rows": 8,
+        "weighted_count": 40.673770491803275,
+        "weighted_share": 0.23900882801319667
+      },
+      "RS": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      },
+      "LL": {
+        "observed_rows": 3,
+        "weighted_count": 12.83738352532157,
+        "weighted_share": 0.07543554369421816
+      },
+      "LR": {
+        "observed_rows": 1,
+        "weighted_count": 7.68472906403941,
+        "weighted_share": 0.04515731059566143
+      },
+      "LS": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      },
+      "unclassified": {
+        "observed_rows": 0,
+        "weighted_count": 0,
+        "weighted_share": 0.0
+      }
+    },
+    "unclassified_hand_rows": 0
+  },
+  "disjoint_person_2025_note": "no training person overlap, but physical values all observed at retrieval and small nonrandom profile coverage; not temporal predictive validation",
+  "per_position": {
+    "P": {
+      "target": {
+        "rows": 169,
+        "unique_people": 71,
+        "estimated_population_weight": 1670.0,
+        "height_cm": {
+          "n": 169,
+          "weight_sum": 1670.0,
+          "effective_n": 151.18717421829692,
+          "mean": 181.87264844091095,
+          "median": 182.0,
+          "sd_population": 6.266579507899605,
+          "min": 170.0,
+          "max": 198.1,
+          "p5": 172.0,
+          "p25": 177.0,
+          "p75": 184.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 169,
+          "weight_sum": 1670.0,
+          "effective_n": 151.18717421829692,
+          "mean": 89.12693499158456,
+          "median": 88.0,
+          "sd_population": 8.164557932725003,
+          "min": 70.0,
+          "max": 113.0,
+          "p5": 79.0,
+          "p25": 83.0,
+          "p75": 95.0,
+          "p95": 104.3,
+          "missing": 0
+        },
+        "age": {
+          "n": 169,
+          "weight_sum": 1670.0,
+          "effective_n": 151.18717421829692,
+          "mean": 25.874205661866032,
+          "median": 25.0,
+          "sd_population": 4.4356858621531705,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 29.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.7317559296524752,
+        "spearman_height_weight": 0.7057488619317195,
+        "age_adjusted_pearson": 0.7025058913639617,
+        "handedness": {
+          "RR": {
+            "observed_rows": 105,
+            "weighted_count": 1040.3335260191955,
+            "weighted_share": 0.6229542071971234
+          },
+          "RL": {
+            "observed_rows": 13,
+            "weighted_count": 91.8189658510069,
+            "weighted_share": 0.054981416677249664
+          },
+          "RS": {
+            "observed_rows": 2,
+            "weighted_count": 21.01845270477684,
+            "weighted_share": 0.012585899823219672
+          },
+          "LL": {
+            "observed_rows": 47,
+            "weighted_count": 487.4007670081586,
+            "weighted_share": 0.2918567467114724
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 2,
+            "weighted_count": 29.428288416861367,
+            "weighted_share": 0.01762172959093496
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "generated": {
+        "rows": 7202,
+        "unique_people": 7202,
+        "estimated_population_weight": 7202.0,
+        "height_cm": {
+          "n": 7202,
+          "weight_sum": 7202.0,
+          "effective_n": 7202.0,
+          "mean": 181.87136906414887,
+          "median": 181.9,
+          "sd_population": 6.3917964586679545,
+          "min": 169.6,
+          "max": 199.3,
+          "p5": 171.7,
+          "p25": 176.8,
+          "p75": 184.6,
+          "p95": 193.4,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 7202,
+          "weight_sum": 7202.0,
+          "effective_n": 7202.0,
+          "mean": 89.10190224937517,
+          "median": 88.1,
+          "sd_population": 8.094801077871276,
+          "min": 68.8,
+          "max": 115.0,
+          "p5": 78.2,
+          "p25": 83.2,
+          "p75": 94.1,
+          "p95": 104.1,
+          "missing": 0
+        },
+        "age": {
+          "n": 7202,
+          "weight_sum": 7202.0,
+          "effective_n": 7202.0,
+          "mean": 25.920161066370454,
+          "median": 26.0,
+          "sd_population": 4.6794660457538715,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 22.0,
+          "p75": 29.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6902447887311713,
+        "spearman_height_weight": 0.6634893677139032,
+        "age_adjusted_pearson": 0.6595109310201148,
+        "handedness": {
+          "RR": {
+            "observed_rows": 4527,
+            "weighted_count": 4527.0,
+            "weighted_share": 0.6285753957234101
+          },
+          "RL": {
+            "observed_rows": 397,
+            "weighted_count": 397.0,
+            "weighted_share": 0.0551235767842266
+          },
+          "RS": {
+            "observed_rows": 63,
+            "weighted_count": 63.0,
+            "weighted_share": 0.008747570119411274
+          },
+          "LL": {
+            "observed_rows": 2114,
+            "weighted_count": 2114.0,
+            "weighted_share": 0.29352957511802275
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 101,
+            "weighted_count": 101.0,
+            "weighted_share": 0.014023882254929187
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "C": {
+      "target": {
+        "rows": 207,
+        "unique_people": 67,
+        "estimated_population_weight": 321.0000000000003,
+        "height_cm": {
+          "n": 207,
+          "weight_sum": 321.0000000000003,
+          "effective_n": 200.7446035536233,
+          "mean": 178.05549938385673,
+          "median": 178.0,
+          "sd_population": 3.8124416356592787,
+          "min": 169.0,
+          "max": 190.0,
+          "p5": 173.0,
+          "p25": 175.0,
+          "p75": 180.0,
+          "p95": 185.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 207,
+          "weight_sum": 321.0000000000003,
+          "effective_n": 200.7446035536233,
+          "mean": 86.7240553309477,
+          "median": 86.0,
+          "sd_population": 5.090715004720255,
+          "min": 75.0,
+          "max": 99.0,
+          "p5": 79.0,
+          "p25": 83.0,
+          "p75": 90.0,
+          "p95": 96.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 207,
+          "weight_sum": 321.0000000000003,
+          "effective_n": 200.7446035536233,
+          "mean": 26.525609908834163,
+          "median": 26.0,
+          "sd_population": 4.428411315645672,
+          "min": 18,
+          "max": 36,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 30.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.45124451681899885,
+        "spearman_height_weight": 0.5130272211339756,
+        "age_adjusted_pearson": 0.4515483751575202,
+        "handedness": {
+          "RR": {
+            "observed_rows": 157,
+            "weighted_count": 243.47071824954597,
+            "weighted_share": 0.7584757577867464
+          },
+          "RL": {
+            "observed_rows": 50,
+            "weighted_count": 77.52928175045453,
+            "weighted_share": 0.2415242422132536
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "generated": {
+        "rows": 1432,
+        "unique_people": 1432,
+        "estimated_population_weight": 1432.0,
+        "height_cm": {
+          "n": 1432,
+          "weight_sum": 1432.0,
+          "effective_n": 1432.0,
+          "mean": 178.05628491620112,
+          "median": 178.2,
+          "sd_population": 3.9294141669413105,
+          "min": 167.6,
+          "max": 192.9,
+          "p5": 172.2,
+          "p25": 175.0,
+          "p75": 180.9,
+          "p95": 184.3,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 1432,
+          "weight_sum": 1432.0,
+          "effective_n": 1432.0,
+          "mean": 86.42709497206704,
+          "median": 86.4,
+          "sd_population": 5.639591485158471,
+          "min": 74.5,
+          "max": 113.6,
+          "p5": 77.0,
+          "p25": 82.3,
+          "p75": 89.5,
+          "p95": 96.4,
+          "missing": 0
+        },
+        "age": {
+          "n": 1432,
+          "weight_sum": 1432.0,
+          "effective_n": 1432.0,
+          "mean": 26.479748603351954,
+          "median": 26.0,
+          "sd_population": 4.701376589493876,
+          "min": 18,
+          "max": 40,
+          "p5": 19.0,
+          "p25": 23.0,
+          "p75": 30.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.44187814540034037,
+        "spearman_height_weight": 0.456587420530448,
+        "age_adjusted_pearson": 0.43496855997071016,
+        "handedness": {
+          "RR": {
+            "observed_rows": 1078,
+            "weighted_count": 1078.0,
+            "weighted_share": 0.7527932960893855
+          },
+          "RL": {
+            "observed_rows": 352,
+            "weighted_count": 352.0,
+            "weighted_share": 0.24581005586592178
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 2,
+            "weighted_count": 2.0,
+            "weighted_share": 0.0013966480446927375
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "IF": {
+      "target": {
+        "rows": 191,
+        "unique_people": 72,
+        "estimated_population_weight": 731.0,
+        "height_cm": {
+          "n": 191,
+          "weight_sum": 731.0,
+          "effective_n": 169.93030201556334,
+          "mean": 178.88043126135454,
+          "median": 179.0,
+          "sd_population": 6.088456051786994,
+          "min": 167.0,
+          "max": 201.0,
+          "p5": 170.0,
+          "p25": 175.0,
+          "p75": 182.0,
+          "p95": 189.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 191,
+          "weight_sum": 731.0,
+          "effective_n": 169.93030201556334,
+          "mean": 85.698179973484,
+          "median": 84.0,
+          "sd_population": 11.40013754688157,
+          "min": 68.0,
+          "max": 125.0,
+          "p5": 70.0,
+          "p25": 77.1,
+          "p75": 90.0,
+          "p95": 108.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 191,
+          "weight_sum": 731.0,
+          "effective_n": 169.93030201556334,
+          "mean": 27.50238777647039,
+          "median": 28.0,
+          "sd_population": 5.206049168652398,
+          "min": 16,
+          "max": 40,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 31.0,
+          "p95": 35.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6768125439314736,
+        "spearman_height_weight": 0.7058009282479725,
+        "age_adjusted_pearson": 0.681179935092138,
+        "handedness": {
+          "RR": {
+            "observed_rows": 100,
+            "weighted_count": 382.76157546270576,
+            "weighted_share": 0.523613646323811
+          },
+          "RL": {
+            "observed_rows": 81,
+            "weighted_count": 308.20435577100875,
+            "weighted_share": 0.42162018573325416
+          },
+          "RS": {
+            "observed_rows": 7,
+            "weighted_count": 31.527572728278237,
+            "weighted_share": 0.043129374457288976
+          },
+          "LL": {
+            "observed_rows": 3,
+            "weighted_count": 8.506496038007146,
+            "weighted_share": 0.011636793485645893
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "generated": {
+        "rows": 3319,
+        "unique_people": 3319,
+        "estimated_population_weight": 3319.0,
+        "height_cm": {
+          "n": 3319,
+          "weight_sum": 3319.0,
+          "effective_n": 3319.0,
+          "mean": 178.86884603796324,
+          "median": 178.7,
+          "sd_population": 6.117758705759797,
+          "min": 164.9,
+          "max": 202.3,
+          "p5": 170.2,
+          "p25": 175.2,
+          "p75": 181.9,
+          "p95": 188.7,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 3319,
+          "weight_sum": 3319.0,
+          "effective_n": 3319.0,
+          "mean": 85.5121120819524,
+          "median": 83.4,
+          "sd_population": 11.351199751224454,
+          "min": 64.2,
+          "max": 129.2,
+          "p5": 69.3,
+          "p25": 77.5,
+          "p75": 91.6,
+          "p95": 109.1,
+          "missing": 0
+        },
+        "age": {
+          "n": 3319,
+          "weight_sum": 3319.0,
+          "effective_n": 3319.0,
+          "mean": 27.67490207893944,
+          "median": 28.0,
+          "sd_population": 5.275541732125004,
+          "min": 16,
+          "max": 40,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 32.0,
+          "p95": 36.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.6698570236661987,
+        "spearman_height_weight": 0.6689253807859911,
+        "age_adjusted_pearson": 0.6712537239706621,
+        "handedness": {
+          "RR": {
+            "observed_rows": 1731,
+            "weighted_count": 1731.0,
+            "weighted_share": 0.5215426333232901
+          },
+          "RL": {
+            "observed_rows": 1429,
+            "weighted_count": 1429.0,
+            "weighted_share": 0.43055137089484785
+          },
+          "RS": {
+            "observed_rows": 118,
+            "weighted_count": 118.0,
+            "weighted_share": 0.03555287737270262
+          },
+          "LL": {
+            "observed_rows": 41,
+            "weighted_count": 41.0,
+            "weighted_share": 0.012353118409159385
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    },
+    "OF": {
+      "target": {
+        "rows": 187,
+        "unique_people": 71,
+        "estimated_population_weight": 552.0000000000002,
+        "height_cm": {
+          "n": 187,
+          "weight_sum": 552.0000000000002,
+          "effective_n": 168.12186878198395,
+          "mean": 181.28086415896001,
+          "median": 181.0,
+          "sd_population": 5.933433275299857,
+          "min": 170.0,
+          "max": 196.0,
+          "p5": 172.0,
+          "p25": 177.0,
+          "p75": 185.0,
+          "p95": 193.0,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 187,
+          "weight_sum": 552.0000000000002,
+          "effective_n": 168.12186878198395,
+          "mean": 86.77782353650639,
+          "median": 86.0,
+          "sd_population": 9.573879574844005,
+          "min": 70.0,
+          "max": 124.7,
+          "p5": 73.0,
+          "p25": 81.0,
+          "p75": 90.0,
+          "p95": 104.0,
+          "missing": 0
+        },
+        "age": {
+          "n": 187,
+          "weight_sum": 552.0000000000002,
+          "effective_n": 168.12186878198395,
+          "mean": 26.642386827795935,
+          "median": 27.0,
+          "sd_population": 4.518593915895309,
+          "min": 16,
+          "max": 38,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 30.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.8242407665849636,
+        "spearman_height_weight": 0.8232214274147666,
+        "age_adjusted_pearson": 0.8265360114981513,
+        "handedness": {
+          "RR": {
+            "observed_rows": 91,
+            "weighted_count": 261.7892094254522,
+            "weighted_share": 0.47425581417654356
+          },
+          "RL": {
+            "observed_rows": 69,
+            "weighted_count": 209.88846427964336,
+            "weighted_share": 0.3802327251442812
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 27,
+            "weighted_count": 80.32232629490477,
+            "weighted_share": 0.14551146067917523
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      },
+      "generated": {
+        "rows": 2447,
+        "unique_people": 2447,
+        "estimated_population_weight": 2447.0,
+        "height_cm": {
+          "n": 2447,
+          "weight_sum": 2447.0,
+          "effective_n": 2447.0,
+          "mean": 181.1055169595423,
+          "median": 180.8,
+          "sd_population": 6.118121285106655,
+          "min": 169.5,
+          "max": 199.0,
+          "p5": 171.5,
+          "p25": 176.4,
+          "p75": 185.0,
+          "p95": 192.8,
+          "missing": 0
+        },
+        "weight_kg": {
+          "n": 2447,
+          "weight_sum": 2447.0,
+          "effective_n": 2447.0,
+          "mean": 86.25941969758888,
+          "median": 85.2,
+          "sd_population": 9.463371418301385,
+          "min": 69.5,
+          "max": 126.6,
+          "p5": 70.9,
+          "p25": 80.6,
+          "p75": 92.4,
+          "p95": 102.8,
+          "missing": 0
+        },
+        "age": {
+          "n": 2447,
+          "weight_sum": 2447.0,
+          "effective_n": 2447.0,
+          "mean": 26.656722517368205,
+          "median": 26.0,
+          "sd_population": 4.718891720966794,
+          "min": 16,
+          "max": 40,
+          "p5": 20.0,
+          "p25": 23.0,
+          "p75": 30.0,
+          "p95": 34.0,
+          "missing": 0
+        },
+        "pearson_height_weight": 0.7500296735173647,
+        "spearman_height_weight": 0.7412845425620335,
+        "age_adjusted_pearson": 0.7512992558038405,
+        "handedness": {
+          "RR": {
+            "observed_rows": 1132,
+            "weighted_count": 1132.0,
+            "weighted_share": 0.46260727421332243
+          },
+          "RL": {
+            "observed_rows": 960,
+            "weighted_count": 960.0,
+            "weighted_share": 0.3923171230077646
+          },
+          "RS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LL": {
+            "observed_rows": 355,
+            "weighted_count": 355.0,
+            "weighted_share": 0.14507560277891296
+          },
+          "LR": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "LS": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          },
+          "unclassified": {
+            "observed_rows": 0,
+            "weighted_count": 0,
+            "weighted_share": 0.0
+          }
+        },
+        "unclassified_hand_rows": 0
+      }
+    }
+  },
+  "field_wasserstein": {
+    "height_cm": 0.3584999999999988,
+    "weight_kg": 0.6144999999999995,
+    "age": 0.285
+  },
+  "uncertainty": "Across-seed variation is generator Monte Carlo variability; not uncertainty of all NPB players."
+}

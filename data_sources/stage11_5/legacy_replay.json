@@ -1,0 +1,11 @@
+{
+  "old_players": 720,
+  "games_replayed": 1716,
+  "seasons_rebuilt": 2,
+  "rankings_and_player_totals_equal": true,
+  "old_database_sha256_before": "04d675253155fa4f437d7d3fc12a02d36c1ab81b4a194dd856b83b9bcc4fe0d2",
+  "old_database_sha256_after": "04d675253155fa4f437d7d3fc12a02d36c1ab81b4a194dd856b83b9bcc4fe0d2",
+  "old_snapshot_all_payload_hashes_equal": true,
+  "legacy_physical_values_not_auto_added": true,
+  "probability_model_required_for_replay": false
+}

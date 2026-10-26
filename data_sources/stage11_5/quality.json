@@ -1,0 +1,43 @@
+{
+  "extreme_value_audits": [
+    {
+      "field": "height_cm",
+      "extreme": "minimum",
+      "value": 167.0,
+      "source_url": "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B0%BE%E6%AD%A9%E7%9C%9F",
+      "revision_link": "/w/index.php?title=%E8%A5%BF%E5%B0%BE%E6%AD%A9%E7%9C%9F&oldid=110902883",
+      "decision": "retained; value parsed from source infobox units, not a verified annual physical measurement"
+    },
+    {
+      "field": "height_cm",
+      "extreme": "maximum",
+      "value": 201.0,
+      "source_url": "https://ja.wikipedia.org/wiki/%E7%A7%8B%E5%BA%83%E5%84%AA%E4%BA%BA",
+      "revision_link": "/w/index.php?title=%E7%A7%8B%E5%BA%83%E5%84%AA%E4%BA%BA&oldid=111530191",
+      "decision": "retained; value parsed from source infobox units, not a verified annual physical measurement"
+    },
+    {
+      "field": "weight_kg",
+      "extreme": "minimum",
+      "value": 66.0,
+      "source_url": "https://ja.wikipedia.org/wiki/%E5%AE%87%E9%83%BD%E5%AE%AE%E8%91%B5%E6%98%9F",
+      "revision_link": "/w/index.php?title=%E5%AE%87%E9%83%BD%E5%AE%AE%E8%91%B5%E6%98%9F&oldid=111513558",
+      "decision": "retained; value parsed from source infobox units, not a verified annual physical measurement"
+    },
+    {
+      "field": "weight_kg",
+      "extreme": "maximum",
+      "value": 125.0,
+      "source_url": "https://ja.wikipedia.org/wiki/%E3%83%98%E3%82%B9%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%AE%E3%83%A9%E3%83%BC",
+      "revision_link": "/w/index.php?title=%E3%83%98%E3%82%B9%E3%82%B9%E3%83%BB%E3%82%A2%E3%82%AE%E3%83%A9%E3%83%BC&oldid=109875136",
+      "decision": "retained; value parsed from source infobox units, not a verified annual physical measurement"
+    }
+  ],
+  "extremes_mechanically_deleted": 0,
+  "missing_profiles_not_replaced": true,
+  "nationality_not_inferred_from_name_or_birthplace": true,
+  "unknown_hands_not_converted_to_R": true,
+  "registration_definition": "separate Wikipedia season navbox sections; primary wins in a promotion year; not a reconstructed NPB official transaction ledger",
+  "multiple_positions": "preserve membership labels; conflicting position in a player-year quarantined; private profile also retains full current position string",
+  "measurement_differences": "Wikipedia may quote overseas/rounded dimensions and later weights; no official same-date cross-source concordance dataset was acquired"
+}

@@ -1,0 +1,40 @@
+{
+  "base_commit": "522aa7507d0d6330a0ab45eba84959f7baf5128c",
+  "old_tracked_files_unchanged": 433,
+  "all_old_tracked_files_preserved": true,
+  "raw_documents_sha256_verified": 427,
+  "model_parameter_sha256": "4f4de8468f6b8022dcc0388fda9b31991b089699dab71d4c7aa3abda174261c5",
+  "implementation_sha256": "1c2b1c953130858ce4773eba32d4954d68a09ede4da7e5baf0b3228886e734e9",
+  "independent_directory": "/tmp/baseball-stage11-5-independent-tiagk1a2",
+  "independent_standard_library_run": {
+    "players_regenerated_exactly": 720,
+    "profile_state_talent_and_body_equal": true,
+    "saved_games_replayed": 100,
+    "public_dtos_equal": true,
+    "third_party_site_packages_required": false,
+    "probability_model_files_present_or_loaded": false
+  },
+  "new_saved_databases_unchanged_by_replay": true,
+  "private_databases_in_public_directory": false,
+  "old_history_replay": {
+    "old_players": 720,
+    "games_replayed": 1716,
+    "seasons_rebuilt": 2,
+    "rankings_and_player_totals_equal": true,
+    "old_database_sha256_before": "04d675253155fa4f437d7d3fc12a02d36c1ab81b4a194dd856b83b9bcc4fe0d2",
+    "old_database_sha256_after": "04d675253155fa4f437d7d3fc12a02d36c1ab81b4a194dd856b83b9bcc4fe0d2",
+    "old_snapshot_all_payload_hashes_equal": true,
+    "legacy_physical_values_not_auto_added": true,
+    "probability_model_required_for_replay": false
+  },
+  "tests": {
+    "passed": 593,
+    "old_retained": 567,
+    "new": 26,
+    "elapsed_seconds": 19.97
+  },
+  "python": "3.12.14",
+  "sqlite": "3.53.1",
+  "windows_native_tested": false,
+  "scope": "experimental sampled listed profiles, not official NPB census or calibrated rookie/body-ability/platoon model"
+}
